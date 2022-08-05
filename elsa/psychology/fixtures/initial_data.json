@@ -1,0 +1,283 @@
+[
+    {
+        "model": "psychology.BorghEffortScale",
+        "pk": "cdd2f7aa-5fe1-4509-ba60-0037a314b95c",
+        "fields": {
+            "description": "Se puede hablar y respirar normalmente.",
+            "intensity": "E_S",
+            "lower_rpe": 0,
+            "higher_rpe": 1,
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.BorghEffortScale",
+        "pk": "846c0a5e-7af7-4a98-971b-a456cc7c6c6f",
+        "fields": {
+            "description": "Se puede hablar pero cuesta más, hay oxigeno pero pequeña dificultad para respirar",
+            "intensity": "V_S",
+            "lower_rpe": 2,
+            "higher_rpe": 2,
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.BorghEffortScale",
+        "pk": "f91b1212-5c09-489a-9005-400065a5b3f7",
+        "fields": {
+            "description": "El habla se comienza a entrecortar o dificultar. Se pueden completar 1 o 2 frases, falta el aire moderadamente. ",
+            "intensity": "S",
+            "lower_rpe": 3,
+            "higher_rpe": 3,
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.BorghEffortScale",
+        "pk": "4cc128ce-202e-45b5-9bc3-78bcc760d697",
+        "fields": {
+            "description": "Frases rotas. Respiración débil.",
+            "intensity": "S_H",
+            "lower_rpe": 4,
+            "higher_rpe": 5,
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.BorghEffortScale",
+        "pk": "df1121c0-b8e4-4118-b879-589497e5f7f6",
+        "fields": {
+            "description": "Frases entrecortadas. Respiración entrecortada.",
+            "intensity": "H",
+            "lower_rpe": 6,
+            "higher_rpe": 7,
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.BorghEffortScale",
+        "pk": "be211821-89b6-4647-8e71-0bc8cd395e98",
+        "fields": {
+            "description": "No se pude hablar. Dificultad para respirar alta.",
+            "intensity": "E_H",
+            "lower_rpe": 8,
+            "higher_rpe": 10,
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.PsychologicalTechnique",
+        "pk": "0d1db354-5d07-4b0c-bbb3-dd5a89a3b829",
+        "fields": {
+            "title": "Técnicas de respiración",
+            "type": "RE",
+            "description": "La relajación es una de las estrategias psicológicas de intervención mas utilizadas en la practica deportiva actual, dentro de ellas se encuentran las tecnicas basadas en el control de la respiración.\nLas técnicas basadas en el control de la respiración se inspiran en los ejercicios respiratorios del Yoga y el budismo Zen. Su objetivo es facilitar el control voluntario de la respiración y automatizar ese control para que pueda ser mantenido hasta en las situaciones de mayor estrés. Son de fácil aprendizaje y se pueden utilizar en cualquier situación para controlar activación fisiológica.\nLas condiciones de vida actuales y las situaciones de estrés facilitan patrones respiratorios caracterizados por un ritmo acelerado y una escasa intensidad, con una respiración parcial y más superficial, lo que provoca menor oxigenación de los tejidos, mayor trabajo cardíaco y una mayor intoxicación del organismo, con la consecuente fatiga física, ansiedad, depresión, etc. De aquí que un control más adecuado de la respiración es una de las estrategias más sencillas para hacer frente a las situaciones de estrés y favorecer al organismo, modulando la activación fisiológica excesiva.\nDebemos centrar toda la atención en el acto respiratorio que siempre debe ser por la nariz. Tanto la inspiración como la espiración serán silenciosas, lentas, continuas y cómodas. Así es la respiración ideal.\nTecnicas de respiración diafragmatica o abdominal:\nhttps://www.youtube.com/watch?v=-P7zg5LV1sw\nhttps://www.youtube.com/watch?v=bL3SBo5ZSUU\nhttps://www.youtube.com/watch?v=x_wfU0vLDss\nhttps://www.youtube.com/watch?v=8VDoaUBHiN0\nLa respiración diafragmática es un tipo de respiración relajante que usa el diafragma. El diafragma es el músculo que se encuentra debajo de las costillas y arriba del estómago. Con este tipo de respiración, el diafragma ocasiona que el estómago, en vez del pecho, suba y baje.\nTecnicas de respiración completa\nhttps://www.youtube.com/watch?v=YIU0A76DUvY\nhttps://www.youtube.com/watch?v=RgGvHdB4gTQ\nhttps://www.youtube.com/watch?v=Z6Em_FNqV3Y\nhttps://www.youtube.com/watch?v=V_B8KZfttOI\nLa respiración completa es la unificación de las tres respiraciones (Abdominal o Diafragmatica, Intercostal y Clavicular) y se produce con el total llenado de los pulmones. Hay que comenzar por una inspiración lenta intentando cubrir sus tres fases: primero, vaciar bien los pulmones con unaprofunda espiración. Luego, llenar los pulmones con el descenso del diafragma (abdominal) para dilatar las costillas y que entre todo el aire que pueda (intercostal) y por último, levantar las clavículas (clavicular).",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.PsychologicalTechnique",
+        "pk": "3e34a9a7-8042-4a8a-a670-a4004e1e4e1c",
+        "fields": {
+            "type": "JA",
+            "title": "Técnica de relajación progresiva de Jacobson (1964)",
+            "description": "La técnica de relajación de Jacobson es un método para relajarse que consiste en tensar y relajar distintos grupos musculares, con el fin de provocar relajación. Ya que la tensión muscular acompaña a la ansiedad, uno puede reducir la ansiedad aprendiendo a relajar la tensión muscular.\nEste tipo de práctica requiere una fase de entrenamiento para lograr mejores sensaciones de relajación, y sobre todo, de consciencia corporal. Al principio puede parecer muy compleja, pero con la práctica, al final se realizará de manera automática y sistemática.\nEl dominio de esta técnica puede ser muy útil para disminuir los efectos de la activación fisiológica derivada de una alta carga de estrés, ansiedad y tensión constante.\nPara obtener unos buenos resultados, la técnica debería practicarse durante al menos siete semanas. En este tiempo, la persona tendrá que aprender a tensar y relajar dieciséis grupos musculares de todo el cuerpo.\nLa etapa de tensión se realiza para que el practicante aprenda a identificar las sensaciones asociadas al estrés o ansiedad. De esta forma, cuando perciba esas sensaciones en su cuerpo, sabrá que tiene que relajarse. Al final de la etapa de aprendizaje y entrenamiento, el usuario será capaz de relajar su musculatura en cualquier momento sin necesidad de tensarla previamente.\nRelajación progresiva Jacobson paso a paso:\nEn posición sentado (con los dos pies en el piso) o acostado, con la espalda recta y las manos sobre las piernas en una posición relajada.\n1.Inhala profundamente llevando el aire a tu abdomen. Al exhalar, deja que tu cuerpo empiece a relajarse.\n2.Cierra los puños. Aprieta los antebrazos, los biceps y los pectorales. Mantén ese tensión durante 7 segundos y afloja. Nota cómo brazos y pecho se relajan.\n3.Arruga la frente y mantenla así durante 7 segundos. A la vez rota la cabeza hacia un lado y luego hacia el otro. Afloja y siente la relajación en la zona.\n4.Arruga la cara. Frunce el entrecejo, los ojos, los labios, aprieta la mandíbula y encorva los hombros. Mantén la posición 7 segundos y afloja, centrándote en las sensaciones que la relajación te produce.\n5Inspira profundamente y arquea la espalda suavemente. Mantén la postura 7 segundos y relaja.\n6.Inhala profundamente y saca el abdomen, dejando que se hinche todo lo posible, mantén la posición 7 segundos y suelta. Fíjate bien en lo que notas en abdomen y espalda al relajar.\n7.Flexiona los pies y los dedos de los pies. Tensa los muslos, las pantorrillas y los glúteos. Mantén la tensión durante 7 segundos y afloja.\n8.Para terminar, estira los pies como una bailarina, a la vez que tensas muslo, glúteos y pantorrillas de nuevo. Pasados 7 segundos suelta y siente la relajación.\nDespues, se repasan mentalmente todos los grupos musculares que se han tensado y destensado, para comprobar si están realmente relajados tras los ejercicios, y si es necesario volver a realizarlos.\nEsta última fase es de relajación y la persona debe tomar conciencia del estado de calma tras haber ejecutado los ejercicios.\nPara facilitar esto, se pueden visualizar a través de la imaginación escenas agradables o distintas sensaciones positivas (imaginarse tumbado en la playa o degustando un buen plato de comida).\nAudio:\nhttps://www.youtube.com/watch?v=ThvYLXeXdf8\nhttps://www.youtube.com/watch?v=vAaRM_wV5W8",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.PsychologicalTechnique",
+        "pk": "951bc065-c165-4364-8784-8527fc4fb498",
+        "fields": {
+            "type": "SZ",
+            "title": "Entrenamiento Autógeno de Schultz",
+            "description": "El entrenamiento autógeno consiste en concentrarse en las sensaciones físicas mediante la ejecución de 6 ejercicios que se deben aprender progresivamente. Con unas sencillas instrucciones (autosugestión), la persona consigue que sus extremidades, y el resto del cuerpo, se relajen a través de sensaciones de calor, peso, etc. De este modo, es el convencimiento interno del propio individuo el que facilita que se logre una sensación de relajación general.\nRepetir 6 veces la frase:'El brazo derecho es muy pesado'\nRepetir 1 vez la frase:'Estoy muy tranquilo'\nRepetir 6 veces la frase: 'El brazo derecho está muy caliente'\nRepetir 1 vez la frase: 'Estoy muy tranquilo'\nRepetir 6 veces la frase: 'El pulso es tranquilo y regular'\nRepetir 1 vez la frase: 'Estoy muy tranquilo'\nRepetir 6 veces la frase: 'Respiración muy tranquila'\nRepetir 1 vez la frase: 'Estoy respirando'\nRepetir 1 vez la frase: 'Estoy muy tranquilo'\nRepetir 6 veces la frase: 'El plexus solar es como una corriente de calor'\nRepetir 1 vez la frase: 'Estoy muy tranquilo'\nRepetir 6 veces la frase: 'La frente está agradablemente fresca'\nRepetir 1 vez la frase: 'Estoy muy tranquilo'\nNo debe terminar este proceso y sin más incorporarse a la actividad que le requiera, el procedimiento que le aconsejamos es el siguiente:\n1. Estírese, como cuando se despierta.\n2. Realice varias respiraciones profundas.\n3. Por último, abra los ojos.\nAudios:\nhttps://www.youtube.com/watch?v=tu6STHiYJuY\nhttps://www.youtube.com/watch?v=Lm6EXhzmraQ\nhttps://www.youtube.com/watch?v=ioK25uGq5jQ",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.PsychologicalTechnique",
+        "pk": "a2c657c3-064d-4938-97cb-55f92fe2a34f",
+        "fields": {
+            "type": "HA",
+            "title": "Técnica de Relajación Pasiva (Schwartz y Haynes, 1974)",
+            "description": "Con este método de relajación, la persona recibe instrucciones verbales que le instan a ir relajando cada grupo muscular de forma progresiva.\nAudios:\nhttps://www.youtube.com/watch?v=8C78IOs6F-8",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.PsychologicalTechnique",
+        "pk": "16f4f7aa-31a7-4ec1-928b-38b249ff5655",
+        "fields": {
+            "type": "VI",
+            "title": "LA VISUALIZACIÓN EN EL DEPORTE: LO QUE CREES, CREAS",
+            "description": "La visualización es una de las técnicas más utilizadas en psicología deportiva por los deportistas y entrenadores para mejorar el rendimiento, es muy práctica y sencilla. La técnica en sí, consiste en verse a uno mismo realizando una acción como si estuviera ocurriendo en realidad: imaginando detalles, olores, sensaciones visuales y kinestésicas…\nA través de la visualización el deportista puede perfeccionar movimientos técnicos, entrenar ciertas habilidades mentales, planificar y anticipar dificultades, entrenar ciertos aspectos mientras está lesionado, y se ha demostrado que es muy útil también para la recuperación de esa lesión.\nMuchos deportistas son capaces de verse a sí mismos en la meta, levantando la copa o celebrando la victoria, y eso les acerca a conseguirlo.\nSi nos vemos incapaces de correr un gran fondo, es muy probable que no lo consigamos nunca porque ni siquiera lo intentaremos. Pero si nos vemos con capacidades, y dedicamos tiempo a aprender, practicar y entrenar duro, las posibilidades de conseguir correr ese gran fondo aumentan.\n¿Cómo funciona la visualización en el deporte?\nEl cerebro responde a las imágenes que tenemos en el recuerdo y las que creamos como si fueran reales, si están bien estructuradas y planteadas.\nEl cerebro responde a las imágenes que tenemos en el recuerdo y las que creamos como si fueran reales, si están bien estructuradas y planteadas.\nUtilizar detalles: olores, sonidos, colores…\nCrear sensaciones.\nVisualizar movimientos paso a paso.\nActivarnos o relajarnos, según cada caso.\nUtilizar imágenes y pensamientos positivos.\nPracticar, practicar y practicar.\nSi conseguimos crear esas sensaciones nos trasladaremos a un momento concreto como nuestra rutina de preparación, al evento en si o al momento de premiación; y será como si la estuviéramos viviendo.\nDe este modo podemos, no solamente practicar, sino planificar, practicar, sentirnos seguros y evitar así posibles errores o situaciones que generan nervios y dudas.\nEn la psicología del deporte siempre nos enfocamos en lo que queremos que ocurra, y no en aquello que queremos evitar. De este modo es mucho más efectivo todo lo que hacemos. Todo puede ocurrir dos veces: primero cuando lo imaginamos, y después cuando lo hacemos real. Así que mejor que sea algo positivo.\nPero hay que tener en cuenta, que la visión por sí sola no sirve. Tener una visión es el primer paso, pero el siguiente es ponerte en movimiento. Y como todo en el deporte, hay que entrenar y practicar mucho para dominar esta técnica y pronto veremos resultados y mejoras en nuestro rendimiento.\nhttps://www.youtube.com/watch?v=rXrOnSMXQVc",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "876474fa-a17b-46a8-beb5-4a54bc461494",
+        "fields": {
+            "number": 1,
+            "title": "Estado de ánimo ansioso.",
+            "description": "Preocupaciones, anticipación de lo peor, aprensión (anticipación temerosa), irritabilidad.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "77e9c4b8-b785-422c-b92b-bc0f5c59dec4",
+        "fields": {
+            "number": 2,
+            "title": "Tensión.",
+            "description": "Sensación de tensión, imposibilidad de relajarse, reacciones con sobresalto, llanto fácil, temblores, sensación de inquietud.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "c14480a9-7601-4e74-b614-2ee84cd0dc18",
+        "fields": {
+            "number": 3,
+            "title": "Temores.",
+            "description": "A la oscuridad, a los desconocidos, a quedarse solo, a los animales grandes, al tráfico, a las multitudes.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "f51a7a53-2b8a-4de7-b728-6677f181ed0b",
+        "fields": {
+            "number": 4,
+            "title": "Insomnio.",
+            "description": "Dificultad para dormirse, sueño interrumpido, sueño insatisfactorio y cansancio al despertar.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "7b2dd12c-af5a-4020-aa37-a963cd857cc4",
+        "fields": {
+            "number": 5,
+            "title": "Intelectual (cognitivo)",
+            "description": "Dificultad para concentrarse, mala memoria.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "32a2673c-1834-44e0-bf3f-14d1e45ca66c",
+        "fields": {
+            "number": 6,
+            "title": "Estado de ánimo deprimido.",
+            "description": "Pérdida de interés, insatisfacción en las diversiones, depresión, despertar prematuro, cambios de humor durante el día.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "e946f6a2-0e4b-4cf8-945a-68a977ec7e78",
+        "fields": {
+            "number": 7,
+            "title": "Síntomas somáticos generales (musculares)",
+            "description": "Dolores y molestias musculares, rigidez muscular, contracciones musculares, sacudidas clónicas, crujir de dientes, voz temblorosa.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "1373118f-b8de-433c-938e-2492d97d4744",
+        "fields": {
+            "number": 8,
+            "title": "Síntomas somáticos generales (sensoriales)",
+            "description": "Zumbidos de oídos, visión borrosa, sofocos y escalofríos, sensación de debilidad, sensación de hormigueo.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "4a95b6a5-1a78-4691-9d16-9adfa76ad43f",
+        "fields": {
+            "number": 9,
+            "title": "Síntomas cardiovasculares.",
+            "description": "Taquicardia, palpitaciones, dolor en el pecho, latidos vasculares, sensación de desmayo, extrasístole.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "322093f8-91c7-4d2e-a55c-b8dd64cbe7a5",
+        "fields": {
+            "number": 10,
+            "title": "Síntomas respiratorios.",
+            "description": "Opresión o constricción en el pecho, sensación de ahogo, suspiros, disnea.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "338ac326-23cd-4d34-84c2-d7b2a0d7fd62",
+        "fields": {
+            "number": 11,
+            "title": "Síntomas gastrointestinales.",
+            "description": "Dificultad para tragar, gases, dispepsia: dolor antes y después de comer, sensación de ardor, sensación de estómago lleno, vómitos acuosos, vómitos, sensación de estómago vacío, digestión lenta, borborigmos (ruido intestinal), diarrea, pérdida de peso, estreñimiento.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "a39290be-28aa-4af1-8980-ad2cc95df978",
+        "fields": {
+            "number": 12,
+            "title": "Síntomas genitourinarios.",
+            "description": "Micción frecuente, micción urgente, amenorrea, menorragia, aparición de la frigidez, eyaculación precoz, ausencia de erección, impotencia.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "ebb5094a-7dc2-4a44-878f-7e7bcf9b861a",
+        "fields": {
+            "number": 13,
+            "title": "Síntomas autónomos.",
+            "description": "Boca seca, rubor, palidez, tendencia a sudar, vértigos, cefaleas de tensión, piloerección (pelos de punta)",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    },
+    {
+        "model": "psychology.HamiltonQuestion",
+        "pk": "50de2fb5-ce2d-4b6d-9b26-5f12e851f043",
+        "fields": {
+            "number": 14,
+            "title": "Comportamiento en la entrevista (general y fisiológico)",
+            "description": "Tenso, no relajado, agitación nerviosa: manos, dedos cogidos, apretados, tics, enrollar un pañuelo; inquietud; pasearse de un lado a otro, temblor de manos, ceño fruncido, cara tirante, aumento del tono muscular, suspiros, palidez facial. Tragar saliva, eructar, taquicardia de reposo, frecuencia respiratoria por encima de 20 res/min, sacudidas enérgicas de tendones, temblor, pupilas dilatadas, exoftalmos (proyección anormal del globo del ojo), sudor, tics en los párpados.",
+            "created_at": "2022-07-05 13:46:21.302205+00:00",
+            "updated_at": "2022-07-05 13:46:21.302205+00:00"
+        }
+    }
+]

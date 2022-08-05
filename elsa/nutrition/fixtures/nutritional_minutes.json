@@ -1,0 +1,3891 @@
+[
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "65e95fda-6aa8-4a12-9b84-bf2d34bf1bc5",
+    "fields": {
+      "mealtime": 1,
+      "diet": "RG",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1350,
+      "created_at": "2022-06-28 20:32:30.066904+00:00",
+      "updated_at": "2022-06-28 20:32:30.066917+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "69dae079-1207-484a-80fe-aaae1cacb6ef",
+    "fields": {
+      "mealtime": 2,
+      "diet": "RG",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1350,
+      "created_at": "2022-06-28 20:32:30.066999+00:00",
+      "updated_at": "2022-06-28 20:32:30.067002+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "13199dcd-0bf8-4d74-8d1e-1eec7a511ae7",
+    "fields": {
+      "mealtime": 3,
+      "diet": "RG",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1350,
+      "created_at": "2022-06-28 20:32:30.067047+00:00",
+      "updated_at": "2022-06-28 20:32:30.067049+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "79fb698f-0e57-425f-a58f-5eb9956bb059",
+    "fields": {
+      "mealtime": 4,
+      "diet": "RG",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1350,
+      "created_at": "2022-06-28 20:32:30.067093+00:00",
+      "updated_at": "2022-06-28 20:32:30.067095+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "9b48d8c5-1004-42cb-8ac0-a959334c0ff9",
+    "fields": {
+      "mealtime": 5,
+      "diet": "RG",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1350,
+      "created_at": "2022-06-28 20:32:30.067154+00:00",
+      "updated_at": "2022-06-28 20:32:30.067156+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "bf800f5c-a6ed-4f5c-9d0d-cb5d341c3777",
+    "fields": {
+      "mealtime": 1,
+      "diet": "RG",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1600,
+      "created_at": "2022-06-28 20:32:30.067228+00:00",
+      "updated_at": "2022-06-28 20:32:30.067230+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "12744756-e774-4c5c-9a97-edada56b2ebe",
+    "fields": {
+      "mealtime": 2,
+      "diet": "RG",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1600,
+      "created_at": "2022-06-28 20:32:30.067274+00:00",
+      "updated_at": "2022-06-28 20:32:30.067276+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "69746267-21a3-4f44-97fe-287ffa09176f",
+    "fields": {
+      "mealtime": 3,
+      "diet": "RG",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1600,
+      "created_at": "2022-06-28 20:32:30.067328+00:00",
+      "updated_at": "2022-06-28 20:32:30.067330+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "9875cdca-b5a7-40ce-b391-20592271445c",
+    "fields": {
+      "mealtime": 4,
+      "diet": "RG",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1600,
+      "created_at": "2022-06-28 20:32:30.067375+00:00",
+      "updated_at": "2022-06-28 20:32:30.067377+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "cce4a033-6298-4aeb-8928-15774f4133ae",
+    "fields": {
+      "mealtime": 5,
+      "diet": "RG",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1600,
+      "created_at": "2022-06-28 20:32:30.067433+00:00",
+      "updated_at": "2022-06-28 20:32:30.067435+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "677fa0f1-0f9e-48fa-8ee3-13a8aca86272",
+    "fields": {
+      "mealtime": 1,
+      "diet": "RG",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2000,
+      "created_at": "2022-06-28 20:32:30.067498+00:00",
+      "updated_at": "2022-06-28 20:32:30.067500+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "015013da-45e1-4452-bf3e-1c7b444d9f34",
+    "fields": {
+      "mealtime": 2,
+      "diet": "RG",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2000,
+      "created_at": "2022-06-28 20:32:30.067547+00:00",
+      "updated_at": "2022-06-28 20:32:30.067549+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "89e65678-9dd5-4487-a78c-698cf8ee67be",
+    "fields": {
+      "mealtime": 3,
+      "diet": "RG",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2000,
+      "created_at": "2022-06-28 20:32:30.067597+00:00",
+      "updated_at": "2022-06-28 20:32:30.067599+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "62cd7148-182f-4a7e-82a9-de0042c18dbc",
+    "fields": {
+      "mealtime": 5,
+      "diet": "RG",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2000,
+      "created_at": "2022-06-28 20:32:30.067643+00:00",
+      "updated_at": "2022-06-28 20:32:30.067645+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "bc8de0f2-fadd-4963-8493-81bdc5b5602f",
+    "fields": {
+      "mealtime": 1,
+      "diet": "RG",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2399,
+      "created_at": "2022-06-28 20:32:30.067688+00:00",
+      "updated_at": "2022-06-28 20:32:30.067690+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "fdf27593-89f7-4ff4-9bc1-03046b63f4af",
+    "fields": {
+      "mealtime": 2,
+      "diet": "RG",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2399,
+      "created_at": "2022-06-28 20:32:30.067739+00:00",
+      "updated_at": "2022-06-28 20:32:30.067741+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "14b36be2-cfc4-4bef-a240-39a5658e2514",
+    "fields": {
+      "mealtime": 3,
+      "diet": "RG",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2399,
+      "created_at": "2022-06-28 20:32:30.067823+00:00",
+      "updated_at": "2022-06-28 20:32:30.067825+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "09404927-5dd2-489a-9f01-cc8d34985571",
+    "fields": {
+      "mealtime": 5,
+      "diet": "RG",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2399,
+      "created_at": "2022-06-28 20:32:30.067874+00:00",
+      "updated_at": "2022-06-28 20:32:30.067876+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "3483f2dc-61a9-4c08-9068-f96321605b3d",
+    "fields": {
+      "mealtime": 1,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.067925+00:00",
+      "updated_at": "2022-06-28 20:32:30.067927+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "b3ebc66e-fc25-4ca9-9a66-f5db01af60c6",
+    "fields": {
+      "mealtime": 2,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.067971+00:00",
+      "updated_at": "2022-06-28 20:32:30.067973+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "ca94ec2b-0473-4a45-9ee4-df18fefc7a46",
+    "fields": {
+      "mealtime": 3,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.068018+00:00",
+      "updated_at": "2022-06-28 20:32:30.068020+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "93140a63-1a56-4b28-9532-dc65a6159829",
+    "fields": {
+      "mealtime": 4,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.068081+00:00",
+      "updated_at": "2022-06-28 20:32:30.068084+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "e2fc759a-a61b-4530-8a03-f691a4122f22",
+    "fields": {
+      "mealtime": 5,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.068141+00:00",
+      "updated_at": "2022-06-28 20:32:30.068143+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "9de130ff-c79e-4dc9-a138-ae2ad4d5f494",
+    "fields": {
+      "mealtime": 6,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.068190+00:00",
+      "updated_at": "2022-06-28 20:32:30.068192+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "3b7d55cd-6ce2-464d-8dae-41ee87219158",
+    "fields": {
+      "mealtime": 1,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.068238+00:00",
+      "updated_at": "2022-06-28 20:32:30.068240+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "8ab955b8-2219-49e5-af56-d602bae40cbb",
+    "fields": {
+      "mealtime": 2,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.068285+00:00",
+      "updated_at": "2022-06-28 20:32:30.068287+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "933d7107-7ad5-4275-8980-a7cb8fb946f6",
+    "fields": {
+      "mealtime": 3,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.068332+00:00",
+      "updated_at": "2022-06-28 20:32:30.068334+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "e9be124a-af30-47b6-8aed-760ed98edea9",
+    "fields": {
+      "mealtime": 4,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.068409+00:00",
+      "updated_at": "2022-06-28 20:32:30.068411+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "fe3df1fb-f0b3-4f28-b573-0e5e8d75f1bc",
+    "fields": {
+      "mealtime": 5,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.068476+00:00",
+      "updated_at": "2022-06-28 20:32:30.068478+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "edd9096e-62da-475f-a306-bdfa6d262a2f",
+    "fields": {
+      "mealtime": 6,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.068524+00:00",
+      "updated_at": "2022-06-28 20:32:30.068526+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "169d13b8-32b9-4ead-8e0f-a39fffff2df2",
+    "fields": {
+      "mealtime": 1,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.068575+00:00",
+      "updated_at": "2022-06-28 20:32:30.068576+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "db1b130a-02bf-45ad-82bb-26a955e7e5e8",
+    "fields": {
+      "mealtime": 2,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.068620+00:00",
+      "updated_at": "2022-06-28 20:32:30.068622+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "cb361abb-2d82-4139-8df0-d951a58b7dc4",
+    "fields": {
+      "mealtime": 3,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.068697+00:00",
+      "updated_at": "2022-06-28 20:32:30.068699+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "ea904c0e-781d-45ac-9a9c-b7d1734717ca",
+    "fields": {
+      "mealtime": 4,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.068745+00:00",
+      "updated_at": "2022-06-28 20:32:30.068747+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "239a44d6-9508-45e9-a590-8059c8841e72",
+    "fields": {
+      "mealtime": 5,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.068908+00:00",
+      "updated_at": "2022-06-28 20:32:30.068910+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "818317bb-89f4-4292-9840-83e1e4753be3",
+    "fields": {
+      "mealtime": 6,
+      "diet": "RG",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.068999+00:00",
+      "updated_at": "2022-06-28 20:32:30.069001+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "f3b79fe0-ae5f-4a0b-a76f-2ceb094ab3c9",
+    "fields": {
+      "mealtime": 1,
+      "diet": "VE",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1350,
+      "created_at": "2022-06-28 20:32:30.069070+00:00",
+      "updated_at": "2022-06-28 20:32:30.069072+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "c4856b23-2923-462f-94e5-74c0913d54e5",
+    "fields": {
+      "mealtime": 2,
+      "diet": "VE",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1350,
+      "created_at": "2022-06-28 20:32:30.069143+00:00",
+      "updated_at": "2022-06-28 20:32:30.069145+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "6e6c3613-c897-4884-8e02-9c11233d9f45",
+    "fields": {
+      "mealtime": 3,
+      "diet": "VE",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1350,
+      "created_at": "2022-06-28 20:32:30.069186+00:00",
+      "updated_at": "2022-06-28 20:32:30.069188+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "26a32524-770a-4b59-8ec3-19ff80bd0cad",
+    "fields": {
+      "mealtime": 4,
+      "diet": "VE",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1350,
+      "created_at": "2022-06-28 20:32:30.069231+00:00",
+      "updated_at": "2022-06-28 20:32:30.069233+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "d7eaefac-fac9-44d1-833e-c8deba02c551",
+    "fields": {
+      "mealtime": 5,
+      "diet": "VE",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1350,
+      "created_at": "2022-06-28 20:32:30.069269+00:00",
+      "updated_at": "2022-06-28 20:32:30.069271+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "60685c3f-7a6a-4426-aec1-8f119b9d679c",
+    "fields": {
+      "mealtime": 1,
+      "diet": "VE",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1600,
+      "created_at": "2022-06-28 20:32:30.069318+00:00",
+      "updated_at": "2022-06-28 20:32:30.069319+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "25d06946-cc85-417d-958b-f787661ed0bc",
+    "fields": {
+      "mealtime": 2,
+      "diet": "VE",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1600,
+      "created_at": "2022-06-28 20:32:30.069353+00:00",
+      "updated_at": "2022-06-28 20:32:30.069355+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "ee0d5a72-1a23-439e-ab39-372afe80e5f6",
+    "fields": {
+      "mealtime": 3,
+      "diet": "VE",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1600,
+      "created_at": "2022-06-28 20:32:30.069392+00:00",
+      "updated_at": "2022-06-28 20:32:30.069395+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "6a7e8e8e-5082-432c-b171-7b85359f0d8c",
+    "fields": {
+      "mealtime": 4,
+      "diet": "VE",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1600,
+      "created_at": "2022-06-28 20:32:30.069602+00:00",
+      "updated_at": "2022-06-28 20:32:30.069604+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "f89e3217-de8c-47a5-a2c6-a54228927d77",
+    "fields": {
+      "mealtime": 5,
+      "diet": "VE",
+      "calorie_intake_type": "HIC",
+      "upper_calorie_intake": 1600,
+      "created_at": "2022-06-28 20:32:30.069641+00:00",
+      "updated_at": "2022-06-28 20:32:30.069643+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "7b4e1d80-e9bd-4a5d-a527-e0070d084cc8",
+    "fields": {
+      "mealtime": 1,
+      "diet": "VE",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2000,
+      "created_at": "2022-06-28 20:32:30.069688+00:00",
+      "updated_at": "2022-06-28 20:32:30.069690+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "6fe4148e-5bfc-41b0-8095-57edb38ec0f4",
+    "fields": {
+      "mealtime": 2,
+      "diet": "VE",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2000,
+      "created_at": "2022-06-28 20:32:30.069732+00:00",
+      "updated_at": "2022-06-28 20:32:30.069734+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "008f6cfb-e461-40fe-9869-46ba29c946a0",
+    "fields": {
+      "mealtime": 3,
+      "diet": "VE",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2000,
+      "created_at": "2022-06-28 20:32:30.069843+00:00",
+      "updated_at": "2022-06-28 20:32:30.069845+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "566bcee7-89dd-4d14-9e28-ff377fe26014",
+    "fields": {
+      "mealtime": 5,
+      "diet": "VE",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2000,
+      "created_at": "2022-06-28 20:32:30.069926+00:00",
+      "updated_at": "2022-06-28 20:32:30.069928+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "168f0c83-898c-4203-b0ad-c87b0fff2126",
+    "fields": {
+      "mealtime": 1,
+      "diet": "VE",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2399,
+      "created_at": "2022-06-28 20:32:30.069979+00:00",
+      "updated_at": "2022-06-28 20:32:30.069982+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "865825b2-b042-4f01-a3a0-36eb717cf765",
+    "fields": {
+      "mealtime": 2,
+      "diet": "VE",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2399,
+      "created_at": "2022-06-28 20:32:30.070017+00:00",
+      "updated_at": "2022-06-28 20:32:30.070018+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "0c63b8d1-79ae-4e9c-a0ba-3321a7f69e53",
+    "fields": {
+      "mealtime": 3,
+      "diet": "VE",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2399,
+      "created_at": "2022-06-28 20:32:30.070053+00:00",
+      "updated_at": "2022-06-28 20:32:30.070055+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "bed94a16-a937-4af4-b8e1-0911a9decfac",
+    "fields": {
+      "mealtime": 5,
+      "diet": "VE",
+      "calorie_intake_type": "NOC",
+      "upper_calorie_intake": 2399,
+      "created_at": "2022-06-28 20:32:30.070105+00:00",
+      "updated_at": "2022-06-28 20:32:30.070107+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "5abba1ec-ee24-4011-ac84-c706eae282e1",
+    "fields": {
+      "mealtime": 1,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.070172+00:00",
+      "updated_at": "2022-06-28 20:32:30.070174+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "b9fad7d3-f7f2-4c91-aaaf-37058b65695e",
+    "fields": {
+      "mealtime": 2,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.070209+00:00",
+      "updated_at": "2022-06-28 20:32:30.070211+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "b2187f43-4b15-440c-b7af-341f772d02cb",
+    "fields": {
+      "mealtime": 3,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.070251+00:00",
+      "updated_at": "2022-06-28 20:32:30.070253+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "582b1862-fa54-40e1-9e7e-062d872eaa29",
+    "fields": {
+      "mealtime": 4,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.070296+00:00",
+      "updated_at": "2022-06-28 20:32:30.070298+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "f8a077f2-27d0-4578-a294-489c61f53f84",
+    "fields": {
+      "mealtime": 5,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.070347+00:00",
+      "updated_at": "2022-06-28 20:32:30.070349+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "8c119256-e0ef-4a8b-b1f1-4407745de256",
+    "fields": {
+      "mealtime": 6,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 2700,
+      "created_at": "2022-06-28 20:32:30.070398+00:00",
+      "updated_at": "2022-06-28 20:32:30.070400+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "e9fa06c5-ce8a-4323-9af7-01801efb0933",
+    "fields": {
+      "mealtime": 1,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.070460+00:00",
+      "updated_at": "2022-06-28 20:32:30.070462+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "f35cabd4-c69c-4a75-8883-0d89ab0aca72",
+    "fields": {
+      "mealtime": 2,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.070499+00:00",
+      "updated_at": "2022-06-28 20:32:30.070501+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "41b1a79a-538b-4028-87e1-99ff10d964c0",
+    "fields": {
+      "mealtime": 3,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.070539+00:00",
+      "updated_at": "2022-06-28 20:32:30.070541+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "4de93545-512b-43ab-bc9a-857bb64bee8f",
+    "fields": {
+      "mealtime": 4,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.070588+00:00",
+      "updated_at": "2022-06-28 20:32:30.070590+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "990cdbac-aa28-45cc-bea9-b0f1fd9a9649",
+    "fields": {
+      "mealtime": 5,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.070638+00:00",
+      "updated_at": "2022-06-28 20:32:30.070640+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "9afd10bc-f7c3-49ce-8737-7d706b4d0e24",
+    "fields": {
+      "mealtime": 6,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3050,
+      "created_at": "2022-06-28 20:32:30.070687+00:00",
+      "updated_at": "2022-06-28 20:32:30.070689+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "3cb589de-172f-45a0-bd83-396210af4916",
+    "fields": {
+      "mealtime": 1,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.070726+00:00",
+      "updated_at": "2022-06-28 20:32:30.070728+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "a9bd61d5-8ff4-46e8-a144-86f4996490d1",
+    "fields": {
+      "mealtime": 2,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.070839+00:00",
+      "updated_at": "2022-06-28 20:32:30.070841+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "2e74ac02-d731-4f68-9c48-c863ec4cb91b",
+    "fields": {
+      "mealtime": 3,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.070913+00:00",
+      "updated_at": "2022-06-28 20:32:30.070915+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "40cbecb8-9d84-46ae-b5a5-f745819c686c",
+    "fields": {
+      "mealtime": 4,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.071020+00:00",
+      "updated_at": "2022-06-28 20:32:30.071022+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "bc37efd3-6bad-483d-a303-c3578e61be3b",
+    "fields": {
+      "mealtime": 5,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.071067+00:00",
+      "updated_at": "2022-06-28 20:32:30.071069+00:00"
+    }
+  },
+  {
+    "model": "nutrition.MealSummary",
+    "pk": "a056bf76-6c26-4f8e-a86e-af913f2fc718",
+    "fields": {
+      "mealtime": 6,
+      "diet": "VE",
+      "calorie_intake_type": "HYC",
+      "upper_calorie_intake": 3450,
+      "created_at": "2022-06-28 20:32:30.071137+00:00",
+      "updated_at": "2022-06-28 20:32:30.071139+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "80e4d225-12ed-4ff7-8e5d-409cea677f22",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "65e95fda-6aa8-4a12-9b84-bf2d34bf1bc5",
+      "created_at": "2022-06-28 20:32:30.066952+00:00",
+      "updated_at": "2022-06-28 20:32:30.066955+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "4c366d2b-fa15-4aea-bd0b-c4ed82be2637",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 1.0,
+      "meal_summary": "65e95fda-6aa8-4a12-9b84-bf2d34bf1bc5",
+      "created_at": "2022-06-28 20:32:30.066966+00:00",
+      "updated_at": "2022-06-28 20:32:30.066968+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "7a39f544-a20b-4ad6-b0a6-0f6708b2d71d",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.5,
+      "meal_summary": "65e95fda-6aa8-4a12-9b84-bf2d34bf1bc5",
+      "created_at": "2022-06-28 20:32:30.066977+00:00",
+      "updated_at": "2022-06-28 20:32:30.066979+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "021dca75-cae5-4c61-ad5a-94524e5afaa0",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "65e95fda-6aa8-4a12-9b84-bf2d34bf1bc5",
+      "created_at": "2022-06-28 20:32:30.066987+00:00",
+      "updated_at": "2022-06-28 20:32:30.066989+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "5fa26dbb-8f55-47da-a233-b3dfbec0af22",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "69dae079-1207-484a-80fe-aaae1cacb6ef",
+      "created_at": "2022-06-28 20:32:30.067010+00:00",
+      "updated_at": "2022-06-28 20:32:30.067012+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "185a76c6-daa4-4b8f-9dac-fc4a757bbd34",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 0.5,
+      "meal_summary": "69dae079-1207-484a-80fe-aaae1cacb6ef",
+      "created_at": "2022-06-28 20:32:30.067020+00:00",
+      "updated_at": "2022-06-28 20:32:30.067022+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "945334c4-6783-4d5f-9e9a-06b9209e1bee",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "69dae079-1207-484a-80fe-aaae1cacb6ef",
+      "created_at": "2022-06-28 20:32:30.067029+00:00",
+      "updated_at": "2022-06-28 20:32:30.067031+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ac8f92aa-b523-466a-89b9-171ed3374562",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "69dae079-1207-484a-80fe-aaae1cacb6ef",
+      "created_at": "2022-06-28 20:32:30.067038+00:00",
+      "updated_at": "2022-06-28 20:32:30.067040+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "7d67a96f-d2c3-4e12-92d7-8bbcaad2b85c",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "13199dcd-0bf8-4d74-8d1e-1eec7a511ae7",
+      "created_at": "2022-06-28 20:32:30.067056+00:00",
+      "updated_at": "2022-06-28 20:32:30.067058+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "442cf8d9-9b03-4908-a7e8-6e8a48f7e4e2",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 2.0,
+      "meal_summary": "13199dcd-0bf8-4d74-8d1e-1eec7a511ae7",
+      "created_at": "2022-06-28 20:32:30.067066+00:00",
+      "updated_at": "2022-06-28 20:32:30.067068+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "427634e3-4723-4e5b-ad37-fc8cd5c54bef",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "13199dcd-0bf8-4d74-8d1e-1eec7a511ae7",
+      "created_at": "2022-06-28 20:32:30.067075+00:00",
+      "updated_at": "2022-06-28 20:32:30.067077+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "cbd37eb9-dab8-47d0-9d0e-a1c34880236a",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "13199dcd-0bf8-4d74-8d1e-1eec7a511ae7",
+      "created_at": "2022-06-28 20:32:30.067085+00:00",
+      "updated_at": "2022-06-28 20:32:30.067087+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ac6204d2-2275-48bf-925a-11f67e09e619",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "79fb698f-0e57-425f-a58f-5eb9956bb059",
+      "created_at": "2022-06-28 20:32:30.067103+00:00",
+      "updated_at": "2022-06-28 20:32:30.067105+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "39aeef8b-0f20-4e50-a13e-ae2d30c25ffe",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 0.5,
+      "meal_summary": "79fb698f-0e57-425f-a58f-5eb9956bb059",
+      "created_at": "2022-06-28 20:32:30.067112+00:00",
+      "updated_at": "2022-06-28 20:32:30.067114+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "99865654-0c1f-4843-a01b-386c8d0e2340",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "79fb698f-0e57-425f-a58f-5eb9956bb059",
+      "created_at": "2022-06-28 20:32:30.067121+00:00",
+      "updated_at": "2022-06-28 20:32:30.067123+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "4b809512-e776-492c-9f0c-d85e1b7e6b7d",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "79fb698f-0e57-425f-a58f-5eb9956bb059",
+      "created_at": "2022-06-28 20:32:30.067133+00:00",
+      "updated_at": "2022-06-28 20:32:30.067135+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "0ca839e7-195b-449a-8cfd-f177860f9c92",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "79fb698f-0e57-425f-a58f-5eb9956bb059",
+      "created_at": "2022-06-28 20:32:30.067145+00:00",
+      "updated_at": "2022-06-28 20:32:30.067147+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "c1c363a2-d425-414d-9a08-75498efb36cd",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "9b48d8c5-1004-42cb-8ac0-a959334c0ff9",
+      "created_at": "2022-06-28 20:32:30.067184+00:00",
+      "updated_at": "2022-06-28 20:32:30.067189+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "5de50e59-172f-4b9c-9684-ccb8ded5c032",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.5,
+      "meal_summary": "9b48d8c5-1004-42cb-8ac0-a959334c0ff9",
+      "created_at": "2022-06-28 20:32:30.067199+00:00",
+      "updated_at": "2022-06-28 20:32:30.067201+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "06f7dfff-9cf5-4c19-83d9-38c13fc59da5",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "9b48d8c5-1004-42cb-8ac0-a959334c0ff9",
+      "created_at": "2022-06-28 20:32:30.067209+00:00",
+      "updated_at": "2022-06-28 20:32:30.067211+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "6f8661a4-e43d-4c6c-a187-9a6ba9c0c0f5",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "9b48d8c5-1004-42cb-8ac0-a959334c0ff9",
+      "created_at": "2022-06-28 20:32:30.067218+00:00",
+      "updated_at": "2022-06-28 20:32:30.067220+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "dd5387d2-f0ac-473e-ad23-2081231402e2",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "bf800f5c-a6ed-4f5c-9d0d-cb5d341c3777",
+      "created_at": "2022-06-28 20:32:30.067238+00:00",
+      "updated_at": "2022-06-28 20:32:30.067240+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "62b916f5-805e-4e4c-b934-3edbcea7cc42",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 1.0,
+      "meal_summary": "bf800f5c-a6ed-4f5c-9d0d-cb5d341c3777",
+      "created_at": "2022-06-28 20:32:30.067247+00:00",
+      "updated_at": "2022-06-28 20:32:30.067249+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "25da58e4-67e0-4e3a-a097-7f194fd38012",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.5,
+      "meal_summary": "bf800f5c-a6ed-4f5c-9d0d-cb5d341c3777",
+      "created_at": "2022-06-28 20:32:30.067256+00:00",
+      "updated_at": "2022-06-28 20:32:30.067258+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "107e6a31-8932-4e31-af81-cb0c757922be",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "bf800f5c-a6ed-4f5c-9d0d-cb5d341c3777",
+      "created_at": "2022-06-28 20:32:30.067266+00:00",
+      "updated_at": "2022-06-28 20:32:30.067268+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "857044fd-d8da-4c69-b771-07a03cc91a1e",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "12744756-e774-4c5c-9a97-edada56b2ebe",
+      "created_at": "2022-06-28 20:32:30.067284+00:00",
+      "updated_at": "2022-06-28 20:32:30.067286+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "4c5d425d-974a-4429-8edb-71d16c6a8448",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 0.5,
+      "meal_summary": "12744756-e774-4c5c-9a97-edada56b2ebe",
+      "created_at": "2022-06-28 20:32:30.067300+00:00",
+      "updated_at": "2022-06-28 20:32:30.067302+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "1e4aa151-0736-44a9-8661-1ca2f61ea2ad",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "12744756-e774-4c5c-9a97-edada56b2ebe",
+      "created_at": "2022-06-28 20:32:30.067310+00:00",
+      "updated_at": "2022-06-28 20:32:30.067312+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "09d2c09e-c8aa-432c-9997-9881d9e77ce2",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "12744756-e774-4c5c-9a97-edada56b2ebe",
+      "created_at": "2022-06-28 20:32:30.067320+00:00",
+      "updated_at": "2022-06-28 20:32:30.067322+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "06bfd2e7-f981-4845-b4c3-56acf469eac8",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "69746267-21a3-4f44-97fe-287ffa09176f",
+      "created_at": "2022-06-28 20:32:30.067338+00:00",
+      "updated_at": "2022-06-28 20:32:30.067340+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "06f5fe3d-3431-46b5-8c60-ca0e789cdefb",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 2.5,
+      "meal_summary": "69746267-21a3-4f44-97fe-287ffa09176f",
+      "created_at": "2022-06-28 20:32:30.067347+00:00",
+      "updated_at": "2022-06-28 20:32:30.067349+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "e7fc6fd2-649f-462e-835a-322017758c50",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 3.0,
+      "meal_summary": "69746267-21a3-4f44-97fe-287ffa09176f",
+      "created_at": "2022-06-28 20:32:30.067357+00:00",
+      "updated_at": "2022-06-28 20:32:30.067359+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f3b4a39c-23c9-435c-9d68-5f910389f205",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "69746267-21a3-4f44-97fe-287ffa09176f",
+      "created_at": "2022-06-28 20:32:30.067366+00:00",
+      "updated_at": "2022-06-28 20:32:30.067368+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "2fd2784e-b73e-495e-acf0-7a4425363003",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "9875cdca-b5a7-40ce-b391-20592271445c",
+      "created_at": "2022-06-28 20:32:30.067384+00:00",
+      "updated_at": "2022-06-28 20:32:30.067386+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9e748154-82c6-4a69-aaa6-c31294431f75",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 0.5,
+      "meal_summary": "9875cdca-b5a7-40ce-b391-20592271445c",
+      "created_at": "2022-06-28 20:32:30.067394+00:00",
+      "updated_at": "2022-06-28 20:32:30.067396+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "cbed7d0b-d684-4a9c-970b-6690f94b7ee0",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "9875cdca-b5a7-40ce-b391-20592271445c",
+      "created_at": "2022-06-28 20:32:30.067403+00:00",
+      "updated_at": "2022-06-28 20:32:30.067405+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "4b949fa9-10e0-4ed3-a9f2-89d2a47980b5",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "9875cdca-b5a7-40ce-b391-20592271445c",
+      "created_at": "2022-06-28 20:32:30.067412+00:00",
+      "updated_at": "2022-06-28 20:32:30.067414+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "5e62dcc4-c7bb-48f6-b7d2-a5592021a9e3",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "9875cdca-b5a7-40ce-b391-20592271445c",
+      "created_at": "2022-06-28 20:32:30.067423+00:00",
+      "updated_at": "2022-06-28 20:32:30.067425+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "0c13aea4-0b63-43a8-a165-d81d4bc4280b",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "cce4a033-6298-4aeb-8928-15774f4133ae",
+      "created_at": "2022-06-28 20:32:30.067443+00:00",
+      "updated_at": "2022-06-28 20:32:30.067445+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "76e99dcb-0eb0-4866-81e7-a9416835f9b5",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.5,
+      "meal_summary": "cce4a033-6298-4aeb-8928-15774f4133ae",
+      "created_at": "2022-06-28 20:32:30.067453+00:00",
+      "updated_at": "2022-06-28 20:32:30.067455+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "3c15e074-fada-472b-8904-0375d06ceaae",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "cce4a033-6298-4aeb-8928-15774f4133ae",
+      "created_at": "2022-06-28 20:32:30.067479+00:00",
+      "updated_at": "2022-06-28 20:32:30.067481+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ba370d9c-c0d7-407a-a6cf-4abcb98b4eb4",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "cce4a033-6298-4aeb-8928-15774f4133ae",
+      "created_at": "2022-06-28 20:32:30.067489+00:00",
+      "updated_at": "2022-06-28 20:32:30.067491+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "cc44b301-a3b6-4a33-9d2b-2206a4c4f149",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.0,
+      "meal_summary": "677fa0f1-0f9e-48fa-8ee3-13a8aca86272",
+      "created_at": "2022-06-28 20:32:30.067508+00:00",
+      "updated_at": "2022-06-28 20:32:30.067510+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "57ae8a38-0d60-4335-9274-32ebfef0ab81",
+    "fields": {
+      "food_supergroup": "DAI",
+      "intake": 1.0,
+      "meal_summary": "677fa0f1-0f9e-48fa-8ee3-13a8aca86272",
+      "created_at": "2022-06-28 20:32:30.067517+00:00",
+      "updated_at": "2022-06-28 20:32:30.067519+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "19be6b5a-09d9-4705-a8dd-3b2118c80151",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "677fa0f1-0f9e-48fa-8ee3-13a8aca86272",
+      "created_at": "2022-06-28 20:32:30.067526+00:00",
+      "updated_at": "2022-06-28 20:32:30.067528+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "136e134d-12cc-4e6b-b246-9f6d0d29226e",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "677fa0f1-0f9e-48fa-8ee3-13a8aca86272",
+      "created_at": "2022-06-28 20:32:30.067535+00:00",
+      "updated_at": "2022-06-28 20:32:30.067537+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "043a9ec7-beb7-488f-be37-29b18011540f",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "015013da-45e1-4452-bf3e-1c7b444d9f34",
+      "created_at": "2022-06-28 20:32:30.067557+00:00",
+      "updated_at": "2022-06-28 20:32:30.067559+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f98e4eab-dd56-4cfc-99fe-ac0b0cc35a89",
+    "fields": {
+      "food_supergroup": "DAI",
+      "intake": 0.5,
+      "meal_summary": "015013da-45e1-4452-bf3e-1c7b444d9f34",
+      "created_at": "2022-06-28 20:32:30.067568+00:00",
+      "updated_at": "2022-06-28 20:32:30.067570+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "fdc33b67-b9d1-4e7b-a54a-238a22755cad",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 0.5,
+      "meal_summary": "015013da-45e1-4452-bf3e-1c7b444d9f34",
+      "created_at": "2022-06-28 20:32:30.067578+00:00",
+      "updated_at": "2022-06-28 20:32:30.067580+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "54c81a34-7a60-452b-931b-2d520bbaeb48",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "015013da-45e1-4452-bf3e-1c7b444d9f34",
+      "created_at": "2022-06-28 20:32:30.067587+00:00",
+      "updated_at": "2022-06-28 20:32:30.067589+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "da83ff61-712d-48fc-9a27-be2bbeb36343",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 3.0,
+      "meal_summary": "89e65678-9dd5-4487-a78c-698cf8ee67be",
+      "created_at": "2022-06-28 20:32:30.067607+00:00",
+      "updated_at": "2022-06-28 20:32:30.067609+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "5862f6cd-bad3-4290-9f0c-cc5ea11e87ca",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 2.0,
+      "meal_summary": "89e65678-9dd5-4487-a78c-698cf8ee67be",
+      "created_at": "2022-06-28 20:32:30.067616+00:00",
+      "updated_at": "2022-06-28 20:32:30.067618+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "76598b8b-8538-4d3a-8cfa-da51c475221f",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 3.0,
+      "meal_summary": "89e65678-9dd5-4487-a78c-698cf8ee67be",
+      "created_at": "2022-06-28 20:32:30.067625+00:00",
+      "updated_at": "2022-06-28 20:32:30.067627+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "e1fe68c2-75ba-4732-810a-90cb8ef2ced1",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 1.0,
+      "meal_summary": "89e65678-9dd5-4487-a78c-698cf8ee67be",
+      "created_at": "2022-06-28 20:32:30.067634+00:00",
+      "updated_at": "2022-06-28 20:32:30.067636+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "e4abf837-14a9-4675-8249-d1c318102a46",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.0,
+      "meal_summary": "62cd7148-182f-4a7e-82a9-de0042c18dbc",
+      "created_at": "2022-06-28 20:32:30.067652+00:00",
+      "updated_at": "2022-06-28 20:32:30.067654+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "1d10c5eb-b86c-4915-89b8-0947fa26d493",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "62cd7148-182f-4a7e-82a9-de0042c18dbc",
+      "created_at": "2022-06-28 20:32:30.067661+00:00",
+      "updated_at": "2022-06-28 20:32:30.067663+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "3d52d435-b214-434d-8226-5b8ce3d43730",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.5,
+      "meal_summary": "62cd7148-182f-4a7e-82a9-de0042c18dbc",
+      "created_at": "2022-06-28 20:32:30.067671+00:00",
+      "updated_at": "2022-06-28 20:32:30.067673+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "8415e51a-44fe-4aef-8314-e3de47733e53",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 1.0,
+      "meal_summary": "62cd7148-182f-4a7e-82a9-de0042c18dbc",
+      "created_at": "2022-06-28 20:32:30.067680+00:00",
+      "updated_at": "2022-06-28 20:32:30.067682+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f30e2954-06b0-4208-bef7-4c99427b0ae6",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.5,
+      "meal_summary": "bc8de0f2-fadd-4963-8493-81bdc5b5602f",
+      "created_at": "2022-06-28 20:32:30.067700+00:00",
+      "updated_at": "2022-06-28 20:32:30.067702+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f395564b-ab9c-42dd-aca9-2407a8aaf486",
+    "fields": {
+      "food_supergroup": "DAI",
+      "intake": 1.0,
+      "meal_summary": "bc8de0f2-fadd-4963-8493-81bdc5b5602f",
+      "created_at": "2022-06-28 20:32:30.067710+00:00",
+      "updated_at": "2022-06-28 20:32:30.067712+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "0fe622b8-0e98-443e-bfa6-95b2f19d7e23",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "bc8de0f2-fadd-4963-8493-81bdc5b5602f",
+      "created_at": "2022-06-28 20:32:30.067719+00:00",
+      "updated_at": "2022-06-28 20:32:30.067721+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "512f6b06-e878-4958-b206-68208f897c13",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 3.0,
+      "meal_summary": "bc8de0f2-fadd-4963-8493-81bdc5b5602f",
+      "created_at": "2022-06-28 20:32:30.067730+00:00",
+      "updated_at": "2022-06-28 20:32:30.067732+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "49d452dd-e7d1-46d9-9202-d9289fde5f1a",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "fdf27593-89f7-4ff4-9bc1-03046b63f4af",
+      "created_at": "2022-06-28 20:32:30.067749+00:00",
+      "updated_at": "2022-06-28 20:32:30.067751+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "6901a44e-71fd-4a2e-a569-6490f4c97de5",
+    "fields": {
+      "food_supergroup": "DAI",
+      "intake": 1.0,
+      "meal_summary": "fdf27593-89f7-4ff4-9bc1-03046b63f4af",
+      "created_at": "2022-06-28 20:32:30.067791+00:00",
+      "updated_at": "2022-06-28 20:32:30.067796+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f513cd10-842e-41c0-b4be-e2dfaae1e3e4",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 0.5,
+      "meal_summary": "fdf27593-89f7-4ff4-9bc1-03046b63f4af",
+      "created_at": "2022-06-28 20:32:30.067804+00:00",
+      "updated_at": "2022-06-28 20:32:30.067806+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "a7f31ef0-15b5-4964-ae41-9c0b3a81c891",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "fdf27593-89f7-4ff4-9bc1-03046b63f4af",
+      "created_at": "2022-06-28 20:32:30.067815+00:00",
+      "updated_at": "2022-06-28 20:32:30.067817+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "104e4703-bca2-43fa-9a8c-7f2db3cc9b8a",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 3.5,
+      "meal_summary": "14b36be2-cfc4-4bef-a240-39a5658e2514",
+      "created_at": "2022-06-28 20:32:30.067833+00:00",
+      "updated_at": "2022-06-28 20:32:30.067835+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "70dfd4dd-857e-48b4-be73-b652d156a3e2",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 2.0,
+      "meal_summary": "14b36be2-cfc4-4bef-a240-39a5658e2514",
+      "created_at": "2022-06-28 20:32:30.067842+00:00",
+      "updated_at": "2022-06-28 20:32:30.067844+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "493e31f4-c3d4-42fc-beb1-832329a150d9",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 4.0,
+      "meal_summary": "14b36be2-cfc4-4bef-a240-39a5658e2514",
+      "created_at": "2022-06-28 20:32:30.067852+00:00",
+      "updated_at": "2022-06-28 20:32:30.067854+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "8d3a316b-1155-4178-9b0c-0a1e23b69666",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 1.0,
+      "meal_summary": "14b36be2-cfc4-4bef-a240-39a5658e2514",
+      "created_at": "2022-06-28 20:32:30.067865+00:00",
+      "updated_at": "2022-06-28 20:32:30.067867+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9f5c4dd8-885d-4009-84f9-07aaec9284af",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.0,
+      "meal_summary": "09404927-5dd2-489a-9f01-cc8d34985571",
+      "created_at": "2022-06-28 20:32:30.067884+00:00",
+      "updated_at": "2022-06-28 20:32:30.067886+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9336f753-84ed-4ddc-8532-2f90ba79f35d",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.5,
+      "meal_summary": "09404927-5dd2-489a-9f01-cc8d34985571",
+      "created_at": "2022-06-28 20:32:30.067895+00:00",
+      "updated_at": "2022-06-28 20:32:30.067897+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "b2b058ba-269b-49f9-848d-94455837e9fd",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 3.5,
+      "meal_summary": "09404927-5dd2-489a-9f01-cc8d34985571",
+      "created_at": "2022-06-28 20:32:30.067906+00:00",
+      "updated_at": "2022-06-28 20:32:30.067908+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "6ac383f6-dbee-426e-b1c6-7d3d01d2bf0c",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 1.0,
+      "meal_summary": "09404927-5dd2-489a-9f01-cc8d34985571",
+      "created_at": "2022-06-28 20:32:30.067916+00:00",
+      "updated_at": "2022-06-28 20:32:30.067918+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "671141c9-7c25-49bb-9b48-043a48bb299d",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "3483f2dc-61a9-4c08-9068-f96321605b3d",
+      "created_at": "2022-06-28 20:32:30.067934+00:00",
+      "updated_at": "2022-06-28 20:32:30.067936+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "145d2eb2-34d7-43df-a428-03413e6f156b",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 1.5,
+      "meal_summary": "3483f2dc-61a9-4c08-9068-f96321605b3d",
+      "created_at": "2022-06-28 20:32:30.067943+00:00",
+      "updated_at": "2022-06-28 20:32:30.067945+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "4a70fe77-ef2e-4c27-8745-a3cfc6db1bb6",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 2.0,
+      "meal_summary": "3483f2dc-61a9-4c08-9068-f96321605b3d",
+      "created_at": "2022-06-28 20:32:30.067952+00:00",
+      "updated_at": "2022-06-28 20:32:30.067954+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f0ca34ae-b73f-49c7-9094-5ff69600866e",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "3483f2dc-61a9-4c08-9068-f96321605b3d",
+      "created_at": "2022-06-28 20:32:30.067962+00:00",
+      "updated_at": "2022-06-28 20:32:30.067964+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "50d3458b-f6c2-41ac-a23a-bb52acd6ffee",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "b3ebc66e-fc25-4ca9-9a66-f5db01af60c6",
+      "created_at": "2022-06-28 20:32:30.067980+00:00",
+      "updated_at": "2022-06-28 20:32:30.067982+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "58f31dea-040d-4841-8b85-6733afbd88a8",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 1.0,
+      "meal_summary": "b3ebc66e-fc25-4ca9-9a66-f5db01af60c6",
+      "created_at": "2022-06-28 20:32:30.067991+00:00",
+      "updated_at": "2022-06-28 20:32:30.067993+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "be4263de-b7a9-4a93-93f6-99e27bed1947",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "b3ebc66e-fc25-4ca9-9a66-f5db01af60c6",
+      "created_at": "2022-06-28 20:32:30.068001+00:00",
+      "updated_at": "2022-06-28 20:32:30.068003+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "468ff717-3b8d-4e56-8c69-1c3450411bc6",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "b3ebc66e-fc25-4ca9-9a66-f5db01af60c6",
+      "created_at": "2022-06-28 20:32:30.068010+00:00",
+      "updated_at": "2022-06-28 20:32:30.068012+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ea134b61-618f-4e03-9b0b-855ffa8075d1",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.5,
+      "meal_summary": "ca94ec2b-0473-4a45-9ee4-df18fefc7a46",
+      "created_at": "2022-06-28 20:32:30.068027+00:00",
+      "updated_at": "2022-06-28 20:32:30.068029+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "2c5b5f51-23ab-4971-941d-ca4717287db9",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 2.0,
+      "meal_summary": "ca94ec2b-0473-4a45-9ee4-df18fefc7a46",
+      "created_at": "2022-06-28 20:32:30.068038+00:00",
+      "updated_at": "2022-06-28 20:32:30.068041+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "a6edfb10-b27e-469e-a697-3361012a0209",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.5,
+      "meal_summary": "ca94ec2b-0473-4a45-9ee4-df18fefc7a46",
+      "created_at": "2022-06-28 20:32:30.068048+00:00",
+      "updated_at": "2022-06-28 20:32:30.068050+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "dffe9fc3-a943-46a2-a426-598e4c63abb1",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "ca94ec2b-0473-4a45-9ee4-df18fefc7a46",
+      "created_at": "2022-06-28 20:32:30.068057+00:00",
+      "updated_at": "2022-06-28 20:32:30.068059+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "66c812a4-cfed-4fdb-b791-c94704f48939",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "93140a63-1a56-4b28-9532-dc65a6159829",
+      "created_at": "2022-06-28 20:32:30.068092+00:00",
+      "updated_at": "2022-06-28 20:32:30.068094+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "92c56dc6-9941-49bb-9a06-1ee92a3ec4f2",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 1.0,
+      "meal_summary": "93140a63-1a56-4b28-9532-dc65a6159829",
+      "created_at": "2022-06-28 20:32:30.068102+00:00",
+      "updated_at": "2022-06-28 20:32:30.068104+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "0f22888a-7cf1-45ef-8529-259a00a5f934",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "93140a63-1a56-4b28-9532-dc65a6159829",
+      "created_at": "2022-06-28 20:32:30.068111+00:00",
+      "updated_at": "2022-06-28 20:32:30.068113+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "4ebfaeac-5e89-4f91-8dcf-990b8697691e",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "93140a63-1a56-4b28-9532-dc65a6159829",
+      "created_at": "2022-06-28 20:32:30.068120+00:00",
+      "updated_at": "2022-06-28 20:32:30.068122+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ad51589d-1f2c-4302-9978-3afb9c886b30",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "93140a63-1a56-4b28-9532-dc65a6159829",
+      "created_at": "2022-06-28 20:32:30.068132+00:00",
+      "updated_at": "2022-06-28 20:32:30.068134+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "4256635b-b9e6-4215-a6d1-4728913dddf7",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.0,
+      "meal_summary": "e2fc759a-a61b-4530-8a03-f691a4122f22",
+      "created_at": "2022-06-28 20:32:30.068150+00:00",
+      "updated_at": "2022-06-28 20:32:30.068152+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "23a55303-8d98-47dd-8ee6-64f9c5472f15",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 2.5,
+      "meal_summary": "e2fc759a-a61b-4530-8a03-f691a4122f22",
+      "created_at": "2022-06-28 20:32:30.068160+00:00",
+      "updated_at": "2022-06-28 20:32:30.068162+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "3113b556-3ffb-4b19-a8ca-86326fc7576a",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 3.0,
+      "meal_summary": "e2fc759a-a61b-4530-8a03-f691a4122f22",
+      "created_at": "2022-06-28 20:32:30.068169+00:00",
+      "updated_at": "2022-06-28 20:32:30.068171+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ef5a9fb3-5d52-4c5a-b8bb-be2f565b2b62",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "e2fc759a-a61b-4530-8a03-f691a4122f22",
+      "created_at": "2022-06-28 20:32:30.068178+00:00",
+      "updated_at": "2022-06-28 20:32:30.068180+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ebc109fc-64f5-478a-9eec-524d58b18073",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "9de130ff-c79e-4dc9-a138-ae2ad4d5f494",
+      "created_at": "2022-06-28 20:32:30.068199+00:00",
+      "updated_at": "2022-06-28 20:32:30.068201+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "644a0034-f74a-44e7-8919-f08fd773ddcf",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 0.5,
+      "meal_summary": "9de130ff-c79e-4dc9-a138-ae2ad4d5f494",
+      "created_at": "2022-06-28 20:32:30.068209+00:00",
+      "updated_at": "2022-06-28 20:32:30.068211+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "17a3f938-b377-4331-9c71-8a54d48f07de",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "9de130ff-c79e-4dc9-a138-ae2ad4d5f494",
+      "created_at": "2022-06-28 20:32:30.068219+00:00",
+      "updated_at": "2022-06-28 20:32:30.068222+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "a248b61c-593a-42c7-9fca-34f319494f14",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "9de130ff-c79e-4dc9-a138-ae2ad4d5f494",
+      "created_at": "2022-06-28 20:32:30.068229+00:00",
+      "updated_at": "2022-06-28 20:32:30.068231+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "fec26f03-857c-4f63-bac4-3e8e5ec8900a",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "3b7d55cd-6ce2-464d-8dae-41ee87219158",
+      "created_at": "2022-06-28 20:32:30.068247+00:00",
+      "updated_at": "2022-06-28 20:32:30.068249+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "769a7162-b570-4c8b-b99d-306d8416cae4",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 2.0,
+      "meal_summary": "3b7d55cd-6ce2-464d-8dae-41ee87219158",
+      "created_at": "2022-06-28 20:32:30.068256+00:00",
+      "updated_at": "2022-06-28 20:32:30.068258+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "504b64ff-676a-4368-a05b-72f5a1348099",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.5,
+      "meal_summary": "3b7d55cd-6ce2-464d-8dae-41ee87219158",
+      "created_at": "2022-06-28 20:32:30.068267+00:00",
+      "updated_at": "2022-06-28 20:32:30.068269+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "fd6112dc-a95f-43d7-a858-c5ca9c7792e6",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.5,
+      "meal_summary": "3b7d55cd-6ce2-464d-8dae-41ee87219158",
+      "created_at": "2022-06-28 20:32:30.068277+00:00",
+      "updated_at": "2022-06-28 20:32:30.068279+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "d5cee5c0-9c81-4485-a339-a53839f725ed",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "8ab955b8-2219-49e5-af56-d602bae40cbb",
+      "created_at": "2022-06-28 20:32:30.068294+00:00",
+      "updated_at": "2022-06-28 20:32:30.068296+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "21f7ad47-4d44-428e-b30e-258c86b571f1",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 1.5,
+      "meal_summary": "8ab955b8-2219-49e5-af56-d602bae40cbb",
+      "created_at": "2022-06-28 20:32:30.068303+00:00",
+      "updated_at": "2022-06-28 20:32:30.068305+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "665a4e59-f3cb-4187-8b56-8f601e51add2",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "8ab955b8-2219-49e5-af56-d602bae40cbb",
+      "created_at": "2022-06-28 20:32:30.068312+00:00",
+      "updated_at": "2022-06-28 20:32:30.068314+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "695dc640-231c-41a7-987a-e1b2dd697c06",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "8ab955b8-2219-49e5-af56-d602bae40cbb",
+      "created_at": "2022-06-28 20:32:30.068322+00:00",
+      "updated_at": "2022-06-28 20:32:30.068323+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "342016eb-83a9-43fa-b690-307598a6215b",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 3.0,
+      "meal_summary": "933d7107-7ad5-4275-8980-a7cb8fb946f6",
+      "created_at": "2022-06-28 20:32:30.068341+00:00",
+      "updated_at": "2022-06-28 20:32:30.068343+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "53d0461f-30c6-4eb9-8fc1-3544915c8d88",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 2.5,
+      "meal_summary": "933d7107-7ad5-4275-8980-a7cb8fb946f6",
+      "created_at": "2022-06-28 20:32:30.068351+00:00",
+      "updated_at": "2022-06-28 20:32:30.068353+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "c01377b3-c99e-458b-b9d6-0afef1a6e516",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.5,
+      "meal_summary": "933d7107-7ad5-4275-8980-a7cb8fb946f6",
+      "created_at": "2022-06-28 20:32:30.068387+00:00",
+      "updated_at": "2022-06-28 20:32:30.068390+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "68cda0ed-b28c-4a77-83ba-56cdbe789303",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "933d7107-7ad5-4275-8980-a7cb8fb946f6",
+      "created_at": "2022-06-28 20:32:30.068400+00:00",
+      "updated_at": "2022-06-28 20:32:30.068402+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f5d21ada-eda5-44e3-ab98-3b9b0b018e29",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "e9be124a-af30-47b6-8aed-760ed98edea9",
+      "created_at": "2022-06-28 20:32:30.068429+00:00",
+      "updated_at": "2022-06-28 20:32:30.068432+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "56fd29c8-82b9-46ad-ab3e-eaf290f625bb",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 1.5,
+      "meal_summary": "e9be124a-af30-47b6-8aed-760ed98edea9",
+      "created_at": "2022-06-28 20:32:30.068440+00:00",
+      "updated_at": "2022-06-28 20:32:30.068442+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "2c5722e4-12c5-4cc7-bd96-aee62a578396",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "e9be124a-af30-47b6-8aed-760ed98edea9",
+      "created_at": "2022-06-28 20:32:30.068450+00:00",
+      "updated_at": "2022-06-28 20:32:30.068451+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "7a8c0037-c1fc-4c73-aee5-eeb1fcd3ceeb",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "e9be124a-af30-47b6-8aed-760ed98edea9",
+      "created_at": "2022-06-28 20:32:30.068459+00:00",
+      "updated_at": "2022-06-28 20:32:30.068461+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "e52b5ad6-71fb-4c16-ac76-76c691061e5d",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "e9be124a-af30-47b6-8aed-760ed98edea9",
+      "created_at": "2022-06-28 20:32:30.068468+00:00",
+      "updated_at": "2022-06-28 20:32:30.068470+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "db0b897e-ff54-40d9-a80d-4ecf3aa8114c",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.5,
+      "meal_summary": "fe3df1fb-f0b3-4f28-b573-0e5e8d75f1bc",
+      "created_at": "2022-06-28 20:32:30.068485+00:00",
+      "updated_at": "2022-06-28 20:32:30.068487+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "c5ed1979-8484-4eee-9e70-289527c0b7ed",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 2.5,
+      "meal_summary": "fe3df1fb-f0b3-4f28-b573-0e5e8d75f1bc",
+      "created_at": "2022-06-28 20:32:30.068494+00:00",
+      "updated_at": "2022-06-28 20:32:30.068496+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "b88adb39-d5ad-4155-a73e-1b441f657b3b",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 3.0,
+      "meal_summary": "fe3df1fb-f0b3-4f28-b573-0e5e8d75f1bc",
+      "created_at": "2022-06-28 20:32:30.068506+00:00",
+      "updated_at": "2022-06-28 20:32:30.068508+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f55993fc-6b4e-4e72-aa09-4c982086a97c",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "fe3df1fb-f0b3-4f28-b573-0e5e8d75f1bc",
+      "created_at": "2022-06-28 20:32:30.068515+00:00",
+      "updated_at": "2022-06-28 20:32:30.068517+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "3a1c5a5d-3e0e-42c9-a76a-42ccbe5645e3",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "edd9096e-62da-475f-a306-bdfa6d262a2f",
+      "created_at": "2022-06-28 20:32:30.068533+00:00",
+      "updated_at": "2022-06-28 20:32:30.068535+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9f8f53c0-2bc1-4dfc-9278-978bcfe505ba",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 0.5,
+      "meal_summary": "edd9096e-62da-475f-a306-bdfa6d262a2f",
+      "created_at": "2022-06-28 20:32:30.068542+00:00",
+      "updated_at": "2022-06-28 20:32:30.068544+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ce02280e-8c27-4215-84d0-590d2bc4436a",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "edd9096e-62da-475f-a306-bdfa6d262a2f",
+      "created_at": "2022-06-28 20:32:30.068553+00:00",
+      "updated_at": "2022-06-28 20:32:30.068555+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "a41b35d5-b5e4-458e-835d-2eec09914136",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "edd9096e-62da-475f-a306-bdfa6d262a2f",
+      "created_at": "2022-06-28 20:32:30.068565+00:00",
+      "updated_at": "2022-06-28 20:32:30.068567+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "d57d0faf-ede6-4a57-9036-5996dd2b435d",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.0,
+      "meal_summary": "169d13b8-32b9-4ead-8e0f-a39fffff2df2",
+      "created_at": "2022-06-28 20:32:30.068584+00:00",
+      "updated_at": "2022-06-28 20:32:30.068586+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f3eaafaa-dd53-4af0-b9a4-c80cf27a9124",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 2.0,
+      "meal_summary": "169d13b8-32b9-4ead-8e0f-a39fffff2df2",
+      "created_at": "2022-06-28 20:32:30.068594+00:00",
+      "updated_at": "2022-06-28 20:32:30.068596+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "7b3d9783-4a61-4989-a6ef-c464935d028b",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 2.5,
+      "meal_summary": "169d13b8-32b9-4ead-8e0f-a39fffff2df2",
+      "created_at": "2022-06-28 20:32:30.068603+00:00",
+      "updated_at": "2022-06-28 20:32:30.068605+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "fb6093d2-b239-478c-808b-1a887d74e221",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.5,
+      "meal_summary": "169d13b8-32b9-4ead-8e0f-a39fffff2df2",
+      "created_at": "2022-06-28 20:32:30.068612+00:00",
+      "updated_at": "2022-06-28 20:32:30.068614+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9ef62671-a1a1-4ead-bd7e-c3c7d076e710",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "db1b130a-02bf-45ad-82bb-26a955e7e5e8",
+      "created_at": "2022-06-28 20:32:30.068631+00:00",
+      "updated_at": "2022-06-28 20:32:30.068633+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "5ab2acc9-b3ab-4e3f-b46b-c03412a6932a",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 2.0,
+      "meal_summary": "db1b130a-02bf-45ad-82bb-26a955e7e5e8",
+      "created_at": "2022-06-28 20:32:30.068641+00:00",
+      "updated_at": "2022-06-28 20:32:30.068643+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "a9bb3762-c40a-4a1e-9a48-b6f708f0b2e0",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "db1b130a-02bf-45ad-82bb-26a955e7e5e8",
+      "created_at": "2022-06-28 20:32:30.068651+00:00",
+      "updated_at": "2022-06-28 20:32:30.068653+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f58ba3b2-75c7-4413-b8af-9696ad9a56d6",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "db1b130a-02bf-45ad-82bb-26a955e7e5e8",
+      "created_at": "2022-06-28 20:32:30.068660+00:00",
+      "updated_at": "2022-06-28 20:32:30.068662+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "275d880b-f0cb-4d29-8b22-7e079e49ae51",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "db1b130a-02bf-45ad-82bb-26a955e7e5e8",
+      "created_at": "2022-06-28 20:32:30.068669+00:00",
+      "updated_at": "2022-06-28 20:32:30.068683+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "8bf998a4-01df-4d28-98a4-0f106fc1544d",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 3.0,
+      "meal_summary": "cb361abb-2d82-4139-8df0-d951a58b7dc4",
+      "created_at": "2022-06-28 20:32:30.068709+00:00",
+      "updated_at": "2022-06-28 20:32:30.068711+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "c54ea0b4-f516-416d-b0cb-f42736562a02",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 3.0,
+      "meal_summary": "cb361abb-2d82-4139-8df0-d951a58b7dc4",
+      "created_at": "2022-06-28 20:32:30.068718+00:00",
+      "updated_at": "2022-06-28 20:32:30.068720+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "60cd6aac-f286-46d4-99f5-f00b72b410e2",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 4.0,
+      "meal_summary": "cb361abb-2d82-4139-8df0-d951a58b7dc4",
+      "created_at": "2022-06-28 20:32:30.068727+00:00",
+      "updated_at": "2022-06-28 20:32:30.068729+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "49c35af7-50b0-4a53-9f93-7944940bb32f",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "cb361abb-2d82-4139-8df0-d951a58b7dc4",
+      "created_at": "2022-06-28 20:32:30.068736+00:00",
+      "updated_at": "2022-06-28 20:32:30.068738+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "2f2d3d7b-4c00-4e1c-a956-04cf178a2e2f",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "ea904c0e-781d-45ac-9a9c-b7d1734717ca",
+      "created_at": "2022-06-28 20:32:30.068754+00:00",
+      "updated_at": "2022-06-28 20:32:30.068756+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "d025f622-7d91-482f-a8e4-c77c0dbf2b45",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 2.0,
+      "meal_summary": "ea904c0e-781d-45ac-9a9c-b7d1734717ca",
+      "created_at": "2022-06-28 20:32:30.068785+00:00",
+      "updated_at": "2022-06-28 20:32:30.068792+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "12d16bb7-eec3-46d9-ac10-dc5dfacc3ccb",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "ea904c0e-781d-45ac-9a9c-b7d1734717ca",
+      "created_at": "2022-06-28 20:32:30.068843+00:00",
+      "updated_at": "2022-06-28 20:32:30.068847+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "0c37b5c0-657a-4166-b280-2300e6ac6034",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "ea904c0e-781d-45ac-9a9c-b7d1734717ca",
+      "created_at": "2022-06-28 20:32:30.068861+00:00",
+      "updated_at": "2022-06-28 20:32:30.068864+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "5a5c1bc3-6493-47c9-8b1c-88a8bd061327",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "ea904c0e-781d-45ac-9a9c-b7d1734717ca",
+      "created_at": "2022-06-28 20:32:30.068883+00:00",
+      "updated_at": "2022-06-28 20:32:30.068886+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "29951b1e-f704-4ceb-90d9-47aa340eee2b",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.5,
+      "meal_summary": "239a44d6-9508-45e9-a590-8059c8841e72",
+      "created_at": "2022-06-28 20:32:30.068945+00:00",
+      "updated_at": "2022-06-28 20:32:30.068947+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "83a307ab-e5a6-4e9e-950a-f1bbac4810ed",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 3.0,
+      "meal_summary": "239a44d6-9508-45e9-a590-8059c8841e72",
+      "created_at": "2022-06-28 20:32:30.068954+00:00",
+      "updated_at": "2022-06-28 20:32:30.068956+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "3f69623c-25fd-44b3-bce7-4a15005fed49",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 4.0,
+      "meal_summary": "239a44d6-9508-45e9-a590-8059c8841e72",
+      "created_at": "2022-06-28 20:32:30.068966+00:00",
+      "updated_at": "2022-06-28 20:32:30.068968+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "1bf17a72-74c2-4498-b84b-609f7bbff1af",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "239a44d6-9508-45e9-a590-8059c8841e72",
+      "created_at": "2022-06-28 20:32:30.068990+00:00",
+      "updated_at": "2022-06-28 20:32:30.068992+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "d89eddb9-0437-4b2e-b3f0-9f3ab3d58d9e",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "818317bb-89f4-4292-9840-83e1e4753be3",
+      "created_at": "2022-06-28 20:32:30.069008+00:00",
+      "updated_at": "2022-06-28 20:32:30.069010+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "4effdda4-fff9-4307-9fcd-81e08711b0b7",
+    "fields": {
+      "food_supergroup": "LFD",
+      "intake": 1.0,
+      "meal_summary": "818317bb-89f4-4292-9840-83e1e4753be3",
+      "created_at": "2022-06-28 20:32:30.069017+00:00",
+      "updated_at": "2022-06-28 20:32:30.069019+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "80bf9ae6-8b01-413e-ac47-48c1e2e10ab9",
+    "fields": {
+      "food_supergroup": "PRO",
+      "intake": 1.0,
+      "meal_summary": "818317bb-89f4-4292-9840-83e1e4753be3",
+      "created_at": "2022-06-28 20:32:30.069050+00:00",
+      "updated_at": "2022-06-28 20:32:30.069052+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "b01923bd-c2e2-46f2-88b5-a6441e9cc793",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "818317bb-89f4-4292-9840-83e1e4753be3",
+      "created_at": "2022-06-28 20:32:30.069061+00:00",
+      "updated_at": "2022-06-28 20:32:30.069063+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "617a9046-d20d-4ff2-9b1d-ff99494db5d4",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "f3b79fe0-ae5f-4a0b-a76f-2ceb094ab3c9",
+      "created_at": "2022-06-28 20:32:30.069079+00:00",
+      "updated_at": "2022-06-28 20:32:30.069081+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "463de0a9-7232-4ac5-9883-737d48f62085",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.0,
+      "meal_summary": "f3b79fe0-ae5f-4a0b-a76f-2ceb094ab3c9",
+      "created_at": "2022-06-28 20:32:30.069115+00:00",
+      "updated_at": "2022-06-28 20:32:30.069118+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "c2f0952a-5490-4009-ac41-ec1d20ecc67e",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "f3b79fe0-ae5f-4a0b-a76f-2ceb094ab3c9",
+      "created_at": "2022-06-28 20:32:30.069134+00:00",
+      "updated_at": "2022-06-28 20:32:30.069136+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "09da7490-f6b7-447e-a6b4-a457240ebab3",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "c4856b23-2923-462f-94e5-74c0913d54e5",
+      "created_at": "2022-06-28 20:32:30.069153+00:00",
+      "updated_at": "2022-06-28 20:32:30.069155+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "e424a396-4282-48d4-baa2-3e0cd395c436",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 1.5,
+      "meal_summary": "c4856b23-2923-462f-94e5-74c0913d54e5",
+      "created_at": "2022-06-28 20:32:30.069167+00:00",
+      "updated_at": "2022-06-28 20:32:30.069169+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "39bcb15a-c2dc-4f2b-8479-8ad3da86d6a6",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "c4856b23-2923-462f-94e5-74c0913d54e5",
+      "created_at": "2022-06-28 20:32:30.069177+00:00",
+      "updated_at": "2022-06-28 20:32:30.069179+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "19f78dcb-5465-44c7-9db7-9bf0c4a4ccf9",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "6e6c3613-c897-4884-8e02-9c11233d9f45",
+      "created_at": "2022-06-28 20:32:30.069195+00:00",
+      "updated_at": "2022-06-28 20:32:30.069197+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "bb0eb0e6-d190-4826-bd6c-313fb3fd9e05",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.0,
+      "meal_summary": "6e6c3613-c897-4884-8e02-9c11233d9f45",
+      "created_at": "2022-06-28 20:32:30.069204+00:00",
+      "updated_at": "2022-06-28 20:32:30.069206+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ca70c83e-4067-4e11-bfab-7ddb23d2384b",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "6e6c3613-c897-4884-8e02-9c11233d9f45",
+      "created_at": "2022-06-28 20:32:30.069214+00:00",
+      "updated_at": "2022-06-28 20:32:30.069216+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "36f80473-f669-47fe-96bf-1558e99c90c3",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "6e6c3613-c897-4884-8e02-9c11233d9f45",
+      "created_at": "2022-06-28 20:32:30.069223+00:00",
+      "updated_at": "2022-06-28 20:32:30.069225+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "6c0b2295-8b1f-4dcb-b6e7-834be237ae74",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "26a32524-770a-4b59-8ec3-19ff80bd0cad",
+      "created_at": "2022-06-28 20:32:30.069240+00:00",
+      "updated_at": "2022-06-28 20:32:30.069242+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "bbea210e-865a-44b5-a938-caf711939736",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 1.5,
+      "meal_summary": "26a32524-770a-4b59-8ec3-19ff80bd0cad",
+      "created_at": "2022-06-28 20:32:30.069249+00:00",
+      "updated_at": "2022-06-28 20:32:30.069251+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "461450d7-5289-4179-bdb8-e74316e2fcac",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "26a32524-770a-4b59-8ec3-19ff80bd0cad",
+      "created_at": "2022-06-28 20:32:30.069258+00:00",
+      "updated_at": "2022-06-28 20:32:30.069260+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "11723bad-0155-4111-8a3a-8fa8e4e9f55f",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.0,
+      "meal_summary": "d7eaefac-fac9-44d1-833e-c8deba02c551",
+      "created_at": "2022-06-28 20:32:30.069279+00:00",
+      "updated_at": "2022-06-28 20:32:30.069281+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "445a5fac-5f27-431c-954e-448e3d997e32",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.0,
+      "meal_summary": "d7eaefac-fac9-44d1-833e-c8deba02c551",
+      "created_at": "2022-06-28 20:32:30.069290+00:00",
+      "updated_at": "2022-06-28 20:32:30.069292+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "d8938893-98b1-45bc-a928-7241e3bd9ef8",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "d7eaefac-fac9-44d1-833e-c8deba02c551",
+      "created_at": "2022-06-28 20:32:30.069299+00:00",
+      "updated_at": "2022-06-28 20:32:30.069302+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "4c501433-a11d-4e44-84f9-4fd80a48cd6c",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "d7eaefac-fac9-44d1-833e-c8deba02c551",
+      "created_at": "2022-06-28 20:32:30.069309+00:00",
+      "updated_at": "2022-06-28 20:32:30.069311+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "20e64d3e-7b05-4b3e-a612-e7926d0f453c",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "60685c3f-7a6a-4426-aec1-8f119b9d679c",
+      "created_at": "2022-06-28 20:32:30.069327+00:00",
+      "updated_at": "2022-06-28 20:32:30.069329+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "23f1b333-b33d-4af4-9175-5abf229dc43b",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.5,
+      "meal_summary": "60685c3f-7a6a-4426-aec1-8f119b9d679c",
+      "created_at": "2022-06-28 20:32:30.069336+00:00",
+      "updated_at": "2022-06-28 20:32:30.069338+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "a9a08042-285e-419d-9694-b0fa310ff604",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "60685c3f-7a6a-4426-aec1-8f119b9d679c",
+      "created_at": "2022-06-28 20:32:30.069345+00:00",
+      "updated_at": "2022-06-28 20:32:30.069347+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "40b403e6-5629-4450-bed1-18d46092bab6",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "25d06946-cc85-417d-958b-f787661ed0bc",
+      "created_at": "2022-06-28 20:32:30.069362+00:00",
+      "updated_at": "2022-06-28 20:32:30.069364+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "0409c593-bc55-456c-9f33-cd22480baaf9",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.0,
+      "meal_summary": "25d06946-cc85-417d-958b-f787661ed0bc",
+      "created_at": "2022-06-28 20:32:30.069372+00:00",
+      "updated_at": "2022-06-28 20:32:30.069374+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "521efba0-e8f3-42e5-add8-61a123065ed5",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "25d06946-cc85-417d-958b-f787661ed0bc",
+      "created_at": "2022-06-28 20:32:30.069381+00:00",
+      "updated_at": "2022-06-28 20:32:30.069383+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "217f167c-9ddb-4685-8bca-ea1dfe59133b",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "ee0d5a72-1a23-439e-ab39-372afe80e5f6",
+      "created_at": "2022-06-28 20:32:30.069415+00:00",
+      "updated_at": "2022-06-28 20:32:30.069419+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "37e0f77c-b53c-4f3c-9137-fc22036e2ac4",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.5,
+      "meal_summary": "ee0d5a72-1a23-439e-ab39-372afe80e5f6",
+      "created_at": "2022-06-28 20:32:30.069434+00:00",
+      "updated_at": "2022-06-28 20:32:30.069436+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "e7647b8c-9980-49a4-8214-0fd7262c46ac",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "ee0d5a72-1a23-439e-ab39-372afe80e5f6",
+      "created_at": "2022-06-28 20:32:30.069567+00:00",
+      "updated_at": "2022-06-28 20:32:30.069574+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "618cce11-7dc4-4a67-831e-f9e3b84fb2d6",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "ee0d5a72-1a23-439e-ab39-372afe80e5f6",
+      "created_at": "2022-06-28 20:32:30.069592+00:00",
+      "updated_at": "2022-06-28 20:32:30.069594+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "a4477c9e-dda1-4472-8ada-92a1201069be",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "6a7e8e8e-5082-432c-b171-7b85359f0d8c",
+      "created_at": "2022-06-28 20:32:30.069613+00:00",
+      "updated_at": "2022-06-28 20:32:30.069615+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "78a4419f-a05b-4559-8cd1-ded2d9e82956",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.0,
+      "meal_summary": "6a7e8e8e-5082-432c-b171-7b85359f0d8c",
+      "created_at": "2022-06-28 20:32:30.069623+00:00",
+      "updated_at": "2022-06-28 20:32:30.069625+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9ba26aba-a63d-4926-bbb2-eef01f8bb5de",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "6a7e8e8e-5082-432c-b171-7b85359f0d8c",
+      "created_at": "2022-06-28 20:32:30.069633+00:00",
+      "updated_at": "2022-06-28 20:32:30.069635+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f92f8726-2e7e-4a9b-bf4f-6e5174a1b269",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.0,
+      "meal_summary": "f89e3217-de8c-47a5-a2c6-a54228927d77",
+      "created_at": "2022-06-28 20:32:30.069651+00:00",
+      "updated_at": "2022-06-28 20:32:30.069653+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "88674afb-8c4e-4b57-8b0d-be18127fbcf5",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.0,
+      "meal_summary": "f89e3217-de8c-47a5-a2c6-a54228927d77",
+      "created_at": "2022-06-28 20:32:30.069660+00:00",
+      "updated_at": "2022-06-28 20:32:30.069662+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "5f1eb4fa-5e0c-40a9-9356-4791ad4a72af",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "f89e3217-de8c-47a5-a2c6-a54228927d77",
+      "created_at": "2022-06-28 20:32:30.069669+00:00",
+      "updated_at": "2022-06-28 20:32:30.069671+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "d4df23e1-684a-4cd7-b823-3caecd478e6d",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "f89e3217-de8c-47a5-a2c6-a54228927d77",
+      "created_at": "2022-06-28 20:32:30.069679+00:00",
+      "updated_at": "2022-06-28 20:32:30.069681+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "0dfbc2bc-49a1-4803-a656-43305b2fc8af",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "7b4e1d80-e9bd-4a5d-a527-e0070d084cc8",
+      "created_at": "2022-06-28 20:32:30.069698+00:00",
+      "updated_at": "2022-06-28 20:32:30.069700+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f5bec470-4ab4-4b8a-a9ea-83bbba851ac9",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.0,
+      "meal_summary": "7b4e1d80-e9bd-4a5d-a527-e0070d084cc8",
+      "created_at": "2022-06-28 20:32:30.069713+00:00",
+      "updated_at": "2022-06-28 20:32:30.069715+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "a994ae26-fd71-49ae-941b-e65eef8ef8f4",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "7b4e1d80-e9bd-4a5d-a527-e0070d084cc8",
+      "created_at": "2022-06-28 20:32:30.069723+00:00",
+      "updated_at": "2022-06-28 20:32:30.069725+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9765d311-2dff-4908-8fd0-417249770a67",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "6fe4148e-5bfc-41b0-8095-57edb38ec0f4",
+      "created_at": "2022-06-28 20:32:30.069741+00:00",
+      "updated_at": "2022-06-28 20:32:30.069743+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "d23acd63-ab81-4559-949d-7607e8cd849e",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 1.5,
+      "meal_summary": "6fe4148e-5bfc-41b0-8095-57edb38ec0f4",
+      "created_at": "2022-06-28 20:32:30.069787+00:00",
+      "updated_at": "2022-06-28 20:32:30.069791+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "35937d94-02e4-47f3-9fa7-c055470b7b83",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "6fe4148e-5bfc-41b0-8095-57edb38ec0f4",
+      "created_at": "2022-06-28 20:32:30.069833+00:00",
+      "updated_at": "2022-06-28 20:32:30.069835+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "70f2becb-0ef8-43ee-ba42-2c2e8468802e",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.0,
+      "meal_summary": "008f6cfb-e461-40fe-9869-46ba29c946a0",
+      "created_at": "2022-06-28 20:32:30.069858+00:00",
+      "updated_at": "2022-06-28 20:32:30.069860+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "fe1afef3-e20e-4e32-8e1a-bab480f03014",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.5,
+      "meal_summary": "008f6cfb-e461-40fe-9869-46ba29c946a0",
+      "created_at": "2022-06-28 20:32:30.069869+00:00",
+      "updated_at": "2022-06-28 20:32:30.069871+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "70c87331-4d37-4fc9-abd5-9ee8497dfa09",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "008f6cfb-e461-40fe-9869-46ba29c946a0",
+      "created_at": "2022-06-28 20:32:30.069879+00:00",
+      "updated_at": "2022-06-28 20:32:30.069881+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "8a3611bc-fd49-4540-a10f-7d6a3005241f",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 1.5,
+      "meal_summary": "008f6cfb-e461-40fe-9869-46ba29c946a0",
+      "created_at": "2022-06-28 20:32:30.069903+00:00",
+      "updated_at": "2022-06-28 20:32:30.069905+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "8f334b35-cf39-49d7-87e6-18b46d99d3e2",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "566bcee7-89dd-4d14-9e28-ff377fe26014",
+      "created_at": "2022-06-28 20:32:30.069935+00:00",
+      "updated_at": "2022-06-28 20:32:30.069937+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "7fd171f5-06b0-438e-991f-72bec7c3fd79",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.5,
+      "meal_summary": "566bcee7-89dd-4d14-9e28-ff377fe26014",
+      "created_at": "2022-06-28 20:32:30.069947+00:00",
+      "updated_at": "2022-06-28 20:32:30.069949+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "e563796f-a746-447e-a5c2-640f021d9d58",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "566bcee7-89dd-4d14-9e28-ff377fe26014",
+      "created_at": "2022-06-28 20:32:30.069959+00:00",
+      "updated_at": "2022-06-28 20:32:30.069961+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "454818de-bf12-483b-a46f-6ce31b96a802",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "566bcee7-89dd-4d14-9e28-ff377fe26014",
+      "created_at": "2022-06-28 20:32:30.069969+00:00",
+      "updated_at": "2022-06-28 20:32:30.069971+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "be2a383d-2b84-4e15-9a84-6e59d4ae4d2a",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.0,
+      "meal_summary": "168f0c83-898c-4203-b0ad-c87b0fff2126",
+      "created_at": "2022-06-28 20:32:30.069989+00:00",
+      "updated_at": "2022-06-28 20:32:30.069991+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "fbb844c8-740d-47ec-9c03-dd536843e8eb",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.0,
+      "meal_summary": "168f0c83-898c-4203-b0ad-c87b0fff2126",
+      "created_at": "2022-06-28 20:32:30.069999+00:00",
+      "updated_at": "2022-06-28 20:32:30.070001+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "debadc87-64fb-45ec-93c4-3c34429c2570",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "168f0c83-898c-4203-b0ad-c87b0fff2126",
+      "created_at": "2022-06-28 20:32:30.070008+00:00",
+      "updated_at": "2022-06-28 20:32:30.070010+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "63508f26-aa00-4102-b125-97dfb9695444",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "865825b2-b042-4f01-a3a0-36eb717cf765",
+      "created_at": "2022-06-28 20:32:30.070026+00:00",
+      "updated_at": "2022-06-28 20:32:30.070028+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ed065b6f-7bfb-417f-8d39-85d199cdd74c",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.0,
+      "meal_summary": "865825b2-b042-4f01-a3a0-36eb717cf765",
+      "created_at": "2022-06-28 20:32:30.070035+00:00",
+      "updated_at": "2022-06-28 20:32:30.070037+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "346a688a-3b3c-496a-ad45-7ed6a2eff53f",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "865825b2-b042-4f01-a3a0-36eb717cf765",
+      "created_at": "2022-06-28 20:32:30.070044+00:00",
+      "updated_at": "2022-06-28 20:32:30.070046+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "50bb5429-828d-4e26-926e-e653efb208c3",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 2.5,
+      "meal_summary": "0c63b8d1-79ae-4e9c-a0ba-3321a7f69e53",
+      "created_at": "2022-06-28 20:32:30.070062+00:00",
+      "updated_at": "2022-06-28 20:32:30.070064+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "1dfb701d-6d75-4158-bb0e-0a0241f69e76",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 4.5,
+      "meal_summary": "0c63b8d1-79ae-4e9c-a0ba-3321a7f69e53",
+      "created_at": "2022-06-28 20:32:30.070073+00:00",
+      "updated_at": "2022-06-28 20:32:30.070076+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "4fe50c53-be58-467c-8295-1165217a0652",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "0c63b8d1-79ae-4e9c-a0ba-3321a7f69e53",
+      "created_at": "2022-06-28 20:32:30.070083+00:00",
+      "updated_at": "2022-06-28 20:32:30.070085+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9610d22a-06ff-4937-b78b-b88dfe61c634",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 1.0,
+      "meal_summary": "0c63b8d1-79ae-4e9c-a0ba-3321a7f69e53",
+      "created_at": "2022-06-28 20:32:30.070096+00:00",
+      "updated_at": "2022-06-28 20:32:30.070098+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "cd1a2319-1712-4c4e-8785-ba1c049ac69f",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "bed94a16-a937-4af4-b8e1-0911a9decfac",
+      "created_at": "2022-06-28 20:32:30.070117+00:00",
+      "updated_at": "2022-06-28 20:32:30.070119+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "5c48c571-9564-49a4-8dd2-3647a830021f",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.0,
+      "meal_summary": "bed94a16-a937-4af4-b8e1-0911a9decfac",
+      "created_at": "2022-06-28 20:32:30.070138+00:00",
+      "updated_at": "2022-06-28 20:32:30.070142+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ba413cc2-c7a8-45ba-a204-7f4bda5b02b0",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "bed94a16-a937-4af4-b8e1-0911a9decfac",
+      "created_at": "2022-06-28 20:32:30.070154+00:00",
+      "updated_at": "2022-06-28 20:32:30.070156+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "6cf44ff6-967a-4d63-ae53-fc51c5b50f0e",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 1.5,
+      "meal_summary": "bed94a16-a937-4af4-b8e1-0911a9decfac",
+      "created_at": "2022-06-28 20:32:30.070163+00:00",
+      "updated_at": "2022-06-28 20:32:30.070165+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "79e7a3d9-470f-497b-86b3-b2fe652ea269",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "5abba1ec-ee24-4011-ac84-c706eae282e1",
+      "created_at": "2022-06-28 20:32:30.070182+00:00",
+      "updated_at": "2022-06-28 20:32:30.070184+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "5ec0c6ac-318d-44f2-9fcb-53bc4cec9835",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.5,
+      "meal_summary": "5abba1ec-ee24-4011-ac84-c706eae282e1",
+      "created_at": "2022-06-28 20:32:30.070191+00:00",
+      "updated_at": "2022-06-28 20:32:30.070193+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "75d2a32a-0679-47be-9f5b-e3364968e1c7",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "5abba1ec-ee24-4011-ac84-c706eae282e1",
+      "created_at": "2022-06-28 20:32:30.070201+00:00",
+      "updated_at": "2022-06-28 20:32:30.070203+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "cf964720-749f-4b2f-8a99-dec4cf50391f",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "b9fad7d3-f7f2-4c91-aaaf-37058b65695e",
+      "created_at": "2022-06-28 20:32:30.070221+00:00",
+      "updated_at": "2022-06-28 20:32:30.070223+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "a7031f74-7b6e-4f68-a5fc-5dfce980bd49",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.0,
+      "meal_summary": "b9fad7d3-f7f2-4c91-aaaf-37058b65695e",
+      "created_at": "2022-06-28 20:32:30.070231+00:00",
+      "updated_at": "2022-06-28 20:32:30.070233+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "301cd4cb-6c02-45df-9394-116913da5d53",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "b9fad7d3-f7f2-4c91-aaaf-37058b65695e",
+      "created_at": "2022-06-28 20:32:30.070241+00:00",
+      "updated_at": "2022-06-28 20:32:30.070243+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "21ff50e6-b98c-42ca-b450-5916d5e7c39d",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "b2187f43-4b15-440c-b7af-341f772d02cb",
+      "created_at": "2022-06-28 20:32:30.070260+00:00",
+      "updated_at": "2022-06-28 20:32:30.070262+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ef0c9755-d6be-4dd8-87c4-f1e596c9711b",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 4.5,
+      "meal_summary": "b2187f43-4b15-440c-b7af-341f772d02cb",
+      "created_at": "2022-06-28 20:32:30.070270+00:00",
+      "updated_at": "2022-06-28 20:32:30.070272+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "b4791489-3198-4e13-8b71-5cdc10c24d10",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "b2187f43-4b15-440c-b7af-341f772d02cb",
+      "created_at": "2022-06-28 20:32:30.070279+00:00",
+      "updated_at": "2022-06-28 20:32:30.070281+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f683d44c-e2fc-42aa-a881-a7b500d7e13a",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "b2187f43-4b15-440c-b7af-341f772d02cb",
+      "created_at": "2022-06-28 20:32:30.070288+00:00",
+      "updated_at": "2022-06-28 20:32:30.070290+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f01f45b0-fe5f-48d4-a0cf-5dcac01878a1",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "582b1862-fa54-40e1-9e7e-062d872eaa29",
+      "created_at": "2022-06-28 20:32:30.070308+00:00",
+      "updated_at": "2022-06-28 20:32:30.070310+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "32b211c7-23e6-4bf7-bce2-8c80f01d05b0",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.5,
+      "meal_summary": "582b1862-fa54-40e1-9e7e-062d872eaa29",
+      "created_at": "2022-06-28 20:32:30.070318+00:00",
+      "updated_at": "2022-06-28 20:32:30.070320+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "e6acfa32-8036-4101-8d32-d210f8f03d84",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "582b1862-fa54-40e1-9e7e-062d872eaa29",
+      "created_at": "2022-06-28 20:32:30.070327+00:00",
+      "updated_at": "2022-06-28 20:32:30.070329+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "197003a8-4117-4278-9508-04613b29f07e",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "582b1862-fa54-40e1-9e7e-062d872eaa29",
+      "created_at": "2022-06-28 20:32:30.070337+00:00",
+      "updated_at": "2022-06-28 20:32:30.070339+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "2f7b109e-c7db-4b86-bbb1-f3a592bc05ad",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "f8a077f2-27d0-4578-a294-489c61f53f84",
+      "created_at": "2022-06-28 20:32:30.070358+00:00",
+      "updated_at": "2022-06-28 20:32:30.070361+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "3959abaf-412c-496a-97d7-71d484de7461",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 5.0,
+      "meal_summary": "f8a077f2-27d0-4578-a294-489c61f53f84",
+      "created_at": "2022-06-28 20:32:30.070369+00:00",
+      "updated_at": "2022-06-28 20:32:30.070371+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "2fc8020d-6f3e-42c0-8b07-528bcac8825a",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "f8a077f2-27d0-4578-a294-489c61f53f84",
+      "created_at": "2022-06-28 20:32:30.070378+00:00",
+      "updated_at": "2022-06-28 20:32:30.070380+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "63eb2db0-f43d-498a-a1b2-c794586df20f",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "f8a077f2-27d0-4578-a294-489c61f53f84",
+      "created_at": "2022-06-28 20:32:30.070389+00:00",
+      "updated_at": "2022-06-28 20:32:30.070391+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "21183e25-ec45-47fa-8751-4befcd346790",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "8c119256-e0ef-4a8b-b1f1-4407745de256",
+      "created_at": "2022-06-28 20:32:30.070407+00:00",
+      "updated_at": "2022-06-28 20:32:30.070409+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "d8193c90-59de-49c5-96db-8c8591b824b5",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.0,
+      "meal_summary": "8c119256-e0ef-4a8b-b1f1-4407745de256",
+      "created_at": "2022-06-28 20:32:30.070416+00:00",
+      "updated_at": "2022-06-28 20:32:30.070418+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "333582e9-0d25-4f53-94f1-6114a92bcf41",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "8c119256-e0ef-4a8b-b1f1-4407745de256",
+      "created_at": "2022-06-28 20:32:30.070447+00:00",
+      "updated_at": "2022-06-28 20:32:30.070450+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "7422cc08-e094-4b14-9f43-4f5bd1b789ca",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "e9fa06c5-ce8a-4323-9af7-01801efb0933",
+      "created_at": "2022-06-28 20:32:30.070471+00:00",
+      "updated_at": "2022-06-28 20:32:30.070473+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ec654a36-66df-498e-bc87-aa9a01d92ec9",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 5.0,
+      "meal_summary": "e9fa06c5-ce8a-4323-9af7-01801efb0933",
+      "created_at": "2022-06-28 20:32:30.070481+00:00",
+      "updated_at": "2022-06-28 20:32:30.070483+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ef210407-7be5-42f0-997f-b0d56d6308c8",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "e9fa06c5-ce8a-4323-9af7-01801efb0933",
+      "created_at": "2022-06-28 20:32:30.070490+00:00",
+      "updated_at": "2022-06-28 20:32:30.070492+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "49cedb0f-f6ae-4974-a908-e85090100bcd",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "f35cabd4-c69c-4a75-8883-0d89ab0aca72",
+      "created_at": "2022-06-28 20:32:30.070511+00:00",
+      "updated_at": "2022-06-28 20:32:30.070513+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "aadf294d-c887-4bb9-9a32-747999cf22d0",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.5,
+      "meal_summary": "f35cabd4-c69c-4a75-8883-0d89ab0aca72",
+      "created_at": "2022-06-28 20:32:30.070521+00:00",
+      "updated_at": "2022-06-28 20:32:30.070523+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "077c9787-0979-4002-ac50-0bf090564733",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "f35cabd4-c69c-4a75-8883-0d89ab0aca72",
+      "created_at": "2022-06-28 20:32:30.070531+00:00",
+      "updated_at": "2022-06-28 20:32:30.070533+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9cfb2280-dfe4-45ee-989b-4675ce58cfa8",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "41b1a79a-538b-4028-87e1-99ff10d964c0",
+      "created_at": "2022-06-28 20:32:30.070548+00:00",
+      "updated_at": "2022-06-28 20:32:30.070550+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "c6ffabbf-515f-4e30-b191-55ca9e630f3c",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 4.0,
+      "meal_summary": "41b1a79a-538b-4028-87e1-99ff10d964c0",
+      "created_at": "2022-06-28 20:32:30.070560+00:00",
+      "updated_at": "2022-06-28 20:32:30.070562+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "37c19b7b-17e8-43a2-8ccc-227174528a5e",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "41b1a79a-538b-4028-87e1-99ff10d964c0",
+      "created_at": "2022-06-28 20:32:30.070570+00:00",
+      "updated_at": "2022-06-28 20:32:30.070572+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "05d68f7d-0b13-4cd5-abb0-99cfba9c9201",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "41b1a79a-538b-4028-87e1-99ff10d964c0",
+      "created_at": "2022-06-28 20:32:30.070579+00:00",
+      "updated_at": "2022-06-28 20:32:30.070581+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "2b493fc6-d1fe-4ea0-ae90-a4ba28f88ef1",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "4de93545-512b-43ab-bc9a-857bb64bee8f",
+      "created_at": "2022-06-28 20:32:30.070597+00:00",
+      "updated_at": "2022-06-28 20:32:30.070599+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "c2d6fbbd-6341-4329-a14e-6ef8dba35abd",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.5,
+      "meal_summary": "4de93545-512b-43ab-bc9a-857bb64bee8f",
+      "created_at": "2022-06-28 20:32:30.070608+00:00",
+      "updated_at": "2022-06-28 20:32:30.070610+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "fe671857-075e-463b-a924-fc840bce8a35",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.0,
+      "meal_summary": "4de93545-512b-43ab-bc9a-857bb64bee8f",
+      "created_at": "2022-06-28 20:32:30.070618+00:00",
+      "updated_at": "2022-06-28 20:32:30.070620+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "acb2a810-a059-40d9-81a8-459497e8ad47",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "4de93545-512b-43ab-bc9a-857bb64bee8f",
+      "created_at": "2022-06-28 20:32:30.070628+00:00",
+      "updated_at": "2022-06-28 20:32:30.070630+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "0b9d479e-36d2-4580-bc2b-87503b289f08",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "990cdbac-aa28-45cc-bea9-b0f1fd9a9649",
+      "created_at": "2022-06-28 20:32:30.070650+00:00",
+      "updated_at": "2022-06-28 20:32:30.070652+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9b7eb38b-0f60-4cee-905c-f568451a569b",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 5.0,
+      "meal_summary": "990cdbac-aa28-45cc-bea9-b0f1fd9a9649",
+      "created_at": "2022-06-28 20:32:30.070660+00:00",
+      "updated_at": "2022-06-28 20:32:30.070662+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "a0fc355f-8562-46aa-9287-e21fcb96a381",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "990cdbac-aa28-45cc-bea9-b0f1fd9a9649",
+      "created_at": "2022-06-28 20:32:30.070670+00:00",
+      "updated_at": "2022-06-28 20:32:30.070672+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "c9aa3111-f916-43b3-895e-91fbc89fc6bc",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "990cdbac-aa28-45cc-bea9-b0f1fd9a9649",
+      "created_at": "2022-06-28 20:32:30.070679+00:00",
+      "updated_at": "2022-06-28 20:32:30.070681+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "9be7e8c8-a3ae-46b2-8d0a-b90307b7e831",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 0.5,
+      "meal_summary": "9afd10bc-f7c3-49ce-8737-7d706b4d0e24",
+      "created_at": "2022-06-28 20:32:30.070699+00:00",
+      "updated_at": "2022-06-28 20:32:30.070701+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "d75aa1fa-eec6-4d1d-a052-e61e0c24354e",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.5,
+      "meal_summary": "9afd10bc-f7c3-49ce-8737-7d706b4d0e24",
+      "created_at": "2022-06-28 20:32:30.070708+00:00",
+      "updated_at": "2022-06-28 20:32:30.070710+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "afe245a2-6a13-4e09-a6e7-6f8bba9e03d1",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "9afd10bc-f7c3-49ce-8737-7d706b4d0e24",
+      "created_at": "2022-06-28 20:32:30.070717+00:00",
+      "updated_at": "2022-06-28 20:32:30.070719+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "371ef34a-4077-49ce-bbcc-9153057d6393",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "3cb589de-172f-45a0-bd83-396210af4916",
+      "created_at": "2022-06-28 20:32:30.070752+00:00",
+      "updated_at": "2022-06-28 20:32:30.070755+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "71ebf9a2-143f-400d-9813-2fa649c1f86c",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 5.0,
+      "meal_summary": "3cb589de-172f-45a0-bd83-396210af4916",
+      "created_at": "2022-06-28 20:32:30.070784+00:00",
+      "updated_at": "2022-06-28 20:32:30.070787+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "bba79b27-6686-4aea-8c0d-89227518541b",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "3cb589de-172f-45a0-bd83-396210af4916",
+      "created_at": "2022-06-28 20:32:30.070826+00:00",
+      "updated_at": "2022-06-28 20:32:30.070829+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "07d0a248-0c39-4952-bf41-b5e4e2ce43ca",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "a9bd61d5-8ff4-46e8-a144-86f4996490d1",
+      "created_at": "2022-06-28 20:32:30.070851+00:00",
+      "updated_at": "2022-06-28 20:32:30.070853+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "12f1e64c-e4ed-4835-bb2e-4adadf5e1804",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 4.0,
+      "meal_summary": "a9bd61d5-8ff4-46e8-a144-86f4996490d1",
+      "created_at": "2022-06-28 20:32:30.070861+00:00",
+      "updated_at": "2022-06-28 20:32:30.070878+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "908e4599-8ab8-4c35-8dd0-54e431aacb23",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "a9bd61d5-8ff4-46e8-a144-86f4996490d1",
+      "created_at": "2022-06-28 20:32:30.070905+00:00",
+      "updated_at": "2022-06-28 20:32:30.070907+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f3bf0a47-bd29-41da-bf46-afd87e1b31c6",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "2e74ac02-d731-4f68-9c48-c863ec4cb91b",
+      "created_at": "2022-06-28 20:32:30.070923+00:00",
+      "updated_at": "2022-06-28 20:32:30.070925+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "23433cbc-2590-4431-aafb-2f1a5ec0c419",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 5.0,
+      "meal_summary": "2e74ac02-d731-4f68-9c48-c863ec4cb91b",
+      "created_at": "2022-06-28 20:32:30.070932+00:00",
+      "updated_at": "2022-06-28 20:32:30.070934+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "1235e6d0-b0dd-4acb-9012-752fc1e23661",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 1.5,
+      "meal_summary": "2e74ac02-d731-4f68-9c48-c863ec4cb91b",
+      "created_at": "2022-06-28 20:32:30.070947+00:00",
+      "updated_at": "2022-06-28 20:32:30.070949+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "965b9675-784b-474c-80ae-4dc8b1f2604c",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.0,
+      "meal_summary": "2e74ac02-d731-4f68-9c48-c863ec4cb91b",
+      "created_at": "2022-06-28 20:32:30.071011+00:00",
+      "updated_at": "2022-06-28 20:32:30.071013+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "f25a72e7-fd35-4ea8-b464-4e1b2f1b59d1",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "40cbecb8-9d84-46ae-b5a5-f745819c686c",
+      "created_at": "2022-06-28 20:32:30.071029+00:00",
+      "updated_at": "2022-06-28 20:32:30.071031+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "8e1ae5c1-591e-466a-b877-e3444f06fdb9",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 3.5,
+      "meal_summary": "40cbecb8-9d84-46ae-b5a5-f745819c686c",
+      "created_at": "2022-06-28 20:32:30.071039+00:00",
+      "updated_at": "2022-06-28 20:32:30.071041+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "60de7d3f-c433-40a6-a6b6-02e490a313c3",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "40cbecb8-9d84-46ae-b5a5-f745819c686c",
+      "created_at": "2022-06-28 20:32:30.071048+00:00",
+      "updated_at": "2022-06-28 20:32:30.071050+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "ed7d33bd-71aa-4abc-8192-b20c94953da2",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "40cbecb8-9d84-46ae-b5a5-f745819c686c",
+      "created_at": "2022-06-28 20:32:30.071057+00:00",
+      "updated_at": "2022-06-28 20:32:30.071059+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "7f35f8bb-fbd8-456e-a0db-5b9036278a0e",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.5,
+      "meal_summary": "bc37efd3-6bad-483d-a303-c3578e61be3b",
+      "created_at": "2022-06-28 20:32:30.071077+00:00",
+      "updated_at": "2022-06-28 20:32:30.071079+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "d0993bed-9d86-4cc4-bb13-cc9919a2573d",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 5.0,
+      "meal_summary": "bc37efd3-6bad-483d-a303-c3578e61be3b",
+      "created_at": "2022-06-28 20:32:30.071087+00:00",
+      "updated_at": "2022-06-28 20:32:30.071089+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "533811e6-ca9b-4add-aa0e-fe175348d2a8",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 2.0,
+      "meal_summary": "bc37efd3-6bad-483d-a303-c3578e61be3b",
+      "created_at": "2022-06-28 20:32:30.071096+00:00",
+      "updated_at": "2022-06-28 20:32:30.071098+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "7b500bf7-bfc9-4490-9a51-33bc21efb8a3",
+    "fields": {
+      "food_supergroup": "HFA",
+      "intake": 0.5,
+      "meal_summary": "bc37efd3-6bad-483d-a303-c3578e61be3b",
+      "created_at": "2022-06-28 20:32:30.071124+00:00",
+      "updated_at": "2022-06-28 20:32:30.071129+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "fdb8c59e-f3e6-46a2-bbe6-02f055d3f4cf",
+    "fields": {
+      "food_supergroup": "ENE",
+      "intake": 1.0,
+      "meal_summary": "a056bf76-6c26-4f8e-a86e-af913f2fc718",
+      "created_at": "2022-06-28 20:32:30.071152+00:00",
+      "updated_at": "2022-06-28 20:32:30.071154+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "14d14db5-0016-43a9-b65f-73fe2ca40498",
+    "fields": {
+      "food_supergroup": "VPR",
+      "intake": 2.0,
+      "meal_summary": "a056bf76-6c26-4f8e-a86e-af913f2fc718",
+      "created_at": "2022-06-28 20:32:30.071164+00:00",
+      "updated_at": "2022-06-28 20:32:30.071166+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroupIntake",
+    "pk": "0a09d573-c5c5-4233-9a48-e618dabed9a5",
+    "fields": {
+      "food_supergroup": "FAV",
+      "intake": 0.5,
+      "meal_summary": "a056bf76-6c26-4f8e-a86e-af913f2fc718",
+      "created_at": "2022-06-28 20:32:30.071176+00:00",
+      "updated_at": "2022-06-28 20:32:30.071178+00:00"
+    }
+  }
+]

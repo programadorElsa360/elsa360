@@ -1,0 +1,3729 @@
+[
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "8b2dbe8b-a4f7-4cba-85f1-df1c6da1cfc3",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 1,
+      "week": 1,
+      "cycling_training_time": 0.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "LIBRE",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.308117+00:00",
+      "updated_at": "2022-07-08 19:02:32.308129+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "b1b83803-7955-4154-aa9f-ca72d1e20f6a",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 2,
+      "week": 1,
+      "cycling_training_time": 30.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "20%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Fuerza en llano: plato grande piñon pequeño, se descansa en plato grande piñon pequeño",
+      "repetitions": 2,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.310868+00:00",
+      "updated_at": "2022-07-08 19:02:32.310876+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "9055a28d-f5c5-4976-8eb4-4117ca14bc8a",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 3,
+      "week": 1,
+      "cycling_training_time": 45.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "20%",
+      "series": 3,
+      "series_rest_time": 1.0,
+      "exercise_description": "Fuerza en subida: plato pequeño- 1 piñon abajo del grande, se descansa en el piñon grande",
+      "repetitions": 2,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.316783+00:00",
+      "updated_at": "2022-07-08 19:02:32.316792+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "99fa5de4-c9a2-4753-b1cc-6fadd6a6dab9",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 4,
+      "week": 1,
+      "cycling_training_time": 30.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "25%",
+      "series": 2,
+      "series_rest_time": 1.5,
+      "exercise_description": "Fuerza en recta: plato pequeño piñon mediano, se descansa en plato grande piñon pequeño",
+      "repetitions": 2,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.318572+00:00",
+      "updated_at": "2022-07-08 19:02:32.318579+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "cfe2c481-67b4-431c-a524-a63b0536a6c2",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 5,
+      "week": 1,
+      "cycling_training_time": 0.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "LIBRE",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.320273+00:00",
+      "updated_at": "2022-07-08 19:02:32.320281+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "7577a6c3-3b9f-4e7f-b4ef-a0d7b4551b95",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 6,
+      "week": 1,
+      "cycling_training_time": 45.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "20%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Recuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.321937+00:00",
+      "updated_at": "2022-07-08 19:02:32.321943+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "259c3a0b-f643-4549-a780-587b14bf0d71",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 1,
+      "week": 2,
+      "cycling_training_time": 0.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "LIBRE",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.323602+00:00",
+      "updated_at": "2022-07-08 19:02:32.323609+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "0bd83a9b-3207-4eca-8a6f-02809951a770",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 2,
+      "week": 2,
+      "cycling_training_time": 45.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 2,
+      "series_rest_time": 2.5,
+      "exercise_description": "Fuerza en subida: plato pequeño- 3 piñon antes del ultimo, descansa en el ultimo piñon",
+      "repetitions": 3,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 1.5,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.326459+00:00",
+      "updated_at": "2022-07-08 19:02:32.326466+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5a32537d-f8c0-46db-b10d-b2696c929343",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 3,
+      "week": 2,
+      "cycling_training_time": 45.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 3,
+      "series_rest_time": 2.0,
+      "exercise_description": "Fuerza en plan: plato pequeño-piñon pequeño, descansa en el 3 piñon despues del grande",
+      "repetitions": 3,
+      "repetition_time": 7.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.328306+00:00",
+      "updated_at": "2022-07-08 19:02:32.328312+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "732e55a6-d930-4a1e-bdeb-d0dc3fea67a7",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 4,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "35%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Recuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.330100+00:00",
+      "updated_at": "2022-07-08 19:02:32.330122+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "d152046d-123a-47eb-8edc-2d881bec1890",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 5,
+      "week": 2,
+      "cycling_training_time": 40.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 4,
+      "series_rest_time": 3.0,
+      "exercise_description": "Resistencia a la fuerza en plan: plato grande-4 piñon despues del grande",
+      "repetitions": 4,
+      "repetition_time": 12.0,
+      "repetition_rest_time": 2.5,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.331898+00:00",
+      "updated_at": "2022-07-08 19:02:32.331905+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5ea0274f-51e9-404d-aaf3-1d4ebc279d89",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 6,
+      "week": 2,
+      "cycling_training_time": 30.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "40%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Recuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.333572+00:00",
+      "updated_at": "2022-07-08 19:02:32.333578+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "3f845085-c299-47de-867f-0058aa9fb2e5",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 1,
+      "week": 3,
+      "cycling_training_time": 40.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "45%",
+      "series": 3,
+      "series_rest_time": 1.5,
+      "exercise_description": "Velocidad en subida: plato grande-piñon grande, descansa en plato pequeño",
+      "repetitions": 4,
+      "repetition_time": 6.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.336235+00:00",
+      "updated_at": "2022-07-08 19:02:32.336255+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "20ef9274-0d5f-4d03-8484-f4803a52aa65",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 2,
+      "week": 3,
+      "cycling_training_time": 35.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "50%",
+      "series": 4,
+      "series_rest_time": 1.0,
+      "exercise_description": "Velocidad en recta: plato grande-2 piñon despues del mas pequeño, descansa en el piñon grande",
+      "repetitions": 2,
+      "repetition_time": 8.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.338014+00:00",
+      "updated_at": "2022-07-08 19:02:32.338021+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "c2a506de-2c36-45eb-82a2-2ed61940b448",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 3,
+      "week": 3,
+      "cycling_training_time": 50.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "50%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Recuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.340160+00:00",
+      "updated_at": "2022-07-08 19:02:32.340169+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "dbe43ddb-1d94-41bb-8f38-403a2387924d",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 4,
+      "week": 3,
+      "cycling_training_time": 30.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "40%",
+      "series": 3,
+      "series_rest_time": 1.5,
+      "exercise_description": "Velocidad con una relacion libre",
+      "repetitions": 2,
+      "repetition_time": 6.0,
+      "repetition_rest_time": 30.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.341873+00:00",
+      "updated_at": "2022-07-08 19:02:32.341881+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "9640322e-90b6-4487-8590-fd2f4d52799b",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 5,
+      "week": 3,
+      "cycling_training_time": 30.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "50%",
+      "series": 1,
+      "series_rest_time": 2.0,
+      "exercise_description": "Trabajo de fuerza en semi subida en una relacion forzada para uno",
+      "repetitions": 3,
+      "repetition_time": 20.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.347127+00:00",
+      "updated_at": "2022-07-08 19:02:32.347136+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "02bcb8a3-035a-4bff-aa8a-cfde237bf416",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 6,
+      "week": 3,
+      "cycling_training_time": 35.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "40%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Recuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.348789+00:00",
+      "updated_at": "2022-07-08 19:02:32.348797+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "66776c7c-e6c5-4d4a-b41b-008d327af164",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 2,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "55%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 1,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.350699+00:00",
+      "updated_at": "2022-07-08 19:02:32.350706+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "57f24137-78af-445a-bb13-1d3b4de2868a",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 3,
+      "week": 4,
+      "cycling_training_time": 40.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "65%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo en subida con plato pequeño y piñon grande",
+      "repetitions": 1,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.356746+00:00",
+      "updated_at": "2022-07-08 19:02:32.356758+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "b0d567b9-92c8-43bb-b9bb-56c0b81d9b92",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 4,
+      "week": 4,
+      "cycling_training_time": 35.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "50%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo en recta con plato grande y 2 piñones arriba del mas pequeño",
+      "repetitions": 1,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.361672+00:00",
+      "updated_at": "2022-07-08 19:02:32.361681+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "d11f72be-0d5e-49d3-86ef-04a67afe571c",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 5,
+      "week": 4,
+      "cycling_training_time": 40.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "45%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Recuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.366574+00:00",
+      "updated_at": "2022-07-08 19:02:32.366587+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "e4f28189-f66c-40b3-bc06-8b080018fb3e",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 6,
+      "week": 4,
+      "cycling_training_time": 30.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo en semi subida con plato grande y piñon grande",
+      "repetitions": 1,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "670b59ba-d769-4d62-b929-b1be00f88c6f",
+        "a3cc4f17-3e28-437c-8f58-4bed1eadee32"
+      ],
+      "created_at": "2022-07-08 19:02:32.370531+00:00",
+      "updated_at": "2022-07-08 19:02:32.370541+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "79c568c3-1dd5-4b70-b714-82509e93a676",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 1,
+      "cycling_training_time": 45.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Rodillos en ayuna",
+      "repetitions": 1,
+      "repetition_time": 45.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.859213+00:00",
+      "updated_at": "2022-07-08 19:02:32.859224+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "23e08a23-58ef-4802-9492-5c8534ea90a6",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 3,
+      "week": 1,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 2,
+      "series_rest_time": 5.0,
+      "exercise_description": "Estimulo de la velocidad cadencia 100 rpm",
+      "repetitions": 2,
+      "repetition_time": 20.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.861982+00:00",
+      "updated_at": "2022-07-08 19:02:32.861993+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "3297f481-3612-4f44-8b48-19d7513f3421",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 1,
+      "cycling_training_time": 240.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Ritmo",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.864301+00:00",
+      "updated_at": "2022-07-08 19:02:32.864310+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "a0549f06-f530-4f98-9bb2-e439057508c6",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 6,
+      "week": 1,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 1,
+      "series_rest_time": 5.0,
+      "exercise_description": "Contrareloj",
+      "repetitions": 2,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 5.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.867280+00:00",
+      "updated_at": "2022-07-08 19:02:32.867290+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "541a463d-3a25-42e7-aeff-3d2cc3e757a2",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 2,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Resistencia especifica  --( ritmo de padaleo 80 a 90 pedalazo x minutos )",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.870073+00:00",
+      "updated_at": "2022-07-08 19:02:32.870115+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "bafdebd0-8086-4998-a8eb-f431f3d8d3e0",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 3,
+      "week": 2,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Ejercicios de habilidad lbre o bicicleta mtb",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.876417+00:00",
+      "updated_at": "2022-07-08 19:02:32.876428+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "457a8564-9893-49c2-ada4-2c7547b9a9be",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 2,
+      "cycling_training_time": 150.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 3.0,
+      "exercise_description": "Fuerza especifica (candecia 50 a 55 )",
+      "repetitions": 3,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 5.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.878835+00:00",
+      "updated_at": "2022-07-08 19:02:32.878844+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "35ac4ef5-e87a-4fe7-9464-bf6a6604ff46",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 5,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "65%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Reccuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "5 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.881778+00:00",
+      "updated_at": "2022-07-08 19:02:32.881819+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5a439582-8a9c-4a4f-b1e7-a16410f2fc26",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 6,
+      "week": 2,
+      "cycling_training_time": 150.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 2,
+      "series_rest_time": 10.0,
+      "exercise_description": "Velocidad (cadencia 95--100)",
+      "repetitions": 3,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 3.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.890211+00:00",
+      "updated_at": "2022-07-08 19:02:32.890222+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5d14b847-499e-4abf-91ac-35057cd33f53",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 3,
+      "cycling_training_time": 45.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Rodillos en ayuna",
+      "repetitions": 1,
+      "repetition_time": 45.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.892634+00:00",
+      "updated_at": "2022-07-08 19:02:32.892643+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "10b8ac85-8fdd-4340-b25c-eb793fcefed4",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 3,
+      "week": 3,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 2,
+      "series_rest_time": 5.0,
+      "exercise_description": "Estimulo de la velocidad cadencia 100 rpm",
+      "repetitions": 2,
+      "repetition_time": 20.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.894786+00:00",
+      "updated_at": "2022-07-08 19:02:32.894795+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "11fa9d52-00bd-4baf-b707-d736f3d7d5fd",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 3,
+      "cycling_training_time": 240.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Ritmo",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.898146+00:00",
+      "updated_at": "2022-07-08 19:02:32.898157+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "e9229c8c-a2f2-4a1a-a8fa-b965c4983876",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 6,
+      "week": 3,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 1,
+      "series_rest_time": 5.0,
+      "exercise_description": "Contrareloj",
+      "repetitions": 2,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 5.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.908290+00:00",
+      "updated_at": "2022-07-08 19:02:32.908302+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "8e1491e5-2222-46e1-bad7-64e2f600ce4d",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 4,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Resistencia especifica  --( ritmo de padaleo 80 a 90 pedalazo x minutos )",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.910844+00:00",
+      "updated_at": "2022-07-08 19:02:32.910852+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "6ec7ac16-1439-4621-b7da-fc72c0cc5b86",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 3,
+      "week": 4,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Ejercicios de habilidad lbre o bicicleta mtb",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.912978+00:00",
+      "updated_at": "2022-07-08 19:02:32.912986+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "1d747c5f-5719-448c-86a2-9993951ff6c2",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 4,
+      "cycling_training_time": 150.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 3.0,
+      "exercise_description": "Fuerza especifica (candecia 50 a 55 )",
+      "repetitions": 4,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 5.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.920291+00:00",
+      "updated_at": "2022-07-08 19:02:32.920306+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "16c67ded-1160-4ca9-8cdd-f37c153e9b9e",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 5,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "65%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Reccuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "5 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.930064+00:00",
+      "updated_at": "2022-07-08 19:02:32.930078+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "1ca99bac-4b70-4cb8-83d0-dbe1fd2f4a1f",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 6,
+      "week": 4,
+      "cycling_training_time": 150.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 3,
+      "series_rest_time": 10.0,
+      "exercise_description": "Velocidad (cadencia 95--100)",
+      "repetitions": 3,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 3.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61"
+      ],
+      "created_at": "2022-07-08 19:02:32.933328+00:00",
+      "updated_at": "2022-07-08 19:02:32.933338+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "0f7bc2df-5a3a-4ce1-8e94-423ea5448c30",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 1,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "100 - 110 %",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Aceleraciones",
+      "repetitions": 6,
+      "repetition_time": 30.0,
+      "repetition_rest_time": 7.0,
+      "return_calm": 8.0,
+      "warming": "8 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.374318+00:00",
+      "updated_at": "2022-07-08 19:02:33.374329+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "fd3b51d7-d7cc-450d-8546-4f735dea4a67",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 1,
+      "cycling_training_time": 70.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "85 - 90%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Umbral",
+      "repetitions": 3,
+      "repetition_time": 15.0,
+      "repetition_rest_time": 3.0,
+      "return_calm": 8.0,
+      "warming": "8 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.376455+00:00",
+      "updated_at": "2022-07-08 19:02:33.376464+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "a876465c-7b0b-4f68-bbc8-97dda1a57c37",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 3,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "70 - 75 %",
+      "series": 2,
+      "series_rest_time": 5.0,
+      "exercise_description": "Sub-umbral",
+      "repetitions": 7,
+      "repetition_time": 1.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.378690+00:00",
+      "updated_at": "2022-07-08 19:02:33.378709+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "571e51b2-340a-45ff-9ec7-f1fe7cbdc902",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60 - 65 %",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Aeróbico",
+      "repetitions": 1,
+      "repetition_time": 45.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.380465+00:00",
+      "updated_at": "2022-07-08 19:02:33.380472+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "71b230f0-bd8f-4567-9f7c-cabff7140995",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 5,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "100 - 110 %",
+      "series": 2,
+      "series_rest_time": 5.0,
+      "exercise_description": "Vo2",
+      "repetitions": 8,
+      "repetition_time": 45.0,
+      "repetition_rest_time": 75.0,
+      "return_calm": 8.0,
+      "warming": "8 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.382348+00:00",
+      "updated_at": "2022-07-08 19:02:33.382355+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "900b0850-f11f-4bbc-83c9-e91b121225e2",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 1,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Resistencia aeróbica",
+      "repetitions": 6,
+      "repetition_time": 6.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.384349+00:00",
+      "updated_at": "2022-07-08 19:02:33.384357+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "c0029383-cc29-458f-9e39-d2981f98b24b",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Resistencia a la fuerza (cadencia 50-55)",
+      "repetitions": 5,
+      "repetition_time": 3.0,
+      "repetition_rest_time": 3.0,
+      "return_calm": 8.0,
+      "warming": "8 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.386563+00:00",
+      "updated_at": "2022-07-08 19:02:33.386572+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "3eda9de8-ec9e-405f-9546-c08ef40afd35",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 3,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "70 - 75 %",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Aeróbico",
+      "repetitions": 3,
+      "repetition_time": 12.0,
+      "repetition_rest_time": 5.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.397841+00:00",
+      "updated_at": "2022-07-08 19:02:33.397853+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "29582510-f9cc-4b04-a1ee-f2e36a7c515c",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "85 - 90 %",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Umbral",
+      "repetitions": 8,
+      "repetition_time": 4.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 8.0,
+      "warming": "8 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.400103+00:00",
+      "updated_at": "2022-07-08 19:02:33.400113+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "c8307f00-6fc4-4a34-9b6e-52beb9ac834b",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 5,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "70 - 80%",
+      "series": 4,
+      "series_rest_time": 5.0,
+      "exercise_description": "Aeróbico",
+      "repetitions": 1,
+      "repetition_time": 4.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.403110+00:00",
+      "updated_at": "2022-07-08 19:02:33.403122+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "2d2e4890-6078-4f7b-bd71-1a6250a81726",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 1,
+      "week": 3,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "70 - 75 %",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Resisitencia aeróbica",
+      "repetitions": 6,
+      "repetition_time": 6.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.410099+00:00",
+      "updated_at": "2022-07-08 19:02:33.410110+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5751f258-f2f8-463b-ad52-700344dec966",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 3,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80 - 85 %",
+      "series": 2,
+      "series_rest_time": 6.0,
+      "exercise_description": "Tempo",
+      "repetitions": 2,
+      "repetition_time": 12.0,
+      "repetition_rest_time": 3.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.411860+00:00",
+      "updated_at": "2022-07-08 19:02:33.411868+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5b12f0c4-8be8-4340-b92d-4f2afc878136",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 3,
+      "week": 3,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "65 - 70 %",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Aeróbico alternando cadencia cada 5 minutos (90 - 70 rpms)",
+      "repetitions": 1,
+      "repetition_time": 45.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.418339+00:00",
+      "updated_at": "2022-07-08 19:02:33.418349+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "3c8cf312-295c-4f0e-8f56-24c9b5dc6be8",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 3,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60 - 70 - 80%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Rampa ascendente",
+      "repetitions": 3,
+      "repetition_time": 13.0,
+      "repetition_rest_time": 3.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.420197+00:00",
+      "updated_at": "2022-07-08 19:02:33.420207+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "abaf988c-32b7-4217-b801-771e93ae0f1e",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 5,
+      "week": 3,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Aeróbico",
+      "repetitions": 4,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.421894+00:00",
+      "updated_at": "2022-07-08 19:02:33.421902+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "6dd497b9-ac97-4ec2-8463-6111067a6c58",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 1,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Umbral",
+      "repetitions": 5,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 4.0,
+      "return_calm": 8.0,
+      "warming": "8 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.429156+00:00",
+      "updated_at": "2022-07-08 19:02:33.429165+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "7e0b4558-8cda-4ec2-bdf3-e420d068eaf8",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Aeróbico con cadencia alta (90 - 95 rpms)",
+      "repetitions": 7,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.435169+00:00",
+      "updated_at": "2022-07-08 19:02:33.435179+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "b3e980d1-39fd-4206-96fc-efbafdd45bb8",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 3,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Resistencia (80 - 85 rpms)",
+      "repetitions": 6,
+      "repetition_time": 8.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.437449+00:00",
+      "updated_at": "2022-07-08 19:02:33.437481+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "bfbaa4df-afb8-4671-ab79-ec7841314ad8",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "110 - 120 %",
+      "series": 2,
+      "series_rest_time": 10.0,
+      "exercise_description": "Vo2",
+      "repetitions": 10,
+      "repetition_time": 30.0,
+      "repetition_rest_time": 3.0,
+      "return_calm": 8.0,
+      "warming": "8 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.439440+00:00",
+      "updated_at": "2022-07-08 19:02:33.439448+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5b44a701-0229-4dfc-b7cc-92ca0fa0f058",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 5,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "65 - 70 %",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Aeróbico",
+      "repetitions": 1,
+      "repetition_time": 40.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 10.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "8aa3c480-b15a-45ff-a7c4-edcbea6711ec"
+      ],
+      "created_at": "2022-07-08 19:02:33.441295+00:00",
+      "updated_at": "2022-07-08 19:02:33.441302+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "f98a32c0-e214-4c5b-ad0c-d38ac8f7c1f7",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 2,
+      "week": 1,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 3,
+      "series_rest_time": 15.0,
+      "exercise_description": "Contrareloj",
+      "repetitions": 3,
+      "repetition_time": 3.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.070058+00:00",
+      "updated_at": "2022-07-08 19:02:34.070069+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "58d0497e-f859-4680-b422-2ece1c8e6406",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 3,
+      "week": 1,
+      "cycling_training_time": 300.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Fuerza en subida:sentado agarrado de abajo plato grade con piñon13",
+      "repetitions": 10,
+      "repetition_time": 3.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.072417+00:00",
+      "updated_at": "2022-07-08 19:02:34.072426+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "d1b65722-fe84-4b13-a340-86f32af38c0e",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 4,
+      "week": 1,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "50%",
+      "series": 5,
+      "series_rest_time": 5.0,
+      "exercise_description": "Resistencia ala  velocidad (sprint)",
+      "repetitions": 5,
+      "repetition_time": 20.0,
+      "repetition_rest_time": 30.0,
+      "return_calm": 5.0,
+      "warming": "5 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.075824+00:00",
+      "updated_at": "2022-07-08 19:02:34.075837+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "6276f069-ce88-47f9-a2f8-b5cada1a8309",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 5,
+      "week": 1,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Recuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "5 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.079353+00:00",
+      "updated_at": "2022-07-08 19:02:34.079364+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "ac5a2e3c-5275-47fe-88d6-2bdeef412121",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 6,
+      "week": 1,
+      "cycling_training_time": 240.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 3,
+      "series_rest_time": 10.0,
+      "exercise_description": "Contrareloj plato grande piñon 15",
+      "repetitions": 3,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 3.0,
+      "return_calm": 8.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.081872+00:00",
+      "updated_at": "2022-07-08 19:02:34.081879+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "7a7b0ee4-fdfa-4d90-862f-3da8fd5e1985",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 1,
+      "week": 2,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Descanso activo",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.084103+00:00",
+      "updated_at": "2022-07-08 19:02:34.084110+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "61274445-3c3c-420d-b8cc-02ef014db0ae",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 2,
+      "week": 2,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 3,
+      "series_rest_time": 15.0,
+      "exercise_description": "Contrareloj",
+      "repetitions": 3,
+      "repetition_time": 3.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.087377+00:00",
+      "updated_at": "2022-07-08 19:02:34.087386+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "11699c90-7652-440a-a293-21541d013c05",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 3,
+      "week": 2,
+      "cycling_training_time": 300.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Fuerza en subida:sentado agarrado de abajo plato grade con piñon13",
+      "repetitions": 10,
+      "repetition_time": 3.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 8.0,
+      "warming": "12 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.089778+00:00",
+      "updated_at": "2022-07-08 19:02:34.089798+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "96f0cc79-2938-4856-ad2a-1cd42e1a6661",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 4,
+      "week": 2,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "95%",
+      "series": 5,
+      "series_rest_time": 5.0,
+      "exercise_description": "Resistencia ala  velocidad (sprint)",
+      "repetitions": 5,
+      "repetition_time": 20.0,
+      "repetition_rest_time": 30.0,
+      "return_calm": 8.0,
+      "warming": "12 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.092469+00:00",
+      "updated_at": "2022-07-08 19:02:34.092476+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "16c3e567-1350-48fc-a857-c5a78354433f",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 5,
+      "week": 2,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Recuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "5 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.096217+00:00",
+      "updated_at": "2022-07-08 19:02:34.096225+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "192da2b5-4833-4b2c-8aef-0fbcefa77564",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 6,
+      "week": 2,
+      "cycling_training_time": 240.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 3,
+      "series_rest_time": 10.0,
+      "exercise_description": "Contrareloj plato grande piñon 15",
+      "repetitions": 3,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 3.0,
+      "return_calm": 8.0,
+      "warming": "12 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.098691+00:00",
+      "updated_at": "2022-07-08 19:02:34.098698+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "1956b4fa-4450-44c8-b124-cbddda876cd2",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 7,
+      "week": 2,
+      "cycling_training_time": 0.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "LIBRE",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.101520+00:00",
+      "updated_at": "2022-07-08 19:02:34.101527+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "fdd1fb43-9109-4c3e-810a-e24881f99939",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 2,
+      "week": 3,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 2,
+      "series_rest_time": 15.0,
+      "exercise_description": "Contrareloj volumens",
+      "repetitions": 3,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 5.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.105211+00:00",
+      "updated_at": "2022-07-08 19:02:34.105223+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "7bdbc8b1-4de2-40ba-97d0-1d54eb6bb32d",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 3,
+      "week": 3,
+      "cycling_training_time": 240.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "90%",
+      "series": 2,
+      "series_rest_time": 10.0,
+      "exercise_description": "Trabajo de fuerza cadencia baja terreno variado para ajustar tiempo",
+      "repetitions": 2,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 5.0,
+      "return_calm": 8.0,
+      "warming": "12 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.107615+00:00",
+      "updated_at": "2022-07-08 19:02:34.107640+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "b6f8566f-7113-48b7-9a48-745bab841b29",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 4,
+      "week": 3,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "100%",
+      "series": 5,
+      "series_rest_time": 5.0,
+      "exercise_description": "Velocidad relacion libre",
+      "repetitions": 5,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 30.0,
+      "return_calm": 8.0,
+      "warming": "12 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.110402+00:00",
+      "updated_at": "2022-07-08 19:02:34.110415+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "e6c695da-9c0c-42e0-9bec-fae2ce6b01a6",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 5,
+      "week": 3,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Recuperacion activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "5 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.113252+00:00",
+      "updated_at": "2022-07-08 19:02:34.113263+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "067004e5-aaef-40b4-a43f-a1f3f71bf015",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 6,
+      "week": 3,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta relacion libre terreno variado",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.117008+00:00",
+      "updated_at": "2022-07-08 19:02:34.117020+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "d79ceec4-9a20-434b-862f-558949c51964",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 7,
+      "week": 3,
+      "cycling_training_time": 0.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Libre",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.123858+00:00",
+      "updated_at": "2022-07-08 19:02:34.123868+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "9d2dc5d5-c9cd-4003-b17c-06f7df84af3d",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 2,
+      "week": 4,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "100%",
+      "series": 1,
+      "series_rest_time": 0.0,
+      "exercise_description": "Test de contrareloj( base valoracion de rendimiento) .seguir rodando hasta ajustar tiempo",
+      "repetitions": 1,
+      "repetition_time": 20.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 8.0,
+      "warming": "12 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.130076+00:00",
+      "updated_at": "2022-07-08 19:02:34.130091+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "a9bb25e7-d67f-4c2d-bb54-b1b97acce19a",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 3,
+      "week": 4,
+      "cycling_training_time": 240.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.133062+00:00",
+      "updated_at": "2022-07-08 19:02:34.133072+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "a83ab065-87a4-4a8d-b00f-9d4d5b97e648",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 4,
+      "week": 4,
+      "cycling_training_time": 240.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Ritmo de carrera",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "10 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.137197+00:00",
+      "updated_at": "2022-07-08 19:02:34.137221+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "d6d9c908-dfa9-4f51-bc6b-90a8ce6b2496",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 5,
+      "week": 4,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Recuperación activa",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 5.0,
+      "warming": "5 minutos al 50%",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.140355+00:00",
+      "updated_at": "2022-07-08 19:02:34.140366+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "d050f885-4ffb-4c44-a495-f5e36fa5aef0",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 7,
+      "week": 4,
+      "cycling_training_time": 0.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Ruta libre",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+        "7fc46bd4-b388-4a51-b508-43d70c9ce3d0"
+      ],
+      "created_at": "2022-07-08 19:02:34.142391+00:00",
+      "updated_at": "2022-07-08 19:02:34.142400+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "75abf92b-5e97-459d-9034-6b6940174483",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 2,
+      "week": 1,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Adaptacion ala bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.889744+00:00",
+      "updated_at": "2022-07-08 19:02:34.889754+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "455f080c-0524-469f-998e-45edda65dfa7",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 4,
+      "week": 1,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Adaptacion ala bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.891450+00:00",
+      "updated_at": "2022-07-08 19:02:34.891458+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "e3e84f35-0825-472c-9a91-14d1fd721034",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 6,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Plato grande piñon pequqño (fuerza) terreno llano",
+      "repetitions": 0,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.893160+00:00",
+      "updated_at": "2022-07-08 19:02:34.893167+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "94e9d8ee-7c44-4c31-b71e-99f1cd37495c",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 7,
+      "week": 1,
+      "cycling_training_time": 150.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.895068+00:00",
+      "updated_at": "2022-07-08 19:02:34.895076+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "f2789dbb-bcc4-4911-8ccd-4ff0c82945bc",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 2,
+      "week": 2,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Habilidad del pedaleo ( pedalear con una sola pierna y luego cambiar )",
+      "repetitions": 2,
+      "repetition_time": 15.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.897062+00:00",
+      "updated_at": "2022-07-08 19:02:34.897071+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "968ce981-4dea-41ed-9463-e2409d811b45",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 4,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta plato grande piñon intermedio",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.898654+00:00",
+      "updated_at": "2022-07-08 19:02:34.898661+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "7ae94e60-ea33-43e2-b4fd-903a655aa95f",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 6,
+      "week": 2,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Hagilidad en la bicicleta en la subida 500 mts sentado x 500 parados en pedales",
+      "repetitions": 3,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.907120+00:00",
+      "updated_at": "2022-07-08 19:02:34.907131+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "d70b8792-e7f4-460e-80be-e8598d63ae18",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 7,
+      "week": 2,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Libre",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.908941+00:00",
+      "updated_at": "2022-07-08 19:02:34.908949+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "7edacc64-4aac-48a0-9436-63dbef0e18e7",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 2,
+      "week": 3,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Adaptacion ala bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.916498+00:00",
+      "updated_at": "2022-07-08 19:02:34.916510+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5ef65051-728c-4743-9257-72a650ac7908",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 5,
+      "week": 3,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Adaptacion ala bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.919536+00:00",
+      "updated_at": "2022-07-08 19:02:34.919546+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "6185d201-08ac-454e-8453-1c0d8a22a5f5",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 6,
+      "week": 3,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 5.0,
+      "exercise_description": "Plato grande piñon pequqño (fuerza) terreno llano",
+      "repetitions": 5,
+      "repetition_time": 5.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.921822+00:00",
+      "updated_at": "2022-07-08 19:02:34.921832+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "6c1e3bbf-f434-4576-a8e1-22174752cf79",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 7,
+      "week": 3,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.923854+00:00",
+      "updated_at": "2022-07-08 19:02:34.923862+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "970de3ca-7ca5-4e91-8e03-c9778b346bbe",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 2,
+      "week": 4,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Habilidad del pedaleo ( pedalear con una sola pierna y luego cambiar )",
+      "repetitions": 3,
+      "repetition_time": 15.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.927864+00:00",
+      "updated_at": "2022-07-08 19:02:34.927876+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "b8c266ac-ed19-4bae-a243-95f20251ecef",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 4,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta plato grande piñon intermedio",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.930209+00:00",
+      "updated_at": "2022-07-08 19:02:34.930217+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "06814b6a-1d80-4b3c-a312-0fc19ad081cf",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 6,
+      "week": 4,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Hagilidad en la bicicleta en la subida 500 mts sentado x 500 parados en pedales",
+      "repetitions": 5,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.934280+00:00",
+      "updated_at": "2022-07-08 19:02:34.934292+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "3e8a2088-58c1-43c0-8bdd-2cd81761cc08",
+    "fields": {
+      "training_plan": "42a22888-ea95-4151-9415-58793e3bf540",
+      "day": 7,
+      "week": 4,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Libre",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+        "d99e81b6-af35-4ace-b0c2-6d6284677c25"
+      ],
+      "created_at": "2022-07-08 19:02:34.936650+00:00",
+      "updated_at": "2022-07-08 19:02:34.936660+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "8143a76f-bacf-497b-9f95-92a01459c571",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 1,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Adaptacion ala bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.763094+00:00",
+      "updated_at": "2022-07-08 19:02:35.763104+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "09f51a96-d737-4059-84f2-5caf17e9f1d3",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.764871+00:00",
+      "updated_at": "2022-07-08 19:02:35.764879+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "335487f0-fe4a-4ca5-90c8-7d0cdbeec14d",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 6,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 3,
+      "series_rest_time": 0.6666,
+      "exercise_description": "Fuerza en subida ( plato grande- penultimo puñon grande)",
+      "repetitions": 2,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.766680+00:00",
+      "updated_at": "2022-07-08 19:02:35.766689+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "547ac0da-0758-4343-bb8a-6c86f7d83548",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 1,
+      "week": 2,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.768389+00:00",
+      "updated_at": "2022-07-08 19:02:35.768396+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "21245ed3-59f6-4930-b46d-486ddafc26fb",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 3,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "40%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo sobre la bicicleta en llano (plato grande piñon intermedio)",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.770038+00:00",
+      "updated_at": "2022-07-08 19:02:35.770047+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "f59557bf-f21f-4b99-a3ac-85a6059688fa",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta plato grande piñon intermedio",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.771693+00:00",
+      "updated_at": "2022-07-08 19:02:35.771700+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5609da7e-4845-4d4c-b335-366ad024efa3",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 6,
+      "week": 2,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "50%",
+      "series": 3,
+      "series_rest_time": 0.6666,
+      "exercise_description": "Fuerza en subida ( plato pequeño- piñonintermedio)",
+      "repetitions": 2,
+      "repetition_time": 30.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.779320+00:00",
+      "updated_at": "2022-07-08 19:02:35.779333+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "547d9255-2e06-4c7a-b1da-d6a69b208122",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 7,
+      "week": 2,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Libre",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.782968+00:00",
+      "updated_at": "2022-07-08 19:02:35.782982+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "dfd96225-7950-42d2-8907-45838afaf31e",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 3,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.787053+00:00",
+      "updated_at": "2022-07-08 19:02:35.787062+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "753e015e-d411-42b8-870f-dbdccbdabe36",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 3,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Fuerza en llano ( plato grande- piñon intermedio)",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.789548+00:00",
+      "updated_at": "2022-07-08 19:02:35.789557+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "167e26b4-e7d8-4548-b5d9-5c9aae5c566d",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 7,
+      "week": 3,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.793691+00:00",
+      "updated_at": "2022-07-08 19:02:35.793701+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "9cd0540e-4443-4570-a218-d3d591009951",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 4,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Habilidad del pedaleo ( pedalear con una sola pierna y luego cambiar )",
+      "repetitions": 3,
+      "repetition_time": 15.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.801915+00:00",
+      "updated_at": "2022-07-08 19:02:35.801926+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "cdc9d53e-2b6a-4fd4-b2c2-8f9efe3f54f8",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "40%%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta plato grande piñon pequeño",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.804606+00:00",
+      "updated_at": "2022-07-08 19:02:35.804615+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "bf76a1e6-883c-469f-8f26-5e6525b905d4",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 6,
+      "week": 4,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo en subida sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.807125+00:00",
+      "updated_at": "2022-07-08 19:02:35.807136+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "9489c149-80f3-4b4e-9b12-b5001d1a6c52",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 7,
+      "week": 4,
+      "cycling_training_time": 180.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Libre",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "68c3594e-926e-4871-a3f0-f59502641b51"
+      ],
+      "created_at": "2022-07-08 19:02:35.808875+00:00",
+      "updated_at": "2022-07-08 19:02:35.808896+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "49d8239a-13f1-4f15-a6b3-964df58c6a5a",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "25%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Adaptacion ala bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.397441+00:00",
+      "updated_at": "2022-07-08 19:02:36.397452+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "2f37d807-2a51-4f42-a42d-adf9bb13e796",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.400858+00:00",
+      "updated_at": "2022-07-08 19:02:36.400869+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "4f020d44-0404-423f-a4ad-41a306d7e761",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 6,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 3,
+      "series_rest_time": 0.6666,
+      "exercise_description": "Trabajo en llano sobre la bicicleta (plato pequeño- piñon pequeño)",
+      "repetitions": 2,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.403067+00:00",
+      "updated_at": "2022-07-08 19:02:36.403080+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "04d9145f-3358-487f-bf5c-7434a3ff1451",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 1,
+      "week": 2,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.406003+00:00",
+      "updated_at": "2022-07-08 19:02:36.406014+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "16d13533-ee82-460a-88d4-b15eea8a6bf3",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 3,
+      "week": 2,
+      "cycling_training_time": 40.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "35%",
+      "series": 3,
+      "series_rest_time": 3.0,
+      "exercise_description": "Trabajo sobre la bicicleta en subida ( plato pequeño - 2 piñon despues del mas grande)",
+      "repetitions": 2,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.413366+00:00",
+      "updated_at": "2022-07-08 19:02:36.413380+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "22426712-291f-4e3a-a63d-2c229f86c073",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 5,
+      "week": 2,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo sobre la bicicleta en llano (libre)",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.416710+00:00",
+      "updated_at": "2022-07-08 19:02:36.416721+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "52b211d1-eb6c-49ef-9922-fa2cc5270e3a",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 6,
+      "week": 2,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "50%",
+      "series": 3,
+      "series_rest_time": 2.5,
+      "exercise_description": "Fuerza en subida ( plato pequeño- 2 piñon despues del mas grande)",
+      "repetitions": 2,
+      "repetition_time": 20.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.422891+00:00",
+      "updated_at": "2022-07-08 19:02:36.422901+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "ffea26b9-3b57-4582-b607-b82c88f9308b",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 7,
+      "week": 2,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta - libre",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.436027+00:00",
+      "updated_at": "2022-07-08 19:02:36.436061+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "688daf15-af63-4c8c-9cf3-3985a740e302",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 3,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "45%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.444364+00:00",
+      "updated_at": "2022-07-08 19:02:36.444455+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "486a294f-00e1-4469-aa62-8874e2de7e9c",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 3,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Fuerza en llano ( plato grande- piñon intermedio)",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.447894+00:00",
+      "updated_at": "2022-07-08 19:02:36.447922+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "11102089-a816-4fb5-a594-b6088d0e283d",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 5,
+      "week": 3,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "40%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.451537+00:00",
+      "updated_at": "2022-07-08 19:02:36.451548+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "cc81ca96-39a7-45e6-bd6c-068a17bfc5f7",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 7,
+      "week": 3,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "50%",
+      "series": 2,
+      "series_rest_time": 2.5,
+      "exercise_description": "Fuerza en subida con plato pequeño y 3 piñon despues del mas grande",
+      "repetitions": 2,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.461577+00:00",
+      "updated_at": "2022-07-08 19:02:36.461591+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "35059a63-9932-4365-a92e-429486ab55ec",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 2,
+      "week": 4,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 2,
+      "series_rest_time": 1.0,
+      "exercise_description": "Habilidad del pedaleo ( pedalear con una sola pierna y luego cambiar )",
+      "repetitions": 3,
+      "repetition_time": 15.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.478289+00:00",
+      "updated_at": "2022-07-08 19:02:36.478302+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "55376d35-9fd1-4e14-8476-ebd36fd64425",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 4,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "40%%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo sobre la bicicleta plato grande piñon intermedio",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.489180+00:00",
+      "updated_at": "2022-07-08 19:02:36.489191+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "56367886-8a36-4705-b74a-0b74bfc24bc4",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 6,
+      "week": 4,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo en llano sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.492432+00:00",
+      "updated_at": "2022-07-08 19:02:36.492443+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "e6fd990d-bf78-462a-b54f-cbad4bbc3b56",
+    "fields": {
+      "training_plan": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+      "day": 7,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Libre",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "05c282e1-2cd3-4875-be81-fc9b76323737"
+      ],
+      "created_at": "2022-07-08 19:02:36.495752+00:00",
+      "updated_at": "2022-07-08 19:02:36.495764+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "db9a2755-efa4-45af-819c-5243ba7ccd11",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 2,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "40%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo sobre la bicicleta en llano",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.059033+00:00",
+      "updated_at": "2022-07-08 19:02:37.059045+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "6fc3747d-ae23-4851-9c5f-429fab499f85",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 3,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "40%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo sobre la bicicleta en subida",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.062179+00:00",
+      "updated_at": "2022-07-08 19:02:37.062189+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5135028b-bbe9-4b79-9f09-7b4c68e68a23",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 5,
+      "week": 1,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "30%",
+      "series": 3,
+      "series_rest_time": 2.0,
+      "exercise_description": "Trabajo en subida con plato pequeño piñon intermedio",
+      "repetitions": 2,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.066289+00:00",
+      "updated_at": "2022-07-08 19:02:37.066314+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "f2cfbef6-4e9d-4845-87b4-b0da1374235e",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 1,
+      "week": 2,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "50%",
+      "series": 4,
+      "series_rest_time": 3.0,
+      "exercise_description": "Trabajo sobre la bicicleta en subida con plato grande-3 piñon despues del mas grande",
+      "repetitions": 2,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 1.5,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.072285+00:00",
+      "updated_at": "2022-07-08 19:02:37.072294+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "bbcf36fa-b5fc-4951-99a4-525fc98fd1d8",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 2,
+      "week": 2,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 4,
+      "cycling_training_percentage": "40%",
+      "series": 3,
+      "series_rest_time": 2.5,
+      "exercise_description": "Trabajo en llano plato grande- 2 piñon despues del mas pequeño",
+      "repetitions": 3,
+      "repetition_time": 15.0,
+      "repetition_rest_time": 1.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.074803+00:00",
+      "updated_at": "2022-07-08 19:02:37.074825+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "52154118-1ccd-4418-bcaf-b7e4ede73ac8",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 4,
+      "week": 2,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo en llano libre a un buen nivel sostenido",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.077379+00:00",
+      "updated_at": "2022-07-08 19:02:37.077390+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "adc735b6-ac01-4685-a29d-1be334875be8",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 6,
+      "week": 2,
+      "cycling_training_time": 120.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo en subida libre a un buen nivel sostenido",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.080238+00:00",
+      "updated_at": "2022-07-08 19:02:37.080249+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5ecdc8aa-f12a-480a-9f3a-9d6980379e65",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 2,
+      "week": 3,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "85%",
+      "series": 5,
+      "series_rest_time": 3.5,
+      "exercise_description": "Fuerza en subida con plato grande y 3 piñon despues del mas pequeño",
+      "repetitions": 3,
+      "repetition_time": 15.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.082482+00:00",
+      "updated_at": "2022-07-08 19:02:37.082490+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "7eeada6b-d6cf-4c1b-a255-c5cb943757cd",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 3,
+      "week": 3,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 8,
+      "cycling_training_percentage": "80%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo de fuerza por pie en llano con plato grande- 3 piñon despues del mas grande ( 20 segundos por pie, descansa 2 min) 6 rondas",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.084749+00:00",
+      "updated_at": "2022-07-08 19:02:37.084757+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "17347fca-ad86-4b94-a24a-02180e2bdf33",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 6,
+      "week": 3,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 10,
+      "cycling_training_percentage": "95%",
+      "series": 6,
+      "series_rest_time": 2.5,
+      "exercise_description": "Fuerza en llano con plato grande y piñon pequeño",
+      "repetitions": 3,
+      "repetition_time": 25.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.087247+00:00",
+      "updated_at": "2022-07-08 19:02:37.087258+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "7c457add-1f57-4625-ba23-010b3f491e6a",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 7,
+      "week": 3,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Tiempo libre sobre la bicicleta",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.090052+00:00",
+      "updated_at": "2022-07-08 19:02:37.090063+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "147c0417-6622-4309-bcda-1f7e244c603e",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 1,
+      "week": 4,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "60%",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Trabajo libre sobre llano a un nivel forzado",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.092509+00:00",
+      "updated_at": "2022-07-08 19:02:37.092518+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "6e320c45-4e39-4044-9dfa-06ec3589af4b",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 3,
+      "week": 4,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "70%",
+      "series": 3,
+      "series_rest_time": 1.0,
+      "exercise_description": "Fuerza en subida con plato pequeño 2 piñon despues del mas pequeño",
+      "repetitions": 3,
+      "repetition_time": 10.0,
+      "repetition_rest_time": 2.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.095078+00:00",
+      "updated_at": "2022-07-08 19:02:37.095089+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "5c54b100-7111-47d2-a950-fb411f9ce252",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 6,
+      "week": 4,
+      "cycling_training_time": 90.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "65%",
+      "series": 3,
+      "series_rest_time": 3.0,
+      "exercise_description": "Fuerza en llano con plato grande y piñon pequeño",
+      "repetitions": 4,
+      "repetition_time": 30.0,
+      "repetition_rest_time": 3.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.098606+00:00",
+      "updated_at": "2022-07-08 19:02:37.098617+00:00"
+    }
+  },
+  {
+    "model": "training_plans.CyclingPlan",
+    "pk": "a2f007e2-0fab-4875-afda-a04aa2b78e6f",
+    "fields": {
+      "training_plan": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+      "day": 7,
+      "week": 4,
+      "cycling_training_time": 60.0,
+      "cycling_training_intensity": 6,
+      "cycling_training_percentage": "",
+      "series": 0,
+      "series_rest_time": 0.0,
+      "exercise_description": "Libre",
+      "repetitions": 0,
+      "repetition_time": 0.0,
+      "repetition_rest_time": 0.0,
+      "return_calm": 0.0,
+      "warming": "",
+      "variables": [
+        "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+        "4d320723-7eb2-460f-8802-14b35f3da0a3"
+      ],
+      "created_at": "2022-07-08 19:02:37.101322+00:00",
+      "updated_at": "2022-07-08 19:02:37.101333+00:00"
+    }
+  }
+]

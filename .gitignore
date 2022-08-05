@@ -1,0 +1,10 @@
+# Editor / IDE settings
+.vscode
+
+# Virtual Environments
+.env.development
+.env.production
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,161 @@
+[
+  {
+    "model": "training_plans.TrainingPlan",
+    "pk": "42a22888-ea95-4151-9415-58793e3bf540",
+    "fields": {
+      "tier": "BG",
+      "created_at": "2022-06-27 20:09:19.195207+00:00",
+      "updated_at": "2022-06-27 20:09:19.195216+00:00"
+    }
+  },
+  {
+    "model": "training_plans.TrainingPlan",
+    "pk": "3f6da566-a302-42a6-a61b-2babfc3ee918",
+    "fields": {
+      "tier": "IM",
+      "created_at": "2022-06-27 20:09:19.195252+00:00",
+      "updated_at": "2022-06-27 20:09:19.195256+00:00"
+    }
+  },
+  {
+    "model": "training_plans.TrainingPlan",
+    "pk": "ad9fc9c3-8041-4871-94e5-bc4c3fea1fa9",
+    "fields": {
+      "tier": "AV",
+      "created_at": "2022-06-27 20:09:19.195266+00:00",
+      "updated_at": "2022-06-27 20:09:19.195268+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "a3cc4f17-3e28-437c-8f58-4bed1eadee32",
+    "fields": {
+      "gender": "MA",
+      "sports_level": "BG",
+      "sports_goal": "PM",
+      "created_at": "2022-06-27 20:09:19.195973+00:00",
+      "updated_at": "2022-06-27 20:09:19.195979+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "d99e81b6-af35-4ace-b0c2-6d6284677c25",
+    "fields": {
+      "gender": "MA",
+      "sports_level": "BG",
+      "sports_goal": "HS",
+      "created_at": "2022-06-27 20:09:19.195990+00:00",
+      "updated_at": "2022-06-27 20:09:19.195993+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "a09884a1-ebcc-4d50-a6c3-b2b9905c5d61",
+    "fields": {
+      "gender": "MA",
+      "sports_level": "IM",
+      "sports_goal": "PM",
+      "created_at": "2022-06-27 20:09:19.196000+00:00",
+      "updated_at": "2022-06-27 20:09:19.196002+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "68c3594e-926e-4871-a3f0-f59502641b51",
+    "fields": {
+      "gender": "MA",
+      "sports_level": "IM",
+      "sports_goal": "HS",
+      "created_at": "2022-06-27 20:09:19.196008+00:00",
+      "updated_at": "2022-06-27 20:09:19.196010+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "7fc46bd4-b388-4a51-b508-43d70c9ce3d0",
+    "fields": {
+      "gender": "MA",
+      "sports_level": "AV",
+      "sports_goal": "PM",
+      "created_at": "2022-06-27 20:09:19.196016+00:00",
+      "updated_at": "2022-06-27 20:09:19.196018+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "4d320723-7eb2-460f-8802-14b35f3da0a3",
+    "fields": {
+      "gender": "MA",
+      "sports_level": "AV",
+      "sports_goal": "HS",
+      "created_at": "2022-06-27 20:09:19.196024+00:00",
+      "updated_at": "2022-06-27 20:09:19.196026+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "670b59ba-d769-4d62-b929-b1be00f88c6f",
+    "fields": {
+      "gender": "FE",
+      "sports_level": "BG",
+      "sports_goal": "PM",
+      "created_at": "2022-06-27 20:09:19.196032+00:00",
+      "updated_at": "2022-06-27 20:09:19.196034+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "e77be72d-19df-4c0d-8c9e-be233b4469d5",
+    "fields": {
+      "gender": "FE",
+      "sports_level": "BG",
+      "sports_goal": "HS",
+      "created_at": "2022-06-27 20:09:19.196040+00:00",
+      "updated_at": "2022-06-27 20:09:19.196042+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "8aa3c480-b15a-45ff-a7c4-edcbea6711ec",
+    "fields": {
+      "gender": "FE",
+      "sports_level": "IM",
+      "sports_goal": "PM",
+      "created_at": "2022-06-27 20:09:19.196049+00:00",
+      "updated_at": "2022-06-27 20:09:19.196051+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "05c282e1-2cd3-4875-be81-fc9b76323737",
+    "fields": {
+      "gender": "FE",
+      "sports_level": "IM",
+      "sports_goal": "HS",
+      "created_at": "2022-06-27 20:09:19.196057+00:00",
+      "updated_at": "2022-06-27 20:09:19.196059+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "4e0674a9-7244-4cb7-a945-6aa9ee837674",
+    "fields": {
+      "gender": "FE",
+      "sports_level": "AV",
+      "sports_goal": "PM",
+      "created_at": "2022-06-27 20:09:19.196065+00:00",
+      "updated_at": "2022-06-27 20:09:19.196067+00:00"
+    }
+  },
+  {
+    "model": "training_plans.QuestionsToPlan",
+    "pk": "527143dc-4126-4de7-88ef-cae7bd26a6ad",
+    "fields": {
+      "gender": "FE",
+      "sports_level": "AV",
+      "sports_goal": "HS",
+      "created_at": "2022-06-27 20:09:19.196073+00:00",
+      "updated_at": "2022-06-27 20:09:19.196075+00:00"
+    }
+  }
+]

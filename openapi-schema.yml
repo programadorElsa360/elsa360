@@ -1,0 +1,3714 @@
+openapi: 3.0.2
+info:
+  title: ''
+  version: ''
+paths:
+  /verify-user/{uidb64}/{token}/:
+    get:
+      operationId: retrieveVerifyUser
+      description: ''
+      parameters:
+      - name: uidb64
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      - name: token
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - verify-user
+  /password-reset/verify/{uidb64}/{token}/:
+    get:
+      operationId: retrieveConfirmPasswordReset
+      description: ''
+      parameters:
+      - name: uidb64
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      - name: token
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - password-reset
+  /users/:
+    get:
+      operationId: listUsers
+      description: ViewSet for User model CRUD.
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/User'
+          description: ''
+      tags:
+      - users
+    post:
+      operationId: createUser
+      description: ViewSet for User model CRUD.
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/User'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+          description: ''
+      tags:
+      - users
+  /users/{id}/:
+    get:
+      operationId: retrieveUser
+      description: ViewSet for User model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+          description: ''
+      tags:
+      - users
+    put:
+      operationId: updateUser
+      description: ViewSet for User model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/User'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+          description: ''
+      tags:
+      - users
+    patch:
+      operationId: partialUpdateUser
+      description: ViewSet for User model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/User'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+          description: ''
+      tags:
+      - users
+    delete:
+      operationId: destroyUser
+      description: ViewSet for User model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - users
+  /users/{id}/resend_confirmation/:
+    get:
+      operationId: resendConfirmationUser
+      description: ViewSet for User model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+          description: ''
+      tags:
+      - users
+  /memberships/payu/response/:
+    get:
+      operationId: listPayUResponses
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items: {}
+          description: ''
+      tags:
+      - memberships
+  /memberships/:
+    get:
+      operationId: listMemberships
+      description: ViewSet for Membership model CRUD.
+      parameters:
+      - name: tier
+        required: false
+        in: query
+        description: tier
+        schema:
+          type: string
+          enum:
+          - 3
+          - 6
+          - 12
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Membership'
+          description: ''
+      tags:
+      - memberships
+    post:
+      operationId: createMembership
+      description: ViewSet for Membership model CRUD.
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Membership'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/Membership'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/Membership'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Membership'
+          description: ''
+      tags:
+      - memberships
+  /memberships/{id}/:
+    get:
+      operationId: retrieveMembership
+      description: ViewSet for Membership model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this membership.
+        schema:
+          type: string
+      - name: tier
+        required: false
+        in: query
+        description: tier
+        schema:
+          type: string
+          enum:
+          - 3
+          - 6
+          - 12
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Membership'
+          description: ''
+      tags:
+      - memberships
+    put:
+      operationId: updateMembership
+      description: ViewSet for Membership model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this membership.
+        schema:
+          type: string
+      - name: tier
+        required: false
+        in: query
+        description: tier
+        schema:
+          type: string
+          enum:
+          - 3
+          - 6
+          - 12
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Membership'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/Membership'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/Membership'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Membership'
+          description: ''
+      tags:
+      - memberships
+    patch:
+      operationId: partialUpdateMembership
+      description: ViewSet for Membership model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this membership.
+        schema:
+          type: string
+      - name: tier
+        required: false
+        in: query
+        description: tier
+        schema:
+          type: string
+          enum:
+          - 3
+          - 6
+          - 12
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Membership'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/Membership'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/Membership'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Membership'
+          description: ''
+      tags:
+      - memberships
+    delete:
+      operationId: destroyMembership
+      description: ViewSet for Membership model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this membership.
+        schema:
+          type: string
+      - name: tier
+        required: false
+        in: query
+        description: tier
+        schema:
+          type: string
+          enum:
+          - 3
+          - 6
+          - 12
+      responses:
+        '204':
+          description: ''
+      tags:
+      - memberships
+  /payments/:
+    get:
+      operationId: listPayments
+      description: ViewSet for read-only Payment endpoints.
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Payment'
+          description: ''
+      tags:
+      - payments
+  /payments/{id}/:
+    get:
+      operationId: retrievePayment
+      description: ViewSet for read-only Payment endpoints.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this payment.
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Payment'
+          description: ''
+      tags:
+      - payments
+  /nutrition/daily/:
+    get:
+      operationId: listDailyNutritionalPlans
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items: {}
+          description: ''
+      tags:
+      - nutrition
+  /nutrition/intake/:
+    get:
+      operationId: listDailyNutritionalBillCalculations
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items: {}
+          description: ''
+      tags:
+      - nutrition
+  /foods/:
+    get:
+      operationId: listFoods
+      description: ViewSet for Food model CRUD.
+      parameters:
+      - name: food_group__group
+        required: false
+        in: query
+        description: food_group__group
+        schema:
+          type: string
+          enum:
+          - CER
+          - TUB
+          - PLA
+          - ROT
+          - LEG
+          - MEA
+          - MLK
+          - LFM
+          - FRT
+          - VEG
+          - SED
+          - POL
+          - MON
+          - SAT
+          - SUG
+          - SWT
+          - MIS
+          - PRE
+          - SPI
+          - ALH
+          - SUP
+          - VGF
+          - VGP
+          - EGG
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Food'
+          description: ''
+      tags:
+      - foods
+    post:
+      operationId: createFood
+      description: ViewSet for Food model CRUD.
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Food'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/Food'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/Food'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Food'
+          description: ''
+      tags:
+      - foods
+  /foods/{id}/:
+    get:
+      operationId: retrieveFood
+      description: ViewSet for Food model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this food.
+        schema:
+          type: string
+      - name: food_group__group
+        required: false
+        in: query
+        description: food_group__group
+        schema:
+          type: string
+          enum:
+          - CER
+          - TUB
+          - PLA
+          - ROT
+          - LEG
+          - MEA
+          - MLK
+          - LFM
+          - FRT
+          - VEG
+          - SED
+          - POL
+          - MON
+          - SAT
+          - SUG
+          - SWT
+          - MIS
+          - PRE
+          - SPI
+          - ALH
+          - SUP
+          - VGF
+          - VGP
+          - EGG
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Food'
+          description: ''
+      tags:
+      - foods
+    put:
+      operationId: updateFood
+      description: ViewSet for Food model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this food.
+        schema:
+          type: string
+      - name: food_group__group
+        required: false
+        in: query
+        description: food_group__group
+        schema:
+          type: string
+          enum:
+          - CER
+          - TUB
+          - PLA
+          - ROT
+          - LEG
+          - MEA
+          - MLK
+          - LFM
+          - FRT
+          - VEG
+          - SED
+          - POL
+          - MON
+          - SAT
+          - SUG
+          - SWT
+          - MIS
+          - PRE
+          - SPI
+          - ALH
+          - SUP
+          - VGF
+          - VGP
+          - EGG
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Food'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/Food'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/Food'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Food'
+          description: ''
+      tags:
+      - foods
+    patch:
+      operationId: partialUpdateFood
+      description: ViewSet for Food model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this food.
+        schema:
+          type: string
+      - name: food_group__group
+        required: false
+        in: query
+        description: food_group__group
+        schema:
+          type: string
+          enum:
+          - CER
+          - TUB
+          - PLA
+          - ROT
+          - LEG
+          - MEA
+          - MLK
+          - LFM
+          - FRT
+          - VEG
+          - SED
+          - POL
+          - MON
+          - SAT
+          - SUG
+          - SWT
+          - MIS
+          - PRE
+          - SPI
+          - ALH
+          - SUP
+          - VGF
+          - VGP
+          - EGG
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Food'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/Food'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/Food'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Food'
+          description: ''
+      tags:
+      - foods
+    delete:
+      operationId: destroyFood
+      description: ViewSet for Food model CRUD.
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this food.
+        schema:
+          type: string
+      - name: food_group__group
+        required: false
+        in: query
+        description: food_group__group
+        schema:
+          type: string
+          enum:
+          - CER
+          - TUB
+          - PLA
+          - ROT
+          - LEG
+          - MEA
+          - MLK
+          - LFM
+          - FRT
+          - VEG
+          - SED
+          - POL
+          - MON
+          - SAT
+          - SUG
+          - SWT
+          - MIS
+          - PRE
+          - SPI
+          - ALH
+          - SUP
+          - VGF
+          - VGP
+          - EGG
+      responses:
+        '204':
+          description: ''
+      tags:
+      - foods
+  /psychology/daily/:
+    get:
+      operationId: listDailyPsychologicalPlans
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items: {}
+          description: ''
+      tags:
+      - psychology
+  /psychology/techniques/:
+    get:
+      operationId: listPsychologicalTechniques
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/PsychologicalTechnique'
+          description: ''
+      tags:
+      - psychology
+  /psychology/borgh/:
+    get:
+      operationId: listBorghEffortScales
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/BorghEfforScale'
+          description: ''
+      tags:
+      - psychology
+  /psychology/hamilton/:
+    get:
+      operationId: listHamiltonQuestions
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/HamiltonQuestion'
+          description: ''
+      tags:
+      - psychology
+  /psychology/mood-feelings/:
+    get:
+      operationId: listMoodFeelings
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items: {}
+          description: ''
+      tags:
+      - psychology
+  /psychology-plan-summaries/:
+    get:
+      operationId: listPsychologicalSummarys
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/PsychologicalSummary'
+          description: ''
+      tags:
+      - psychology-plan-summaries
+    post:
+      operationId: createPsychologicalSummary
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalSummary'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalSummary'
+          description: ''
+      tags:
+      - psychology-plan-summaries
+  /psychology-plan-summaries/{id}/:
+    get:
+      operationId: retrievePsychologicalSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalSummary'
+          description: ''
+      tags:
+      - psychology-plan-summaries
+    put:
+      operationId: updatePsychologicalSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalSummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalSummary'
+          description: ''
+      tags:
+      - psychology-plan-summaries
+    patch:
+      operationId: partialUpdatePsychologicalSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalSummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalSummary'
+          description: ''
+      tags:
+      - psychology-plan-summaries
+    delete:
+      operationId: destroyPsychologicalSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-plan-summaries
+  /psychology-questions/:
+    get:
+      operationId: listPsychologicalQuestions
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/PsychologicalQuestion'
+          description: ''
+      tags:
+      - psychology-questions
+  /psychology-questions/{id}/:
+    get:
+      operationId: retrievePsychologicalQuestion
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this psychological question.
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalQuestion'
+          description: ''
+      tags:
+      - psychology-questions
+  /psychology-answers/:
+    get:
+      operationId: listPsychologicalQuestionAnswers
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-answers
+    post:
+      operationId: createPsychologicalQuestionAnswer
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-answers
+  /psychology-answers/{id}/:
+    get:
+      operationId: retrievePsychologicalQuestionAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-answers
+    put:
+      operationId: updatePsychologicalQuestionAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-answers
+    patch:
+      operationId: partialUpdatePsychologicalQuestionAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-answers
+    delete:
+      operationId: destroyPsychologicalQuestionAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-answers
+  /psychology-beliefs-questionaires/:
+    get:
+      operationId: listIrrationalBeliefQuestionaires
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/IrrationalBeliefQuestionaire'
+          description: ''
+      tags:
+      - psychology-beliefs-questionaires
+  /psychology-beliefs-questionaires/{id}/:
+    get:
+      operationId: retrieveIrrationalBeliefQuestionaire
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this irrational belief questionaire.
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/IrrationalBeliefQuestionaire'
+          description: ''
+      tags:
+      - psychology-beliefs-questionaires
+  /psychology-beliefs-summaries/:
+    get:
+      operationId: listIrrationalBeliefSummarys
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/IrrationalBeliefSummary'
+          description: ''
+      tags:
+      - psychology-beliefs-summaries
+    post:
+      operationId: createIrrationalBeliefSummary
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefSummary'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/IrrationalBeliefSummary'
+          description: ''
+      tags:
+      - psychology-beliefs-summaries
+  /psychology-beliefs-summaries/{id}/:
+    get:
+      operationId: retrieveIrrationalBeliefSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/IrrationalBeliefSummary'
+          description: ''
+      tags:
+      - psychology-beliefs-summaries
+    put:
+      operationId: updateIrrationalBeliefSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefSummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/IrrationalBeliefSummary'
+          description: ''
+      tags:
+      - psychology-beliefs-summaries
+    patch:
+      operationId: partialUpdateIrrationalBeliefSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefSummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/IrrationalBeliefSummary'
+          description: ''
+      tags:
+      - psychology-beliefs-summaries
+    delete:
+      operationId: destroyIrrationalBeliefSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-beliefs-summaries
+  /psychology-beliefs-answers/:
+    get:
+      operationId: listIrrationalBeliefAnswers
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          description: ''
+      tags:
+      - psychology-beliefs-answers
+    post:
+      operationId: createIrrationalBeliefAnswer
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefAnswer'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          description: ''
+      tags:
+      - psychology-beliefs-answers
+  /psychology-beliefs-answers/{id}/:
+    get:
+      operationId: retrieveIrrationalBeliefAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          description: ''
+      tags:
+      - psychology-beliefs-answers
+    put:
+      operationId: updateIrrationalBeliefAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefAnswer'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          description: ''
+      tags:
+      - psychology-beliefs-answers
+    patch:
+      operationId: partialUpdateIrrationalBeliefAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/IrrationalBeliefAnswer'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/IrrationalBeliefAnswer'
+          description: ''
+      tags:
+      - psychology-beliefs-answers
+    delete:
+      operationId: destroyIrrationalBeliefAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-beliefs-answers
+  /psychology-inventory-questionaires/:
+    get:
+      operationId: listPsychologicalInventoryQuestionaires
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/PsychologicalInventoryQuestionaire'
+          description: ''
+      tags:
+      - psychology-inventory-questionaires
+  /psychology-inventory-questionaires/{id}/:
+    get:
+      operationId: retrievePsychologicalInventoryQuestionaire
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: A UUID string identifying this psychological inventory questionaire.
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalInventoryQuestionaire'
+          description: ''
+      tags:
+      - psychology-inventory-questionaires
+  /psychology-inventory-summaries/:
+    get:
+      operationId: listPsychologicalInventorySummarys
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/PsychologicalInventorySummary'
+          description: ''
+      tags:
+      - psychology-inventory-summaries
+    post:
+      operationId: createPsychologicalInventorySummary
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventorySummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventorySummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventorySummary'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalInventorySummary'
+          description: ''
+      tags:
+      - psychology-inventory-summaries
+  /psychology-inventory-summaries/{id}/:
+    get:
+      operationId: retrievePsychologicalInventorySummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalInventorySummary'
+          description: ''
+      tags:
+      - psychology-inventory-summaries
+    put:
+      operationId: updatePsychologicalInventorySummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventorySummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventorySummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventorySummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalInventorySummary'
+          description: ''
+      tags:
+      - psychology-inventory-summaries
+    patch:
+      operationId: partialUpdatePsychologicalInventorySummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventorySummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventorySummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventorySummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalInventorySummary'
+          description: ''
+      tags:
+      - psychology-inventory-summaries
+    delete:
+      operationId: destroyPsychologicalInventorySummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-inventory-summaries
+  /psychology-inventory-answers/:
+    get:
+      operationId: listPsychologicalInventoryAnswers
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          description: ''
+      tags:
+      - psychology-inventory-answers
+    post:
+      operationId: createPsychologicalInventoryAnswer
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          description: ''
+      tags:
+      - psychology-inventory-answers
+  /psychology-inventory-answers/{id}/:
+    get:
+      operationId: retrievePsychologicalInventoryAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          description: ''
+      tags:
+      - psychology-inventory-answers
+    put:
+      operationId: updatePsychologicalInventoryAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          description: ''
+      tags:
+      - psychology-inventory-answers
+    patch:
+      operationId: partialUpdatePsychologicalInventoryAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalInventoryAnswer'
+          description: ''
+      tags:
+      - psychology-inventory-answers
+    delete:
+      operationId: destroyPsychologicalInventoryAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-inventory-answers
+  /psychology-borgh-summaries/:
+    get:
+      operationId: listBorghSummarys
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/BorghSummary'
+          description: ''
+      tags:
+      - psychology-borgh-summaries
+    post:
+      operationId: createBorghSummary
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/BorghSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/BorghSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/BorghSummary'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BorghSummary'
+          description: ''
+      tags:
+      - psychology-borgh-summaries
+  /psychology-borgh-summaries/{id}/:
+    get:
+      operationId: retrieveBorghSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BorghSummary'
+          description: ''
+      tags:
+      - psychology-borgh-summaries
+    put:
+      operationId: updateBorghSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/BorghSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/BorghSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/BorghSummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BorghSummary'
+          description: ''
+      tags:
+      - psychology-borgh-summaries
+    patch:
+      operationId: partialUpdateBorghSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/BorghSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/BorghSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/BorghSummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BorghSummary'
+          description: ''
+      tags:
+      - psychology-borgh-summaries
+    delete:
+      operationId: destroyBorghSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-borgh-summaries
+  /psychology-hamilton-summaries/:
+    get:
+      operationId: listHamiltonSummarys
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/HamiltonSummary'
+          description: ''
+      tags:
+      - psychology-hamilton-summaries
+    post:
+      operationId: createHamiltonSummary
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/HamiltonSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/HamiltonSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/HamiltonSummary'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HamiltonSummary'
+          description: ''
+      tags:
+      - psychology-hamilton-summaries
+  /psychology-hamilton-summaries/{id}/:
+    get:
+      operationId: retrieveHamiltonSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HamiltonSummary'
+          description: ''
+      tags:
+      - psychology-hamilton-summaries
+    put:
+      operationId: updateHamiltonSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/HamiltonSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/HamiltonSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/HamiltonSummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HamiltonSummary'
+          description: ''
+      tags:
+      - psychology-hamilton-summaries
+    patch:
+      operationId: partialUpdateHamiltonSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/HamiltonSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/HamiltonSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/HamiltonSummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HamiltonSummary'
+          description: ''
+      tags:
+      - psychology-hamilton-summaries
+    delete:
+      operationId: destroyHamiltonSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-hamilton-summaries
+  /psychology-hamilton-answers/:
+    get:
+      operationId: listHamiltonQuestionAnswers
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-hamilton-answers
+    post:
+      operationId: createHamiltonQuestionAnswer
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/HamiltonQuestionAnswer'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-hamilton-answers
+  /psychology-hamilton-answers/{id}/:
+    get:
+      operationId: retrieveHamiltonQuestionAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-hamilton-answers
+    put:
+      operationId: updateHamiltonQuestionAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/HamiltonQuestionAnswer'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-hamilton-answers
+    patch:
+      operationId: partialUpdateHamiltonQuestionAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/HamiltonQuestionAnswer'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HamiltonQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-hamilton-answers
+    delete:
+      operationId: destroyHamiltonQuestionAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-hamilton-answers
+  /psychology-mood-summaries/:
+    get:
+      operationId: listMoodProfileSummarys
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/MoodProfileSummary'
+          description: ''
+      tags:
+      - psychology-mood-summaries
+    post:
+      operationId: createMoodProfileSummary
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MoodProfileSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/MoodProfileSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/MoodProfileSummary'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MoodProfileSummary'
+          description: ''
+      tags:
+      - psychology-mood-summaries
+  /psychology-mood-summaries/{id}/:
+    get:
+      operationId: retrieveMoodProfileSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MoodProfileSummary'
+          description: ''
+      tags:
+      - psychology-mood-summaries
+    put:
+      operationId: updateMoodProfileSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MoodProfileSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/MoodProfileSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/MoodProfileSummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MoodProfileSummary'
+          description: ''
+      tags:
+      - psychology-mood-summaries
+    patch:
+      operationId: partialUpdateMoodProfileSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MoodProfileSummary'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/MoodProfileSummary'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/MoodProfileSummary'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MoodProfileSummary'
+          description: ''
+      tags:
+      - psychology-mood-summaries
+    delete:
+      operationId: destroyMoodProfileSummary
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-mood-summaries
+  /psychology-mood-answers/:
+    get:
+      operationId: listMoodProfileAnswers
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/MoodProfileAnswer'
+          description: ''
+      tags:
+      - psychology-mood-answers
+    post:
+      operationId: createMoodProfileAnswer
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MoodProfileAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/MoodProfileAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/MoodProfileAnswer'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MoodProfileAnswer'
+          description: ''
+      tags:
+      - psychology-mood-answers
+  /psychology-mood-answers/{id}/:
+    get:
+      operationId: retrieveMoodProfileAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MoodProfileAnswer'
+          description: ''
+      tags:
+      - psychology-mood-answers
+    put:
+      operationId: updateMoodProfileAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MoodProfileAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/MoodProfileAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/MoodProfileAnswer'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MoodProfileAnswer'
+          description: ''
+      tags:
+      - psychology-mood-answers
+    patch:
+      operationId: partialUpdateMoodProfileAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MoodProfileAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/MoodProfileAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/MoodProfileAnswer'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MoodProfileAnswer'
+          description: ''
+      tags:
+      - psychology-mood-answers
+    delete:
+      operationId: destroyMoodProfileAnswer
+      description: ''
+      parameters:
+      - name: id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '204':
+          description: ''
+      tags:
+      - psychology-mood-answers
+  /training/daily/:
+    get:
+      operationId: listDailyTrainingPlans
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items: {}
+          description: ''
+      tags:
+      - training
+  /training/complete/:
+    get:
+      operationId: listCompleteTrainingPlans
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items: {}
+          description: ''
+      tags:
+      - training
+  /logout/:
+    post:
+      operationId: createLogout
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema: {}
+          application/x-www-form-urlencoded:
+            schema: {}
+          multipart/form-data:
+            schema: {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - logout
+  /logoutall/:
+    post:
+      operationId: createLogoutAll
+      description: 'Log the user out of all sessions
+
+        I.E. deletes all auth tokens for the user'
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema: {}
+          application/x-www-form-urlencoded:
+            schema: {}
+          multipart/form-data:
+            schema: {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - logoutall
+  /login/:
+    post:
+      operationId: createLogin
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema: {}
+          application/x-www-form-urlencoded:
+            schema: {}
+          multipart/form-data:
+            schema: {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - login
+  /password-reset/request-email/:
+    post:
+      operationId: createRequestPasswordReset
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema: {}
+          application/x-www-form-urlencoded:
+            schema: {}
+          multipart/form-data:
+            schema: {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - password-reset
+  /password-reset/:
+    post:
+      operationId: createPerformPasswordReset
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema: {}
+          application/x-www-form-urlencoded:
+            schema: {}
+          multipart/form-data:
+            schema: {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - password-reset
+  /users/register/:
+    post:
+      operationId: registerRegisterUser
+      description: ViewSet for User model CRUD.
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/RegisterUser'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/RegisterUser'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/RegisterUser'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RegisterUser'
+          description: ''
+      tags:
+      - users
+  /memberships/buy/:
+    post:
+      operationId: createBuyMembership
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema: {}
+          application/x-www-form-urlencoded:
+            schema: {}
+          multipart/form-data:
+            schema: {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - memberships
+  /memberships/buy/paypal/:
+    post:
+      operationId: createBuyMembershipViaPaypal
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema: {}
+          application/x-www-form-urlencoded:
+            schema: {}
+          multipart/form-data:
+            schema: {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - memberships
+  /memberships/payu/confirm/:
+    post:
+      operationId: createPayUConfirmation
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema: {}
+          application/x-www-form-urlencoded:
+            schema: {}
+          multipart/form-data:
+            schema: {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - memberships
+  /psychology-answers/batch-create/:
+    post:
+      operationId: batchCreatePsychologicalQuestionAnswer
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PsychologicalQuestionAnswer'
+          description: ''
+      tags:
+      - psychology-answers
+components:
+  schemas:
+    User:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        is_staff:
+          type: boolean
+          readOnly: true
+          description: Designates whether the user can log into this admin site.
+        email:
+          type: string
+          format: email
+          maxLength: 254
+        is_email_verified:
+          type: boolean
+          readOnly: true
+        age:
+          type: integer
+          maximum: 2147483647
+          minimum: -2147483648
+        gender:
+          enum:
+          - MA
+          - FE
+          type: string
+        height:
+          type: number
+          description: Customer height in centimeters
+        weight:
+          type: number
+          description: Customer weight in kilograms
+        weight_goal:
+          type: number
+        diet:
+          enum:
+          - RG
+          - VE
+          - VG
+          type: string
+        sports_level:
+          enum:
+          - BG
+          - IM
+          - AV
+          type: string
+        sports_goal:
+          enum:
+          - PM
+          - HS
+          type: string
+        weekly_training:
+          enum:
+          - T1
+          - T2
+          - T3
+          - T4
+          type: string
+        hourly_training:
+          enum:
+          - T1
+          - T2
+          - T3
+          - T4
+          - T5
+          type: string
+        body_type:
+          enum:
+          - EC
+          - ME
+          - EN
+          type: string
+        body_goal:
+          enum:
+          - LW
+          - MW
+          - GM
+          type: string
+        membership:
+          type: string
+          nullable: true
+        training_start:
+          type: string
+          format: date-time
+          nullable: true
+        training_end:
+          type: string
+          format: date-time
+          nullable: true
+        update_info:
+          type: boolean
+          readOnly: true
+      required:
+      - email
+      - age
+      - height
+      - weight
+      - weight_goal
+    Membership:
+      type: object
+      properties:
+        tier:
+          enum:
+          - 3
+          - 6
+          - 12
+          type: integer
+          minimum: -2147483648
+          maximum: 2147483647
+        price:
+          type: string
+          format: decimal
+          multipleOf: 0.0001
+          maximum: 1000000000000000
+          minimum: -1000000000000000
+      required:
+      - price
+    Payment:
+      type: object
+      properties:
+        user:
+          type: string
+        status:
+          enum:
+          - 0
+          - 4
+          - 6
+          - 5
+          type: integer
+          minimum: -2147483648
+          maximum: 2147483647
+        status_label:
+          type: string
+          readOnly: true
+        reference_code:
+          type: string
+          maxLength: 32
+        membership_purchased:
+          type: string
+          nullable: true
+        amount:
+          type: string
+          format: decimal
+          multipleOf: 0.0001
+          maximum: 1000000000000000
+          minimum: -1000000000000000
+        currency:
+          enum:
+          - ARS
+          - BRL
+          - CLP
+          - COP
+          - MXN
+          - PEN
+          - USD
+          type: string
+      required:
+      - user
+      - reference_code
+      - amount
+    Food:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          readOnly: true
+        name:
+          type: string
+          maxLength: 100
+        food_group:
+          type: object
+          properties:
+            id:
+              type: string
+              format: uuid
+              readOnly: true
+            created_at:
+              type: string
+              format: date-time
+              readOnly: true
+            updated_at:
+              type: string
+              format: date-time
+              readOnly: true
+            supergroup:
+              enum:
+              - ENE
+              - PRO
+              - DAI
+              - LFD
+              - FAV
+              - HFA
+              - OTH
+              - NSU
+              - VEN
+              - VPR
+              type: string
+              default: !!python/object/apply:elsa.nutrition.models.FoodSuperGroups
+              - ENE
+            group:
+              enum:
+              - CER
+              - TUB
+              - PLA
+              - ROT
+              - LEG
+              - MEA
+              - MLK
+              - LFM
+              - FRT
+              - VEG
+              - SED
+              - POL
+              - MON
+              - SAT
+              - SUG
+              - SWT
+              - MIS
+              - PRE
+              - SPI
+              - ALH
+              - SUP
+              - VGF
+              - VGP
+              - EGG
+              type: string
+              default: !!python/object/apply:elsa.nutrition.models.FoodGroups
+              - CER
+          readOnly: true
+        cooked_half_portion:
+          type: number
+        raw_half_portion:
+          type: number
+        calories:
+          type: number
+        proteins:
+          type: number
+        fats:
+          type: number
+        carbohydrates:
+          type: number
+        home_measure_amount:
+          type: string
+          maxLength: 8
+        home_measure_type:
+          enum:
+          - HP_SP
+          - LV_SP
+          - HP_TS
+          - LV_TS
+          - SM_MT
+          - SM_BA
+          - BO
+          - EG_YO
+          - CU
+          - LA
+          - SM_SG
+          - LF
+          - PA
+          - PI
+          - SM_PL
+          - MD_PL
+          - BG_PL
+          - PE_PL
+          - WE
+          - CH_WE
+          - TH_SL
+          - MD_SL
+          - BG_SL
+          - CH
+          - TH_ST
+          - BW
+          - DR
+          - SM_CT
+          - MD_CT
+          - BG_CT
+          - SM_UN
+          - MD_UN
+          - BG_UN
+          - GL
+          - SM_GL
+          - MD_GL
+          - BG_GL
+          - PE_CN
+          - ST
+          - HL
+          - PC
+          type: string
+      required:
+      - name
+      - cooked_half_portion
+      - raw_half_portion
+      - calories
+      - proteins
+      - fats
+      - carbohydrates
+      - home_measure_amount
+    PsychologicalTechnique:
+      type: object
+      properties:
+        type:
+          enum:
+          - RE
+          - JA
+          - SZ
+          - HA
+          - VI
+          type: string
+        title:
+          type: string
+          maxLength: 55
+        description:
+          type: string
+      required:
+      - title
+      - description
+    BorghEfforScale:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        description:
+          type: string
+          maxLength: 112
+        intensity:
+          enum:
+          - E_S
+          - V_S
+          - S
+          - S_H
+          - H
+          - E_H
+          type: string
+        lower_rpe:
+          type: integer
+          maximum: 10
+          minimum: 0
+        higher_rpe:
+          type: integer
+          maximum: 10
+          minimum: 0
+      required:
+      - description
+      - lower_rpe
+      - higher_rpe
+    HamiltonQuestion:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        number:
+          type: integer
+          maximum: 14
+          minimum: 0
+        title:
+          type: string
+          maxLength: 55
+        description:
+          type: string
+      required:
+      - number
+      - title
+      - description
+    PsychologicalSummary:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        user:
+          type: string
+        start_date:
+          type: string
+          format: date-time
+        end_date:
+          type: string
+          format: date-time
+      required:
+      - user
+      - start_date
+      - end_date
+    PsychologicalQuestion:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        day:
+          enum:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          type: integer
+          minimum: -2147483648
+          maximum: 2147483647
+        week:
+          type: integer
+          maximum: 2147483647
+          minimum: -2147483648
+        number:
+          type: integer
+          maximum: 2147483647
+          minimum: -2147483648
+          nullable: true
+        description:
+          type: string
+        parent:
+          type: string
+          nullable: true
+      required:
+      - week
+      - description
+    PsychologicalQuestionAnswer:
+      type: object
+      properties:
+        question:
+          type: string
+        answer_subject:
+          type: string
+          nullable: true
+          maxLength: 50
+        string_answer:
+          type: string
+          nullable: true
+        boolean_answer:
+          type: boolean
+          nullable: true
+        intensity_answer:
+          enum:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          type: integer
+          nullable: true
+          minimum: -2147483648
+          maximum: 2147483647
+        integer_scale_answer:
+          type: integer
+          maximum: 10
+          nullable: true
+          minimum: 0
+        qualificative_answer:
+          enum:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          type: integer
+          nullable: true
+          minimum: -2147483648
+          maximum: 2147483647
+      required:
+      - question
+    IrrationalBeliefQuestionaire:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        day:
+          enum:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          type: integer
+          minimum: -2147483648
+          maximum: 2147483647
+        week:
+          type: integer
+          maximum: 2147483647
+          minimum: -2147483648
+        title:
+          type: string
+          maxLength: 30
+        description:
+          type: string
+        summary_description:
+          type: string
+        summary_scales:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: string
+                format: uuid
+                readOnly: true
+              created_at:
+                type: string
+                format: date-time
+                readOnly: true
+              updated_at:
+                type: string
+                format: date-time
+                readOnly: true
+              value:
+                enum:
+                - TI
+                - VI
+                - SI
+                - SR
+                - VR
+                - TR
+                type: string
+              lower_limit:
+                type: integer
+                maximum: 42
+                minimum: 3
+              upper_limit:
+                type: integer
+                maximum: 42
+                minimum: 3
+            required:
+            - lower_limit
+            - upper_limit
+          readOnly: true
+        questions:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: string
+                format: uuid
+                readOnly: true
+              created_at:
+                type: string
+                format: date-time
+                readOnly: true
+              updated_at:
+                type: string
+                format: date-time
+                readOnly: true
+              number:
+                type: integer
+                maximum: 2147483647
+                minimum: -2147483648
+              description:
+                type: string
+                maxLength: 140
+              questionaire:
+                type: string
+            required:
+            - number
+            - description
+            - questionaire
+          readOnly: true
+      required:
+      - week
+      - title
+      - description
+      - summary_description
+    IrrationalBeliefSummary:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        user:
+          type: string
+        questionaire:
+          type: string
+        description:
+          type: string
+          readOnly: true
+        answers:
+          type: array
+          items:
+            type: string
+        score:
+          type: string
+          readOnly: true
+        result:
+          type: string
+          readOnly: true
+      required:
+      - user
+      - questionaire
+      - answers
+    IrrationalBeliefAnswer:
+      type: object
+      properties:
+        summary:
+          type: string
+        answer:
+          enum:
+          - TD
+          - MD
+          - SD
+          - SA
+          - MA
+          - TA
+          type: string
+        intensity:
+          type: integer
+          maximum: 6
+          minimum: 0
+      required:
+      - summary
+      - answer
+      - intensity
+    PsychologicalInventoryQuestionaire:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        day:
+          enum:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          type: integer
+          minimum: -2147483648
+          maximum: 2147483647
+        week:
+          type: integer
+          maximum: 2147483647
+          minimum: -2147483648
+        title:
+          type: string
+          maxLength: 52
+        description:
+          type: string
+        summary_description:
+          type: string
+        questions:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: string
+                format: uuid
+                readOnly: true
+              created_at:
+                type: string
+                format: date-time
+                readOnly: true
+              updated_at:
+                type: string
+                format: date-time
+                readOnly: true
+              number:
+                type: integer
+                maximum: 2147483647
+                minimum: -2147483648
+              description:
+                type: string
+                maxLength: 152
+              questionaire:
+                type: string
+            required:
+            - number
+            - description
+            - questionaire
+          readOnly: true
+      required:
+      - week
+      - title
+      - description
+      - summary_description
+    PsychologicalInventorySummary:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        user:
+          type: string
+        questionaire:
+          type: string
+        description:
+          type: string
+          readOnly: true
+        score:
+          type: string
+          readOnly: true
+      required:
+      - user
+      - questionaire
+    PsychologicalInventoryAnswer:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        summary:
+          type: string
+        answer:
+          enum:
+          - 5
+          - 4
+          - 3
+          - 2
+          - 1
+          type: integer
+          minimum: -2147483648
+          maximum: 2147483647
+      required:
+      - summary
+    BorghSummary:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        user:
+          type: string
+        answer:
+          type: string
+        created_at:
+          type: string
+          format: date-time
+          readOnly: true
+      required:
+      - user
+      - answer
+    HamiltonSummary:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        user:
+          type: string
+        answers:
+          type: array
+          items:
+            type: string
+        score:
+          type: string
+          readOnly: true
+        result:
+          type: string
+          readOnly: true
+      required:
+      - user
+      - answers
+    HamiltonQuestionAnswer:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        summary:
+          type: string
+        question:
+          type: string
+        answer:
+          enum:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          type: integer
+          minimum: -2147483648
+          maximum: 2147483647
+      required:
+      - summary
+      - question
+    MoodProfileSummary:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        user:
+          type: string
+        fatigue:
+          type: string
+          readOnly: true
+        confusion:
+          type: string
+          readOnly: true
+        vigor:
+          type: string
+          readOnly: true
+        depression:
+          type: string
+          readOnly: true
+        anger:
+          type: string
+          readOnly: true
+        tension:
+          type: string
+          readOnly: true
+        general_mood:
+          type: string
+          readOnly: true
+      required:
+      - user
+    MoodProfileAnswer:
+      type: object
+      properties:
+        pk:
+          type: string
+          format: uuid
+          readOnly: true
+        summary:
+          type: string
+        feeling:
+          enum:
+          - FD
+          - TE
+          - AN
+          - WR
+          - UH
+          - HH
+          - DY
+          - CF
+          - SR
+          - TR
+          - AP
+          - FU
+          - CN
+          - SA
+          - AC
+          - NR
+          - GR
+          - BL
+          - EN
+          - PA
+          - HL
+          - RE
+          - UW
+          - ML
+          - SP
+          - HT
+          - RT
+          - UC
+          - FA
+          - US
+          - UP
+          - DC
+          - RS
+          - AL
+          - MS
+          - CO
+          - HA
+          - BI
+          - EX
+          - AX
+          - FR
+          - GM
+          - SO
+          - DE
+          - SL
+          - RB
+          - DL
+          - TI
+          - BW
+          - AT
+          - CH
+          - EF
+          - TW
+          - CR
+          - BM
+          - WL
+          - FG
+          - CA
+          - TF
+          - GT
+          - VG
+          - UN
+          - DR
+          type: string
+        feeling_label:
+          type: string
+          readOnly: true
+        intensity:
+          enum:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          type: integer
+          minimum: -2147483648
+          maximum: 2147483647
+      required:
+      - summary
+    RegisterUser:
+      type: object
+      properties:
+        user:
+          type: object
+          properties:
+            pk:
+              type: string
+              format: uuid
+              readOnly: true
+            is_staff:
+              type: boolean
+              readOnly: true
+              description: Designates whether the user can log into this admin site.
+            email:
+              type: string
+              format: email
+              maxLength: 254
+            is_email_verified:
+              type: boolean
+              readOnly: true
+            age:
+              type: integer
+              maximum: 2147483647
+              minimum: -2147483648
+            gender:
+              enum:
+              - MA
+              - FE
+              type: string
+            height:
+              type: number
+              description: Customer height in centimeters
+            weight:
+              type: number
+              description: Customer weight in kilograms
+            weight_goal:
+              type: number
+            diet:
+              enum:
+              - RG
+              - VE
+              - VG
+              type: string
+            sports_level:
+              enum:
+              - BG
+              - IM
+              - AV
+              type: string
+            sports_goal:
+              enum:
+              - PM
+              - HS
+              type: string
+            weekly_training:
+              enum:
+              - T1
+              - T2
+              - T3
+              - T4
+              type: string
+            hourly_training:
+              enum:
+              - T1
+              - T2
+              - T3
+              - T4
+              - T5
+              type: string
+            body_type:
+              enum:
+              - EC
+              - ME
+              - EN
+              type: string
+            body_goal:
+              enum:
+              - LW
+              - MW
+              - GM
+              type: string
+            membership:
+              type: string
+              nullable: true
+            training_start:
+              type: string
+              format: date-time
+              nullable: true
+            training_end:
+              type: string
+              format: date-time
+              nullable: true
+            update_info:
+              type: boolean
+              readOnly: true
+          required:
+          - email
+          - age
+          - height
+          - weight
+          - weight_goal
+        password:
+          type: string
+        confirm_password:
+          type: string
+      required:
+      - user
+      - password
+      - confirm_password

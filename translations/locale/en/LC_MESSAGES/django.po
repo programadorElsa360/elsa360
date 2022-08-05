@@ -1,0 +1,1024 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-08 21:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: elsa/commons/enums.py:6
+msgid "Monday"
+msgstr "Lunes"
+
+#: elsa/commons/enums.py:7
+msgid "Tuesday"
+msgstr "Martes"
+
+#: elsa/commons/enums.py:8
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: elsa/commons/enums.py:9
+msgid "Thursday"
+msgstr "Jueves"
+
+#: elsa/commons/enums.py:10
+msgid "Friday"
+msgstr "Viernes"
+
+#: elsa/commons/enums.py:11
+msgid "Saturday"
+msgstr "Sabado"
+
+#: elsa/commons/enums.py:12
+msgid "Sunday"
+msgstr "Domingo"
+
+#: elsa/commons/enums.py:16 elsa/psychology/models.py:50
+msgid "Regular"
+msgstr "Regular"
+
+#: elsa/commons/enums.py:17
+msgid "Vegetarian"
+msgstr "Vegetariana"
+
+#: elsa/commons/enums.py:18
+msgid "Vegan"
+msgstr "Vegana"
+
+#: elsa/commons/enums.py:22
+msgid "Beginner"
+msgstr "Principiante"
+
+#: elsa/commons/enums.py:23
+msgid "Intermediate"
+msgstr "Intermedio"
+
+#: elsa/commons/enums.py:24
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: elsa/commons/enums.py:28
+msgid "Performance"
+msgstr "Rendimiento"
+
+#: elsa/commons/enums.py:29
+msgid "Health / Social"
+msgstr "Salud / Ocio"
+
+#: elsa/commons/enums.py:33
+msgid "Between 1-2 times weekly"
+msgstr "Entre 1-2 veces semanales"
+
+#: elsa/commons/enums.py:34
+msgid "Between 3-4 times weekly"
+msgstr "Entre 3-4 veces semanales"
+
+#: elsa/commons/enums.py:35
+msgid "Between 4-5 times weekly"
+msgstr "Entre 4-5 veces semanales"
+
+#: elsa/commons/enums.py:36
+msgid "More than 5 times weekly"
+msgstr "Más de 5 veces semanales"
+
+#: elsa/commons/enums.py:40
+msgid "Less than 1 hour daily"
+msgstr "Menos de 1 hora diaria"
+
+#: elsa/commons/enums.py:41
+msgid "Between 1-2 hours daily"
+msgstr "Entre 1-2 horas diarias"
+
+#: elsa/commons/enums.py:42
+msgid "Between 3-4 hours daily"
+msgstr "Entre 3-4 horas diarias"
+
+#: elsa/commons/enums.py:43
+msgid "Between 4-5 hours daily"
+msgstr "Entre 4-5 horas diarias"
+
+#: elsa/commons/enums.py:44
+msgid "More than 5 hours daily"
+msgstr "Más de 5 horas diarias"
+
+#: elsa/commons/enums.py:48
+msgid "Lose weight"
+msgstr "Perder peso"
+
+#: elsa/commons/enums.py:49
+msgid "Maintain weight"
+msgstr "Mantener peso"
+
+#: elsa/commons/enums.py:50
+msgid "Gain muscle"
+msgstr "Ganar músculo"
+
+#: elsa/commons/enums.py:54
+msgid "Ectomorph"
+msgstr "Ectomorfo"
+
+#: elsa/commons/enums.py:55
+msgid "Mesomorph"
+msgstr "Mesomorfo"
+
+#: elsa/commons/enums.py:56
+msgid "Endomorph"
+msgstr "Endomorfo"
+
+#: elsa/commons/enums.py:60
+msgid "Hipocaloric"
+msgstr "Hipocalórico"
+
+#: elsa/commons/enums.py:61
+msgid "Normocaloric"
+msgstr "Normocalórica"
+
+#: elsa/commons/enums.py:62
+msgid "Hypercaloric"
+msgstr "Hypercalórica"
+
+#: elsa/commons/enums.py:66
+msgid "Between 1200 and 1350 Kcal"
+msgstr "Entre 1200 y 1350 Kcal"
+
+#: elsa/commons/enums.py:67
+msgid "Between 1351 and 1600 Kcal"
+msgstr "Entre 1351 y 1600 Kcal"
+
+#: elsa/commons/enums.py:68
+msgid "Between 1601 and 2000 Kcal"
+msgstr "Entre 1601 y 2000 Kcal"
+
+#: elsa/commons/enums.py:69
+msgid "Between 2001 and 2399 Kcal"
+msgstr "Entre 2001 y 2399 Kcal"
+
+#: elsa/commons/enums.py:70
+msgid "Between 2400 and 2700 Kcal"
+msgstr "Entre 2400 y 2700 Kcal"
+
+#: elsa/commons/enums.py:71
+msgid "Between 2701 and 3050 Kcal"
+msgstr "Entre 2701 y 3050 Kcal"
+
+#: elsa/commons/enums.py:72
+msgid "Between 3051 and 3450 Kcal"
+msgstr "Entre 3051 y 3450 Kcal"
+
+#: elsa/memberships/models.py:15
+msgid "Trimester"
+msgstr "Trimestre"
+
+#: elsa/memberships/models.py:16
+msgid "Semester"
+msgstr "Semestre"
+
+#: elsa/memberships/models.py:17
+msgid "Year"
+msgstr "Año"
+
+#: elsa/memberships/models.py:33
+msgid "Pending"
+msgstr "Pendiente"
+
+#: elsa/memberships/models.py:34
+msgid "Approved"
+msgstr "Aprobado"
+
+#: elsa/memberships/models.py:35
+msgid "Declined"
+msgstr "Rechazado"
+
+#: elsa/memberships/models.py:36
+msgid "Expired"
+msgstr "Expirado"
+
+#: elsa/memberships/models.py:41
+msgid "Argentine Peso"
+msgstr "Peso Argentino"
+
+#: elsa/memberships/models.py:42
+msgid "Brazilian Real"
+msgstr "Real Brazileño"
+
+#: elsa/memberships/models.py:43
+msgid "Chilean Peso"
+msgstr "Peso Chileno"
+
+#: elsa/memberships/models.py:44
+msgid "Colombian Peso"
+msgstr "Peso Colombiano"
+
+#: elsa/memberships/models.py:45
+msgid "Mexican Peso"
+msgstr "Peso Mexicano"
+
+#: elsa/memberships/models.py:46
+msgid "Peruvian New Sol"
+msgstr "Nuevo Sol Peruano"
+
+#: elsa/memberships/models.py:47
+msgid "American Dollar"
+msgstr "Dólar Americano"
+
+#: elsa/nutrition/models.py:20 elsa/psychology/models.py:286
+msgid "Energetic"
+msgstr "Energético"
+
+#: elsa/nutrition/models.py:21
+msgid "Protein"
+msgstr "Proteína"
+
+#: elsa/nutrition/models.py:22
+msgid "Dairy"
+msgstr "Lácteos"
+
+#: elsa/nutrition/models.py:23
+msgid "Low Fat Dairy"
+msgstr "Lácteos Bajos en Grasas"
+
+#: elsa/nutrition/models.py:24
+msgid "Fruits & Vegetables"
+msgstr "Frutas y Vegetales"
+
+#: elsa/nutrition/models.py:25
+msgid "Healthy Fats"
+msgstr "Grasas Saludables"
+
+#: elsa/nutrition/models.py:26
+msgid "Other"
+msgstr "Otros"
+
+#: elsa/nutrition/models.py:27 elsa/nutrition/models.py:52
+msgid "Nutritional Supplements"
+msgstr "Suplementos Nutricionales"
+
+#: elsa/nutrition/models.py:28
+msgid "Vegetarian Energetic"
+msgstr "Energéticos Vegetarianos"
+
+#: elsa/nutrition/models.py:29
+msgid "Vegetarian Protein"
+msgstr "Proteína Vegetariana"
+
+#: elsa/nutrition/models.py:32
+msgid "Cereals & Derivatives"
+msgstr "Cereales & Derivados"
+
+#: elsa/nutrition/models.py:33
+msgid "Tubercules"
+msgstr "Tubérculos"
+
+#: elsa/nutrition/models.py:34
+msgid "Plantains"
+msgstr "Plátanos"
+
+#: elsa/nutrition/models.py:35
+msgid "Roots"
+msgstr "Raíces"
+
+#: elsa/nutrition/models.py:36
+msgid "Legumes"
+msgstr "Leguminosas"
+
+#: elsa/nutrition/models.py:37
+msgid "Red Meats, Chicken, Fish & Eggs"
+msgstr "Carnes, Pollo, Pescados & Huevos"
+
+#: elsa/nutrition/models.py:38
+msgid "Milk & Dairy Derivatives"
+msgstr "Leche & Derivados Lácteos"
+
+#: elsa/nutrition/models.py:39
+msgid "Low Fat Milk & Low Fat Dairy Derivatives"
+msgstr "Leche Y Derivados Lácteos Bajos En Grasa"
+
+#: elsa/nutrition/models.py:40
+msgid "Fruits"
+msgstr "Frutas"
+
+#: elsa/nutrition/models.py:41
+msgid "Vegetables"
+msgstr "Vegetales"
+
+#: elsa/nutrition/models.py:42
+msgid "Dry Fruits & Seeds"
+msgstr "Frutos Secos y Semillas"
+
+#: elsa/nutrition/models.py:43
+msgid "Polysaturated Fats"
+msgstr "Grasas Polisaturadas"
+
+#: elsa/nutrition/models.py:44
+msgid "Monosaturated Fats"
+msgstr "Grasas Monosaturadas"
+
+#: elsa/nutrition/models.py:45
+msgid "Saturated Fats"
+msgstr "Grasas Saturadas"
+
+#: elsa/nutrition/models.py:46
+msgid "Simple Sugars"
+msgstr "Ázucares Simples"
+
+#: elsa/nutrition/models.py:47
+msgid "Sweets & Desserts"
+msgstr "Dulces y Postres"
+
+#: elsa/nutrition/models.py:48
+msgid "Miscellaneous"
+msgstr "Misceláneos"
+
+#: elsa/nutrition/models.py:49
+msgid "Prepared Foods"
+msgstr "Comidas Preparadas"
+
+#: elsa/nutrition/models.py:50
+msgid "Spices"
+msgstr "Especias"
+
+#: elsa/nutrition/models.py:51
+msgid "Alcoholic Drinks"
+msgstr "Bebidas Alcohólicas"
+
+#: elsa/nutrition/models.py:53
+msgid "Vegetarian Foods"
+msgstr "Comidas Vegetarianas"
+
+#: elsa/nutrition/models.py:54
+msgid "Vegan Protein"
+msgstr "Proteína Vegana"
+
+#: elsa/nutrition/models.py:55
+msgid "Eggs"
+msgstr "Huevos"
+
+#: elsa/nutrition/models.py:122
+msgid "Heaping tablespoon"
+msgstr "Cucharada colmada"
+
+#: elsa/nutrition/models.py:123
+msgid "Level tablespoon"
+msgstr "Cucharada rasa"
+
+#: elsa/nutrition/models.py:124
+msgid "Heaping teaspoon"
+msgstr "Cucharadita colmada"
+
+#: elsa/nutrition/models.py:125
+msgid "Level teaspoon"
+msgstr "Cucharadita rasa"
+
+#: elsa/nutrition/models.py:126
+msgid "Small meatball"
+msgstr "Albóndiga pequeña"
+
+#: elsa/nutrition/models.py:127
+msgid "Small ball"
+msgstr "Bola pequeña"
+
+#: elsa/nutrition/models.py:128
+msgid "Bottle"
+msgstr "Botella"
+
+#: elsa/nutrition/models.py:129
+msgid "Egg yolk"
+msgstr "Yema de huevo"
+
+#: elsa/nutrition/models.py:130
+msgid "Cup"
+msgstr "Copa"
+
+#: elsa/nutrition/models.py:131
+msgid "Ladle"
+msgstr "Cucharón"
+
+#: elsa/nutrition/models.py:132
+msgid "Small segment"
+msgstr "Gajo / Arbolito pequeño"
+
+#: elsa/nutrition/models.py:133
+msgid "Leaf"
+msgstr "Hoja"
+
+#: elsa/nutrition/models.py:134
+msgid "Palm"
+msgstr "Palma de una mano"
+
+#: elsa/nutrition/models.py:135
+msgid "Pill"
+msgstr "Pastilla"
+
+#: elsa/nutrition/models.py:136
+msgid "Small plate"
+msgstr "Plato pequeño"
+
+#: elsa/nutrition/models.py:137
+msgid "Medium plate"
+msgstr "Plato mediano"
+
+#: elsa/nutrition/models.py:138
+msgid "Big plate"
+msgstr "Plato grande"
+
+#: elsa/nutrition/models.py:139
+msgid "Personal plate"
+msgstr "Plato personal"
+
+#: elsa/nutrition/models.py:140
+msgid "Well"
+msgstr "Pocillo"
+
+#: elsa/nutrition/models.py:141
+msgid "Chocolate well"
+msgstr "Pocillo chocolatero"
+
+#: elsa/nutrition/models.py:142
+msgid "Thin slices"
+msgstr "Rodajas delgadas"
+
+#: elsa/nutrition/models.py:143
+msgid "Medium slices"
+msgstr "Rodajas medianas"
+
+#: elsa/nutrition/models.py:144
+msgid "Big slices"
+msgstr "Rodajas grandes"
+
+#: elsa/nutrition/models.py:145
+msgid "Chop"
+msgstr "Tajada"
+
+#: elsa/nutrition/models.py:146
+msgid "Thin stems"
+msgstr "Tallos delgados"
+
+#: elsa/nutrition/models.py:147
+msgid "Bowl"
+msgstr "Tazón"
+
+#: elsa/nutrition/models.py:148
+msgid "Drink"
+msgstr "Trago"
+
+#: elsa/nutrition/models.py:149
+msgid "Small cut"
+msgstr "Trozo pequeño"
+
+#: elsa/nutrition/models.py:150
+msgid "Medium cut"
+msgstr "Trozo mediano"
+
+#: elsa/nutrition/models.py:151
+msgid "Big cut"
+msgstr "Trozo grande"
+
+#: elsa/nutrition/models.py:152
+msgid "Small unit"
+msgstr "Unidad pequeña"
+
+#: elsa/nutrition/models.py:153
+msgid "Medium unit"
+msgstr "Unidad mediana"
+
+#: elsa/nutrition/models.py:154
+msgid "Big unit"
+msgstr "Unidad grande"
+
+#: elsa/nutrition/models.py:155
+msgid "Glass"
+msgstr "Vaso"
+
+#: elsa/nutrition/models.py:156 elsa/nutrition/models.py:157
+msgid "Small glass"
+msgstr "Vaso pequeño"
+
+#: elsa/nutrition/models.py:158
+msgid "Big glass"
+msgstr "Vaso grande"
+
+#: elsa/nutrition/models.py:159
+msgid "Personal can"
+msgstr "Lata personal"
+
+#: elsa/nutrition/models.py:160
+msgid "Strip"
+msgstr "Tira"
+
+#: elsa/nutrition/models.py:161
+msgid "Halve"
+msgstr "Mitad"
+
+#: elsa/nutrition/models.py:162
+msgid "Pinch"
+msgstr "Pizca"
+
+#: elsa/nutrition/models.py:180
+msgid "Breakfast"
+msgstr "Desayuna"
+
+#: elsa/nutrition/models.py:182
+msgid "Lunch"
+msgstr "Almuerzo"
+
+#: elsa/nutrition/models.py:184
+msgid "Dinner"
+msgstr "Cena"
+
+#: elsa/nutrition/models.py:185
+msgid "Night snack"
+msgstr "Refrigerio nocturno"
+
+#: elsa/psychology/models.py:40 elsa/psychology/models.py:333
+msgid "Never"
+msgstr "Nunca"
+
+#: elsa/psychology/models.py:41 elsa/psychology/models.py:334
+msgid "A little"
+msgstr "Un poco"
+
+#: elsa/psychology/models.py:42 elsa/psychology/models.py:243
+#: elsa/psychology/models.py:335 elsa/training_plans/models.py:53
+msgid "Moderate"
+msgstr "Moderado"
+
+#: elsa/psychology/models.py:43 elsa/psychology/models.py:336
+msgid "Very much"
+msgstr "Bastante"
+
+#: elsa/psychology/models.py:44 elsa/psychology/models.py:337
+msgid "Alot"
+msgstr "Muchísimo"
+
+#: elsa/psychology/models.py:47
+msgid "Very good"
+msgstr "Muy buena"
+
+#: elsa/psychology/models.py:48
+msgid "Good"
+msgstr "Buena"
+
+#: elsa/psychology/models.py:49
+msgid "Normal"
+msgstr "Normal"
+
+#: elsa/psychology/models.py:51
+msgid "Bad"
+msgstr "Malo"
+
+#: elsa/psychology/models.py:76
+msgid "Totally irrational"
+msgstr "Totalmente irracional"
+
+#: elsa/psychology/models.py:77
+msgid "Very irrational"
+msgstr "Bastante irracional"
+
+#: elsa/psychology/models.py:78
+msgid "Somewhat irrational"
+msgstr "Algo irracional"
+
+#: elsa/psychology/models.py:79
+msgid "Somewhat rational"
+msgstr "Algo racional"
+
+#: elsa/psychology/models.py:80
+msgid "Very rational"
+msgstr "Bastante racional"
+
+#: elsa/psychology/models.py:81
+msgid "Totally rational"
+msgstr "Totalmente racional"
+
+#: elsa/psychology/models.py:128
+msgid "Total disagreement"
+msgstr "Totalmente en desacuerdo"
+
+#: elsa/psychology/models.py:129
+msgid "Much disagreement"
+msgstr "Bastante en desacuerdo"
+
+#: elsa/psychology/models.py:130
+msgid "Some disagreement"
+msgstr "Algo en desacuerdo"
+
+#: elsa/psychology/models.py:131
+msgid "Some agreement"
+msgstr "Algo en acuerdo"
+
+#: elsa/psychology/models.py:132
+msgid "Much agreement"
+msgstr "Bastante de acuerdo"
+
+#: elsa/psychology/models.py:133
+msgid "Total agreement"
+msgstr "Totalmente de acuerdo"
+
+#: elsa/psychology/models.py:181
+msgid "Almost always"
+msgstr "Casi siempre"
+
+#: elsa/psychology/models.py:182
+msgid "Many times"
+msgstr "Muchas veces"
+
+#: elsa/psychology/models.py:183
+msgid "Sometimes"
+msgstr "A veces si, a veces no"
+
+#: elsa/psychology/models.py:184
+msgid "A few times"
+msgstr "Pocas veces"
+
+#: elsa/psychology/models.py:185
+msgid "Almost never"
+msgstr "Casi nunca"
+
+#: elsa/psychology/models.py:199
+msgid "Very, very soft"
+msgstr "Muy, muy suave"
+
+#: elsa/psychology/models.py:200
+msgid "Very soft"
+msgstr "Muy suave"
+
+#: elsa/psychology/models.py:201
+msgid "Soft"
+msgstr "Suave"
+
+#: elsa/psychology/models.py:202
+msgid "Somewhat hard"
+msgstr "Algo duro"
+
+#: elsa/psychology/models.py:203
+msgid "Hard"
+msgstr "Duro"
+
+#: elsa/psychology/models.py:204
+msgid "Very, very hard"
+msgstr "Muy, muy duro"
+
+#: elsa/psychology/models.py:241
+msgid "Absent"
+msgstr "Absente"
+
+#: elsa/psychology/models.py:242
+msgid "Mild"
+msgstr "Leve"
+
+#: elsa/psychology/models.py:244
+msgid "Grave"
+msgstr "Grave"
+
+#: elsa/psychology/models.py:245
+msgid "Incapacitating"
+msgstr "Incapacitante"
+
+#: elsa/psychology/models.py:268
+msgid "Friendly"
+msgstr "Amistoso"
+
+#: elsa/psychology/models.py:269
+msgid "Tense"
+msgstr "Tenso"
+
+#: elsa/psychology/models.py:270
+msgid "Angry"
+msgstr "Enfadado"
+
+#: elsa/psychology/models.py:271
+msgid "Worn"
+msgstr "Desgastado"
+
+#: elsa/psychology/models.py:272
+msgid "Unhappy"
+msgstr "Infeliz"
+
+#: elsa/psychology/models.py:273
+msgid "Hot headed"
+msgstr "Encabezado"
+
+#: elsa/psychology/models.py:274
+msgid "Dynamic"
+msgstr "Dinámico"
+
+#: elsa/psychology/models.py:275
+msgid "Confused"
+msgstr "Confundido"
+
+#: elsa/psychology/models.py:276
+msgid "Sorry"
+msgstr "Perdón por las cosas hechas"
+
+#: elsa/psychology/models.py:277
+msgid "Trembling"
+msgstr "Tembloroso"
+
+#: elsa/psychology/models.py:278
+msgid "Apathetic"
+msgstr "Apático"
+
+#: elsa/psychology/models.py:279
+msgid "Furious"
+msgstr "Furioso"
+
+#: elsa/psychology/models.py:280
+msgid "Considered"
+msgstr "Considerado"
+
+#: elsa/psychology/models.py:281
+msgid "Sad"
+msgstr "Triste"
+
+#: elsa/psychology/models.py:282
+msgid "Active"
+msgstr "Activo"
+
+#: elsa/psychology/models.py:283
+msgid "Nervous"
+msgstr "Nervioso"
+
+#: elsa/psychology/models.py:284
+msgid "Grumpy"
+msgstr "Malhumorado"
+
+#: elsa/psychology/models.py:285
+msgid "Blue"
+msgstr "Azul"
+
+#: elsa/psychology/models.py:287
+msgid "Panicked"
+msgstr "Lleno de pánico"
+
+#: elsa/psychology/models.py:288
+msgid "Hopeless"
+msgstr "Desesperanzado"
+
+#: elsa/psychology/models.py:289
+msgid "Relaxed"
+msgstr "Relajado"
+
+#: elsa/psychology/models.py:290
+msgid "Unworthy"
+msgstr "Indigno de"
+
+#: elsa/psychology/models.py:291
+msgid "Malicious"
+msgstr "Malévolo"
+
+#: elsa/psychology/models.py:292
+msgid "Sympathetic"
+msgstr "Simpático"
+
+#: elsa/psychology/models.py:293
+msgid "Hard to handle"
+msgstr "Difícil"
+
+#: elsa/psychology/models.py:294
+msgid "Restless"
+msgstr "Inquieto"
+
+#: elsa/psychology/models.py:295
+msgid "Unable to concentrate"
+msgstr "Incapaz de concentrarse"
+
+#: elsa/psychology/models.py:296
+msgid "Fatigued"
+msgstr "Fatigado"
+
+#: elsa/psychology/models.py:297
+msgid "Useful"
+msgstr "Útil"
+
+#: elsa/psychology/models.py:298
+msgid "Upset"
+msgstr "Molesto"
+
+#: elsa/psychology/models.py:299
+msgid "Discouraged"
+msgstr "Desanimado"
+
+#: elsa/psychology/models.py:300
+msgid "Resentful"
+msgstr "Resentido"
+
+#: elsa/psychology/models.py:301
+msgid "Alone"
+msgstr "Solitaria"
+
+#: elsa/psychology/models.py:302
+msgid "Miserable"
+msgstr "Miserable"
+
+#: elsa/psychology/models.py:303
+msgid "Confusing"
+msgstr "Confuso"
+
+#: elsa/psychology/models.py:304
+msgid "Happy"
+msgstr "Alegre"
+
+#: elsa/psychology/models.py:305
+msgid "Bitter"
+msgstr "Amargo"
+
+#: elsa/psychology/models.py:306
+msgid "Exhausted"
+msgstr "Exhausto"
+
+#: elsa/psychology/models.py:307
+msgid "Anxious"
+msgstr "Ansioso"
+
+#: elsa/psychology/models.py:308
+msgid "Fight-ready"
+msgstr "Listo para pelear"
+
+#: elsa/psychology/models.py:309
+msgid "Good mood"
+msgstr "De buen carácter"
+
+#: elsa/psychology/models.py:310
+msgid "Somber"
+msgstr "Sombrío"
+
+#: elsa/psychology/models.py:311
+msgid "Desperate"
+msgstr "Desesperado"
+
+#: elsa/psychology/models.py:312
+msgid "Slow"
+msgstr "Lento"
+
+#: elsa/psychology/models.py:313
+msgid "Rebellious"
+msgstr "Rebelde"
+
+#: elsa/psychology/models.py:314
+msgid "Defenseless"
+msgstr "Indefenso"
+
+#: elsa/psychology/models.py:315
+msgid "Tired"
+msgstr "Cansado"
+
+#: elsa/psychology/models.py:316
+msgid "Bewildered"
+msgstr "Desconcertado"
+
+#: elsa/psychology/models.py:317
+msgid "Alert"
+msgstr "Alerta"
+
+#: elsa/psychology/models.py:318
+msgid "Cheated"
+msgstr "Engañado"
+
+#: elsa/psychology/models.py:319
+msgid "Efficient"
+msgstr "Eficiente"
+
+#: elsa/psychology/models.py:320
+msgid "Trustworthy"
+msgstr "De confianza"
+
+#: elsa/psychology/models.py:321
+msgid "Full of pep"
+msgstr "Animado"
+
+#: elsa/psychology/models.py:322
+msgid "Bad mood"
+msgstr "Mal genio"
+
+#: elsa/psychology/models.py:323
+msgid "Worthless"
+msgstr "Sin valor"
+
+#: elsa/psychology/models.py:324
+msgid "Forgetful"
+msgstr "Olvidadizo"
+
+#: elsa/psychology/models.py:325
+msgid "Carefree"
+msgstr "Despreocupado"
+
+#: elsa/psychology/models.py:326
+msgid "Terrified"
+msgstr "Aterrorizado"
+
+#: elsa/psychology/models.py:327
+msgid "Guilty"
+msgstr "Culpable"
+
+#: elsa/psychology/models.py:328
+msgid "Vigorous"
+msgstr "Vigoroso"
+
+#: elsa/psychology/models.py:329
+msgid "Uncertain"
+msgstr "Incierto sobre las cosas"
+
+#: elsa/psychology/models.py:330
+msgid "Drained"
+msgstr "Agotado"
+
+#: elsa/psychology/models.py:359
+msgid "Respiration"
+msgstr "Respiración"
+
+#: elsa/psychology/models.py:360
+msgid "Jacobson"
+msgstr "Jacobson"
+
+#: elsa/psychology/models.py:361
+msgid "Schultz"
+msgstr "Schultz"
+
+#: elsa/psychology/models.py:362
+msgid "Schwartz & Haynes"
+msgstr "Schartz & Haynes"
+
+#: elsa/psychology/models.py:363
+msgid "Visualization"
+msgstr "Visualización"
+
+#: elsa/training_plans/models.py:51
+msgid "Very light"
+msgstr "Muy suave"
+
+#: elsa/training_plans/models.py:52
+msgid "Light"
+msgstr "Suave"
+
+#: elsa/training_plans/models.py:54
+msgid "Strong"
+msgstr "Duro"
+
+#: elsa/training_plans/models.py:57
+msgid "Amateur competition"
+msgstr "Competencia amateur"
+
+#: elsa/training_plans/models.py:58
+msgid "Intermediate competition"
+msgstr "Competencia intermedia"
+
+#: elsa/training_plans/models.py:59
+msgid "Advanced competition"
+msgstr "Competencia avanzada"
+
+#: elsa/training_plans/models.py:97
+msgid "Full stretch"
+msgstr "Estiramiento completo"
+
+#: elsa/training_plans/models.py:98
+msgid "Training stretch"
+msgstr "Estiramiento de entrenamiento"
+
+#: elsa/training_plans/models.py:99
+msgid "Full body training"
+msgstr "Entrenamiento de cuerpo completo"
+
+#: elsa/training_plans/models.py:100
+msgid "Upper body training"
+msgstr "Entrenamiento tren superior"
+
+#: elsa/training_plans/models.py:101
+msgid "Lower body training"
+msgstr "Entrenamiento tren inferior"
+
+#: elsa/training_plans/models.py:102
+msgid "Core body training"
+msgstr "Entrenamiento core"
+
+#: elsa/training_plans/models.py:115
+msgid "Gym light"
+msgstr "Gimnasio suave"
+
+#: elsa/training_plans/models.py:116
+msgid "Gym moderate"
+msgstr "Gimnasio moderado"
+
+#: elsa/training_plans/models.py:117
+msgid "Gym strong"
+msgstr "Gimnasio duro"
+
+#: elsa/users/models.py:28
+msgid "Male"
+msgstr "Hombre"
+
+#: elsa/users/models.py:29
+msgid "Female"
+msgstr "Mujer"

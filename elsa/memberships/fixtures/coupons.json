@@ -1,0 +1,1166 @@
+[
+  {
+    "model": "memberships.Coupon",
+    "pk": "35ed94d7-1047-4467-9562-d9dad99dab2e",
+    "fields": {
+      "name": "ELSA50P",
+      "discount": 0.5,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-09-15 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178636+00:00",
+      "updated_at": "2022-06-30 21:27:45.178639+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "3bac3ea8-655b-4390-b2ca-4832386b6a00",
+    "fields": {
+      "name": "ELSA25P",
+      "discount": 0.25,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178656+00:00",
+      "updated_at": "2022-06-30 21:27:45.178658+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "077874c1-1702-4835-8dce-0df51caaa75b",
+    "fields": {
+      "name": "ELSA15P",
+      "discount": 0.15,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178672+00:00",
+      "updated_at": "2022-06-30 21:27:45.178674+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "4d28b609-8a7d-4b06-8bde-9a9f8e82ebe6",
+    "fields": {
+      "name": "PXB15ELSA",
+      "discount": 0.15,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178687+00:00",
+      "updated_at": "2022-06-30 21:27:45.178688+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "92264583-3310-445b-ac42-9b09f28dc2ea",
+    "fields": {
+      "name": "GRG15ELSA",
+      "discount": 0.15,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178701+00:00",
+      "updated_at": "2022-06-30 21:27:45.178703+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "c0b7c59c-c2ce-4b29-9043-f8fda9dbd9d5",
+    "fields": {
+      "name": "ELSA50WP",
+      "discount": 0.5,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178716+00:00",
+      "updated_at": "2022-06-30 21:27:45.178718+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "9fc58354-510f-46e6-afa8-ca3547d3c088",
+    "fields": {
+      "name": "ELSA25WT",
+      "discount": 0.25,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178730+00:00",
+      "updated_at": "2022-06-30 21:27:45.178732+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "cdbf366d-3401-4866-8c96-0ab9d40690df",
+    "fields": {
+      "name": "ELSA15WG",
+      "discount": 0.15,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178744+00:00",
+      "updated_at": "2022-06-30 21:27:45.178745+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "f440f612-1753-483f-99e5-9337c56b5f0f",
+    "fields": {
+      "name": "ELSA36020",
+      "discount": 0.2,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178757+00:00",
+      "updated_at": "2022-06-30 21:27:45.178759+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "48acb87d-fcc8-4b68-a038-c6144ca53e2e",
+    "fields": {
+      "name": "ELSA25LFS",
+      "discount": 0.25,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178771+00:00",
+      "updated_at": "2022-06-30 21:27:45.178773+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "a75a0ad8-aec6-4075-be9d-029180313d52",
+    "fields": {
+      "name": "ELSALRC25",
+      "discount": 0.25,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178787+00:00",
+      "updated_at": "2022-06-30 21:27:45.178789+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "141aa111-7ee2-4e1a-964a-997db0cc5a8b",
+    "fields": {
+      "name": "ELSAFJP25",
+      "discount": 0.25,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-16 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178801+00:00",
+      "updated_at": "2022-06-30 21:27:45.178803+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "4051bb58-5bf2-4ddb-8131-056099f0e110",
+    "fields": {
+      "name": "ELSAGRG25",
+      "discount": 0.25,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-11-06 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178830+00:00",
+      "updated_at": "2022-06-30 21:27:45.178831+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "efc252a9-98cc-4f28-b566-39adf50f83f4",
+    "fields": {
+      "name": "ELSAFNQ25",
+      "discount": 0.25,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-11-18 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178850+00:00",
+      "updated_at": "2022-06-30 21:27:45.178851+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "976c7b77-b4b3-4e65-983a-85c5be101842",
+    "fields": {
+      "name": "ELSAEV221",
+      "discount": 0.25,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178864+00:00",
+      "updated_at": "2022-06-30 21:27:45.178865+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "343686ac-c2c3-48a4-80c1-f2aad5731062",
+    "fields": {
+      "name": "ELSAEV222",
+      "discount": 0.25,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178877+00:00",
+      "updated_at": "2022-06-30 21:27:45.178879+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "539d60b8-ee63-4462-81f9-3866139919ce",
+    "fields": {
+      "name": "ELSAEV223",
+      "discount": 0.25,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-12-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178891+00:00",
+      "updated_at": "2022-06-30 21:27:45.178892+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "5ca39905-3102-4260-9ec9-71bc41d3ff0f",
+    "fields": {
+      "name": "ELSA3F0001",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178904+00:00",
+      "updated_at": "2022-06-30 21:27:45.178906+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "e274efa4-219e-4fc4-81be-a08de5219f62",
+    "fields": {
+      "name": "ELSA3F0002",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178920+00:00",
+      "updated_at": "2022-06-30 21:27:45.178922+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "4f0764af-fd7e-4def-a3b9-2c60a6c44640",
+    "fields": {
+      "name": "ELSA3F0003",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178935+00:00",
+      "updated_at": "2022-06-30 21:27:45.178936+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "f1e2a552-a965-4175-8e2b-9e54e4551f67",
+    "fields": {
+      "name": "ELSA3F0004",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178951+00:00",
+      "updated_at": "2022-06-30 21:27:45.178953+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "c9cd2e0d-19ed-46c7-a513-32a2c1b90f8b",
+    "fields": {
+      "name": "ELSA3F0005",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178966+00:00",
+      "updated_at": "2022-06-30 21:27:45.178968+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "2422cab0-21e6-4bb8-a35b-550d94f4ce53",
+    "fields": {
+      "name": "ELSA3F0006",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178980+00:00",
+      "updated_at": "2022-06-30 21:27:45.178981+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "fe72f746-1972-4bba-85c3-c51f996bd028",
+    "fields": {
+      "name": "ELSA3F0007",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.178994+00:00",
+      "updated_at": "2022-06-30 21:27:45.178995+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "30f51d90-1bf0-447b-99ce-08ad5597b097",
+    "fields": {
+      "name": "ELSA3F0008",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179007+00:00",
+      "updated_at": "2022-06-30 21:27:45.179009+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "bbfc4556-0439-4e17-987d-2c8c7513b317",
+    "fields": {
+      "name": "ELSA3F0009",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179021+00:00",
+      "updated_at": "2022-06-30 21:27:45.179023+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "d1e3754b-fd59-478c-8818-7e16f96a8417",
+    "fields": {
+      "name": "ELSA3F0010",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179034+00:00",
+      "updated_at": "2022-06-30 21:27:45.179036+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "0bd7584c-459a-4e91-a45c-9f201c5a0c99",
+    "fields": {
+      "name": "ELSA3F0011",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179048+00:00",
+      "updated_at": "2022-06-30 21:27:45.179050+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "81e55ede-312d-47c2-a192-3e0d6a978182",
+    "fields": {
+      "name": "ELSA3F0012",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179064+00:00",
+      "updated_at": "2022-06-30 21:27:45.179066+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "bf7f9021-fb42-415a-8c16-74b227c2c61e",
+    "fields": {
+      "name": "ELSA3F0013",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179097+00:00",
+      "updated_at": "2022-06-30 21:27:45.179099+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "45338dfa-cdb7-4c42-bada-19d232233a51",
+    "fields": {
+      "name": "ELSA3F0014",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179163+00:00",
+      "updated_at": "2022-06-30 21:27:45.179165+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "355fd3b6-aedb-4907-8801-8a3dc8f606d4",
+    "fields": {
+      "name": "ELSA3F0015",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179183+00:00",
+      "updated_at": "2022-06-30 21:27:45.179185+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "399b2832-6d7a-4779-998c-8948f0915f31",
+    "fields": {
+      "name": "ELSA3F0016",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179213+00:00",
+      "updated_at": "2022-06-30 21:27:45.179215+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "1a44a352-8637-4326-8b93-b8b2570fbb11",
+    "fields": {
+      "name": "ELSA3F0017",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179242+00:00",
+      "updated_at": "2022-06-30 21:27:45.179244+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "db81e6de-a806-4052-98f3-162b0a032dc4",
+    "fields": {
+      "name": "ELSA3F0018",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179255+00:00",
+      "updated_at": "2022-06-30 21:27:45.179257+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "6143119c-04a6-4c19-ad81-c8054d94008d",
+    "fields": {
+      "name": "ELSA3F0019",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179269+00:00",
+      "updated_at": "2022-06-30 21:27:45.179271+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "0aca860f-5e4a-4f03-a5da-6dbb892ddc76",
+    "fields": {
+      "name": "ELSA3F0020",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179285+00:00",
+      "updated_at": "2022-06-30 21:27:45.179287+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "93d863f4-129e-42de-a488-ef5de2a4029c",
+    "fields": {
+      "name": "ELSA3F0021",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179317+00:00",
+      "updated_at": "2022-06-30 21:27:45.179319+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "0e3aa6f7-96e4-44a0-8ce4-2b0888f97260",
+    "fields": {
+      "name": "ELSA3F0022",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179336+00:00",
+      "updated_at": "2022-06-30 21:27:45.179338+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "dd1272e0-9001-436a-90ac-c4c5adf5d200",
+    "fields": {
+      "name": "ELSA3F0023",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179350+00:00",
+      "updated_at": "2022-06-30 21:27:45.179352+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "66ec54db-33cf-46be-b647-26f2fcf7ba4d",
+    "fields": {
+      "name": "ELSA3F0024",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179366+00:00",
+      "updated_at": "2022-06-30 21:27:45.179368+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "684c2b4f-93d1-4813-8a41-aad2e8870eae",
+    "fields": {
+      "name": "ELSA3F0025",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179380+00:00",
+      "updated_at": "2022-06-30 21:27:45.179382+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "cbae8183-429e-4cff-b120-54047a87e96e",
+    "fields": {
+      "name": "ELSA3F0026",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179396+00:00",
+      "updated_at": "2022-06-30 21:27:45.179398+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "61d089ca-2843-40a1-bfbe-7c996a114c1b",
+    "fields": {
+      "name": "ELSA3F0027",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179410+00:00",
+      "updated_at": "2022-06-30 21:27:45.179412+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "ef919fe9-58a2-48a9-a305-82df21c12884",
+    "fields": {
+      "name": "ELSA3F0028",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179426+00:00",
+      "updated_at": "2022-06-30 21:27:45.179440+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "f925b910-ddca-4cb8-b209-95f5d0e4dbd4",
+    "fields": {
+      "name": "ELSA3F0029",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179458+00:00",
+      "updated_at": "2022-06-30 21:27:45.179459+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "48e42ce8-fd9f-4e7d-ab97-50f77bbc8bd4",
+    "fields": {
+      "name": "ELSA3F0030",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179475+00:00",
+      "updated_at": "2022-06-30 21:27:45.179477+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "7f06799a-917b-4a02-9a8e-b8d447205634",
+    "fields": {
+      "name": "ELSA3F0031",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179502+00:00",
+      "updated_at": "2022-06-30 21:27:45.179504+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "fe0e5635-82d6-44c8-8fea-4595b51d0504",
+    "fields": {
+      "name": "ELSA3F0032",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179518+00:00",
+      "updated_at": "2022-06-30 21:27:45.179519+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "539ab77f-57fe-4a39-99c6-09035e218d95",
+    "fields": {
+      "name": "ELSA3F0033",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179531+00:00",
+      "updated_at": "2022-06-30 21:27:45.179533+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "da6de260-1b52-40c5-8965-dd7b17a92a53",
+    "fields": {
+      "name": "ELSA3F0034",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179545+00:00",
+      "updated_at": "2022-06-30 21:27:45.179547+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "e0d99e33-8062-4794-846b-1fda69030967",
+    "fields": {
+      "name": "ELSA3F0035",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179558+00:00",
+      "updated_at": "2022-06-30 21:27:45.179560+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "0f267f3e-d829-43b0-847b-f53abaa5dfa9",
+    "fields": {
+      "name": "ELSA3F0036",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179576+00:00",
+      "updated_at": "2022-06-30 21:27:45.179577+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "6600c137-4067-4e80-9b4d-c2dccd741348",
+    "fields": {
+      "name": "ELSA3F0037",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179591+00:00",
+      "updated_at": "2022-06-30 21:27:45.179593+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "2e5cbabc-da82-4517-ac83-2daf770b7d87",
+    "fields": {
+      "name": "ELSA3F0038",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179605+00:00",
+      "updated_at": "2022-06-30 21:27:45.179607+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "0ff65c9e-244b-4a56-9ef4-5563a5f02404",
+    "fields": {
+      "name": "ELSA3F0039",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179619+00:00",
+      "updated_at": "2022-06-30 21:27:45.179621+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "81915860-b878-438e-a061-1517fd5b0701",
+    "fields": {
+      "name": "ELSA3F0040",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179636+00:00",
+      "updated_at": "2022-06-30 21:27:45.179637+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "12c0d498-6943-4ed9-8c81-9094bc417c86",
+    "fields": {
+      "name": "ELSA3F0041",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179649+00:00",
+      "updated_at": "2022-06-30 21:27:45.179651+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "19a8fc2b-24bf-4e85-8f01-39d0a0f920e5",
+    "fields": {
+      "name": "ELSA3F0042",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179665+00:00",
+      "updated_at": "2022-06-30 21:27:45.179666+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "5a0b7931-69c0-4c41-b116-d3655d93a021",
+    "fields": {
+      "name": "ELSA3F0043",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179679+00:00",
+      "updated_at": "2022-06-30 21:27:45.179680+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "a0eb4996-86d2-4a88-8b5f-d070fd864942",
+    "fields": {
+      "name": "ELSA3F0044",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179693+00:00",
+      "updated_at": "2022-06-30 21:27:45.179694+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "a1e7bfbe-24c8-405d-91e9-ccbb701e4f96",
+    "fields": {
+      "name": "ELSA3F0045",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179710+00:00",
+      "updated_at": "2022-06-30 21:27:45.179712+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "d660c84c-0a16-43ab-90f4-ec5dfe4768ff",
+    "fields": {
+      "name": "ELSA3F0046",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179724+00:00",
+      "updated_at": "2022-06-30 21:27:45.179726+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "0d2902e3-4100-45a6-9345-a14813221b99",
+    "fields": {
+      "name": "ELSA3F0047",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179741+00:00",
+      "updated_at": "2022-06-30 21:27:45.179743+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "43c8f76e-19d1-4cf6-9e9d-6b95227d29ca",
+    "fields": {
+      "name": "ELSA3F0048",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179756+00:00",
+      "updated_at": "2022-06-30 21:27:45.179758+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "c6a49e8e-8027-4fb0-9898-718267a73268",
+    "fields": {
+      "name": "ELSA3F0049",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179780+00:00",
+      "updated_at": "2022-06-30 21:27:45.179785+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "1f6d77f1-e3e9-46f5-8df4-7a52d11b2134",
+    "fields": {
+      "name": "ELSA3F0050",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179805+00:00",
+      "updated_at": "2022-06-30 21:27:45.179807+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "c78700f4-e524-4fe7-9131-0a3576623104",
+    "fields": {
+      "name": "ELSA3F0051",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179823+00:00",
+      "updated_at": "2022-06-30 21:27:45.179825+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "6cb7e6d4-c0d6-41c8-a9a4-8d68ed4af33c",
+    "fields": {
+      "name": "ELSA3F0052",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179837+00:00",
+      "updated_at": "2022-06-30 21:27:45.179839+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "b9fe35ee-8fd7-425b-9774-341b25398afe",
+    "fields": {
+      "name": "ELSA3F0053",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179852+00:00",
+      "updated_at": "2022-06-30 21:27:45.179854+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "2269019e-500e-4d9a-82c0-5724ab730bbe",
+    "fields": {
+      "name": "ELSA3F0054",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179869+00:00",
+      "updated_at": "2022-06-30 21:27:45.179870+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "263f5029-2dbe-464c-9d13-c57264a57dfc",
+    "fields": {
+      "name": "ELSA3F0055",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179883+00:00",
+      "updated_at": "2022-06-30 21:27:45.179886+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "7bff8081-8639-4a7b-acb7-d1522f21b5c3",
+    "fields": {
+      "name": "ELSA3F0056",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179898+00:00",
+      "updated_at": "2022-06-30 21:27:45.179899+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "15759967-b617-4706-aef5-7146356e4bea",
+    "fields": {
+      "name": "ELSA3F0057",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179912+00:00",
+      "updated_at": "2022-06-30 21:27:45.179914+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "aa83dc81-4a24-4ff1-9f0b-220380514f8b",
+    "fields": {
+      "name": "ELSA3F0058",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179926+00:00",
+      "updated_at": "2022-06-30 21:27:45.179927+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "f149ee04-4276-4b79-b29f-5daf90c083f5",
+    "fields": {
+      "name": "ELSA3F0059",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179941+00:00",
+      "updated_at": "2022-06-30 21:27:45.179943+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "074dd899-8ece-4f75-823d-9a122d5238ab",
+    "fields": {
+      "name": "ELSA3F0060",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179956+00:00",
+      "updated_at": "2022-06-30 21:27:45.179957+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "75cacb91-e290-42d3-a134-00538b733dd5",
+    "fields": {
+      "name": "ELSA3F0061",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179972+00:00",
+      "updated_at": "2022-06-30 21:27:45.179974+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "fa7bf8c9-b63a-431f-9ee2-2a58b249df23",
+    "fields": {
+      "name": "ELSA3F0062",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179986+00:00",
+      "updated_at": "2022-06-30 21:27:45.179987+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "2625268e-764a-4e3b-9ac0-eecef0e7c467",
+    "fields": {
+      "name": "ELSA3F0063",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.179999+00:00",
+      "updated_at": "2022-06-30 21:27:45.180001+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "5cbb70fa-67b6-43cf-abd4-44a14c939a03",
+    "fields": {
+      "name": "ELSA3F0064",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180013+00:00",
+      "updated_at": "2022-06-30 21:27:45.180014+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "c1f87bd8-0604-4dd6-b763-b2170bf1e4e1",
+    "fields": {
+      "name": "ELSA3F0065",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180027+00:00",
+      "updated_at": "2022-06-30 21:27:45.180028+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "5ed5b657-e7ed-4155-b66a-1a1084da2992",
+    "fields": {
+      "name": "ELSA3F0066",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180040+00:00",
+      "updated_at": "2022-06-30 21:27:45.180042+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "980d6196-11f5-4ef0-8980-64b7acf30b09",
+    "fields": {
+      "name": "ELSA3F0067",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180054+00:00",
+      "updated_at": "2022-06-30 21:27:45.180056+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "376adb26-395b-405a-a5fa-0280dff13a17",
+    "fields": {
+      "name": "ELSA3F0068",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180104+00:00",
+      "updated_at": "2022-06-30 21:27:45.180106+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "cb403337-f12d-4cea-901f-620b860c2c3b",
+    "fields": {
+      "name": "ELSA3F0069",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180124+00:00",
+      "updated_at": "2022-06-30 21:27:45.180125+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "aa6834a1-9657-47f4-8a17-a3ae6559943d",
+    "fields": {
+      "name": "ELSA3F0070",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180139+00:00",
+      "updated_at": "2022-06-30 21:27:45.180141+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "9cd419f0-dea2-4f62-8a7e-714ccbea3fb4",
+    "fields": {
+      "name": "ELSA3F0071",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180156+00:00",
+      "updated_at": "2022-06-30 21:27:45.180158+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "74045138-64e7-4c1d-94f2-83afd3327930",
+    "fields": {
+      "name": "ELSA3F0072",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180170+00:00",
+      "updated_at": "2022-06-30 21:27:45.180172+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "0bd9e2c4-ba6e-453b-8df5-0de4bf3d0dfa",
+    "fields": {
+      "name": "ELSA3F0073",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180184+00:00",
+      "updated_at": "2022-06-30 21:27:45.180186+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "0920d318-7beb-437f-b55a-83a7f8b97b8f",
+    "fields": {
+      "name": "ELSA3F0074",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180198+00:00",
+      "updated_at": "2022-06-30 21:27:45.180199+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "a73d9d03-090e-4ab0-83b2-f3d72ff8a8bb",
+    "fields": {
+      "name": "ELSA3F0075",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180211+00:00",
+      "updated_at": "2022-06-30 21:27:45.180213+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "6c5c87d2-491b-46a8-92fc-7371e13dd68a",
+    "fields": {
+      "name": "ELSA3F0076",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180225+00:00",
+      "updated_at": "2022-06-30 21:27:45.180226+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "698951c1-638d-4186-9c22-66867663db4b",
+    "fields": {
+      "name": "ELSA3F0077",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180238+00:00",
+      "updated_at": "2022-06-30 21:27:45.180240+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "204c49ae-d1b7-4dd3-b14a-82182ba7a2fc",
+    "fields": {
+      "name": "ELSA3F0078",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180252+00:00",
+      "updated_at": "2022-06-30 21:27:45.180253+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "66db7801-0b2c-45d2-a0d5-d3875b1016bb",
+    "fields": {
+      "name": "ELSA3F0079",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180265+00:00",
+      "updated_at": "2022-06-30 21:27:45.180267+00:00"
+    }
+  },
+  {
+    "model": "memberships.Coupon",
+    "pk": "1655ce83-f2a0-43d5-b123-6efd14c9e21c",
+    "fields": {
+      "name": "ELSA3F0080",
+      "discount": 1.0,
+      "valid_start_date": "2022-07-15 00:00:00+00:00",
+      "valid_end_date": "2022-10-31 00:00:00+00:00",
+      "created_at": "2022-06-30 21:27:45.180278+00:00",
+      "updated_at": "2022-06-30 21:27:45.180280+00:00"
+    }
+  }
+]

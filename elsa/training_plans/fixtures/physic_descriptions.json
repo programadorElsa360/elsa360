@@ -1,0 +1,442 @@
+[
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "8afdc3f8-f812-431e-a19f-c770cdef9f41",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Cuello",
+      "description": "De pie inclina la cabeza para llevar la oreja derecha al hombro derecho sin subir el hombro izquierdo. Gira un poco el cuello para orientar la cara hacia el suelo. Puedes forzar un poco haciendo presión con la mano derecha. El brazo izquierdo tira hacia abajo. Cambia al lado izquierdo y aguanta la posición. Regresa al centro y descansa",
+      "created_at": "2022-06-27 15:46:06.908647+00:00",
+      "updated_at": "2022-06-27 15:46:06.908661+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "d6c128fb-e80f-4b2d-b966-f2036d9bf0f1",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Triceps y hombros",
+      "description": "Imagina que te pica la espalda entre los omóplatos. Llevas tu mano derecha por encima de la cabeza para rascarte. En ese momento agarra el codo derecho con la otra mano y empuja hacia abajo por detrás de la cabeza sin apretar demasiado. Repite con el otro brazo.",
+      "created_at": "2022-06-27 15:46:06.908673+00:00",
+      "updated_at": "2022-06-27 15:46:06.908676+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "b6ac4eab-979f-4e81-bc2c-16fa4c8bf618",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Antebrazos",
+      "description": "En una puerta o un poste, pega el brazo estirado a la altura del hombro con el pulgar de la mano mirando hacia arriba. Gira el tronco hacia atrás y notarás como todos los músculos del antebrazo se estiran. Repite con el otro brazo.",
+      "created_at": "2022-06-27 15:46:06.908684+00:00",
+      "updated_at": "2022-06-27 15:46:06.908686+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "2bceb854-78c4-43c2-bddf-3a2517f37bc5",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Dedos",
+      "description": "Con estos estiramientos logramos soltar los dedos después de estar varias horas agarrando y apretando el manillar. Para estirar los flexores coloca las manos en el medio del pecho como si fueras a hacer el gesto de “namaste”. Eleva la mano derecha hasta que la palma toque la punta de los dedos de la izquierda. En ese momento empuja los dedos hacia el codo del brazo izquierdo. Repite con la otra mano. Para los extensores. Pega el brazo al cuerpo y flexiona el codo 90 grados. Pon la mano derecha como si fueras a pedir algo. Flexiona la muñeca 90 grados y dirige los dedos apuntando hacia la parte interna del codo. Con la otra mano presiona hacia el antebrazo.",
+      "created_at": "2022-06-27 15:46:06.908693+00:00",
+      "updated_at": "2022-06-27 15:46:06.908695+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "f66cc884-facd-4622-81f4-b8b51749867c",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Dorsales y lumbares",
+      "description": "De pie, con las piernas ligeramente separadas, nos inclinamos con los brazos extendidos hasta apoyarlos en una mesa o la barra horizontal de la bici. Nuestro cuerpo debe formar un ángulo de 90 grados. Para estirar bajamos toda la zona dorsal y lumbar apretando el torso hacia abajo.",
+      "created_at": "2022-06-27 15:46:06.908703+00:00",
+      "updated_at": "2022-06-27 15:46:06.908705+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "b43bb1e9-55a1-42d7-bbad-bafcb7a976ea",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Cuadriceps",
+      "description": "Sujeta la punta del pie con la mano y lleva el talón hacia las nalgas. Hay que hacerlo suavemente y empujar con la cadera hacia delante. Si te cuesta mantener el equilibrio apóyate en una pared, un poste, un árbol o algún otro elemento que esté fijo y estable. Repite con la otra pierna.",
+      "created_at": "2022-06-27 15:46:06.908712+00:00",
+      "updated_at": "2022-06-27 15:46:06.908714+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "354af188-e38a-4793-9b19-0ee3639b405f",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Isquiotibiales (Parado)",
+      "description": "De pie, simplemente inclínate hacia adelante flexionando la cintura, con los brazos colgando hacia abajo y las piernas estiradas, sin doblar. Trate de tocar los dedos de los pies.",
+      "created_at": "2022-06-27 15:46:06.908720+00:00",
+      "updated_at": "2022-06-27 15:46:06.908722+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "f89f0b29-94ba-4289-a57f-5d8c62fd494a",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Pantorrillas",
+      "description": "De pie frente a una pared, con las manos apoyadas en la pared a la altura de los ojos. Coloca la pierna que vas a estirar un paso atrás de la otra.\nManteniendo ese talón en el suelo, flexiona la rodilla de la pierna que está adelante hasta que sientas el estiramiento en la pierna de atrás. Repite con la otra pierna.",
+      "created_at": "2022-06-27 15:46:06.908729+00:00",
+      "updated_at": "2022-06-27 15:46:06.908731+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "607d6195-bae8-47ab-91f1-163ac02ff2f2",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Isquiotibiales (Sentado)",
+      "description": "Siéntate con una pierna extendida y la espalda recta. Flexiona la otra pierna de forma que la planta del pie se apoye contra la parte media del muslo. Trata de alcanzar el tobillo. Manten la rodilla, el cuello y la espalda en posición recta. Siente el estiramiento en la parte posterior del muslo. Repite con la otra pierna.",
+      "created_at": "2022-06-27 15:46:06.908738+00:00",
+      "updated_at": "2022-06-27 15:46:06.908740+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "4495a7d2-ab7b-4181-81fd-972908a221e3",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Aductores",
+      "description": "Siéntate y coloca toda las plantas de los pies juntas. Agarra los tobillos y estira la espalda. Mueve lentamente las rodillas hacia el suelo hasta que sientas el estiramiento en los músculos aductores.",
+      "created_at": "2022-06-27 15:46:06.908746+00:00",
+      "updated_at": "2022-06-27 15:46:06.908748+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "569f51b8-d70c-4ca2-b8c1-1eff0edd200f",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Rodilla al pecho",
+      "description": "Acostado boca arriba, con la espalda recta, acerca la rodilla al pecho lo más que puedas con la ayuda de tus brazos. Deja la otra pierna relajada en una posición cómoda, ya sea con la rodilla doblada o con la pierna extendida. Cambia de pierna y repite.",
+      "created_at": "2022-06-27 15:46:06.908755+00:00",
+      "updated_at": "2022-06-27 15:46:06.908757+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "33573a78-152e-4ecd-acf5-fa9ac32c7920",
+    "fields": {
+      "exercise_type": "FS",
+      "activities": "Giro vertebral",
+      "description": "Sientate en el piso, coloca el codo izquierdo en la parte externa de la rodilla derecha, luego coloca la mano derecha en el suelo detrás de ti, mirando por encima de tu hombro derecho. Cambia de lado y repite.",
+      "created_at": "2022-06-27 15:46:06.908764+00:00",
+      "updated_at": "2022-06-27 15:46:06.908766+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "08969660-085e-406d-9c5b-93dbfe424b42",
+    "fields": {
+      "exercise_type": "TS",
+      "activities": "Triceps y hombros",
+      "description": "Imagina que te pica la espalda entre los omóplatos. Llevas tu mano derecha por encima de la cabeza para rascarte. En ese momento agarra el codo derecho con la otra mano y empuja hacia abajo por detrás de la cabeza sin apretar demasiado. Repite con el otro brazo.",
+      "created_at": "2022-06-27 15:46:06.908775+00:00",
+      "updated_at": "2022-06-27 15:46:06.908777+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "a4d3bc47-db77-4fdb-a725-cef43e7c3f1f",
+    "fields": {
+      "exercise_type": "TS",
+      "activities": "Dorsales y lumbares",
+      "description": "De pie, con las piernas ligeramente separadas, nos inclinamos con los brazos extendidos hasta apoyarlos en una mesa o la barra horizontal de la bici. Nuestro cuerpo debe formar un ángulo de 90 grados. Para estirar bajamos toda la zona dorsal y lumbar apretando el torso hacia abajo.",
+      "created_at": "2022-06-27 15:46:06.908784+00:00",
+      "updated_at": "2022-06-27 15:46:06.908786+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "30fcc023-7d0e-416d-b62e-563e95edcdc5",
+    "fields": {
+      "exercise_type": "TS",
+      "activities": "Cuadriceps",
+      "description": "Sujeta la punta del pie con la mano y lleva el talón hacia las nalgas. Hay que hacerlo suavemente y empujar con la cadera hacia delante. Si te cuesta mantener el equilibrio apóyate en una pared, un poste, un árbol o algún otro elemento que esté fijo y estable. Repite con la otra pierna.",
+      "created_at": "2022-06-27 15:46:06.908792+00:00",
+      "updated_at": "2022-06-27 15:46:06.908794+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "aa777e94-9d8d-4e49-8147-8e5da56ec3c1",
+    "fields": {
+      "exercise_type": "TS",
+      "activities": "Isquiotibiales (Parado)",
+      "description": "De pie, simplemente inclínate hacia adelante flexionando la cintura, con los brazos colgando hacia abajo y las piernas estiradas, sin doblar. Trate de tocar los dedos de los pies.",
+      "created_at": "2022-06-27 15:46:06.908801+00:00",
+      "updated_at": "2022-06-27 15:46:06.908803+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "d4e08b70-17df-4d23-9eae-aa11af756bcd",
+    "fields": {
+      "exercise_type": "TS",
+      "activities": "Pantorrillas",
+      "description": "De pie frente a una pared, con las manos apoyadas en la pared a la altura de los ojos. Coloca la pierna que vas a estirar un paso atrás de la otra.\nManteniendo ese talón en el suelo, flexiona la rodilla de la pierna que está adelante hasta que sientas el estiramiento en la pierna de atrás. Repite con la otra pierna.",
+      "created_at": "2022-06-27 15:46:06.908825+00:00",
+      "updated_at": "2022-06-27 15:46:06.908830+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "4b6ff681-8114-42dc-baab-a327fca23f1f",
+    "fields": {
+      "exercise_type": "TS",
+      "activities": "Isquiotibiales (Sentado)",
+      "description": "Siéntate con una pierna extendida y la espalda recta. Flexiona la otra pierna de forma que la planta del pie se apoye contra la parte media del muslo. Trata de alcanzar el tobillo. Manten la rodilla, el cuello y la espalda en posición recta. Siente el estiramiento en la parte posterior del muslo. Repite con la otra pierna.",
+      "created_at": "2022-06-27 15:46:06.908846+00:00",
+      "updated_at": "2022-06-27 15:46:06.908848+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "d63f4847-39ab-45ce-8a72-80f50a206fa2",
+    "fields": {
+      "exercise_type": "TS",
+      "activities": "Aductores",
+      "description": "Siéntate y coloca toda las plantas de los pies juntas. Agarra los tobillos y estira la espalda. Mueve lentamente las rodillas hacia el suelo hasta que sientas el estiramiento en los músculos aductores.",
+      "created_at": "2022-06-27 15:46:06.908856+00:00",
+      "updated_at": "2022-06-27 15:46:06.908858+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "2a6eb057-0c7b-42b1-9188-e88b1889bee4",
+    "fields": {
+      "exercise_type": "FT",
+      "activities": "Burpee",
+      "description": "Partes de una posición inicial en cuclillas (o sentadillas), colocas las manos en el suelo y se mantiene la cabeza erguida. Después desplazas las piernas hacia atrás con los pies juntos y se hace una flexión de pecho (Push Up). Aquí debes mantener la espalda recta y tocar el suelo con el pecho. A continuación se recogen las piernas para volver a la posición inicial. El movimiento debe ser fluido, por lo que es importante trabajar la coordinación. Por último, desde la posición inicial se levanta todo el cuerpo de un salto vertical elevando las manos. Recuerda que es importante amortiguar la caída y aterrizar de la manera más suave posible. Después vuelves a la posición de cuclillas para repetir el ejercicio.",
+      "created_at": "2022-06-27 15:46:06.908868+00:00",
+      "updated_at": "2022-06-27 15:46:06.908871+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "f5f8801b-05d9-41e9-9a2d-7c50a9f17da1",
+    "fields": {
+      "exercise_type": "FT",
+      "activities": "Saltos de tijera / Jumping Jacks",
+      "description": "El movimiento inicia con el cuerpo recto. Piernas juntas y brazos a los costados. Al tiempo que te impulsas para dar un salto, tienes que abrir las piernas y elevar los brazos al cielo hasta que las palmas se choquen arriba de tu cabeza. El siguiente paso es dar otro salto para cerrar el compás y regresar a la posición inicial.",
+      "created_at": "2022-06-27 15:46:06.908878+00:00",
+      "updated_at": "2022-06-27 15:46:06.908880+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "064daff6-18a4-4e9c-8a0c-5cff812e1e96",
+    "fields": {
+      "exercise_type": "FT",
+      "activities": "Saltos Rodilla al pecho / Jump Knee Tucks",
+      "description": "Comienza con los pies separados al ancho de las caderas. Agachate un poco para coger impulso y realiza un salto vertical, tratando que tus rodillas toquen tu pecho. Procura caer en posición de squat (Sentadilla) y vuelve a la posición inicial para repetir el ejercicio.",
+      "created_at": "2022-06-27 15:46:06.908888+00:00",
+      "updated_at": "2022-06-27 15:46:06.908890+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "463ae4ba-2c5d-43c9-bfe9-4fe3755c649f",
+    "fields": {
+      "exercise_type": "FT",
+      "activities": "Lagartijas / Push Ups",
+      "description": "Ubicate boca abajo, apoyandote y colocando las palmas de tus dos manos firmemente a la anchura de tus hombros, ligeramente más abiertas, con los dedos índices apuntando hacia adelante, cargando todo el peso del cuerpo en tus manos y los pies deben ir juntos, extendidos y apoyados sobre las puntas de los pies (Pisición de PLANCHA ALTA). Procura que todo tu cuerpo, desde tu cabeza hasta tus pies se forme una linea recta. Manteniendo el cuerpo erguido, el movimiento comienza con una bajada en bloque del cuerpo, sin curvar la espalda ni dejar caer la pelvis, llevando el pecho hasta casi tocar el suelo y flexionando los codos, que deben mirar siempre hacia atrás y mantenerse cerca del cuerpo. Hay que descender despacio haciendo fuerza, no vale dejarse caer. Haz una leve pausa. Cuando hagas la flexión y te veas a pocos centímetros del suelo conviene que hagas una breve pausa de unos dos segundos. Así a la larga lograrás mejores resultados de volumen y de fuerza. Deshaz el movimiento y vuelve a la posición inicial con una extensión de codos. Si no tienes resistencia suficiente para conseguirlo, empieza por flexiones con las rodillas apoyadas en el suelo en lugar de posición de plancha alta.",
+      "created_at": "2022-06-27 15:46:06.908896+00:00",
+      "updated_at": "2022-06-27 15:46:06.908898+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "a294a7da-2166-4c34-82f0-8c82fd6bdb9b",
+    "fields": {
+      "exercise_type": "FT",
+      "activities": "Fondos / Dips / Triceps",
+      "description": "Colócate de pie entre dos barras paralelas y cógelas con un agarre neutro (las palmas deben mirarse). Salta y estira los brazos, alineando las muñecas, los codos y los hombros. Lleva la parte superior de los hombros hacia detrás de la clavícula, y lucha contra el impulso de encogerte de hombros. Cruza los tobillos por detrás de ti. Trata de juntar los omóplatos e inclínate ligeramente hacia delante. Flexiona los brazos, manteniendo los codos pegados a los costados y apuntando hacia atrás, bajas lentamente hasta que los hombros estén a la altura de los codos. Haz fuerza con las manos y estira los brazos para volver a la posición inicial. Eso sería una repetición. Ahora solo tienes que repetirlo más veces.   Si no tienes acceso a barras paralelas, puedes utilizar una silla, un muro, un cajón o banco, lo más importante es que sea estable. Ubicate de pie y de espaldas a tu apoyo, flexiona las piernas para colocar las palmas de tus manos en el borde, con las puntas de los dedos hacia fuera. Extiende las piernas hacia delante con los talones en el suelo y los dedos apuntando hacia fuera. Con la espalda y los glúteos lo más cerca posible de la silla, flexiona los brazos y pega los codos a los lados, apuntando hacia atrás. Baja lentamente hasta que la parte superior de los brazos (triceps) esté en paralelo al suelo. Empuja con las manos y endereza los brazos para volver a la posición inicial. Eso sería una repetición. Para que te sea más fácil, puedes doblar tus rodillas.",
+      "created_at": "2022-06-27 15:46:06.908905+00:00",
+      "updated_at": "2022-06-27 15:46:06.908907+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "60437b82-a6c7-476f-81ab-7d350987c830",
+    "fields": {
+      "exercise_type": "FT",
+      "activities": "Zancadas / Arremetidas / Lunge",
+      "description": "De pie, con las manos en jarra apoyadas en la cintura y las piernas ligeramente separadas. Tomas aire. Das entonces un paso hacia delante. El torso debe mantenerse lo más recto posible y perpendicular al suelo durante el movimiento, evitando en la medida de lo posible el balanceo. El paso (o zancada) no deberá ser demasiado amplio ni corto. Lo suficiente para que la pierna que se mueve hacia delante no doble más de 90º a la altura de la rodilla. El pie que avances deberá quedar completamente apoyado sobre el suelo. Mientras, la pierna que quede detrás se irá doblando hasta casi tocar el suelo con la rodilla, pero sin llegar a hacerlo. A su vez, el pie de detrás permanecerá en la posición de inicio y se irá doblando hasta que se apoye sobre la punta. Una vez completado el movimiento, expiramos y volvemos a la posición inicial. Este ejercicio debes hacerlo por cada pierna.",
+      "created_at": "2022-06-27 15:46:06.908914+00:00",
+      "updated_at": "2022-06-27 15:46:06.908916+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "9dc25737-efa8-4b19-bf56-b41041143565",
+    "fields": {
+      "exercise_type": "FT",
+      "activities": "Empinadas / Calf Raises",
+      "description": "Subete a un escalón o a un par de discos, apoyándote sobre la zona metatarsiana del pie (la parte de adelante de tu pie), dejando libre la mitad inferior de la planta. Desde esta posición hay que elevar todo lo que puedas el talón y una vez llegados al punto más alto, bajar por debajo del punto de apoyo. Es muy importante bajar y subir hasta el límite ya que la mayor ganancia está en el último rango del movimiento.",
+      "created_at": "2022-06-27 15:46:06.908923+00:00",
+      "updated_at": "2022-06-27 15:46:06.908925+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "d5c73066-6904-4a7c-a13d-3202204181d8",
+    "fields": {
+      "exercise_type": "UT",
+      "activities": "Sentadilla con salto / Jump Squat",
+      "description": "Los pies deben estar separados y en línea con los hombros. Las puntas de los pies, mirando hacia afuera en un ángulo de 45º. Bajamos haciendo una sentadilla, con la espalda recta y las rodillas dibujando un ángulo de 90º. Desde la posición de sentadilla, nos impulsamos para dar un salto y al caer, repetimos el ejercicio.",
+      "created_at": "2022-06-27 15:46:06.908935+00:00",
+      "updated_at": "2022-06-27 15:46:06.908938+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "44c23ade-d479-4e12-bf23-97af680f5d6c",
+    "fields": {
+      "exercise_type": "UT",
+      "activities": "Puente de gluteos / Glutes Bridges / Hip Raises",
+      "description": "Deberemos acostarnos boca arriba con la espalda totalmente estirada en el suelo. Dobla las rodillas y coloca los pies en línea con la cadera. Relaja los brazos estirados en el suelo con las palmas de las manos mirando hacia el suelo. Importante, relaja el cuello y la cabeza debe mirar hacia arriba. El ejercicio consiste en levantar las caderas y la pelvis hasta que la espalda, los glúteos y los gemelos formen una línea recta. Piensa que para una buena ejecución las rodillas ni pueden pegarse entre ellas ni separarse demasiado. Recuerda, debes hacer fuerza con las piernas y los glúteos, concéntrate en estos músculos. ¡No hagas fuerza con los brazos!",
+      "created_at": "2022-06-27 15:46:06.908945+00:00",
+      "updated_at": "2022-06-27 15:46:06.908947+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "e6228895-d740-49c8-a796-af3affb16bca",
+    "fields": {
+      "exercise_type": "UT",
+      "activities": "Zancadas / Arremetidas / Lunge",
+      "description": "De pie, con las manos en jarra apoyadas en la cintura y las piernas ligeramente separadas. Tomas aire. Das entonces un paso hacia delante. El torso debe mantenerse lo más recto posible y perpendicular al suelo durante el movimiento, evitando en la medida de lo posible el balanceo. El paso (o zancada) no deberá ser demasiado amplio ni corto. Lo suficiente para que la pierna que se mueve hacia delante no doble más de 90º a la altura de la rodilla. El pie que avances deberá quedar completamente apoyado sobre el suelo. Mientras, la pierna que quede detrás se irá doblando hasta casi tocar el suelo con la rodilla, pero sin llegar a hacerlo. A su vez, el pie de detrás permanecerá en la posición de inicio y se irá doblando hasta que se apoye sobre la punta. Una vez completado el movimiento, expiramos y volvemos a la posición inicial. Este ejercicio debes hacerlo por cada pierna.",
+      "created_at": "2022-06-27 15:46:06.908954+00:00",
+      "updated_at": "2022-06-27 15:46:06.908956+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "11019af5-519b-41cc-bec3-060439e6d1f4",
+    "fields": {
+      "exercise_type": "UT",
+      "activities": "Zancada / Arremetida Lateral / Lateral Lunge",
+      "description": "De pie, con los pies paralelos y el torso erguido mientras contraes los abdominales. Desde esta posición debes desplazar una pierna hacia el lateral (Zancada lateral) y apoyar completamente el pie en el piso mientras flexionamos la rodilla y descendemos el cuerpo hacia el lado de la pierna extendida, para lo cual puede ser necesario una leve inclinación del torso que puede complementarse con la extensión de los brazos al frente o ubicarlos en la cintura para mantener el equilibrio. Este ejercicio debes hacerlo por cada pierna.",
+      "created_at": "2022-06-27 15:46:06.908962+00:00",
+      "updated_at": "2022-06-27 15:46:06.908964+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "aae61957-8eb9-410b-b98c-f7f2ffcba45c",
+    "fields": {
+      "exercise_type": "UT",
+      "activities": "Salto a la caja / Escaleras",
+      "description": "De pie, calculas que la anchura de tus pies sea similar a la de tus caderas, debes mantener alineadas tus rodillas y caderas con tus pies. Una vez estes correctamente frente al cajón, escaleras o muro (A unos 20 cm) que sea de una altura ideal para ti, extiendes tus brazos y hombros hacia atrás para coger impulso y a la vez realizas un brinco en vertical y un poco hacia adelante. No debemos dejar que nuestro tronco se incline demasiado hacia adelante porque que de esta forma no conseguirías un salto lo suficientemente vertical para lograr la altura del cajón, escaleras o muro. Acabaremos sobre la caja, escaleras o muro cayendo con ambos pies a la vez y terminando en una completa extensión de rodillas y cadera.",
+      "created_at": "2022-06-27 15:46:06.908971+00:00",
+      "updated_at": "2022-06-27 15:46:06.908973+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "48f1a3e6-e60c-4355-b494-edea3dd0f16f",
+    "fields": {
+      "exercise_type": "UT",
+      "activities": "Sentadilla contra pared",
+      "description": "Apoya la espalda y la cabeza a la pared, separa los pies y baja el cuerpo hasta que tus rodillas y caderas formen un ángulo recto (90°); los muslos también deben estar paralelos al piso.",
+      "created_at": "2022-06-27 15:46:06.908980+00:00",
+      "updated_at": "2022-06-27 15:46:06.908982+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "62b753c5-74c4-4949-97b0-f9c8d728b370",
+    "fields": {
+      "exercise_type": "UT",
+      "activities": "Empinadas / Calf Raises",
+      "description": "Subete a un escalón o a un par de discos, apoyándote sobre la zona metatarsiana del pie (la parte de adelante de tu pie), dejando libre la mitad inferior de la planta. Desde esta posición hay que elevar todo lo que puedas el talón y una vez llegados al punto más alto, bajar por debajo del punto de apoyo. Es muy importante bajar y subir hasta el límite ya que la mayor ganancia está en el último rango del movimiento.",
+      "created_at": "2022-06-27 15:46:06.908992+00:00",
+      "updated_at": "2022-06-27 15:46:06.908994+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "3aad6e07-7616-45d2-a8c4-5bce4f364445",
+    "fields": {
+      "exercise_type": "LT",
+      "activities": "Lagartijas / Push Ups",
+      "description": "Ubicate boca abajo, apoyandote y colocando las palmas de tus dos manos firmemente a la anchura de tus hombros, ligeramente más abiertas, con los dedos índices apuntando hacia adelante, cargando todo el peso del cuerpo en tus manos y los pies deben ir juntos, extendidos y apoyados sobre las puntas de los pies (Pisición de PLANCHA ALTA). Procura que todo tu cuerpo, desde tu cabeza hasta tus pies se forme una linea recta. Manteniendo el cuerpo erguido, el movimiento comienza con una bajada en bloque del cuerpo, sin curvar la espalda ni dejar caer la pelvis, llevando el pecho hasta casi tocar el suelo y flexionando los codos, que deben mirar siempre hacia atrás y mantenerse cerca del cuerpo. Hay que descender despacio haciendo fuerza, no vale dejarse caer. Haz una leve pausa. Cuando hagas la flexión y te veas a pocos centímetros del suelo conviene que hagas una breve pausa de unos dos segundos. Así a la larga lograrás mejores resultados de volumen y de fuerza. Deshaz el movimiento y vuelve a la posición inicial con una extensión de codos. Si no tienes resistencia suficiente para conseguirlo, empieza por flexiones con las rodillas apoyadas en el suelo en lugar de posición de plancha alta.",
+      "created_at": "2022-06-27 15:46:06.909002+00:00",
+      "updated_at": "2022-06-27 15:46:06.909004+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "6019ec55-d7b8-47fe-8cbc-fb9e57246d34",
+    "fields": {
+      "exercise_type": "LT",
+      "activities": "Dominadas / Pull Ups",
+      "description": "Ubicate debajo de la barra y agarrala con las dos manos, separadas a la altura de los hombros y las palmas mirando hacia delante. Cuélgate con los brazos y los codos completamente estirados. Tira del cuerpo hacia arriba, llevando la barbilla por encima de la barra. Contrae la espalda, relaja el cuello y aleja los hombros de las orejas. Baja despacio y de forma controlada hasta que los brazos están de nuevo completamente estirados.  Recuerda que siempre existe la posibilidad de ayudarte de un banco, silla, banda elastica o incluso se recomienda que algún compañero, apoye y te de ese pequeño impulso, créenos, será una gran ayuda para ti al comienzo.",
+      "created_at": "2022-06-27 15:46:06.909011+00:00",
+      "updated_at": "2022-06-27 15:46:06.909013+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "aa22e939-cf04-42f8-8485-5f8ac5c486ed",
+    "fields": {
+      "exercise_type": "LT",
+      "activities": "Fondos / Dips / Triceps",
+      "description": "Colócate de pie entre dos barras paralelas y cógelas con un agarre neutro (las palmas deben mirarse). Salta y estira los brazos, alineando las muñecas, los codos y los hombros. Lleva la parte superior de los hombros hacia detrás de la clavícula, y lucha contra el impulso de encogerte de hombros. Cruza los tobillos por detrás de ti. Trata de juntar los omóplatos e inclínate ligeramente hacia delante. Flexiona los brazos, manteniendo los codos pegados a los costados y apuntando hacia atrás, bajas lentamente hasta que los hombros estén a la altura de los codos. Haz fuerza con las manos y estira los brazos para volver a la posición inicial. Eso sería una repetición. Ahora solo tienes que repetirlo más veces.   Si no tienes acceso a barras paralelas, puedes utilizar una silla, un muro, un cajón o banco, lo más importante es que sea estable. Ubicate de pie y de espaldas a tu apoyo, flexiona las piernas para colocar las palmas de tus manos en el borde, con las puntas de los dedos hacia fuera. Extiende las piernas hacia delante con los talones en el suelo y los dedos apuntando hacia fuera. Con la espalda y los glúteos lo más cerca posible de la silla, flexiona los brazos y pega los codos a los lados, apuntando hacia atrás. Baja lentamente hasta que la parte superior de los brazos (triceps) esté en paralelo al suelo. Empuja con las manos y endereza los brazos para volver a la posición inicial. Eso sería una repetición. Para que te sea más fácil, puedes doblar tus rodillas.",
+      "created_at": "2022-06-27 15:46:06.909020+00:00",
+      "updated_at": "2022-06-27 15:46:06.909022+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "f7427c10-9da8-4b83-b2d5-6c19abf103fa",
+    "fields": {
+      "exercise_type": "CT",
+      "activities": "Lagartijas / Push Ups",
+      "description": "Ubicate boca abajo, apoyandote y colocando las palmas de tus dos manos firmemente a la anchura de tus hombros, ligeramente más abiertas, con los dedos índices apuntando hacia adelante, cargando todo el peso del cuerpo en tus manos y los pies deben ir juntos, extendidos y apoyados sobre las puntas de los pies (Pisición de PLANCHA ALTA). Procura que todo tu cuerpo, desde tu cabeza hasta tus pies se forme una linea recta. Manteniendo el cuerpo erguido, el movimiento comienza con una bajada en bloque del cuerpo, sin curvar la espalda ni dejar caer la pelvis, llevando el pecho hasta casi tocar el suelo y flexionando los codos, que deben mirar siempre hacia atrás y mantenerse cerca del cuerpo. Hay que descender despacio haciendo fuerza, no vale dejarse caer. Haz una leve pausa. Cuando hagas la flexión y te veas a pocos centímetros del suelo conviene que hagas una breve pausa de unos dos segundos. Así a la larga lograrás mejores resultados de volumen y de fuerza. Deshaz el movimiento y vuelve a la posición inicial con una extensión de codos. Si no tienes resistencia suficiente para conseguirlo, empieza por flexiones con las rodillas apoyadas en el suelo en lugar de posición de plancha alta.",
+      "created_at": "2022-06-27 15:46:06.909030+00:00",
+      "updated_at": "2022-06-27 15:46:06.909032+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "3a339896-f909-45db-94d5-fbb9976ee5c5",
+    "fields": {
+      "exercise_type": "CT",
+      "activities": "Dominadas / Pull Ups",
+      "description": "Ubicate debajo de la barra y agarrala con las dos manos, separadas a la altura de los hombros y las palmas mirando hacia delante. Cuélgate con los brazos y los codos completamente estirados. Tira del cuerpo hacia arriba, llevando la barbilla por encima de la barra. Contrae la espalda, relaja el cuello y aleja los hombros de las orejas. Baja despacio y de forma controlada hasta que los brazos están de nuevo completamente estirados.  Recuerda que siempre existe la posibilidad de ayudarte de un banco, silla, banda elastica o incluso se recomienda que algún compañero, apoye y te de ese pequeño impulso, créenos, será una gran ayuda para ti al comienzo.",
+      "created_at": "2022-06-27 15:46:06.909039+00:00",
+      "updated_at": "2022-06-27 15:46:06.909041+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "7c49a9fe-8502-4413-a5b2-2e57ac753fdd",
+    "fields": {
+      "exercise_type": "CT",
+      "activities": "Fondos / Dips / Triceps",
+      "description": "Colócate de pie entre dos barras paralelas y cógelas con un agarre neutro (las palmas deben mirarse). Salta y estira los brazos, alineando las muñecas, los codos y los hombros. Lleva la parte superior de los hombros hacia detrás de la clavícula, y lucha contra el impulso de encogerte de hombros. Cruza los tobillos por detrás de ti. Trata de juntar los omóplatos e inclínate ligeramente hacia delante. Flexiona los brazos, manteniendo los codos pegados a los costados y apuntando hacia atrás, bajas lentamente hasta que los hombros estén a la altura de los codos. Haz fuerza con las manos y estira los brazos para volver a la posición inicial. Eso sería una repetición. Ahora solo tienes que repetirlo más veces.   Si no tienes acceso a barras paralelas, puedes utilizar una silla, un muro, un cajón o banco, lo más importante es que sea estable. Ubicate de pie y de espaldas a tu apoyo, flexiona las piernas para colocar las palmas de tus manos en el borde, con las puntas de los dedos hacia fuera. Extiende las piernas hacia delante con los talones en el suelo y los dedos apuntando hacia fuera. Con la espalda y los glúteos lo más cerca posible de la silla, flexiona los brazos y pega los codos a los lados, apuntando hacia atrás. Baja lentamente hasta que la parte superior de los brazos (triceps) esté en paralelo al suelo. Empuja con las manos y endereza los brazos para volver a la posición inicial. Eso sería una repetición. Para que te sea más fácil, puedes doblar tus rodillas.",
+      "created_at": "2022-06-27 15:46:06.909047+00:00",
+      "updated_at": "2022-06-27 15:46:06.909049+00:00"
+    }
+  },
+  {
+    "model": "training_plans.PhysicExerciseDescription",
+    "pk": "a11ed9a2-4af5-4609-b4a7-016b8d5d3fa2",
+    "fields": {
+      "exercise_type": "CT",
+      "activities": "Plancha",
+      "description": "Debes acostarte boca abajo apoyando el peso de tu cuerpo sobre tus antebrazos, asegúrate de que los codos están en el suelo directamente debajo de los hombros con los pies separados al ancho de las caderas. Tu espalda debe estár plana, y tu cabeza y cuello deben estár en una posición neutral. Lleva los codos hacia el suelo y aprieta los cuádriceps, los glúteos y el core. Inhala por la nariz y exhala por la boca, no contengas la respiración.",
+      "created_at": "2022-06-27 15:46:06.909056+00:00",
+      "updated_at": "2022-06-27 15:46:06.909058+00:00"
+    }
+  }
+]

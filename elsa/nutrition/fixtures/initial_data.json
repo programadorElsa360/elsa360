@@ -1,0 +1,6252 @@
+[
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+    "fields": {
+      "supergroup": "ENE",
+      "group": "CER",
+      "created_at": "2022-06-28 20:32:29.543992+00:00",
+      "updated_at": "2022-06-28 20:32:29.544006+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "93eda9b1-e25f-463a-90e0-13db1e0cfdf1",
+    "fields": {
+      "supergroup": "ENE",
+      "group": "TUB",
+      "created_at": "2022-06-28 20:32:29.544549+00:00",
+      "updated_at": "2022-06-28 20:32:29.544554+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "837b677a-171f-44e6-bea0-69e0e68411c3",
+    "fields": {
+      "supergroup": "ENE",
+      "group": "PLA",
+      "created_at": "2022-06-28 20:32:29.544594+00:00",
+      "updated_at": "2022-06-28 20:32:29.544596+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "81b596f6-041f-4aa8-ab38-4e7e898b729f",
+    "fields": {
+      "supergroup": "ENE",
+      "group": "ROT",
+      "created_at": "2022-06-28 20:32:29.544666+00:00",
+      "updated_at": "2022-06-28 20:32:29.544668+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "c67abacc-f8b4-42f1-b436-42e57251978d",
+    "fields": {
+      "supergroup": "ENE",
+      "group": "LEG",
+      "created_at": "2022-06-28 20:32:29.544730+00:00",
+      "updated_at": "2022-06-28 20:32:29.544732+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+    "fields": {
+      "supergroup": "PRO",
+      "group": "MEA",
+      "created_at": "2022-06-28 20:32:29.544798+00:00",
+      "updated_at": "2022-06-28 20:32:29.544800+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "226c8c83-1bfe-420d-a010-6029b54fa9b8",
+    "fields": {
+      "supergroup": "DAI",
+      "group": "MLK",
+      "created_at": "2022-06-28 20:32:29.545314+00:00",
+      "updated_at": "2022-06-28 20:32:29.545316+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "3974e7af-10f1-4d27-a290-6a1c3c84077e",
+    "fields": {
+      "supergroup": "LFD",
+      "group": "LFM",
+      "created_at": "2022-06-28 20:32:29.545473+00:00",
+      "updated_at": "2022-06-28 20:32:29.545476+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "1cd98868-0393-4d9a-a696-f632c9424588",
+    "fields": {
+      "supergroup": "FAV",
+      "group": "VEG",
+      "created_at": "2022-06-28 20:32:29.545587+00:00",
+      "updated_at": "2022-06-28 20:32:29.545589+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+    "fields": {
+      "supergroup": "FAV",
+      "group": "FRT",
+      "created_at": "2022-06-28 20:32:29.545878+00:00",
+      "updated_at": "2022-06-28 20:32:29.545881+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "187b195c-d5a7-483f-92cd-07c83b7ed59c",
+    "fields": {
+      "supergroup": "HFA",
+      "group": "SED",
+      "created_at": "2022-06-28 20:32:29.546222+00:00",
+      "updated_at": "2022-06-28 20:32:29.546224+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "22b43706-df83-43e0-ae12-9f0b5ffa25e1",
+    "fields": {
+      "supergroup": "HFA",
+      "group": "POL",
+      "created_at": "2022-06-28 20:32:29.546325+00:00",
+      "updated_at": "2022-06-28 20:32:29.546327+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "0ee70fe6-676f-439f-bce1-d90fe330c6a2",
+    "fields": {
+      "supergroup": "HFA",
+      "group": "MON",
+      "created_at": "2022-06-28 20:32:29.546354+00:00",
+      "updated_at": "2022-06-28 20:32:29.546356+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "9d12b307-082b-4797-b7da-7a97c48df970",
+    "fields": {
+      "supergroup": "OTH",
+      "group": "SAT",
+      "created_at": "2022-06-28 20:32:29.546395+00:00",
+      "updated_at": "2022-06-28 20:32:29.546397+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "ecfcc956-69c8-4e96-afec-9f8376106bfc",
+    "fields": {
+      "supergroup": "OTH",
+      "group": "SUG",
+      "created_at": "2022-06-28 20:32:29.546530+00:00",
+      "updated_at": "2022-06-28 20:32:29.546532+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+    "fields": {
+      "supergroup": "OTH",
+      "group": "SWT",
+      "created_at": "2022-06-28 20:32:29.546583+00:00",
+      "updated_at": "2022-06-28 20:32:29.546584+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "93da2174-f66e-4dfc-987e-389dadbcd361",
+    "fields": {
+      "supergroup": "OTH",
+      "group": "MIS",
+      "created_at": "2022-06-28 20:32:29.546711+00:00",
+      "updated_at": "2022-06-28 20:32:29.546713+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "cae06fe3-ae11-4477-b567-ff487c9bf661",
+    "fields": {
+      "supergroup": "OTH",
+      "group": "PRE",
+      "created_at": "2022-06-28 20:32:29.546902+00:00",
+      "updated_at": "2022-06-28 20:32:29.546904+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+    "fields": {
+      "supergroup": "OTH",
+      "group": "SPI",
+      "created_at": "2022-06-28 20:32:29.547008+00:00",
+      "updated_at": "2022-06-28 20:32:29.547010+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "b2551c1d-a001-4a87-8891-e8205d814d68",
+    "fields": {
+      "supergroup": "OTH",
+      "group": "ALH",
+      "created_at": "2022-06-28 20:32:29.547251+00:00",
+      "updated_at": "2022-06-28 20:32:29.547253+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "d626b71e-6973-4117-9d5f-1af9f8675de6",
+    "fields": {
+      "supergroup": "NSU",
+      "group": "SUP",
+      "created_at": "2022-06-28 20:32:29.547325+00:00",
+      "updated_at": "2022-06-28 20:32:29.547327+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+    "fields": {
+      "supergroup": "VEN",
+      "group": "CER",
+      "created_at": "2022-06-28 20:32:29.547507+00:00",
+      "updated_at": "2022-06-28 20:32:29.547509+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "ea13db80-e3e3-43d1-bcc2-4a0e98682813",
+    "fields": {
+      "supergroup": "VEN",
+      "group": "TUB",
+      "created_at": "2022-06-28 20:32:29.547947+00:00",
+      "updated_at": "2022-06-28 20:32:29.547949+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "17b50844-9d7f-4a46-8eb7-5d95406a0bc5",
+    "fields": {
+      "supergroup": "VEN",
+      "group": "PLA",
+      "created_at": "2022-06-28 20:32:29.547993+00:00",
+      "updated_at": "2022-06-28 20:32:29.547995+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "5c56084e-f774-4045-9a32-65421f972620",
+    "fields": {
+      "supergroup": "VEN",
+      "group": "ROT",
+      "created_at": "2022-06-28 20:32:29.548073+00:00",
+      "updated_at": "2022-06-28 20:32:29.548075+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "42ca7fd7-9be8-4da1-acea-fc9b9eeeecc2",
+    "fields": {
+      "supergroup": "VEN",
+      "group": "VGF",
+      "created_at": "2022-06-28 20:32:29.548116+00:00",
+      "updated_at": "2022-06-28 20:32:29.548118+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "7759ad2e-f395-4a4b-8cfa-41e820e130f6",
+    "fields": {
+      "supergroup": "VPR",
+      "group": "VGP",
+      "created_at": "2022-06-28 20:32:29.548213+00:00",
+      "updated_at": "2022-06-28 20:32:29.548215+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "c2050a50-efcd-4949-8c36-362bf4e384eb",
+    "fields": {
+      "supergroup": "VPR",
+      "group": "LEG",
+      "created_at": "2022-06-28 20:32:29.548263+00:00",
+      "updated_at": "2022-06-28 20:32:29.548265+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "d9de8576-c34a-461d-b9ae-c77b22069838",
+    "fields": {
+      "supergroup": "VPR",
+      "group": "MLK",
+      "created_at": "2022-06-28 20:32:29.548327+00:00",
+      "updated_at": "2022-06-28 20:32:29.548329+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "e04e7afe-3003-48eb-85e2-6ac680cd3c92",
+    "fields": {
+      "supergroup": "VPR",
+      "group": "LFM",
+      "created_at": "2022-06-28 20:32:29.548584+00:00",
+      "updated_at": "2022-06-28 20:32:29.548586+00:00"
+    }
+  },
+  {
+    "model": "nutrition.FoodGroup",
+    "pk": "d126d09b-9119-49ec-8933-5d11f0a115e1",
+    "fields": {
+      "supergroup": "VPR",
+      "group": "EGG",
+      "created_at": "2022-06-28 20:32:29.548709+00:00",
+      "updated_at": "2022-06-28 20:32:29.548711+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d534fb11-4920-44bc-bc66-9e5088f3ed86",
+    "fields": {
+      "name": "Arroz blanco",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 61.4,
+      "cooked_half_portion": 40.0,
+      "raw_half_portion": 17.4,
+      "proteins": 2.7,
+      "fats": 0.2,
+      "carbohydrates": 32.0,
+      "home_measure_amount": "3",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544019+00:00",
+      "updated_at": "2022-06-28 20:32:29.544022+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "755d3198-ad73-4b90-9a6f-59a49b24c2dc",
+    "fields": {
+      "name": "Arroz integral",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 61.8,
+      "cooked_half_portion": 40.5,
+      "raw_half_portion": 17.6,
+      "proteins": 3.3,
+      "fats": 0.4,
+      "carbohydrates": 31.2,
+      "home_measure_amount": "4",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544033+00:00",
+      "updated_at": "2022-06-28 20:32:29.544035+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "4f25126b-f708-4426-806d-d617a87b9ba7",
+    "fields": {
+      "name": "Avena en hojuelas",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 49.3,
+      "cooked_half_portion": 12.0,
+      "raw_half_portion": 12.0,
+      "proteins": 2.4,
+      "fats": 0.9,
+      "carbohydrates": 7.7,
+      "home_measure_amount": "2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544044+00:00",
+      "updated_at": "2022-06-28 20:32:29.544046+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "5a832402-6f97-4a48-b9f7-ffc7df9be439",
+    "fields": {
+      "name": "Maíz amarillo / Mazorca",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 216.2,
+      "cooked_half_portion": 55.0,
+      "raw_half_portion": 55.0,
+      "proteins": 5.2,
+      "fats": 2.6,
+      "carbohydrates": 41.0,
+      "home_measure_amount": "4",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544055+00:00",
+      "updated_at": "2022-06-28 20:32:29.544057+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "1e1cb525-02a6-4698-bf6f-d3b08228c655",
+    "fields": {
+      "name": "Maíz pira",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 44.1,
+      "cooked_half_portion": 13.5,
+      "raw_half_portion": 11.3,
+      "proteins": 1.5,
+      "fats": 0.6,
+      "carbohydrates": 9.6,
+      "home_measure_amount": "3/4",
+      "home_measure_type": "CH_WE",
+      "created_at": "2022-06-28 20:32:29.544069+00:00",
+      "updated_at": "2022-06-28 20:32:29.544071+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "42a77135-25a4-46f3-862a-a8d17d186f58",
+    "fields": {
+      "name": "Quinua",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 47.0,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.8,
+      "fats": 0.6,
+      "carbohydrates": 8.3,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.544081+00:00",
+      "updated_at": "2022-06-28 20:32:29.544083+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "451dc52b-8a1a-48cc-9b6f-b2d716158a5b",
+    "fields": {
+      "name": "Fecula de maiz",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 45.0,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 0.9,
+      "fats": 0.0,
+      "carbohydrates": 10.3,
+      "home_measure_amount": "2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.544092+00:00",
+      "updated_at": "2022-06-28 20:32:29.544094+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "19d22a7c-f01c-40f0-b326-76944c967702",
+    "fields": {
+      "name": "Harina de maiz",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 48.3,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.0,
+      "fats": 0.4,
+      "carbohydrates": 9.7,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544103+00:00",
+      "updated_at": "2022-06-28 20:32:29.544105+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "adc43ef9-519a-42cb-b48c-5ab87226a2a0",
+    "fields": {
+      "name": "Harina de trigo",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 45.0,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.6,
+      "fats": 0.2,
+      "carbohydrates": 9.0,
+      "home_measure_amount": "2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.544113+00:00",
+      "updated_at": "2022-06-28 20:32:29.544116+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8742df60-53c4-424f-b6d3-c790934898f9",
+    "fields": {
+      "name": "Harina de arroz",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 45.1,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 0.8,
+      "fats": 0.2,
+      "carbohydrates": 10.0,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544125+00:00",
+      "updated_at": "2022-06-28 20:32:29.544127+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "027d0b94-c8dc-40c4-bda5-3975bf3b25fa",
+    "fields": {
+      "name": "Harina de centeno",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 48.8,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 2.0,
+      "fats": 0.4,
+      "carbohydrates": 8.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544136+00:00",
+      "updated_at": "2022-06-28 20:32:29.544138+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "075fc290-360e-4cd3-adaa-7426099a4a09",
+    "fields": {
+      "name": "Almojabana",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 44.2,
+      "cooked_half_portion": 15.5,
+      "raw_half_portion": 15.5,
+      "proteins": 2.0,
+      "fats": 1.9,
+      "carbohydrates": 4.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544147+00:00",
+      "updated_at": "2022-06-28 20:32:29.544149+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7b4c709a-371e-4039-835a-ccf67969c4a8",
+    "fields": {
+      "name": "Arepa de maíz blanco",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 43.7,
+      "cooked_half_portion": 28.0,
+      "raw_half_portion": 28.0,
+      "proteins": 1.0,
+      "fats": 0.1,
+      "carbohydrates": 9.7,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "BG_UN",
+      "created_at": "2022-06-28 20:32:29.544158+00:00",
+      "updated_at": "2022-06-28 20:32:29.544160+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "4d917126-8676-405c-9b84-2f59b74562d7",
+    "fields": {
+      "name": "Arepa de choclo",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 48.6,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.6,
+      "fats": 0.8,
+      "carbohydrates": 8.5,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "BG_UN",
+      "created_at": "2022-06-28 20:32:29.544212+00:00",
+      "updated_at": "2022-06-28 20:32:29.544217+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "36bf0f47-d050-4470-a2d5-cd27cd04eb35",
+    "fields": {
+      "name": "Arepa con queso",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 61.2,
+      "cooked_half_portion": 29.0,
+      "raw_half_portion": 29.0,
+      "proteins": 1.4,
+      "fats": 2.4,
+      "carbohydrates": 8.4,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.544228+00:00",
+      "updated_at": "2022-06-28 20:32:29.544230+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7b315416-1f0d-494f-b372-45fa6c571328",
+    "fields": {
+      "name": "Hojuelas de maíz",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 47.0,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.0,
+      "fats": 0.1,
+      "carbohydrates": 10.6,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544239+00:00",
+      "updated_at": "2022-06-28 20:32:29.544241+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "a06a6fac-315d-4846-95ae-3405f6b22601",
+    "fields": {
+      "name": "Pasta larga",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 42.0,
+      "cooked_half_portion": 32.0,
+      "raw_half_portion": 12.3,
+      "proteins": 3.1,
+      "fats": 0.1,
+      "carbohydrates": 23.8,
+      "home_measure_amount": "1/3",
+      "home_measure_type": "CH_WE",
+      "created_at": "2022-06-28 20:32:29.544250+00:00",
+      "updated_at": "2022-06-28 20:32:29.544252+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "1353b1d4-45a6-409b-8763-54160f9e40e1",
+    "fields": {
+      "name": "Cereal para el desayuno",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 42.1,
+      "cooked_half_portion": 11.0,
+      "raw_half_portion": 11.0,
+      "proteins": 0.9,
+      "fats": 0.0,
+      "carbohydrates": 9.4,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.544261+00:00",
+      "updated_at": "2022-06-28 20:32:29.544263+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "3337b671-18e3-4c95-996d-de90c8e522cd",
+    "fields": {
+      "name": "Cereal fitness",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 37.4,
+      "cooked_half_portion": 11.0,
+      "raw_half_portion": 11.0,
+      "proteins": 0.8,
+      "fats": 0.3,
+      "carbohydrates": 8.1,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.544275+00:00",
+      "updated_at": "2022-06-28 20:32:29.544277+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c42087a8-f5cb-427d-a71e-198b57e8e3b1",
+    "fields": {
+      "name": "Granola",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 45.9,
+      "cooked_half_portion": 11.0,
+      "raw_half_portion": 11.0,
+      "proteins": 0.9,
+      "fats": 1.3,
+      "carbohydrates": 7.7,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.544286+00:00",
+      "updated_at": "2022-06-28 20:32:29.544288+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b9d1a167-0bd3-45e1-9cc0-c5699d14f246",
+    "fields": {
+      "name": "Galletas integrales",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 42.3,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 0.7,
+      "fats": 1.0,
+      "carbohydrates": 7.7,
+      "home_measure_amount": "1",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544297+00:00",
+      "updated_at": "2022-06-28 20:32:29.544299+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "68ea033f-dfaa-466c-87fe-d383ea173150",
+    "fields": {
+      "name": "Galletas de soda",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 50.9,
+      "cooked_half_portion": 12.0,
+      "raw_half_portion": 12.0,
+      "proteins": 1.2,
+      "fats": 1.2,
+      "carbohydrates": 8.7,
+      "home_measure_amount": "1  1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544307+00:00",
+      "updated_at": "2022-06-28 20:32:29.544309+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8bde5922-f5e9-432b-a6bb-dc1a92a0c069",
+    "fields": {
+      "name": "Galleta tipo wafer",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 38.7,
+      "cooked_half_portion": 8.5,
+      "raw_half_portion": 8.5,
+      "proteins": 0.5,
+      "fats": 1.3,
+      "carbohydrates": 6.2,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544318+00:00",
+      "updated_at": "2022-06-28 20:32:29.544320+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "a8f3df67-1ac8-475c-a8ef-884d8c3fda6d",
+    "fields": {
+      "name": "Galleta dulce con relleno",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 46.4,
+      "cooked_half_portion": 9.0,
+      "raw_half_portion": 9.0,
+      "proteins": 0.3,
+      "fats": 2.2,
+      "carbohydrates": 6.3,
+      "home_measure_amount": "1",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544328+00:00",
+      "updated_at": "2022-06-28 20:32:29.544330+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f59c4670-4485-4447-beb3-e4181fcbe537",
+    "fields": {
+      "name": "Pan blanco tipo molde",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 30.6,
+      "cooked_half_portion": 11.0,
+      "raw_half_portion": 11.0,
+      "proteins": 1.0,
+      "fats": 0.2,
+      "carbohydrates": 6.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.544339+00:00",
+      "updated_at": "2022-06-28 20:32:29.544341+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "1476aea9-9028-46e9-b347-8e8d79689c1f",
+    "fields": {
+      "name": "Pan blanco horneado",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 33.5,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.1,
+      "fats": 0.4,
+      "carbohydrates": 6.1,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544350+00:00",
+      "updated_at": "2022-06-28 20:32:29.544352+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6e24be7a-7a76-4e10-bfcd-dc6e71bcaad4",
+    "fields": {
+      "name": "Pan integral",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 44.6,
+      "cooked_half_portion": 16.0,
+      "raw_half_portion": 16.0,
+      "proteins": 1.5,
+      "fats": 0.5,
+      "carbohydrates": 8.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.544360+00:00",
+      "updated_at": "2022-06-28 20:32:29.544362+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d2825423-903c-4e9b-ae7c-b584dc5122fc",
+    "fields": {
+      "name": "Pan de centeno",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 38.9,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.3,
+      "fats": 0.5,
+      "carbohydrates": 7.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.544371+00:00",
+      "updated_at": "2022-06-28 20:32:29.544373+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2861c1cf-e4d6-432a-88a7-ec9ae8a4264c",
+    "fields": {
+      "name": "Pan de granos mixtos",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 40.8,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.6,
+      "fats": 0.6,
+      "carbohydrates": 7.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.544381+00:00",
+      "updated_at": "2022-06-28 20:32:29.544383+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "761fc039-f6f9-4638-b011-0af4ce3fd1c9",
+    "fields": {
+      "name": "Tostada",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 59.7,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.5,
+      "fats": 1.0,
+      "carbohydrates": 10.8,
+      "home_measure_amount": "1",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544392+00:00",
+      "updated_at": "2022-06-28 20:32:29.544394+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f0a9e18c-5cd0-4908-92ba-4ddc566c7e18",
+    "fields": {
+      "name": "Tortillas",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 45.0,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.5,
+      "fats": 1.2,
+      "carbohydrates": 7.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544402+00:00",
+      "updated_at": "2022-06-28 20:32:29.544404+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "96daf67b-d411-4467-a653-82747d53743a",
+    "fields": {
+      "name": "Tortillas integrales",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 44.3,
+      "cooked_half_portion": 16.0,
+      "raw_half_portion": 16.0,
+      "proteins": 1.4,
+      "fats": 0.8,
+      "carbohydrates": 8.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544446+00:00",
+      "updated_at": "2022-06-28 20:32:29.544451+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e6962f2d-5f9d-407d-8ff1-1cb3d63223f5",
+    "fields": {
+      "name": "Mogolla",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 58.9,
+      "cooked_half_portion": 19.0,
+      "raw_half_portion": 19.0,
+      "proteins": 1.7,
+      "fats": 0.9,
+      "carbohydrates": 11.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.544471+00:00",
+      "updated_at": "2022-06-28 20:32:29.544474+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "291a4f6b-5a58-4428-b188-2f5b9d2b91ed",
+    "fields": {
+      "name": "Mogolla integral",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 46.5,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.1,
+      "fats": 0.3,
+      "carbohydrates": 9.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.544484+00:00",
+      "updated_at": "2022-06-28 20:32:29.544501+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b779c51f-8f64-4d05-aca9-7d3d169d6619",
+    "fields": {
+      "name": "Masa pancake",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 40.2,
+      "cooked_half_portion": 12.0,
+      "raw_half_portion": 12.0,
+      "proteins": 1.4,
+      "fats": 0.1,
+      "carbohydrates": 8.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544510+00:00",
+      "updated_at": "2022-06-28 20:32:29.544512+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "371a6d2e-6e0a-4d8b-af95-407d8dfa29ba",
+    "fields": {
+      "name": "Amaranto",
+      "food_group": "fa3efea3-60da-4e6f-92ac-3473db23d181",
+      "calories": 46.8,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.8,
+      "fats": 0.8,
+      "carbohydrates": 8.3,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544520+00:00",
+      "updated_at": "2022-06-28 20:32:29.544522+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "73165d1c-f295-4a11-a0a6-0e6ad4d12c79",
+    "fields": {
+      "name": "Papa sabanera o pastusa",
+      "food_group": "93eda9b1-e25f-463a-90e0-13db1e0cfdf1",
+      "calories": 36.9,
+      "cooked_half_portion": 41.5,
+      "raw_half_portion": 41.5,
+      "proteins": 0.9,
+      "fats": 0.0,
+      "carbohydrates": 7.8,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544562+00:00",
+      "updated_at": "2022-06-28 20:32:29.544564+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "430d1f12-4d5b-40bf-bef6-f49d9e97d617",
+    "fields": {
+      "name": "Papa amarilla o criolla",
+      "food_group": "93eda9b1-e25f-463a-90e0-13db1e0cfdf1",
+      "calories": 51.8,
+      "cooked_half_portion": 54.0,
+      "raw_half_portion": 54.0,
+      "proteins": 1.2,
+      "fats": 0.1,
+      "carbohydrates": 11.4,
+      "home_measure_amount": "1  1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544573+00:00",
+      "updated_at": "2022-06-28 20:32:29.544575+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "80f4881d-ea92-40b1-be8b-3283cec6a8e7",
+    "fields": {
+      "name": "Papa a la francesa frita",
+      "food_group": "93eda9b1-e25f-463a-90e0-13db1e0cfdf1",
+      "calories": 47.0,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 0.5,
+      "fats": 2.3,
+      "carbohydrates": 5.7,
+      "home_measure_amount": "4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544584+00:00",
+      "updated_at": "2022-06-28 20:32:29.544586+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "44dbb686-0ab7-4db2-aebf-630cfeb6dcca",
+    "fields": {
+      "name": "Plátano hartón maduro",
+      "food_group": "837b677a-171f-44e6-bea0-69e0e68411c3",
+      "calories": 43.6,
+      "cooked_half_portion": 33.0,
+      "raw_half_portion": 33.0,
+      "proteins": 0.4,
+      "fats": 0.1,
+      "carbohydrates": 10.0,
+      "home_measure_amount": "1/8",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544606+00:00",
+      "updated_at": "2022-06-28 20:32:29.544608+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "1697965f-5dff-443e-ab85-0953e41b93dc",
+    "fields": {
+      "name": "Platano maduro frito tajadas",
+      "food_group": "837b677a-171f-44e6-bea0-69e0e68411c3",
+      "calories": 46.8,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 0.2,
+      "fats": 1.5,
+      "carbohydrates": 7.9,
+      "home_measure_amount": "3/4",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.544619+00:00",
+      "updated_at": "2022-06-28 20:32:29.544621+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "796fcbdd-2bfc-45fb-8f7c-7dd58009b421",
+    "fields": {
+      "name": "Plátano hartón verde",
+      "food_group": "837b677a-171f-44e6-bea0-69e0e68411c3",
+      "calories": 64.7,
+      "cooked_half_portion": 39.0,
+      "raw_half_portion": 39.0,
+      "proteins": 0.5,
+      "fats": 0.1,
+      "carbohydrates": 15.3,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544630+00:00",
+      "updated_at": "2022-06-28 20:32:29.544632+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e05bf596-2d73-4fa0-bed6-7ab635cc91cc",
+    "fields": {
+      "name": "Platano verde frito/Patacon frito",
+      "food_group": "837b677a-171f-44e6-bea0-69e0e68411c3",
+      "calories": 44.1,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 0.2,
+      "fats": 2.4,
+      "carbohydrates": 5.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.544641+00:00",
+      "updated_at": "2022-06-28 20:32:29.544643+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "fa11dace-5f88-497a-b0f3-af8d1ddd8018",
+    "fields": {
+      "name": "Guineo",
+      "food_group": "837b677a-171f-44e6-bea0-69e0e68411c3",
+      "calories": 56.3,
+      "cooked_half_portion": 44.0,
+      "raw_half_portion": 44.0,
+      "proteins": 0.6,
+      "fats": 0.0,
+      "carbohydrates": 13.3,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544652+00:00",
+      "updated_at": "2022-06-28 20:32:29.544654+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "afcb52b8-b9b0-4d28-b321-c0ef2831490a",
+    "fields": {
+      "name": "Yuca blanca",
+      "food_group": "81b596f6-041f-4aa8-ab38-4e7e898b729f",
+      "calories": 49.3,
+      "cooked_half_portion": 31.0,
+      "raw_half_portion": 31.0,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 11.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_CT",
+      "created_at": "2022-06-28 20:32:29.544675+00:00",
+      "updated_at": "2022-06-28 20:32:29.544677+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d095c401-2f47-4e7d-ae99-a9b7e782740e",
+    "fields": {
+      "name": "Arracacha",
+      "food_group": "81b596f6-041f-4aa8-ab38-4e7e898b729f",
+      "calories": 53.3,
+      "cooked_half_portion": 48.0,
+      "raw_half_portion": 48.0,
+      "proteins": 0.4,
+      "fats": 0.0,
+      "carbohydrates": 12.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_CT",
+      "created_at": "2022-06-28 20:32:29.544708+00:00",
+      "updated_at": "2022-06-28 20:32:29.544711+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "df25bcd8-fa80-449a-81eb-e9df1899123c",
+    "fields": {
+      "name": "Yuca frita",
+      "food_group": "81b596f6-041f-4aa8-ab38-4e7e898b729f",
+      "calories": 45.2,
+      "cooked_half_portion": 21.5,
+      "raw_half_portion": 21.5,
+      "proteins": 0.2,
+      "fats": 1.1,
+      "carbohydrates": 8.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544720+00:00",
+      "updated_at": "2022-06-28 20:32:29.544722+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "81595be8-4a55-4081-abd2-b037acff2b38",
+    "fields": {
+      "name": "Arveja verde seca",
+      "food_group": "c67abacc-f8b4-42f1-b436-42e57251978d",
+      "calories": 46.8,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 12.5,
+      "proteins": 6.0,
+      "fats": 0.3,
+      "carbohydrates": 15.1,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "LA",
+      "created_at": "2022-06-28 20:32:29.544739+00:00",
+      "updated_at": "2022-06-28 20:32:29.544741+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0c1af67b-9acb-4341-b4bf-f5a60ea3abe0",
+    "fields": {
+      "name": "Frijol",
+      "food_group": "c67abacc-f8b4-42f1-b436-42e57251978d",
+      "calories": 57.9,
+      "cooked_half_portion": 30.0,
+      "raw_half_portion": 15.0,
+      "proteins": 6.8,
+      "fats": 0.5,
+      "carbohydrates": 18.1,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "LA",
+      "created_at": "2022-06-28 20:32:29.544750+00:00",
+      "updated_at": "2022-06-28 20:32:29.544752+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "cd510d7f-7c02-401b-be4e-dec4a8d7d073",
+    "fields": {
+      "name": "Garbanzo",
+      "food_group": "c67abacc-f8b4-42f1-b436-42e57251978d",
+      "calories": 49.1,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 12.5,
+      "proteins": 5.0,
+      "fats": 1.4,
+      "carbohydrates": 14.7,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "LA",
+      "created_at": "2022-06-28 20:32:29.544761+00:00",
+      "updated_at": "2022-06-28 20:32:29.544763+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e6731a59-c19f-4f27-86b3-d541c35ace8d",
+    "fields": {
+      "name": "Lenteja",
+      "food_group": "c67abacc-f8b4-42f1-b436-42e57251978d",
+      "calories": 67.7,
+      "cooked_half_portion": 35.0,
+      "raw_half_portion": 17.5,
+      "proteins": 8.1,
+      "fats": 0.3,
+      "carbohydrates": 21.4,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "LA",
+      "created_at": "2022-06-28 20:32:29.544785+00:00",
+      "updated_at": "2022-06-28 20:32:29.544789+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "aca5266c-8f85-4653-9d9f-be87bedaab99",
+    "fields": {
+      "name": "Atún en agua",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 25.4,
+      "cooked_half_portion": 20.0,
+      "raw_half_portion": 20.0,
+      "proteins": 4.8,
+      "fats": 0.6,
+      "carbohydrates": 0.2,
+      "home_measure_amount": "2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544807+00:00",
+      "updated_at": "2022-06-28 20:32:29.544809+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "bb5e2fab-9795-4308-aaab-e6edec82b5e2",
+    "fields": {
+      "name": "Atún en aceite",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 42.2,
+      "cooked_half_portion": 20.0,
+      "raw_half_portion": 20.0,
+      "proteins": 5.1,
+      "fats": 2.4,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.544821+00:00",
+      "updated_at": "2022-06-28 20:32:29.544823+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "cc23b92b-e9f1-4c4d-9b63-a54178f5f4ac",
+    "fields": {
+      "name": "Bagre",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 32.6,
+      "cooked_half_portion": 35.0,
+      "raw_half_portion": 35.0,
+      "proteins": 6.1,
+      "fats": 0.8,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/3",
+      "home_measure_type": "PA",
+      "created_at": "2022-06-28 20:32:29.544832+00:00",
+      "updated_at": "2022-06-28 20:32:29.544834+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b03b86d3-8263-4b98-8c4a-3738d92cc84a",
+    "fields": {
+      "name": "Langostino",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 26.6,
+      "cooked_half_portion": 37.5,
+      "raw_half_portion": 37.5,
+      "proteins": 5.5,
+      "fats": 0.5,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544843+00:00",
+      "updated_at": "2022-06-28 20:32:29.544845+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "05d12cd0-485a-4329-811b-9b3f0e8f8e1f",
+    "fields": {
+      "name": "Calamar",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 23.7,
+      "cooked_half_portion": 30.0,
+      "raw_half_portion": 30.0,
+      "proteins": 4.9,
+      "fats": 0.5,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544871+00:00",
+      "updated_at": "2022-06-28 20:32:29.544875+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "62f72f80-d76d-4b00-a347-2246a717029e",
+    "fields": {
+      "name": "Pulpo",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 22.8,
+      "cooked_half_portion": 33.0,
+      "raw_half_portion": 33.0,
+      "proteins": 4.9,
+      "fats": 0.3,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "2 - 3",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544889+00:00",
+      "updated_at": "2022-06-28 20:32:29.544912+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2e2d034b-f8db-4911-91c0-b3cffa59fc2b",
+    "fields": {
+      "name": "Palitos de cangrejo",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 40.4,
+      "cooked_half_portion": 42.5,
+      "raw_half_portion": 42.5,
+      "proteins": 3.2,
+      "fats": 0.2,
+      "carbohydrates": 6.4,
+      "home_measure_amount": "2 - 3",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544922+00:00",
+      "updated_at": "2022-06-28 20:32:29.544924+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c4f76a05-03b6-4a11-bb77-0b3878b800b7",
+    "fields": {
+      "name": "Jaiba",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 22.6,
+      "cooked_half_portion": 26.0,
+      "raw_half_portion": 26.0,
+      "proteins": 5.0,
+      "fats": 0.3,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.544933+00:00",
+      "updated_at": "2022-06-28 20:32:29.544936+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b7125be8-3821-4acc-a41a-dcbdc9ee2081",
+    "fields": {
+      "name": "Camarón",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 23.5,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 25.0,
+      "proteins": 5.1,
+      "fats": 0.3,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "3 - 4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.544945+00:00",
+      "updated_at": "2022-06-28 20:32:29.544947+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "adc97efd-9df1-4682-a549-18956e87d55d",
+    "fields": {
+      "name": "Pescado seco",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 68.3,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 25.0,
+      "proteins": 15.7,
+      "fats": 0.6,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "PA",
+      "created_at": "2022-06-28 20:32:29.544960+00:00",
+      "updated_at": "2022-06-28 20:32:29.544976+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "3ad58697-5692-417d-bc2b-a0f85335202e",
+    "fields": {
+      "name": "Salmón",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 54.3,
+      "cooked_half_portion": 30.0,
+      "raw_half_portion": 30.0,
+      "proteins": 6.1,
+      "fats": 3.3,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "PA",
+      "created_at": "2022-06-28 20:32:29.544986+00:00",
+      "updated_at": "2022-06-28 20:32:29.544988+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "bcbd301e-2896-4fce-9cac-81542120bef6",
+    "fields": {
+      "name": "Sardinas en aceite",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 45.0,
+      "cooked_half_portion": 20.0,
+      "raw_half_portion": 20.0,
+      "proteins": 4.9,
+      "fats": 2.8,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "BG_CT",
+      "created_at": "2022-06-28 20:32:29.544996+00:00",
+      "updated_at": "2022-06-28 20:32:29.544998+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "60225173-0b57-46dc-b487-f8d52efc33ed",
+    "fields": {
+      "name": "Sardinas en tomate",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 70.8,
+      "cooked_half_portion": 40.0,
+      "raw_half_portion": 40.0,
+      "proteins": 8.4,
+      "fats": 4.1,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_CT",
+      "created_at": "2022-06-28 20:32:29.545007+00:00",
+      "updated_at": "2022-06-28 20:32:29.545009+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "06872c74-5927-44b1-b33c-9c5e81d90d77",
+    "fields": {
+      "name": "Mojarra o Tilapia",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 28.8,
+      "cooked_half_portion": 30.0,
+      "raw_half_portion": 30.0,
+      "proteins": 6.0,
+      "fats": 0.5,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.545018+00:00",
+      "updated_at": "2022-06-28 20:32:29.545020+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "479f01f7-06f4-4a91-8d9d-a2ceb6be1701",
+    "fields": {
+      "name": "Trucha",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 40.5,
+      "cooked_half_portion": 30.0,
+      "raw_half_portion": 30.0,
+      "proteins": 6.0,
+      "fats": 1.9,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.545028+00:00",
+      "updated_at": "2022-06-28 20:32:29.545030+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "02834c83-cfd3-4550-96b6-32b9e48eb751",
+    "fields": {
+      "name": "Cerdo magro",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 49.0,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 35.0,
+      "proteins": 5.4,
+      "fats": 1.5,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "PA",
+      "created_at": "2022-06-28 20:32:29.545039+00:00",
+      "updated_at": "2022-06-28 20:32:29.545041+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ce62b595-09f9-421f-811e-49adbe1d7201",
+    "fields": {
+      "name": "Costilla de cerdo",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 103.9,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 37.5,
+      "proteins": 4.7,
+      "fats": 5.6,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545050+00:00",
+      "updated_at": "2022-06-28 20:32:29.545052+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "67eba016-6d32-446e-8757-8058434a5838",
+    "fields": {
+      "name": "Cerdo lomo",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 38.5,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 35.0,
+      "proteins": 5.4,
+      "fats": 0.6,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "PA",
+      "created_at": "2022-06-28 20:32:29.545063+00:00",
+      "updated_at": "2022-06-28 20:32:29.545065+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "aae1dac2-8c08-4494-b1bf-55a6848cb2c0",
+    "fields": {
+      "name": "Chorizo de cerdo y de res",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 56.2,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 17.5,
+      "proteins": 3.0,
+      "fats": 2.9,
+      "carbohydrates": 0.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.545076+00:00",
+      "updated_at": "2022-06-28 20:32:29.545079+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7a523ca0-c8e1-4987-828f-58e18458972a",
+    "fields": {
+      "name": "Gallina",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 99.8,
+      "cooked_half_portion": 26.0,
+      "raw_half_portion": 39.0,
+      "proteins": 4.9,
+      "fats": 5.2,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "PA",
+      "created_at": "2022-06-28 20:32:29.545088+00:00",
+      "updated_at": "2022-06-28 20:32:29.545090+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "19fbcf23-44be-49e6-b388-63b1f3ec013d",
+    "fields": {
+      "name": "Jamón tipo sandwich",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 38.7,
+      "cooked_half_portion": 18.0,
+      "raw_half_portion": 18.0,
+      "proteins": 2.1,
+      "fats": 2.8,
+      "carbohydrates": 1.3,
+      "home_measure_amount": "1",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.545099+00:00",
+      "updated_at": "2022-06-28 20:32:29.545101+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "811e26cb-f58e-4845-8a17-7150a0f9a2bc",
+    "fields": {
+      "name": "Jamón serrano",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 35.1,
+      "cooked_half_portion": 18.0,
+      "raw_half_portion": 18.0,
+      "proteins": 5.0,
+      "fats": 1.5,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.545109+00:00",
+      "updated_at": "2022-06-28 20:32:29.545111+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "fea537ac-24cd-4e01-89ef-17990c2b3ab2",
+    "fields": {
+      "name": "Mortadela",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 44.7,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 2.5,
+      "fats": 3.6,
+      "carbohydrates": 0.6,
+      "home_measure_amount": "1",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.545120+00:00",
+      "updated_at": "2022-06-28 20:32:29.545122+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ec8b5fe3-b301-44c1-aa6c-ade4a9972bff",
+    "fields": {
+      "name": "Pepperoni",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 48.9,
+      "cooked_half_portion": 10.5,
+      "raw_half_portion": 10.5,
+      "proteins": 2.1,
+      "fats": 4.2,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "TH_SL",
+      "created_at": "2022-06-28 20:32:29.545131+00:00",
+      "updated_at": "2022-06-28 20:32:29.545133+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "346f532a-f8be-407f-a6a2-ad887af98017",
+    "fields": {
+      "name": "Salame",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 40.3,
+      "cooked_half_portion": 11.5,
+      "raw_half_portion": 11.5,
+      "proteins": 1.9,
+      "fats": 3.5,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_SL",
+      "created_at": "2022-06-28 20:32:29.545142+00:00",
+      "updated_at": "2022-06-28 20:32:29.545144+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d51804f5-4286-484e-b388-96e2882476c2",
+    "fields": {
+      "name": "Pollo contramuslo o ala",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 128.4,
+      "cooked_half_portion": 40.0,
+      "raw_half_portion": 60.0,
+      "proteins": 7.0,
+      "fats": 6.4,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545152+00:00",
+      "updated_at": "2022-06-28 20:32:29.545154+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "79ec0b17-5da6-4015-b0df-a6e8d309f6f4",
+    "fields": {
+      "name": "Pollo pechuga",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 62.3,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 37.5,
+      "proteins": 5.2,
+      "fats": 2.3,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "PA",
+      "created_at": "2022-06-28 20:32:29.545163+00:00",
+      "updated_at": "2022-06-28 20:32:29.545165+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "87992fef-a0e0-4406-ae27-1a9021b9cfd9",
+    "fields": {
+      "name": "Pollo muslo",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 136.5,
+      "cooked_half_portion": 50.0,
+      "raw_half_portion": 75.0,
+      "proteins": 9.1,
+      "fats": 6.1,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545174+00:00",
+      "updated_at": "2022-06-28 20:32:29.545176+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b6ae5d43-8b3d-4b52-97ab-dc170f2f40c4",
+    "fields": {
+      "name": "Res magra / carne mechada",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 52.1,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 37.5,
+      "proteins": 5.5,
+      "fats": 1.4,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "PA",
+      "created_at": "2022-06-28 20:32:29.545184+00:00",
+      "updated_at": "2022-06-28 20:32:29.545186+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8b206cf8-b10e-46c7-b084-c46413cd3bda",
+    "fields": {
+      "name": "Res churrasco",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 65.6,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 37.5,
+      "proteins": 8.3,
+      "fats": 1.1,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "PA",
+      "created_at": "2022-06-28 20:32:29.545217+00:00",
+      "updated_at": "2022-06-28 20:32:29.545221+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "166c83ee-b48e-444a-b3be-9886734e2145",
+    "fields": {
+      "name": "Carne molida",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 72.8,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 37.5,
+      "proteins": 4.9,
+      "fats": 3.2,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1",
+      "home_measure_type": "SM_MT",
+      "created_at": "2022-06-28 20:32:29.545230+00:00",
+      "updated_at": "2022-06-28 20:32:29.545232+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "5fd480d6-dfcd-4b66-9f6b-6c91566764ea",
+    "fields": {
+      "name": "Res hígado",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 48.3,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 35.0,
+      "proteins": 5.1,
+      "fats": 1.1,
+      "carbohydrates": 1.0,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "PA",
+      "created_at": "2022-06-28 20:32:29.545245+00:00",
+      "updated_at": "2022-06-28 20:32:29.545247+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2148b5d1-84b5-4f11-bada-2ceb5ffa3c80",
+    "fields": {
+      "name": "Morcilla",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 166.8,
+      "cooked_half_portion": 40.0,
+      "raw_half_portion": 44.0,
+      "proteins": 5.8,
+      "fats": 13.8,
+      "carbohydrates": 0.5,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.545258+00:00",
+      "updated_at": "2022-06-28 20:32:29.545261+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f6d22ce5-a426-4b21-84aa-88dc1c376658",
+    "fields": {
+      "name": "Salchicha de cerdo, res o pollo",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 66.5,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 25.0,
+      "proteins": 3.5,
+      "fats": 5.2,
+      "carbohydrates": 1.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545270+00:00",
+      "updated_at": "2022-06-28 20:32:29.545272+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b17665f4-7b92-4921-b5b7-6b7cd35e76db",
+    "fields": {
+      "name": "Huevo de gallina entero",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 37.3,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 25.0,
+      "proteins": 3.2,
+      "fats": 2.7,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.545282+00:00",
+      "updated_at": "2022-06-28 20:32:29.545284+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6bc720d9-8874-4a45-8e7b-d6c3c9946f06",
+    "fields": {
+      "name": "Huevo de gallina clara",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 21.2,
+      "cooked_half_portion": 45.0,
+      "raw_half_portion": 45.0,
+      "proteins": 4.9,
+      "fats": 0.1,
+      "carbohydrates": 0.3,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "EG_YO",
+      "created_at": "2022-06-28 20:32:29.545293+00:00",
+      "updated_at": "2022-06-28 20:32:29.545295+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ce670ed7-9452-41be-b2c3-097ace896b98",
+    "fields": {
+      "name": "Huevo de codorniz",
+      "food_group": "4906002a-4d0c-4064-bbbc-1ba12d5aed0c",
+      "calories": 38.5,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 25.0,
+      "proteins": 3.3,
+      "fats": 2.8,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "2 1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.545304+00:00",
+      "updated_at": "2022-06-28 20:32:29.545306+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8ed9630a-2568-4c0b-9bec-4584d84c8904",
+    "fields": {
+      "name": "Leche de vaca entera",
+      "food_group": "226c8c83-1bfe-420d-a010-6029b54fa9b8",
+      "calories": 65.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 3.3,
+      "fats": 3.7,
+      "carbohydrates": 4.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_GL",
+      "created_at": "2022-06-28 20:32:29.545323+00:00",
+      "updated_at": "2022-06-28 20:32:29.545325+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8a271bf1-69dc-44d2-8837-6c4d889ca8ff",
+    "fields": {
+      "name": "Leche de vaca deslactosada",
+      "food_group": "226c8c83-1bfe-420d-a010-6029b54fa9b8",
+      "calories": 62.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 3.3,
+      "fats": 3.4,
+      "carbohydrates": 4.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_GL",
+      "created_at": "2022-06-28 20:32:29.545334+00:00",
+      "updated_at": "2022-06-28 20:32:29.545336+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "12c6f9f8-80c8-42d7-b655-3fd4179cd3c2",
+    "fields": {
+      "name": "Leche de vaca entera en polvo",
+      "food_group": "226c8c83-1bfe-420d-a010-6029b54fa9b8",
+      "calories": 67.4,
+      "cooked_half_portion": 13.5,
+      "raw_half_portion": 13.5,
+      "proteins": 3.6,
+      "fats": 3.6,
+      "carbohydrates": 5.2,
+      "home_measure_amount": "3",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.545344+00:00",
+      "updated_at": "2022-06-28 20:32:29.545347+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0a57a163-fc18-44a1-ba1c-f93b586aa247",
+    "fields": {
+      "name": "Kumis con azúcar",
+      "food_group": "226c8c83-1bfe-420d-a010-6029b54fa9b8",
+      "calories": 66.0,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 2.2,
+      "fats": 1.9,
+      "carbohydrates": 10.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.545356+00:00",
+      "updated_at": "2022-06-28 20:32:29.545358+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "62a45f25-5020-4a05-b41e-8b5d6a86172d",
+    "fields": {
+      "name": "Yogur entero con azúcar",
+      "food_group": "226c8c83-1bfe-420d-a010-6029b54fa9b8",
+      "calories": 60.8,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 2.2,
+      "fats": 2.1,
+      "carbohydrates": 8.4,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.545366+00:00",
+      "updated_at": "2022-06-28 20:32:29.545368+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "868cf28d-85da-4add-a620-6dccd476967c",
+    "fields": {
+      "name": "Yogurt griego",
+      "food_group": "226c8c83-1bfe-420d-a010-6029b54fa9b8",
+      "calories": 87.8,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 3.1,
+      "fats": 3.8,
+      "carbohydrates": 6.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.545377+00:00",
+      "updated_at": "2022-06-28 20:32:29.545379+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "5c213ca3-7379-4dc0-aa9d-196d980d52a6",
+    "fields": {
+      "name": "Queso Ricotta",
+      "food_group": "226c8c83-1bfe-420d-a010-6029b54fa9b8",
+      "calories": 35.9,
+      "cooked_half_portion": 23.0,
+      "raw_half_portion": 23.0,
+      "proteins": 2.6,
+      "fats": 2.4,
+      "carbohydrates": 0.9,
+      "home_measure_amount": "3",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.545388+00:00",
+      "updated_at": "2022-06-28 20:32:29.545390+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f9ff341d-e7c8-4d26-aa80-012c36d438b9",
+    "fields": {
+      "name": "Queso Doble crema, Feta, Mozzarella, Camemberte, Cuajada",
+      "food_group": "226c8c83-1bfe-420d-a010-6029b54fa9b8",
+      "calories": 40.7,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 2.9,
+      "fats": 3.0,
+      "carbohydrates": 0.5,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_SL",
+      "created_at": "2022-06-28 20:32:29.545399+00:00",
+      "updated_at": "2022-06-28 20:32:29.545401+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "38fa5e5d-1e96-4a95-87ce-436acadf14fc",
+    "fields": {
+      "name": "Queso Campesino, Parmesano, Provolone, Brie, Roquefort, Azul, Mascarpone, Gruyere, Cheddar, Manchego",
+      "food_group": "226c8c83-1bfe-420d-a010-6029b54fa9b8",
+      "calories": 36.6,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 2.3,
+      "fats": 3.0,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "TH_SL",
+      "created_at": "2022-06-28 20:32:29.545445+00:00",
+      "updated_at": "2022-06-28 20:32:29.545452+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e918594c-df32-4e01-9158-301f0ab06c02",
+    "fields": {
+      "name": "Leche de vaca descremada",
+      "food_group": "3974e7af-10f1-4d27-a290-6a1c3c84077e",
+      "calories": 34.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 3.3,
+      "fats": 0.1,
+      "carbohydrates": 4.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_GL",
+      "created_at": "2022-06-28 20:32:29.545484+00:00",
+      "updated_at": "2022-06-28 20:32:29.545486+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "036ee01c-c278-44d5-b4cf-5c724243300b",
+    "fields": {
+      "name": "Kumis dietético",
+      "food_group": "3974e7af-10f1-4d27-a290-6a1c3c84077e",
+      "calories": 30.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 6.0,
+      "fats": 3.0,
+      "carbohydrates": 2.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_GL",
+      "created_at": "2022-06-28 20:32:29.545496+00:00",
+      "updated_at": "2022-06-28 20:32:29.545498+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d15b4580-cc85-4b3a-92a2-d37499ad0e57",
+    "fields": {
+      "name": "Yogur dietético",
+      "food_group": "3974e7af-10f1-4d27-a290-6a1c3c84077e",
+      "calories": 49.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 3.7,
+      "fats": 0.3,
+      "carbohydrates": 7.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_GL",
+      "created_at": "2022-06-28 20:32:29.545507+00:00",
+      "updated_at": "2022-06-28 20:32:29.545525+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c93c94c2-e518-4cd9-8c24-718a38dfcd56",
+    "fields": {
+      "name": "Yogurt griego",
+      "food_group": "3974e7af-10f1-4d27-a290-6a1c3c84077e",
+      "calories": 87.8,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 3.1,
+      "fats": 3.8,
+      "carbohydrates": 6.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.545537+00:00",
+      "updated_at": "2022-06-28 20:32:29.545551+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c71943ca-d687-4c32-9202-d9fcfc0592bb",
+    "fields": {
+      "name": "Queso Ricotta",
+      "food_group": "3974e7af-10f1-4d27-a290-6a1c3c84077e",
+      "calories": 35.9,
+      "cooked_half_portion": 23.0,
+      "raw_half_portion": 23.0,
+      "proteins": 2.6,
+      "fats": 2.4,
+      "carbohydrates": 0.9,
+      "home_measure_amount": "3",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.545566+00:00",
+      "updated_at": "2022-06-28 20:32:29.545568+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "acfc6fa6-b067-46ad-9f51-be275149e35c",
+    "fields": {
+      "name": "Queso Doble crema, Feta, Mozzarella, Camemberte, Cuajada",
+      "food_group": "3974e7af-10f1-4d27-a290-6a1c3c84077e",
+      "calories": 40.7,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 2.9,
+      "fats": 3.0,
+      "carbohydrates": 0.5,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_SL",
+      "created_at": "2022-06-28 20:32:29.545577+00:00",
+      "updated_at": "2022-06-28 20:32:29.545579+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7e1c5d41-1c94-4c9d-a59f-1f7903a124b1",
+    "fields": {
+      "name": "Aceituna",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 56.3,
+      "cooked_half_portion": 32.0,
+      "raw_half_portion": 32.0,
+      "proteins": 0.4,
+      "fats": 4.7,
+      "carbohydrates": 2.7,
+      "home_measure_amount": "7 - 9",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545600+00:00",
+      "updated_at": "2022-06-28 20:32:29.545602+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "52d54e43-b2d7-4004-b29a-c4a706e49996",
+    "fields": {
+      "name": "Acelga o espinaca",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 11.9,
+      "cooked_half_portion": 35.0,
+      "raw_half_portion": 35.0,
+      "proteins": 1.0,
+      "fats": 0.1,
+      "carbohydrates": 1.3,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "GL",
+      "created_at": "2022-06-28 20:32:29.545611+00:00",
+      "updated_at": "2022-06-28 20:32:29.545613+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7b3a8dfb-3a91-470a-ae4b-d24175960367",
+    "fields": {
+      "name": "Ahuyama o calabaza",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 10.2,
+      "cooked_half_portion": 34.0,
+      "raw_half_portion": 34.0,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 2.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_CT",
+      "created_at": "2022-06-28 20:32:29.545621+00:00",
+      "updated_at": "2022-06-28 20:32:29.545623+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c32840b7-bd21-4794-8c41-c05c97e3c325",
+    "fields": {
+      "name": "Arveja verde",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 20.8,
+      "cooked_half_portion": 21.0,
+      "raw_half_portion": 21.0,
+      "proteins": 1.2,
+      "fats": 0.1,
+      "carbohydrates": 3.3,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.545632+00:00",
+      "updated_at": "2022-06-28 20:32:29.545634+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f6a7a543-3fd4-4836-8faf-65b5b2c58d1e",
+    "fields": {
+      "name": "Apio",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 12.0,
+      "cooked_half_portion": 46.0,
+      "raw_half_portion": 46.0,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 2.1,
+      "home_measure_amount": "3",
+      "home_measure_type": "TH_ST",
+      "created_at": "2022-06-28 20:32:29.545642+00:00",
+      "updated_at": "2022-06-28 20:32:29.545644+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f20e3065-d224-4f06-a382-f7960d8e34c0",
+    "fields": {
+      "name": "Berenjena",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 16.3,
+      "cooked_half_portion": 46.5,
+      "raw_half_portion": 46.5,
+      "proteins": 0.5,
+      "fats": 0.1,
+      "carbohydrates": 2.7,
+      "home_measure_amount": "2 1/2",
+      "home_measure_type": "MD_SL",
+      "created_at": "2022-06-28 20:32:29.545654+00:00",
+      "updated_at": "2022-06-28 20:32:29.545656+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9b6e0f8f-a9ad-4de3-b834-a2b4080f8ac9",
+    "fields": {
+      "name": "Brócoli",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 18.4,
+      "cooked_half_portion": 40.0,
+      "raw_half_portion": 40.0,
+      "proteins": 1.2,
+      "fats": 0.1,
+      "carbohydrates": 2.6,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "SM_SG",
+      "created_at": "2022-06-28 20:32:29.545666+00:00",
+      "updated_at": "2022-06-28 20:32:29.545668+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "10dca5c6-f379-486f-9df1-a10ee65e8441",
+    "fields": {
+      "name": "Coliflor",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 15.5,
+      "cooked_half_portion": 43.0,
+      "raw_half_portion": 43.0,
+      "proteins": 0.8,
+      "fats": 0.0,
+      "carbohydrates": 2.5,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "SM_SG",
+      "created_at": "2022-06-28 20:32:29.545677+00:00",
+      "updated_at": "2022-06-28 20:32:29.545679+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e35117df-21cb-4d0e-bf84-97870d7f76d0",
+    "fields": {
+      "name": "Champiñón",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 14.9,
+      "cooked_half_portion": 46.5,
+      "raw_half_portion": 46.5,
+      "proteins": 1.4,
+      "fats": 0.3,
+      "carbohydrates": 1.4,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "CH_WE",
+      "created_at": "2022-06-28 20:32:29.545687+00:00",
+      "updated_at": "2022-06-28 20:32:29.545689+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6e1de478-c37d-4533-915f-93bab6164188",
+    "fields": {
+      "name": "Espárrago",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 12.0,
+      "cooked_half_portion": 37.5,
+      "raw_half_portion": 37.5,
+      "proteins": 0.8,
+      "fats": 0.1,
+      "carbohydrates": 1.7,
+      "home_measure_amount": "5",
+      "home_measure_type": "TH_ST",
+      "created_at": "2022-06-28 20:32:29.545698+00:00",
+      "updated_at": "2022-06-28 20:32:29.545700+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "858be1d5-d9a1-42ee-b96f-216359d4fa16",
+    "fields": {
+      "name": "Frijol verde",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 16.6,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 1.1,
+      "fats": 0.0,
+      "carbohydrates": 2.9,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.545708+00:00",
+      "updated_at": "2022-06-28 20:32:29.545710+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "48172e09-58ec-4b54-af45-485ffe56effd",
+    "fields": {
+      "name": "Habichuela",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 21.5,
+      "cooked_half_portion": 50.0,
+      "raw_half_portion": 50.0,
+      "proteins": 1.1,
+      "fats": 0.0,
+      "carbohydrates": 3.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "CH_WE",
+      "created_at": "2022-06-28 20:32:29.545718+00:00",
+      "updated_at": "2022-06-28 20:32:29.545720+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0530f444-e298-4a48-83d3-7341af3ba988",
+    "fields": {
+      "name": "Lechuga",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 10.8,
+      "cooked_half_portion": 60.0,
+      "raw_half_portion": 60.0,
+      "proteins": 0.5,
+      "fats": 0.1,
+      "carbohydrates": 1.6,
+      "home_measure_amount": "5 - 6",
+      "home_measure_type": "LF",
+      "created_at": "2022-06-28 20:32:29.545729+00:00",
+      "updated_at": "2022-06-28 20:32:29.545731+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "60e28adc-cab8-40aa-ba68-7d214465ac99",
+    "fields": {
+      "name": "Pimentón",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 15.4,
+      "cooked_half_portion": 44.0,
+      "raw_half_portion": 44.0,
+      "proteins": 0.4,
+      "fats": 0.1,
+      "carbohydrates": 2.8,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545740+00:00",
+      "updated_at": "2022-06-28 20:32:29.545742+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "694fb58a-a644-498f-b6bf-c391dfd2687c",
+    "fields": {
+      "name": "Remolacha",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 15.1,
+      "cooked_half_portion": 28.5,
+      "raw_half_portion": 28.5,
+      "proteins": 0.4,
+      "fats": 0.0,
+      "carbohydrates": 2.9,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.545750+00:00",
+      "updated_at": "2022-06-28 20:32:29.545752+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6bd57be9-205a-4bab-8f7f-a4066ec07002",
+    "fields": {
+      "name": "Repollo",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 16.6,
+      "cooked_half_portion": 41.5,
+      "raw_half_portion": 41.5,
+      "proteins": 0.7,
+      "fats": 0.1,
+      "carbohydrates": 2.7,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "LF",
+      "created_at": "2022-06-28 20:32:29.545760+00:00",
+      "updated_at": "2022-06-28 20:32:29.545762+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c26f56ad-ff7a-4a34-a2ac-d1086fd43f1f",
+    "fields": {
+      "name": "Rugula",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 12.0,
+      "cooked_half_portion": 48.0,
+      "raw_half_portion": 48.0,
+      "proteins": 1.2,
+      "fats": 0.3,
+      "carbohydrates": 1.8,
+      "home_measure_amount": "10",
+      "home_measure_type": "LF",
+      "created_at": "2022-06-28 20:32:29.545771+00:00",
+      "updated_at": "2022-06-28 20:32:29.545773+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "92a03ab2-60a0-45b0-838d-6187e1a24683",
+    "fields": {
+      "name": "Tomate",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 12.7,
+      "cooked_half_portion": 55.0,
+      "raw_half_portion": 55.0,
+      "proteins": 0.5,
+      "fats": 0.1,
+      "carbohydrates": 2.3,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_UN",
+      "created_at": "2022-06-28 20:32:29.545781+00:00",
+      "updated_at": "2022-06-28 20:32:29.545783+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8dd0b83e-d3ac-43e2-a278-7ee1de2dd317",
+    "fields": {
+      "name": "Zanahoria",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 13.6,
+      "cooked_half_portion": 29.0,
+      "raw_half_portion": 29.0,
+      "proteins": 0.2,
+      "fats": 0.0,
+      "carbohydrates": 2.8,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.545791+00:00",
+      "updated_at": "2022-06-28 20:32:29.545793+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f0df87c7-addc-45cd-b4a1-31d1cf62a4e4",
+    "fields": {
+      "name": "Zucchini",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 12.8,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 0.9,
+      "fats": 0.2,
+      "carbohydrates": 2.6,
+      "home_measure_amount": "5 - 6",
+      "home_measure_type": "MD_SL",
+      "created_at": "2022-06-28 20:32:29.545803+00:00",
+      "updated_at": "2022-06-28 20:32:29.545805+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c06d290e-af70-4143-8a5f-884357ba42bb",
+    "fields": {
+      "name": "Pepino cohombro",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 10.5,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 0.4,
+      "fats": 0.1,
+      "carbohydrates": 1.7,
+      "home_measure_amount": "5 - 6",
+      "home_measure_type": "MD_SL",
+      "created_at": "2022-06-28 20:32:29.545816+00:00",
+      "updated_at": "2022-06-28 20:32:29.545818+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f9db901f-a341-4c9c-9796-ff58d70144ce",
+    "fields": {
+      "name": "Pepino de rellenar / Archucha",
+      "food_group": "1cd98868-0393-4d9a-a696-f632c9424588",
+      "calories": 11.6,
+      "cooked_half_portion": 55.0,
+      "raw_half_portion": 55.0,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 2.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.545847+00:00",
+      "updated_at": "2022-06-28 20:32:29.545852+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "cb133d11-265d-44bd-9a40-10f3551736e1",
+    "fields": {
+      "name": "Arandanos",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 27.1,
+      "cooked_half_portion": 47.5,
+      "raw_half_portion": 47.5,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 6.9,
+      "home_measure_amount": "15",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545889+00:00",
+      "updated_at": "2022-06-28 20:32:29.545891+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "062289fe-1d6b-4053-b6c1-830788f6c8f0",
+    "fields": {
+      "name": "Agraz",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 27.5,
+      "cooked_half_portion": 62.5,
+      "raw_half_portion": 62.5,
+      "proteins": 0.4,
+      "fats": 0.2,
+      "carbohydrates": 6.9,
+      "home_measure_amount": "30",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545900+00:00",
+      "updated_at": "2022-06-28 20:32:29.545902+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "18066558-ce9a-4138-8015-c5dbeacba6a9",
+    "fields": {
+      "name": "Banano",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 32.8,
+      "cooked_half_portion": 32.5,
+      "raw_half_portion": 32.5,
+      "proteins": 0.5,
+      "fats": 0.0,
+      "carbohydrates": 7.2,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "BG_UN",
+      "created_at": "2022-06-28 20:32:29.545911+00:00",
+      "updated_at": "2022-06-28 20:32:29.545912+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d1623613-0ddc-4a7d-9c19-dc3f87c45262",
+    "fields": {
+      "name": "Breva",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 26.4,
+      "cooked_half_portion": 55.0,
+      "raw_half_portion": 55.0,
+      "proteins": 0.5,
+      "fats": 0.1,
+      "carbohydrates": 5.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545921+00:00",
+      "updated_at": "2022-06-28 20:32:29.545923+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d7a442b9-b065-4675-b2cc-a894dac1d0d2",
+    "fields": {
+      "name": "Ciruela",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 15.9,
+      "cooked_half_portion": 30.0,
+      "raw_half_portion": 30.0,
+      "proteins": 0.2,
+      "fats": 0.0,
+      "carbohydrates": 3.3,
+      "home_measure_amount": "2 1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545932+00:00",
+      "updated_at": "2022-06-28 20:32:29.545934+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9e419a64-e08e-4694-9c02-dae43ea7b8db",
+    "fields": {
+      "name": "Cereza",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 31.2,
+      "cooked_half_portion": 30.0,
+      "raw_half_portion": 30.0,
+      "proteins": 0.4,
+      "fats": 0.0,
+      "carbohydrates": 7.1,
+      "home_measure_amount": "6",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545943+00:00",
+      "updated_at": "2022-06-28 20:32:29.545944+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f88b03cc-2b4f-41b7-a782-9880329ef26f",
+    "fields": {
+      "name": "Durazno",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 31.9,
+      "cooked_half_portion": 55.0,
+      "raw_half_portion": 55.0,
+      "proteins": 0.6,
+      "fats": 0.1,
+      "carbohydrates": 6.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545953+00:00",
+      "updated_at": "2022-06-28 20:32:29.545955+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "367b8c79-b48b-42c1-bb61-3879a39add1a",
+    "fields": {
+      "name": "Fresa",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 36.2,
+      "cooked_half_portion": 80.5,
+      "raw_half_portion": 80.5,
+      "proteins": 0.6,
+      "fats": 0.4,
+      "carbohydrates": 6.7,
+      "home_measure_amount": "4 1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.545963+00:00",
+      "updated_at": "2022-06-28 20:32:29.545965+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "491adfdc-693a-4a21-b45d-6bfa9986d255",
+    "fields": {
+      "name": "Granadilla",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 51.8,
+      "cooked_half_portion": 54.5,
+      "raw_half_portion": 54.5,
+      "proteins": 1.1,
+      "fats": 0.9,
+      "carbohydrates": 8.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_UN",
+      "created_at": "2022-06-28 20:32:29.545974+00:00",
+      "updated_at": "2022-06-28 20:32:29.545976+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "658d9b05-ff70-4fbc-b63e-9a6f25e0d6a6",
+    "fields": {
+      "name": "Guanabana",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 16.5,
+      "cooked_half_portion": 50.0,
+      "raw_half_portion": 50.0,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 3.4,
+      "home_measure_amount": "2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.545984+00:00",
+      "updated_at": "2022-06-28 20:32:29.545986+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "a88367f2-dd92-45d8-b113-4cb1226c69e8",
+    "fields": {
+      "name": "Guayaba",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 35.5,
+      "cooked_half_portion": 50.0,
+      "raw_half_portion": 50.0,
+      "proteins": 0.5,
+      "fats": 0.2,
+      "carbohydrates": 6.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_UN",
+      "created_at": "2022-06-28 20:32:29.545994+00:00",
+      "updated_at": "2022-06-28 20:32:29.545996+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6acf21a2-e78f-4e9f-b816-8c7be8fb09d9",
+    "fields": {
+      "name": "Kiwi",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 29.9,
+      "cooked_half_portion": 41.0,
+      "raw_half_portion": 41.0,
+      "proteins": 0.4,
+      "fats": 0.2,
+      "carbohydrates": 6.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546009+00:00",
+      "updated_at": "2022-06-28 20:32:29.546011+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "a4315502-6011-467f-910d-6a3b46945cca",
+    "fields": {
+      "name": "Lulo jugo",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 27.6,
+      "cooked_half_portion": 57.5,
+      "raw_half_portion": 57.5,
+      "proteins": 0.5,
+      "fats": 0.1,
+      "carbohydrates": 5.1,
+      "home_measure_amount": "1",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546019+00:00",
+      "updated_at": "2022-06-28 20:32:29.546021+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "a4388830-0fd6-4fb1-b0b5-22faa7c8b657",
+    "fields": {
+      "name": "Limón",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 27.5,
+      "cooked_half_portion": 62.5,
+      "raw_half_portion": 62.5,
+      "proteins": 0.2,
+      "fats": 0.2,
+      "carbohydrates": 5.8,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546030+00:00",
+      "updated_at": "2022-06-28 20:32:29.546032+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f5cee4f4-d59f-4c18-a51e-12f9322ba327",
+    "fields": {
+      "name": "Mandarina",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 28.4,
+      "cooked_half_portion": 52.5,
+      "raw_half_portion": 52.5,
+      "proteins": 119.7,
+      "fats": 0.5,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.546040+00:00",
+      "updated_at": "2022-06-28 20:32:29.546042+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d45aa57e-9031-47be-be5b-643903c4ad8b",
+    "fields": {
+      "name": "Mango común",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 44.2,
+      "cooked_half_portion": 56.0,
+      "raw_half_portion": 56.0,
+      "proteins": 0.3,
+      "fats": 0.0,
+      "carbohydrates": 9.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.546050+00:00",
+      "updated_at": "2022-06-28 20:32:29.546052+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "cd82c2a0-f88f-47aa-b66c-24a384800658",
+    "fields": {
+      "name": "Mango Tommy",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 29.1,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 0.1,
+      "fats": 0.0,
+      "carbohydrates": 7.0,
+      "home_measure_amount": "1",
+      "home_measure_type": "TH_SL",
+      "created_at": "2022-06-28 20:32:29.546061+00:00",
+      "updated_at": "2022-06-28 20:32:29.546063+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f62402bb-36ba-4442-94ff-a63b17a12468",
+    "fields": {
+      "name": "Manzana verde o roja",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 40.3,
+      "cooked_half_portion": 56.0,
+      "raw_half_portion": 56.0,
+      "proteins": 0.2,
+      "fats": 0.1,
+      "carbohydrates": 9.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.546071+00:00",
+      "updated_at": "2022-06-28 20:32:29.546073+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "884853de-a7d6-4774-8568-1be6666f37e0",
+    "fields": {
+      "name": "Manzana de agua",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 26.5,
+      "cooked_half_portion": 50.0,
+      "raw_half_portion": 50.0,
+      "proteins": 0.9,
+      "fats": 0.5,
+      "carbohydrates": 4.6,
+      "home_measure_amount": "1",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.546081+00:00",
+      "updated_at": "2022-06-28 20:32:29.546083+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9888484c-5237-4772-bdab-b05c5d33489a",
+    "fields": {
+      "name": "Maracuyá",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 29.1,
+      "cooked_half_portion": 48.5,
+      "raw_half_portion": 48.5,
+      "proteins": 0.7,
+      "fats": 0.2,
+      "carbohydrates": 6.0,
+      "home_measure_amount": "1",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546092+00:00",
+      "updated_at": "2022-06-28 20:32:29.546094+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e0995c65-2f27-4da5-ad2c-39df30190887",
+    "fields": {
+      "name": "Melón",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 15.8,
+      "cooked_half_portion": 63.0,
+      "raw_half_portion": 63.0,
+      "proteins": 0.4,
+      "fats": 0.0,
+      "carbohydrates": 3.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "TH_SL",
+      "created_at": "2022-06-28 20:32:29.546104+00:00",
+      "updated_at": "2022-06-28 20:32:29.546106+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2f6e2d57-5477-41e5-a5de-a6df2cb96ab2",
+    "fields": {
+      "name": "Mora",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 33.3,
+      "cooked_half_portion": 45.0,
+      "raw_half_portion": 45.0,
+      "proteins": 0.5,
+      "fats": 0.0,
+      "carbohydrates": 6.6,
+      "home_measure_amount": "7 1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546115+00:00",
+      "updated_at": "2022-06-28 20:32:29.546117+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "43056d34-3da6-458b-808a-d925679d234e",
+    "fields": {
+      "name": "Naranja",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 30.1,
+      "cooked_half_portion": 73.5,
+      "raw_half_portion": 73.5,
+      "proteins": 0.5,
+      "fats": 0.2,
+      "carbohydrates": 6.5,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.546125+00:00",
+      "updated_at": "2022-06-28 20:32:29.546127+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "952b6701-cbdd-4b2d-ab00-01384389bb6b",
+    "fields": {
+      "name": "Papaya",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 25.6,
+      "cooked_half_portion": 64.0,
+      "raw_half_portion": 64.0,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 5.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_SL",
+      "created_at": "2022-06-28 20:32:29.546136+00:00",
+      "updated_at": "2022-06-28 20:32:29.546138+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "80e52b2b-bfb9-472d-b439-a38492a1a36a",
+    "fields": {
+      "name": "Pera",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 41.9,
+      "cooked_half_portion": 66.5,
+      "raw_half_portion": 66.5,
+      "proteins": 0.2,
+      "fats": 0.1,
+      "carbohydrates": 8.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546148+00:00",
+      "updated_at": "2022-06-28 20:32:29.546150+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "cd26e96b-3fd5-4554-82cf-9b088cfafe51",
+    "fields": {
+      "name": "Piña",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 32.2,
+      "cooked_half_portion": 57.5,
+      "raw_half_portion": 57.5,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 7.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "TH_SL",
+      "created_at": "2022-06-28 20:32:29.546174+00:00",
+      "updated_at": "2022-06-28 20:32:29.546177+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c56820de-1331-453a-87a3-5b394c3571d7",
+    "fields": {
+      "name": "Pitahaya",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 34.7,
+      "cooked_half_portion": 55.0,
+      "raw_half_portion": 55.0,
+      "proteins": 0.2,
+      "fats": 0.1,
+      "carbohydrates": 7.5,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546186+00:00",
+      "updated_at": "2022-06-28 20:32:29.546188+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "29b363f6-4639-4507-a2bc-a94a2665c029",
+    "fields": {
+      "name": "Sandia",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 17.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 0.4,
+      "fats": 0.0,
+      "carbohydrates": 3.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_SL",
+      "created_at": "2022-06-28 20:32:29.546200+00:00",
+      "updated_at": "2022-06-28 20:32:29.546203+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "89f2a7eb-03cd-418d-b03e-91e267729cca",
+    "fields": {
+      "name": "Uva",
+      "food_group": "b2f0a76e-75db-402a-b056-14ee1f2ce307",
+      "calories": 25.7,
+      "cooked_half_portion": 67.5,
+      "raw_half_portion": 67.5,
+      "proteins": 0.3,
+      "fats": 0.0,
+      "carbohydrates": 5.8,
+      "home_measure_amount": "10",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546212+00:00",
+      "updated_at": "2022-06-28 20:32:29.546214+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "fda07d15-3551-4052-ad99-593a4856ba4d",
+    "fields": {
+      "name": "Ajonjolí",
+      "food_group": "187b195c-d5a7-483f-92cd-07c83b7ed59c",
+      "calories": 32.4,
+      "cooked_half_portion": 5.0,
+      "raw_half_portion": 5.0,
+      "proteins": 1.0,
+      "fats": 2.6,
+      "carbohydrates": 0.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.546231+00:00",
+      "updated_at": "2022-06-28 20:32:29.546233+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "989f3cf4-ebf6-4338-854e-b6f846135e21",
+    "fields": {
+      "name": "Maní",
+      "food_group": "187b195c-d5a7-483f-92cd-07c83b7ed59c",
+      "calories": 31.0,
+      "cooked_half_portion": 5.0,
+      "raw_half_portion": 5.0,
+      "proteins": 1.4,
+      "fats": 2.4,
+      "carbohydrates": 0.8,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546241+00:00",
+      "updated_at": "2022-06-28 20:32:29.546243+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "39b43833-8d4e-4f51-9c90-a4910c71074a",
+    "fields": {
+      "name": "Almendras",
+      "food_group": "187b195c-d5a7-483f-92cd-07c83b7ed59c",
+      "calories": 28.8,
+      "cooked_half_portion": 4.5,
+      "raw_half_portion": 4.5,
+      "proteins": 0.8,
+      "fats": 2.4,
+      "carbohydrates": 0.6,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546252+00:00",
+      "updated_at": "2022-06-28 20:32:29.546254+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "53271df3-0b5f-46b9-b247-faef83a41df9",
+    "fields": {
+      "name": "Nuez",
+      "food_group": "187b195c-d5a7-483f-92cd-07c83b7ed59c",
+      "calories": 28.8,
+      "cooked_half_portion": 4.0,
+      "raw_half_portion": 4.0,
+      "proteins": 0.6,
+      "fats": 2.7,
+      "carbohydrates": 0.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546262+00:00",
+      "updated_at": "2022-06-28 20:32:29.546264+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ccd296e9-4386-4f2a-821a-2b2e7c376c35",
+    "fields": {
+      "name": "Avellanas",
+      "food_group": "187b195c-d5a7-483f-92cd-07c83b7ed59c",
+      "calories": 22.0,
+      "cooked_half_portion": 3.5,
+      "raw_half_portion": 3.5,
+      "proteins": 0.5,
+      "fats": 2.1,
+      "carbohydrates": 0.6,
+      "home_measure_amount": "2 1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546272+00:00",
+      "updated_at": "2022-06-28 20:32:29.546274+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "da1ab652-aee7-4887-8533-fe99a0a76b5f",
+    "fields": {
+      "name": "Coco deshidratado",
+      "food_group": "187b195c-d5a7-483f-92cd-07c83b7ed59c",
+      "calories": 26.7,
+      "cooked_half_portion": 4.5,
+      "raw_half_portion": 4.5,
+      "proteins": 0.2,
+      "fats": 1.6,
+      "carbohydrates": 2.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546282+00:00",
+      "updated_at": "2022-06-28 20:32:29.546284+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "3dd12648-3e9b-4f3e-a8c6-ca34a0380b96",
+    "fields": {
+      "name": "Semillas  de girasol tostadas sin sal",
+      "food_group": "187b195c-d5a7-483f-92cd-07c83b7ed59c",
+      "calories": 29.1,
+      "cooked_half_portion": 5.0,
+      "raw_half_portion": 5.0,
+      "proteins": 1.5,
+      "fats": 2.5,
+      "carbohydrates": 1.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546292+00:00",
+      "updated_at": "2022-06-28 20:32:29.546294+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "fb1008c4-cc93-496f-b8e8-b04aee02e825",
+    "fields": {
+      "name": "Semillas de chía",
+      "food_group": "187b195c-d5a7-483f-92cd-07c83b7ed59c",
+      "calories": 26.7,
+      "cooked_half_portion": 5.0,
+      "raw_half_portion": 5.0,
+      "proteins": 1.0,
+      "fats": 1.5,
+      "carbohydrates": 1.8,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546303+00:00",
+      "updated_at": "2022-06-28 20:32:29.546305+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2a9735f8-f69a-483f-99bd-2da402e5a45f",
+    "fields": {
+      "name": "Semillas de linaza",
+      "food_group": "187b195c-d5a7-483f-92cd-07c83b7ed59c",
+      "calories": 26.7,
+      "cooked_half_portion": 5.0,
+      "raw_half_portion": 5.0,
+      "proteins": 0.9,
+      "fats": 2.1,
+      "carbohydrates": 1.4,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546315+00:00",
+      "updated_at": "2022-06-28 20:32:29.546317+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b5e40fa3-19f3-4170-b962-11cba401c296",
+    "fields": {
+      "name": "Aceite de girasol, maíz, soya, ajonjolí",
+      "food_group": "22b43706-df83-43e0-ae12-9f0b5ffa25e1",
+      "calories": 22.5,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.0,
+      "fats": 2.5,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.546334+00:00",
+      "updated_at": "2022-06-28 20:32:29.546336+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "693386b1-9a4f-4477-a3d8-21372f1e8997",
+    "fields": {
+      "name": "Mantequilla de maní",
+      "food_group": "22b43706-df83-43e0-ae12-9f0b5ffa25e1",
+      "calories": 32.2,
+      "cooked_half_portion": 5.0,
+      "raw_half_portion": 5.0,
+      "proteins": 1.2,
+      "fats": 2.5,
+      "carbohydrates": 1.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546344+00:00",
+      "updated_at": "2022-06-28 20:32:29.546346+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "4028202f-601c-4556-a0de-41edc1216e03",
+    "fields": {
+      "name": "Aceite de oliva o de canola",
+      "food_group": "0ee70fe6-676f-439f-bce1-d90fe330c6a2",
+      "calories": 22.5,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.0,
+      "fats": 2.5,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.546363+00:00",
+      "updated_at": "2022-06-28 20:32:29.546364+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "15cdce28-3f9d-49b0-aeb1-8a49fc41bd7d",
+    "fields": {
+      "name": "Aguacate Hass",
+      "food_group": "0ee70fe6-676f-439f-bce1-d90fe330c6a2",
+      "calories": 33.2,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 0.2,
+      "fats": 2.5,
+      "carbohydrates": 2.0,
+      "home_measure_amount": "1",
+      "home_measure_type": "TH_SL",
+      "created_at": "2022-06-28 20:32:29.546373+00:00",
+      "updated_at": "2022-06-28 20:32:29.546375+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "37324ba4-b7e3-4d23-9901-e6999d5d5eed",
+    "fields": {
+      "name": "Aguacate Lorena",
+      "food_group": "0ee70fe6-676f-439f-bce1-d90fe330c6a2",
+      "calories": 26.9,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 0.2,
+      "fats": 2.0,
+      "carbohydrates": 1.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "TH_SL",
+      "created_at": "2022-06-28 20:32:29.546385+00:00",
+      "updated_at": "2022-06-28 20:32:29.546387+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "32865cb4-2006-4ecb-aafc-bd2cefcdb44b",
+    "fields": {
+      "name": "Crema de leche",
+      "food_group": "9d12b307-082b-4797-b7da-7a97c48df970",
+      "calories": 33.0,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 0.2,
+      "fats": 3.5,
+      "carbohydrates": 0.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546404+00:00",
+      "updated_at": "2022-06-28 20:32:29.546406+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "79afbe2b-035f-4cc5-a310-f639123f1316",
+    "fields": {
+      "name": "Crema agria",
+      "food_group": "9d12b307-082b-4797-b7da-7a97c48df970",
+      "calories": 23.5,
+      "cooked_half_portion": 11.0,
+      "raw_half_portion": 11.0,
+      "proteins": 0.4,
+      "fats": 2.3,
+      "carbohydrates": 0.5,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546428+00:00",
+      "updated_at": "2022-06-28 20:32:29.546431+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9a0908dc-e2bb-488e-9228-7e86885a2f81",
+    "fields": {
+      "name": "Chicharron",
+      "food_group": "9d12b307-082b-4797-b7da-7a97c48df970",
+      "calories": 49.1,
+      "cooked_half_portion": 7.5,
+      "raw_half_portion": 7.5,
+      "proteins": 1.6,
+      "fats": 4.2,
+      "carbohydrates": 1.3,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.546440+00:00",
+      "updated_at": "2022-06-28 20:32:29.546442+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f8eabf5a-c4e2-42a7-a87d-7a886d0d772a",
+    "fields": {
+      "name": "Tocineta / Tocino",
+      "food_group": "9d12b307-082b-4797-b7da-7a97c48df970",
+      "calories": 27.5,
+      "cooked_half_portion": 3.5,
+      "raw_half_portion": 3.5,
+      "proteins": 0.1,
+      "fats": 3.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "ST",
+      "created_at": "2022-06-28 20:32:29.546451+00:00",
+      "updated_at": "2022-06-28 20:32:29.546453+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6e152078-34d9-4f7c-86ce-36506388c4b4",
+    "fields": {
+      "name": "Queso crema",
+      "food_group": "9d12b307-082b-4797-b7da-7a97c48df970",
+      "calories": 22.7,
+      "cooked_half_portion": 6.5,
+      "raw_half_portion": 6.5,
+      "proteins": 0.5,
+      "fats": 2.3,
+      "carbohydrates": 0.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_TS",
+      "created_at": "2022-06-28 20:32:29.546475+00:00",
+      "updated_at": "2022-06-28 20:32:29.546479+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "845c13bc-e769-4b19-b917-b87d060efc2d",
+    "fields": {
+      "name": "Mantequilla o margarina",
+      "food_group": "9d12b307-082b-4797-b7da-7a97c48df970",
+      "calories": 22.3,
+      "cooked_half_portion": 3.0,
+      "raw_half_portion": 3.0,
+      "proteins": 0.0,
+      "fats": 2.5,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.546497+00:00",
+      "updated_at": "2022-06-28 20:32:29.546500+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "11d2a4ca-d651-4871-adf8-9dc6d0a128ee",
+    "fields": {
+      "name": "Mayonesa",
+      "food_group": "9d12b307-082b-4797-b7da-7a97c48df970",
+      "calories": 9.8,
+      "cooked_half_portion": 3.0,
+      "raw_half_portion": 3.0,
+      "proteins": 0.0,
+      "fats": 1.0,
+      "carbohydrates": 0.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.546509+00:00",
+      "updated_at": "2022-06-28 20:32:29.546511+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b02b86e5-7e6b-4594-99cc-52739cdeea7c",
+    "fields": {
+      "name": "Mayonesa baja en grasa",
+      "food_group": "9d12b307-082b-4797-b7da-7a97c48df970",
+      "calories": 23.1,
+      "cooked_half_portion": 7.5,
+      "raw_half_portion": 7.5,
+      "proteins": 0.1,
+      "fats": 2.4,
+      "carbohydrates": 0.3,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.546519+00:00",
+      "updated_at": "2022-06-28 20:32:29.546521+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "07240b14-9446-4e07-afbf-afb17e95f6be",
+    "fields": {
+      "name": "Azúcar",
+      "food_group": "ecfcc956-69c8-4e96-afec-9f8376106bfc",
+      "calories": 45.7,
+      "cooked_half_portion": 11.5,
+      "raw_half_portion": 11.5,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 11.4,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546539+00:00",
+      "updated_at": "2022-06-28 20:32:29.546541+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "18abe819-a640-44ab-9c54-185c7490e622",
+    "fields": {
+      "name": "Miel",
+      "food_group": "ecfcc956-69c8-4e96-afec-9f8376106bfc",
+      "calories": 34.9,
+      "cooked_half_portion": 10.5,
+      "raw_half_portion": 10.5,
+      "proteins": 0.1,
+      "fats": 0.0,
+      "carbohydrates": 8.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.546551+00:00",
+      "updated_at": "2022-06-28 20:32:29.546553+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "333a4c65-ed50-459b-ad91-6fba2abf97f4",
+    "fields": {
+      "name": "Panela",
+      "food_group": "ecfcc956-69c8-4e96-afec-9f8376106bfc",
+      "calories": 52.8,
+      "cooked_half_portion": 14.5,
+      "raw_half_portion": 14.5,
+      "proteins": 0.1,
+      "fats": 0.0,
+      "carbohydrates": 13.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_CT",
+      "created_at": "2022-06-28 20:32:29.546562+00:00",
+      "updated_at": "2022-06-28 20:32:29.546564+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "76d1837e-e8b1-4169-bfb5-60e6a65d20ef",
+    "fields": {
+      "name": "Stevia",
+      "food_group": "ecfcc956-69c8-4e96-afec-9f8376106bfc",
+      "calories": 0.0,
+      "cooked_half_portion": 0.0,
+      "raw_half_portion": 0.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "0",
+      "home_measure_type": "GL",
+      "created_at": "2022-06-28 20:32:29.546573+00:00",
+      "updated_at": "2022-06-28 20:32:29.546575+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f368805b-341b-4afe-b12d-d298fc82529c",
+    "fields": {
+      "name": "Arequipe o dulce de leche",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 56.0,
+      "cooked_half_portion": 17.5,
+      "raw_half_portion": 17.5,
+      "proteins": 1.1,
+      "fats": 1.3,
+      "carbohydrates": 9.9,
+      "home_measure_amount": "2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.546591+00:00",
+      "updated_at": "2022-06-28 20:32:29.546593+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e440a545-926a-4f95-bb11-107fe67598c5",
+    "fields": {
+      "name": "Bocadillo",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 49.8,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 0.1,
+      "fats": 0.1,
+      "carbohydrates": 11.9,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546601+00:00",
+      "updated_at": "2022-06-28 20:32:29.546603+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "97c31f3f-422b-4cde-a1b1-c9ce4cd98de8",
+    "fields": {
+      "name": "Chocolatina",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 33.0,
+      "cooked_half_portion": 6.0,
+      "raw_half_portion": 6.0,
+      "proteins": 0.3,
+      "fats": 1.9,
+      "carbohydrates": 3.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.546612+00:00",
+      "updated_at": "2022-06-28 20:32:29.546614+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "947eee06-6916-4872-afcf-9b906550a2ae",
+    "fields": {
+      "name": "Gelatina con Azúcar",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 55.6,
+      "cooked_half_portion": 83.0,
+      "raw_half_portion": 83.0,
+      "proteins": 1.2,
+      "fats": 0.0,
+      "carbohydrates": 12.8,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.546624+00:00",
+      "updated_at": "2022-06-28 20:32:29.546626+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9d3022b7-f4bd-4c26-84c8-c02fdf48d06d",
+    "fields": {
+      "name": "Helado de agua",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 44.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 10.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546635+00:00",
+      "updated_at": "2022-06-28 20:32:29.546637+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7e24a495-1511-4c3c-a510-6fb56101a3c0",
+    "fields": {
+      "name": "Helado de crema",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 44.1,
+      "cooked_half_portion": 22.5,
+      "raw_half_portion": 22.5,
+      "proteins": 0.7,
+      "fats": 2.3,
+      "carbohydrates": 5.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_BA",
+      "created_at": "2022-06-28 20:32:29.546647+00:00",
+      "updated_at": "2022-06-28 20:32:29.546649+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "592ba3f9-000e-491e-943e-987f8aa0fb2b",
+    "fields": {
+      "name": "Durazno en almibar o frutas enlatadas",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 73.1,
+      "cooked_half_portion": 86.0,
+      "raw_half_portion": 86.0,
+      "proteins": 0.0,
+      "fats": 0.1,
+      "carbohydrates": 17.5,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "HL",
+      "created_at": "2022-06-28 20:32:29.546658+00:00",
+      "updated_at": "2022-06-28 20:32:29.546660+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9da8c726-ee89-47f9-b44c-c7b3fafb881d",
+    "fields": {
+      "name": "Mermelada",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 49.0,
+      "cooked_half_portion": 18.0,
+      "raw_half_portion": 18.0,
+      "proteins": 0.1,
+      "fats": 0.0,
+      "carbohydrates": 12.0,
+      "home_measure_amount": "2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546669+00:00",
+      "updated_at": "2022-06-28 20:32:29.546671+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0297ae70-73ea-478f-ac20-d1f5572341da",
+    "fields": {
+      "name": "Leche condensada",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 45.8,
+      "cooked_half_portion": 14.0,
+      "raw_half_portion": 14.0,
+      "proteins": 1.2,
+      "fats": 1.2,
+      "carbohydrates": 7.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.546681+00:00",
+      "updated_at": "2022-06-28 20:32:29.546683+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6af5ec7b-c5b4-4805-b90d-7967202c01d5",
+    "fields": {
+      "name": "Uva pasa o deshidratada / Datil",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 67.0,
+      "cooked_half_portion": 20.5,
+      "raw_half_portion": 20.5,
+      "proteins": 0.5,
+      "fats": 0.1,
+      "carbohydrates": 15.4,
+      "home_measure_amount": "4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546692+00:00",
+      "updated_at": "2022-06-28 20:32:29.546694+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "28e66a7b-21cd-4aef-ba7f-52c3c9e0629f",
+    "fields": {
+      "name": "Caramelos",
+      "food_group": "901f17da-996a-4556-9980-3bc03b8aa8f0",
+      "calories": 44.5,
+      "cooked_half_portion": 12.0,
+      "raw_half_portion": 12.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 11.1,
+      "home_measure_amount": "3",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.546702+00:00",
+      "updated_at": "2022-06-28 20:32:29.546704+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "de610830-37b7-4162-8809-198713bd33c4",
+    "fields": {
+      "name": "Chocolate amargo",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 93.3,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 0.7,
+      "fats": 6.4,
+      "carbohydrates": 7.4,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.546720+00:00",
+      "updated_at": "2022-06-28 20:32:29.546722+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d1a98747-27fc-41da-81be-46f4e0a228e0",
+    "fields": {
+      "name": "Chocolate pastilla con Azúcar",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 29.1,
+      "cooked_half_portion": 6.25,
+      "raw_half_portion": 6.3,
+      "proteins": 0.2,
+      "fats": 1.0,
+      "carbohydrates": 4.7,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "PI",
+      "created_at": "2022-06-28 20:32:29.546730+00:00",
+      "updated_at": "2022-06-28 20:32:29.546732+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "65235008-e993-4e55-90df-39373af0a8d7",
+    "fields": {
+      "name": "Cocoa",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 61.0,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 2.4,
+      "fats": 1.4,
+      "carbohydrates": 7.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546741+00:00",
+      "updated_at": "2022-06-28 20:32:29.546743+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "754d738d-ce50-41b4-850c-aed2310ea773",
+    "fields": {
+      "name": "Chocolate en polvo",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 46.1,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 0.8,
+      "fats": 1.6,
+      "carbohydrates": 7.2,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546751+00:00",
+      "updated_at": "2022-06-28 20:32:29.546753+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ee31c96e-6d9a-424e-bcb4-daaacc8096af",
+    "fields": {
+      "name": "Salsa de mostaza",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 10.7,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 0.4,
+      "fats": 0.3,
+      "carbohydrates": 1.4,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546773+00:00",
+      "updated_at": "2022-06-28 20:32:29.546776+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7d4723c5-3ecc-4ca3-882d-b0b795c11b95",
+    "fields": {
+      "name": "Salsa de tomate",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 10.9,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 0.1,
+      "fats": 0.0,
+      "carbohydrates": 2.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546789+00:00",
+      "updated_at": "2022-06-28 20:32:29.546791+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7037db2e-b637-4349-8c4b-142c68300e67",
+    "fields": {
+      "name": "Salsa rosada",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 8.1,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 0.2,
+      "fats": 0.0,
+      "carbohydrates": 2.1,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546800+00:00",
+      "updated_at": "2022-06-28 20:32:29.546802+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2f318303-e7df-4de0-b94a-ac7963e72701",
+    "fields": {
+      "name": "Salsa tartara",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 30.0,
+      "cooked_half_portion": 7.5,
+      "raw_half_portion": 7.5,
+      "proteins": 0.1,
+      "fats": 3.2,
+      "carbohydrates": 0.4,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546813+00:00",
+      "updated_at": "2022-06-28 20:32:29.546815+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "225a04c6-1618-4df0-b341-ba9935434b71",
+    "fields": {
+      "name": "Salsa negra",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 30.0,
+      "cooked_half_portion": 50.0,
+      "raw_half_portion": 50.0,
+      "proteins": 1.0,
+      "fats": 0.0,
+      "carbohydrates": 6.0,
+      "home_measure_amount": "2 1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546824+00:00",
+      "updated_at": "2022-06-28 20:32:29.546826+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "288f22e2-95e2-4c9b-a86c-72211cdc0dcc",
+    "fields": {
+      "name": "Salsa de soya",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 26.5,
+      "cooked_half_portion": 50.0,
+      "raw_half_portion": 50.0,
+      "proteins": 3.2,
+      "fats": 0.0,
+      "carbohydrates": 3.8,
+      "home_measure_amount": "2 1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546835+00:00",
+      "updated_at": "2022-06-28 20:32:29.546837+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9d44ba45-e5e9-4904-9665-25d4036db0cc",
+    "fields": {
+      "name": "Salsa teriyaki",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 10.2,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 0.7,
+      "fats": 0.0,
+      "carbohydrates": 1.9,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.546846+00:00",
+      "updated_at": "2022-06-28 20:32:29.546848+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9daff2e9-28eb-401b-bc32-988a834dca44",
+    "fields": {
+      "name": "Vinagreta",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 29.1,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 0.0,
+      "fats": 2.8,
+      "carbohydrates": 1.0,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.546856+00:00",
+      "updated_at": "2022-06-28 20:32:29.546858+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "63fd7e2a-bba6-4fdf-bb5e-e030816ca6f0",
+    "fields": {
+      "name": "Vinagre",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 12.0,
+      "cooked_half_portion": 50.0,
+      "raw_half_portion": 50.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 3.0,
+      "home_measure_amount": "2 1/2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.546867+00:00",
+      "updated_at": "2022-06-28 20:32:29.546868+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "06f58851-ac34-41e4-9a26-228642137c44",
+    "fields": {
+      "name": "Zumo de naranja natural",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 30.0,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 0.5,
+      "fats": 0.2,
+      "carbohydrates": 6.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.546880+00:00",
+      "updated_at": "2022-06-28 20:32:29.546882+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e49a75af-70ec-4866-90e7-5b60513cb837",
+    "fields": {
+      "name": "Jugos de frutas industrializados",
+      "food_group": "93da2174-f66e-4dfc-987e-389dadbcd361",
+      "calories": 27.0,
+      "cooked_half_portion": 60.0,
+      "raw_half_portion": 60.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 6.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.546892+00:00",
+      "updated_at": "2022-06-28 20:32:29.546894+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "a18b08c2-8715-4499-a016-5d360ea3a83b",
+    "fields": {
+      "name": "Bandeja paisa",
+      "food_group": "cae06fe3-ae11-4477-b567-ff487c9bf661",
+      "calories": 636.0,
+      "cooked_half_portion": 300.0,
+      "raw_half_portion": 300.0,
+      "proteins": 35.1,
+      "fats": 33.0,
+      "carbohydrates": 45.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_PL",
+      "created_at": "2022-06-28 20:32:29.546911+00:00",
+      "updated_at": "2022-06-28 20:32:29.546913+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e02813fe-961d-4c27-9ff2-4f19a79d7229",
+    "fields": {
+      "name": "Ajiaco",
+      "food_group": "cae06fe3-ae11-4477-b567-ff487c9bf661",
+      "calories": 246.0,
+      "cooked_half_portion": 300.0,
+      "raw_half_portion": 300.0,
+      "proteins": 19.2,
+      "fats": 2.4,
+      "carbohydrates": 33.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_PL",
+      "created_at": "2022-06-28 20:32:29.546921+00:00",
+      "updated_at": "2022-06-28 20:32:29.546923+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "bd7938e0-fe30-47a3-933f-c382380174c2",
+    "fields": {
+      "name": "Empanada frita",
+      "food_group": "cae06fe3-ae11-4477-b567-ff487c9bf661",
+      "calories": 257.4,
+      "cooked_half_portion": 65.0,
+      "raw_half_portion": 65.0,
+      "proteins": 3.1,
+      "fats": 17.1,
+      "carbohydrates": 22.5,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_UN",
+      "created_at": "2022-06-28 20:32:29.546931+00:00",
+      "updated_at": "2022-06-28 20:32:29.546933+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f0045fe4-3478-4212-b549-a0d3d95b1902",
+    "fields": {
+      "name": "Envuelto de maíz",
+      "food_group": "cae06fe3-ae11-4477-b567-ff487c9bf661",
+      "calories": 97.8,
+      "cooked_half_portion": 60.0,
+      "raw_half_portion": 60.0,
+      "proteins": 1.9,
+      "fats": 2.9,
+      "carbohydrates": 15.3,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_UN",
+      "created_at": "2022-06-28 20:32:29.546945+00:00",
+      "updated_at": "2022-06-28 20:32:29.546947+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6169e368-eb22-4c91-b79f-7e3f20d7492c",
+    "fields": {
+      "name": "Hamburguesa de res regular",
+      "food_group": "cae06fe3-ae11-4477-b567-ff487c9bf661",
+      "calories": 289.8,
+      "cooked_half_portion": 115.0,
+      "raw_half_portion": 115.0,
+      "proteins": 13.5,
+      "fats": 14.1,
+      "carbohydrates": 26.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546956+00:00",
+      "updated_at": "2022-06-28 20:32:29.546958+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "690fc913-7478-488e-93c9-6ae36c121499",
+    "fields": {
+      "name": "Perro caliente",
+      "food_group": "cae06fe3-ae11-4477-b567-ff487c9bf661",
+      "calories": 123.5,
+      "cooked_half_portion": 50.0,
+      "raw_half_portion": 50.0,
+      "proteins": 5.3,
+      "fats": 7.4,
+      "carbohydrates": 9.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546967+00:00",
+      "updated_at": "2022-06-28 20:32:29.546970+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "82f2d8e4-9d80-4bb4-bb21-d71f682702d9",
+    "fields": {
+      "name": "Pizza",
+      "food_group": "cae06fe3-ae11-4477-b567-ff487c9bf661",
+      "calories": 140.1,
+      "cooked_half_portion": 62.0,
+      "raw_half_portion": 62.0,
+      "proteins": 7.0,
+      "fats": 5.5,
+      "carbohydrates": 16.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_SL",
+      "created_at": "2022-06-28 20:32:29.546978+00:00",
+      "updated_at": "2022-06-28 20:32:29.546980+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "972e36ea-7d88-4e4f-9fcf-5366f9cdaf0b",
+    "fields": {
+      "name": "Lechona tolimense",
+      "food_group": "cae06fe3-ae11-4477-b567-ff487c9bf661",
+      "calories": 278.3,
+      "cooked_half_portion": 115.0,
+      "raw_half_portion": 115.0,
+      "proteins": 25.1,
+      "fats": 13.8,
+      "carbohydrates": 11.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "PE_PL",
+      "created_at": "2022-06-28 20:32:29.546989+00:00",
+      "updated_at": "2022-06-28 20:32:29.546991+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "944be59a-0ab3-4ccf-9160-499ef9d54362",
+    "fields": {
+      "name": "Tamal tolimense",
+      "food_group": "cae06fe3-ae11-4477-b567-ff487c9bf661",
+      "calories": 372.9,
+      "cooked_half_portion": 282.5,
+      "raw_half_portion": 282.5,
+      "proteins": 16.1,
+      "fats": 10.7,
+      "carbohydrates": 47.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.546999+00:00",
+      "updated_at": "2022-06-28 20:32:29.547001+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2b3f087d-f0cf-49be-8096-3b3318e87ca8",
+    "fields": {
+      "name": "Ajo",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 3.6,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.1,
+      "fats": 0.0,
+      "carbohydrates": 0.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547017+00:00",
+      "updated_at": "2022-06-28 20:32:29.547019+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7bea030a-a0a5-473a-87fb-c9b54d815b00",
+    "fields": {
+      "name": "Cebollas",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 1.0,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.2,
+      "home_measure_amount": "1",
+      "home_measure_type": "TH_SL",
+      "created_at": "2022-06-28 20:32:29.547027+00:00",
+      "updated_at": "2022-06-28 20:32:29.547029+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "efde609c-7360-42af-849b-a56e1961a60e",
+    "fields": {
+      "name": "Cilantro",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 0.7,
+      "cooked_half_portion": 1.5,
+      "raw_half_portion": 1.5,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_TS",
+      "created_at": "2022-06-28 20:32:29.547037+00:00",
+      "updated_at": "2022-06-28 20:32:29.547039+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "a4567af9-8fa1-4573-ab6d-6b8bed375652",
+    "fields": {
+      "name": "Perejil",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 0.8,
+      "cooked_half_portion": 1.5,
+      "raw_half_portion": 1.5,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_TS",
+      "created_at": "2022-06-28 20:32:29.547048+00:00",
+      "updated_at": "2022-06-28 20:32:29.547050+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "13cfccbb-7424-4f57-91b4-6b4389353d36",
+    "fields": {
+      "name": "Aji",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 1.1,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547058+00:00",
+      "updated_at": "2022-06-28 20:32:29.547060+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "5a136c5a-c5db-409b-af95-92790a75a12b",
+    "fields": {
+      "name": "Oregano",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 7.7,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.3,
+      "fats": 0.3,
+      "carbohydrates": 1.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547083+00:00",
+      "updated_at": "2022-06-28 20:32:29.547086+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "83969f87-1fd0-453d-b1f4-827e7713a3cb",
+    "fields": {
+      "name": "Albahaca",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 0.4,
+      "cooked_half_portion": 1.5,
+      "raw_half_portion": 1.5,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_TS",
+      "created_at": "2022-06-28 20:32:29.547096+00:00",
+      "updated_at": "2022-06-28 20:32:29.547098+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d97061d4-1055-45a9-9dec-e3fd5a19cd4e",
+    "fields": {
+      "name": "Tomillo",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 8.4,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.2,
+      "fats": 0.2,
+      "carbohydrates": 1.4,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547109+00:00",
+      "updated_at": "2022-06-28 20:32:29.547111+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e38883df-cac4-4b56-8173-727559f80469",
+    "fields": {
+      "name": "Laurel",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 3.2,
+      "cooked_half_portion": 1.5,
+      "raw_half_portion": 1.5,
+      "proteins": 0.1,
+      "fats": 0.0,
+      "carbohydrates": 0.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "HP_TS",
+      "created_at": "2022-06-28 20:32:29.547120+00:00",
+      "updated_at": "2022-06-28 20:32:29.547122+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c1cced2f-a611-4ea1-a05b-35446f65537d",
+    "fields": {
+      "name": "Pimienta negra o de olor",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 6.4,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 1.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547130+00:00",
+      "updated_at": "2022-06-28 20:32:29.547132+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2d0a178a-f3cf-4e41-94df-52ef39255171",
+    "fields": {
+      "name": "Anís",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 8.4,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.4,
+      "fats": 0.4,
+      "carbohydrates": 1.3,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547143+00:00",
+      "updated_at": "2022-06-28 20:32:29.547145+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e3c0064d-c411-4d64-a13e-b0a91e9eaca1",
+    "fields": {
+      "name": "Clavos",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 8.1,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.2,
+      "fats": 0.1,
+      "carbohydrates": 1.5,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547154+00:00",
+      "updated_at": "2022-06-28 20:32:29.547156+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6bcb7b20-f6e9-4b01-8f92-d078a1a01bab",
+    "fields": {
+      "name": "Comino",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 9.4,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.4,
+      "fats": 0.6,
+      "carbohydrates": 1.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547164+00:00",
+      "updated_at": "2022-06-28 20:32:29.547166+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8f57ce23-d4d2-4092-94d6-b8d74f97a40f",
+    "fields": {
+      "name": "Jengibre",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 9.8,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.2,
+      "fats": 0.1,
+      "carbohydrates": 1.8,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547174+00:00",
+      "updated_at": "2022-06-28 20:32:29.547176+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "723f1a13-1d3e-444a-b03c-33a516474a35",
+    "fields": {
+      "name": "Paprika",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 7.2,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.4,
+      "fats": 0.3,
+      "carbohydrates": 1.4,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547184+00:00",
+      "updated_at": "2022-06-28 20:32:29.547186+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "5a6e627f-806a-4989-9993-ac0c6fc50c9f",
+    "fields": {
+      "name": "Romero",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 8.6,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.1,
+      "fats": 0.4,
+      "carbohydrates": 1.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547196+00:00",
+      "updated_at": "2022-06-28 20:32:29.547198+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9fc06713-adb6-4c8e-a35f-08d594838d9e",
+    "fields": {
+      "name": "Cardamomo",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 7.8,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.3,
+      "fats": 0.2,
+      "carbohydrates": 1.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547207+00:00",
+      "updated_at": "2022-06-28 20:32:29.547209+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "533a76ac-6b90-46c2-a71e-30151c4c26b5",
+    "fields": {
+      "name": "Curcuma",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 8.9,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.2,
+      "fats": 0.2,
+      "carbohydrates": 1.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547217+00:00",
+      "updated_at": "2022-06-28 20:32:29.547219+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "42d35d2e-e95d-4b8b-b4ae-35c3087632cb",
+    "fields": {
+      "name": "Canela",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 6.5,
+      "cooked_half_portion": 2.5,
+      "raw_half_portion": 2.5,
+      "proteins": 0.1,
+      "fats": 0.1,
+      "carbohydrates": 2.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "LV_TS",
+      "created_at": "2022-06-28 20:32:29.547230+00:00",
+      "updated_at": "2022-06-28 20:32:29.547232+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0260f713-674c-4c98-8c25-b67f4ec2d906",
+    "fields": {
+      "name": "Sal / sal marina",
+      "food_group": "d882d813-eb62-4d7d-ab13-d03863a6deaf",
+      "calories": 0.0,
+      "cooked_half_portion": 0.75,
+      "raw_half_portion": 0.8,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1",
+      "home_measure_type": "PC",
+      "created_at": "2022-06-28 20:32:29.547241+00:00",
+      "updated_at": "2022-06-28 20:32:29.547243+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0d39e4fe-8ab0-4ee6-b23f-1e45fb3c8fd1",
+    "fields": {
+      "name": "Cerveza rubia",
+      "food_group": "b2551c1d-a001-4a87-8891-e8205d814d68",
+      "calories": 71.0,
+      "cooked_half_portion": 165.0,
+      "raw_half_portion": 165.0,
+      "proteins": 0.8,
+      "fats": 0.0,
+      "carbohydrates": 10.4,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BO",
+      "created_at": "2022-06-28 20:32:29.547260+00:00",
+      "updated_at": "2022-06-28 20:32:29.547262+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "223aec24-6dff-4705-8b60-ebf2804fe107",
+    "fields": {
+      "name": "Cerveza light",
+      "food_group": "b2551c1d-a001-4a87-8891-e8205d814d68",
+      "calories": 47.9,
+      "cooked_half_portion": 165.0,
+      "raw_half_portion": 165.0,
+      "proteins": 0.3,
+      "fats": 0.0,
+      "carbohydrates": 2.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BO",
+      "created_at": "2022-06-28 20:32:29.547270+00:00",
+      "updated_at": "2022-06-28 20:32:29.547272+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9f9ae726-53c1-458b-b18c-d2760c4df993",
+    "fields": {
+      "name": "Vino Cabernet / Merlot / blanco",
+      "food_group": "b2551c1d-a001-4a87-8891-e8205d814d68",
+      "calories": 54.6,
+      "cooked_half_portion": 65.0,
+      "raw_half_portion": 65.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 1.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "CU",
+      "created_at": "2022-06-28 20:32:29.547281+00:00",
+      "updated_at": "2022-06-28 20:32:29.547283+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d9329c41-a201-4aa4-ae01-87ba98ae1d85",
+    "fields": {
+      "name": "Whisky",
+      "food_group": "b2551c1d-a001-4a87-8891-e8205d814d68",
+      "calories": 56.3,
+      "cooked_half_portion": 22.5,
+      "raw_half_portion": 22.5,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "DR",
+      "created_at": "2022-06-28 20:32:29.547294+00:00",
+      "updated_at": "2022-06-28 20:32:29.547296+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0bb187a7-ca7c-4a79-bec7-d5dc8f6613e8",
+    "fields": {
+      "name": "Ron",
+      "food_group": "b2551c1d-a001-4a87-8891-e8205d814d68",
+      "calories": 52.0,
+      "cooked_half_portion": 22.5,
+      "raw_half_portion": 22.5,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "DR",
+      "created_at": "2022-06-28 20:32:29.547305+00:00",
+      "updated_at": "2022-06-28 20:32:29.547307+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e9f6a8dd-2c87-44c3-b156-3c2100a460ce",
+    "fields": {
+      "name": "Aguardiente",
+      "food_group": "b2551c1d-a001-4a87-8891-e8205d814d68",
+      "calories": 50.0,
+      "cooked_half_portion": 22.5,
+      "raw_half_portion": 22.5,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "DR",
+      "created_at": "2022-06-28 20:32:29.547316+00:00",
+      "updated_at": "2022-06-28 20:32:29.547318+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "1269dd60-604a-4222-b677-3a6fb4af515a",
+    "fields": {
+      "name": "Proteína concentrada",
+      "food_group": "d626b71e-6973-4117-9d5f-1af9f8675de6",
+      "calories": 0.0,
+      "cooked_half_portion": 0.0,
+      "raw_half_portion": 0.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "",
+      "home_measure_type": "PI",
+      "created_at": "2022-06-28 20:32:29.547334+00:00",
+      "updated_at": "2022-06-28 20:32:29.547336+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "1e035908-0a96-4f44-8466-ccefcaa3b4b7",
+    "fields": {
+      "name": "Proteína aislada",
+      "food_group": "d626b71e-6973-4117-9d5f-1af9f8675de6",
+      "calories": 0.0,
+      "cooked_half_portion": 0.0,
+      "raw_half_portion": 0.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "",
+      "home_measure_type": "PI",
+      "created_at": "2022-06-28 20:32:29.547345+00:00",
+      "updated_at": "2022-06-28 20:32:29.547348+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ab77f716-c81a-4eaa-8c77-01dbe630b535",
+    "fields": {
+      "name": "Proteína hidrolizada",
+      "food_group": "d626b71e-6973-4117-9d5f-1af9f8675de6",
+      "calories": 0.0,
+      "cooked_half_portion": 0.0,
+      "raw_half_portion": 0.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "",
+      "home_measure_type": "PI",
+      "created_at": "2022-06-28 20:32:29.547356+00:00",
+      "updated_at": "2022-06-28 20:32:29.547358+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ca983d22-3048-4d2b-a354-4ca39280afbd",
+    "fields": {
+      "name": "Pre entreno",
+      "food_group": "d626b71e-6973-4117-9d5f-1af9f8675de6",
+      "calories": 0.0,
+      "cooked_half_portion": 0.0,
+      "raw_half_portion": 0.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "",
+      "home_measure_type": "PI",
+      "created_at": "2022-06-28 20:32:29.547453+00:00",
+      "updated_at": "2022-06-28 20:32:29.547459+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d5fc8e24-7850-4e81-98a6-7d8bc4c38c1b",
+    "fields": {
+      "name": "Barras deportivas",
+      "food_group": "d626b71e-6973-4117-9d5f-1af9f8675de6",
+      "calories": 0.0,
+      "cooked_half_portion": 0.0,
+      "raw_half_portion": 0.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "",
+      "home_measure_type": "PI",
+      "created_at": "2022-06-28 20:32:29.547474+00:00",
+      "updated_at": "2022-06-28 20:32:29.547477+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "772d6a73-9e6f-40da-8f60-9edcd885df7a",
+    "fields": {
+      "name": "Spirulina",
+      "food_group": "d626b71e-6973-4117-9d5f-1af9f8675de6",
+      "calories": 0.0,
+      "cooked_half_portion": 0.0,
+      "raw_half_portion": 0.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "",
+      "home_measure_type": "PI",
+      "created_at": "2022-06-28 20:32:29.547486+00:00",
+      "updated_at": "2022-06-28 20:32:29.547488+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "eef05f70-633d-4fc4-8e75-bf65dffdc759",
+    "fields": {
+      "name": "Kola granulada",
+      "food_group": "d626b71e-6973-4117-9d5f-1af9f8675de6",
+      "calories": 0.0,
+      "cooked_half_portion": 0.0,
+      "raw_half_portion": 0.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 0.0,
+      "home_measure_amount": "",
+      "home_measure_type": "PI",
+      "created_at": "2022-06-28 20:32:29.547496+00:00",
+      "updated_at": "2022-06-28 20:32:29.547498+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ac8ea4e5-bd58-4a83-ba7d-83acea0013db",
+    "fields": {
+      "name": "Arroz blanco",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 61.4,
+      "cooked_half_portion": 40.0,
+      "raw_half_portion": 17.4,
+      "proteins": 2.7,
+      "fats": 0.2,
+      "carbohydrates": 32.0,
+      "home_measure_amount": "3",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.547516+00:00",
+      "updated_at": "2022-06-28 20:32:29.547518+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "eb4622c8-0651-407a-95e3-bfd37cb54a97",
+    "fields": {
+      "name": "Arroz integral",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 61.8,
+      "cooked_half_portion": 40.5,
+      "raw_half_portion": 17.6,
+      "proteins": 3.3,
+      "fats": 0.4,
+      "carbohydrates": 31.2,
+      "home_measure_amount": "4",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.547527+00:00",
+      "updated_at": "2022-06-28 20:32:29.547544+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2fe72489-d37b-4efb-b0d4-6bebec04be3c",
+    "fields": {
+      "name": "Avena en hojuelas",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 49.3,
+      "cooked_half_portion": 12.0,
+      "raw_half_portion": 12.0,
+      "proteins": 2.4,
+      "fats": 0.9,
+      "carbohydrates": 7.7,
+      "home_measure_amount": "2",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.547555+00:00",
+      "updated_at": "2022-06-28 20:32:29.547558+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "d8fa18e8-4c1f-4086-b23e-259b5784f419",
+    "fields": {
+      "name": "Maíz amarillo / Mazorca",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 216.2,
+      "cooked_half_portion": 55.0,
+      "raw_half_portion": 55.0,
+      "proteins": 5.2,
+      "fats": 2.6,
+      "carbohydrates": 41.0,
+      "home_measure_amount": "4",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.547567+00:00",
+      "updated_at": "2022-06-28 20:32:29.547569+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0d43fc9f-56ed-45f4-a8f2-3ff9f682b38d",
+    "fields": {
+      "name": "Maíz pira",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 44.1,
+      "cooked_half_portion": 13.5,
+      "raw_half_portion": 11.3,
+      "proteins": 1.5,
+      "fats": 0.6,
+      "carbohydrates": 9.6,
+      "home_measure_amount": "3/4",
+      "home_measure_type": "CH_WE",
+      "created_at": "2022-06-28 20:32:29.547580+00:00",
+      "updated_at": "2022-06-28 20:32:29.547582+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "5bbaeb41-e79f-4c45-88a5-e590395319b9",
+    "fields": {
+      "name": "Quinua",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 47.0,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.8,
+      "fats": 0.6,
+      "carbohydrates": 8.3,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.547591+00:00",
+      "updated_at": "2022-06-28 20:32:29.547593+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "328cdad1-0a17-4d07-8d40-706cde688f70",
+    "fields": {
+      "name": "Fecula de maiz",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 45.0,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 0.9,
+      "fats": 0.0,
+      "carbohydrates": 10.3,
+      "home_measure_amount": "2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.547602+00:00",
+      "updated_at": "2022-06-28 20:32:29.547603+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "325bdfab-9cf3-43d2-8222-acb04faafe66",
+    "fields": {
+      "name": "Harina de maiz",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 48.3,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.0,
+      "fats": 0.4,
+      "carbohydrates": 9.7,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.547612+00:00",
+      "updated_at": "2022-06-28 20:32:29.547614+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "16ee125b-0ea8-4192-9efb-0baffdc4ffc3",
+    "fields": {
+      "name": "Harina de trigo",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 45.0,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.6,
+      "fats": 0.2,
+      "carbohydrates": 9.0,
+      "home_measure_amount": "2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.547622+00:00",
+      "updated_at": "2022-06-28 20:32:29.547624+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "faeba0d2-3fb4-435f-a819-c15248df6c98",
+    "fields": {
+      "name": "Harina de arroz",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 45.1,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 0.8,
+      "fats": 0.2,
+      "carbohydrates": 10.0,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.547633+00:00",
+      "updated_at": "2022-06-28 20:32:29.547635+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f19b9574-6e45-4927-81a8-84619a6d5652",
+    "fields": {
+      "name": "Harina de centeno",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 48.8,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 2.0,
+      "fats": 0.4,
+      "carbohydrates": 8.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.547643+00:00",
+      "updated_at": "2022-06-28 20:32:29.547645+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7b541b90-ef0b-4c8a-b394-ed1e431eba7b",
+    "fields": {
+      "name": "Almojabana",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 44.2,
+      "cooked_half_portion": 15.5,
+      "raw_half_portion": 15.5,
+      "proteins": 2.0,
+      "fats": 1.9,
+      "carbohydrates": 4.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547654+00:00",
+      "updated_at": "2022-06-28 20:32:29.547656+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "cda7b139-28a0-42bd-a5f9-bc3833d4baa7",
+    "fields": {
+      "name": "Arepa de maíz blanco",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 43.7,
+      "cooked_half_portion": 28.0,
+      "raw_half_portion": 28.0,
+      "proteins": 1.0,
+      "fats": 0.1,
+      "carbohydrates": 9.7,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "BG_UN",
+      "created_at": "2022-06-28 20:32:29.547667+00:00",
+      "updated_at": "2022-06-28 20:32:29.547669+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "95a03725-23f6-4795-9cf4-267141049da9",
+    "fields": {
+      "name": "Arepa de choclo",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 48.6,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.6,
+      "fats": 0.8,
+      "carbohydrates": 8.5,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "BG_UN",
+      "created_at": "2022-06-28 20:32:29.547678+00:00",
+      "updated_at": "2022-06-28 20:32:29.547680+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "4646ec65-13ff-4474-b8e3-af9c9a405519",
+    "fields": {
+      "name": "Arepa con queso",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 61.2,
+      "cooked_half_portion": 29.0,
+      "raw_half_portion": 29.0,
+      "proteins": 1.4,
+      "fats": 2.4,
+      "carbohydrates": 8.4,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.547689+00:00",
+      "updated_at": "2022-06-28 20:32:29.547691+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "62efac77-1ccf-431b-971b-6b7c070e84f0",
+    "fields": {
+      "name": "Hojuelas de maíz",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 47.0,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.0,
+      "fats": 0.1,
+      "carbohydrates": 10.6,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.547702+00:00",
+      "updated_at": "2022-06-28 20:32:29.547704+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "72b63992-61dd-4c87-85af-87c05fe1b829",
+    "fields": {
+      "name": "Pasta larga",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 42.0,
+      "cooked_half_portion": 32.0,
+      "raw_half_portion": 12.3,
+      "proteins": 3.1,
+      "fats": 0.1,
+      "carbohydrates": 23.8,
+      "home_measure_amount": "1/3",
+      "home_measure_type": "CH_WE",
+      "created_at": "2022-06-28 20:32:29.547713+00:00",
+      "updated_at": "2022-06-28 20:32:29.547715+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f98ec1b9-d453-4d9f-b826-8ee374227076",
+    "fields": {
+      "name": "Cereal para el desayuno",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 42.1,
+      "cooked_half_portion": 11.0,
+      "raw_half_portion": 11.0,
+      "proteins": 0.9,
+      "fats": 0.0,
+      "carbohydrates": 9.4,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.547724+00:00",
+      "updated_at": "2022-06-28 20:32:29.547726+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c5aeae0e-bd6b-4c21-920a-7c0e555a4826",
+    "fields": {
+      "name": "Cereal fitness",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 37.4,
+      "cooked_half_portion": 11.0,
+      "raw_half_portion": 11.0,
+      "proteins": 0.8,
+      "fats": 0.3,
+      "carbohydrates": 8.1,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.547747+00:00",
+      "updated_at": "2022-06-28 20:32:29.547750+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "32cd6a08-b864-417e-ab9f-d77c1ef3b7aa",
+    "fields": {
+      "name": "Granola",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 45.9,
+      "cooked_half_portion": 11.0,
+      "raw_half_portion": 11.0,
+      "proteins": 0.9,
+      "fats": 1.3,
+      "carbohydrates": 7.7,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.547763+00:00",
+      "updated_at": "2022-06-28 20:32:29.547765+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b275ba38-f5b9-4de2-8865-8083b06867c9",
+    "fields": {
+      "name": "Galletas integrales",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 42.3,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 0.7,
+      "fats": 1.0,
+      "carbohydrates": 7.7,
+      "home_measure_amount": "1",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547774+00:00",
+      "updated_at": "2022-06-28 20:32:29.547776+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "3bc6f05a-da05-4b43-ae1c-8375a50181c8",
+    "fields": {
+      "name": "Galletas de soda",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 50.9,
+      "cooked_half_portion": 12.0,
+      "raw_half_portion": 12.0,
+      "proteins": 1.2,
+      "fats": 1.2,
+      "carbohydrates": 8.7,
+      "home_measure_amount": "1  1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547785+00:00",
+      "updated_at": "2022-06-28 20:32:29.547787+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8b942fa2-611b-4a0f-b24f-2a992d6ded8e",
+    "fields": {
+      "name": "Galleta tipo wafer",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 38.7,
+      "cooked_half_portion": 8.5,
+      "raw_half_portion": 8.5,
+      "proteins": 0.5,
+      "fats": 1.3,
+      "carbohydrates": 6.2,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547796+00:00",
+      "updated_at": "2022-06-28 20:32:29.547798+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "a4722cce-b6b8-40c1-ab41-c939a5e712b7",
+    "fields": {
+      "name": "Galleta dulce con relleno",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 46.4,
+      "cooked_half_portion": 9.0,
+      "raw_half_portion": 9.0,
+      "proteins": 0.3,
+      "fats": 2.2,
+      "carbohydrates": 6.3,
+      "home_measure_amount": "1",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547806+00:00",
+      "updated_at": "2022-06-28 20:32:29.547808+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9fb61ef3-1d95-4842-b291-97823d0a4900",
+    "fields": {
+      "name": "Pan blanco tipo molde",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 30.6,
+      "cooked_half_portion": 11.0,
+      "raw_half_portion": 11.0,
+      "proteins": 1.0,
+      "fats": 0.2,
+      "carbohydrates": 6.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.547817+00:00",
+      "updated_at": "2022-06-28 20:32:29.547819+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ae85e8b9-0203-4278-9243-32f43ece052c",
+    "fields": {
+      "name": "Pan blanco horneado",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 33.5,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.1,
+      "fats": 0.4,
+      "carbohydrates": 6.1,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547831+00:00",
+      "updated_at": "2022-06-28 20:32:29.547833+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6b2c1200-accd-4720-a78e-ed70c050b3fc",
+    "fields": {
+      "name": "Pan integral",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 44.6,
+      "cooked_half_portion": 16.0,
+      "raw_half_portion": 16.0,
+      "proteins": 1.5,
+      "fats": 0.5,
+      "carbohydrates": 8.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.547841+00:00",
+      "updated_at": "2022-06-28 20:32:29.547843+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "e37c29ad-68a1-481a-85f1-bf7293f34eee",
+    "fields": {
+      "name": "Pan de centeno",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 38.9,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.3,
+      "fats": 0.5,
+      "carbohydrates": 7.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.547852+00:00",
+      "updated_at": "2022-06-28 20:32:29.547854+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ba4dcda5-1dd4-47af-8cbd-c2188c40864b",
+    "fields": {
+      "name": "Pan de granos mixtos",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 40.8,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.6,
+      "fats": 0.6,
+      "carbohydrates": 7.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.547862+00:00",
+      "updated_at": "2022-06-28 20:32:29.547864+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6a08727c-d45d-4681-b71d-69212394b204",
+    "fields": {
+      "name": "Tostada",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 59.7,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.5,
+      "fats": 1.0,
+      "carbohydrates": 10.8,
+      "home_measure_amount": "1",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547873+00:00",
+      "updated_at": "2022-06-28 20:32:29.547875+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "88aaf124-a734-47f7-9f51-a2586d9fa463",
+    "fields": {
+      "name": "Tortillas",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 45.0,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.5,
+      "fats": 1.2,
+      "carbohydrates": 7.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547885+00:00",
+      "updated_at": "2022-06-28 20:32:29.547888+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8a95995d-ca52-4a3e-8f5a-61004fb33e40",
+    "fields": {
+      "name": "Tortillas integrales",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 44.3,
+      "cooked_half_portion": 16.0,
+      "raw_half_portion": 16.0,
+      "proteins": 1.4,
+      "fats": 0.8,
+      "carbohydrates": 8.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547896+00:00",
+      "updated_at": "2022-06-28 20:32:29.547898+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "3dd0b103-1567-4870-810e-6e9096d824cb",
+    "fields": {
+      "name": "Mogolla",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 58.9,
+      "cooked_half_portion": 19.0,
+      "raw_half_portion": 19.0,
+      "proteins": 1.7,
+      "fats": 0.9,
+      "carbohydrates": 11.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.547907+00:00",
+      "updated_at": "2022-06-28 20:32:29.547909+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8043f064-30fb-4cb7-9428-4168ba225a24",
+    "fields": {
+      "name": "Mogolla integral",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 46.5,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 1.1,
+      "fats": 0.3,
+      "carbohydrates": 9.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.547917+00:00",
+      "updated_at": "2022-06-28 20:32:29.547919+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b067540e-586e-4a37-a106-5f9543c44668",
+    "fields": {
+      "name": "Masa pancake",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 40.2,
+      "cooked_half_portion": 12.0,
+      "raw_half_portion": 12.0,
+      "proteins": 1.4,
+      "fats": 0.1,
+      "carbohydrates": 8.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.547927+00:00",
+      "updated_at": "2022-06-28 20:32:29.547929+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "4bae14cf-5fc8-495f-b778-c47454ad3dd7",
+    "fields": {
+      "name": "Amaranto",
+      "food_group": "71d76cc2-099c-45b4-b69f-0fec8624c138",
+      "calories": 46.8,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 1.8,
+      "fats": 0.8,
+      "carbohydrates": 8.3,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.547938+00:00",
+      "updated_at": "2022-06-28 20:32:29.547940+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6709e5dc-705a-4f97-afb1-ba3554ca1ec2",
+    "fields": {
+      "name": "Papa sabanera o pastusa",
+      "food_group": "ea13db80-e3e3-43d1-bcc2-4a0e98682813",
+      "calories": 36.9,
+      "cooked_half_portion": 41.5,
+      "raw_half_portion": 41.5,
+      "proteins": 0.9,
+      "fats": 0.0,
+      "carbohydrates": 7.8,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547959+00:00",
+      "updated_at": "2022-06-28 20:32:29.547961+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "019cd7a2-dd92-409d-b279-8917d4ccf741",
+    "fields": {
+      "name": "Papa amarilla o criolla",
+      "food_group": "ea13db80-e3e3-43d1-bcc2-4a0e98682813",
+      "calories": 51.8,
+      "cooked_half_portion": 54.0,
+      "raw_half_portion": 54.0,
+      "proteins": 1.2,
+      "fats": 0.1,
+      "carbohydrates": 11.4,
+      "home_measure_amount": "1  1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547971+00:00",
+      "updated_at": "2022-06-28 20:32:29.547973+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9a9a369c-d67d-4bc2-bb1e-9b0c2d92a568",
+    "fields": {
+      "name": "Papa a la francesa frita",
+      "food_group": "ea13db80-e3e3-43d1-bcc2-4a0e98682813",
+      "calories": 47.0,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 0.5,
+      "fats": 2.3,
+      "carbohydrates": 5.7,
+      "home_measure_amount": "4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.547981+00:00",
+      "updated_at": "2022-06-28 20:32:29.547983+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "21e7bf09-2a0a-4540-8dff-234f64d03139",
+    "fields": {
+      "name": "Plátano hartón maduro",
+      "food_group": "17b50844-9d7f-4a46-8eb7-5d95406a0bc5",
+      "calories": 43.6,
+      "cooked_half_portion": 33.0,
+      "raw_half_portion": 33.0,
+      "proteins": 0.4,
+      "fats": 0.1,
+      "carbohydrates": 10.0,
+      "home_measure_amount": "1/8",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.548001+00:00",
+      "updated_at": "2022-06-28 20:32:29.548003+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c14c3d2c-bcdd-4dca-804e-569ddf697f10",
+    "fields": {
+      "name": "Platano maduro frito tajadas",
+      "food_group": "17b50844-9d7f-4a46-8eb7-5d95406a0bc5",
+      "calories": 46.8,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 0.2,
+      "fats": 1.5,
+      "carbohydrates": 7.9,
+      "home_measure_amount": "3/4",
+      "home_measure_type": "CH",
+      "created_at": "2022-06-28 20:32:29.548012+00:00",
+      "updated_at": "2022-06-28 20:32:29.548014+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "597e47db-0b81-436c-92a3-82cb22a8eb66",
+    "fields": {
+      "name": "Plátano hartón verde",
+      "food_group": "17b50844-9d7f-4a46-8eb7-5d95406a0bc5",
+      "calories": 64.7,
+      "cooked_half_portion": 39.0,
+      "raw_half_portion": 39.0,
+      "proteins": 0.5,
+      "fats": 0.1,
+      "carbohydrates": 15.3,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.548022+00:00",
+      "updated_at": "2022-06-28 20:32:29.548024+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "883417c1-96b1-43f8-b203-05f729ce32d5",
+    "fields": {
+      "name": "Platano verde frito/Patacon frito",
+      "food_group": "17b50844-9d7f-4a46-8eb7-5d95406a0bc5",
+      "calories": 44.1,
+      "cooked_half_portion": 12.5,
+      "raw_half_portion": 12.5,
+      "proteins": 0.2,
+      "fats": 2.4,
+      "carbohydrates": 5.2,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.548035+00:00",
+      "updated_at": "2022-06-28 20:32:29.548047+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "eb06ff22-d9b1-49e6-9664-d263e995a247",
+    "fields": {
+      "name": "Guineo",
+      "food_group": "17b50844-9d7f-4a46-8eb7-5d95406a0bc5",
+      "calories": 56.3,
+      "cooked_half_portion": 44.0,
+      "raw_half_portion": 44.0,
+      "proteins": 0.6,
+      "fats": 0.0,
+      "carbohydrates": 13.3,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.548062+00:00",
+      "updated_at": "2022-06-28 20:32:29.548065+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "1f97bb17-b974-4937-8f92-e59734f6acfd",
+    "fields": {
+      "name": "Yuca blanca",
+      "food_group": "5c56084e-f774-4045-9a32-65421f972620",
+      "calories": 49.3,
+      "cooked_half_portion": 31.0,
+      "raw_half_portion": 31.0,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 11.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_CT",
+      "created_at": "2022-06-28 20:32:29.548082+00:00",
+      "updated_at": "2022-06-28 20:32:29.548084+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "007ef117-ab28-4023-9d3c-f19a80110fc0",
+    "fields": {
+      "name": "Arracacha",
+      "food_group": "5c56084e-f774-4045-9a32-65421f972620",
+      "calories": 53.3,
+      "cooked_half_portion": 48.0,
+      "raw_half_portion": 48.0,
+      "proteins": 0.4,
+      "fats": 0.0,
+      "carbohydrates": 12.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_CT",
+      "created_at": "2022-06-28 20:32:29.548093+00:00",
+      "updated_at": "2022-06-28 20:32:29.548095+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "53ace3bc-2864-415f-a58c-39c15d501961",
+    "fields": {
+      "name": "Yuca frita",
+      "food_group": "5c56084e-f774-4045-9a32-65421f972620",
+      "calories": 45.2,
+      "cooked_half_portion": 21.5,
+      "raw_half_portion": 21.5,
+      "proteins": 0.2,
+      "fats": 1.1,
+      "carbohydrates": 8.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_UN",
+      "created_at": "2022-06-28 20:32:29.548106+00:00",
+      "updated_at": "2022-06-28 20:32:29.548108+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2558f1d4-73aa-4ae9-a94d-59a7ed172cc4",
+    "fields": {
+      "name": "Bebida de almendras",
+      "food_group": "42ca7fd7-9be8-4da1-acea-fc9b9eeeecc2",
+      "calories": 19.8,
+      "cooked_half_portion": 120.0,
+      "raw_half_portion": 120.0,
+      "proteins": 0.5,
+      "fats": 1.6,
+      "carbohydrates": 1.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_GL",
+      "created_at": "2022-06-28 20:32:29.548125+00:00",
+      "updated_at": "2022-06-28 20:32:29.548127+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "218274ed-860c-4f30-8445-9f98440c6670",
+    "fields": {
+      "name": "Bebida de coco",
+      "food_group": "42ca7fd7-9be8-4da1-acea-fc9b9eeeecc2",
+      "calories": 35.0,
+      "cooked_half_portion": 120.0,
+      "raw_half_portion": 120.0,
+      "proteins": 0.0,
+      "fats": 0.0,
+      "carbohydrates": 9.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_GL",
+      "created_at": "2022-06-28 20:32:29.548135+00:00",
+      "updated_at": "2022-06-28 20:32:29.548137+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "aba918f4-c9ba-465d-90a0-4cfbfeefe0ee",
+    "fields": {
+      "name": "Harina de garbanzo",
+      "food_group": "42ca7fd7-9be8-4da1-acea-fc9b9eeeecc2",
+      "calories": 38.7,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 2.2,
+      "fats": 0.7,
+      "carbohydrates": 5.8,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_TS",
+      "created_at": "2022-06-28 20:32:29.548146+00:00",
+      "updated_at": "2022-06-28 20:32:29.548148+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ce846c7b-5df7-42f3-9971-d80b027d0196",
+    "fields": {
+      "name": "Harina de soja",
+      "food_group": "42ca7fd7-9be8-4da1-acea-fc9b9eeeecc2",
+      "calories": 39.1,
+      "cooked_half_portion": 9.0,
+      "raw_half_portion": 9.0,
+      "proteins": 3.4,
+      "fats": 1.9,
+      "carbohydrates": 2.9,
+      "home_measure_amount": "1",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.548157+00:00",
+      "updated_at": "2022-06-28 20:32:29.548159+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ee45ca84-07da-4008-8335-8882f6f848f1",
+    "fields": {
+      "name": "Harina de quinua",
+      "food_group": "42ca7fd7-9be8-4da1-acea-fc9b9eeeecc2",
+      "calories": 40.6,
+      "cooked_half_portion": 11.0,
+      "raw_half_portion": 11.0,
+      "proteins": 1.2,
+      "fats": 0.5,
+      "carbohydrates": 7.9,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.548167+00:00",
+      "updated_at": "2022-06-28 20:32:29.548169+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "f1691641-dadc-4682-9f0f-8038d6d1ceb0",
+    "fields": {
+      "name": "Algas marinas",
+      "food_group": "42ca7fd7-9be8-4da1-acea-fc9b9eeeecc2",
+      "calories": 19.0,
+      "cooked_half_portion": 50.0,
+      "raw_half_portion": 50.0,
+      "proteins": 1.2,
+      "fats": 0.2,
+      "carbohydrates": 4.2,
+      "home_measure_amount": "16",
+      "home_measure_type": "LF",
+      "created_at": "2022-06-28 20:32:29.548179+00:00",
+      "updated_at": "2022-06-28 20:32:29.548181+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "ff3ea612-2b4f-42cf-8e16-da30ffbd9c68",
+    "fields": {
+      "name": "Salvado de trigo",
+      "food_group": "42ca7fd7-9be8-4da1-acea-fc9b9eeeecc2",
+      "calories": 138.6,
+      "cooked_half_portion": 38.5,
+      "raw_half_portion": 38.5,
+      "proteins": 6.0,
+      "fats": 1.5,
+      "carbohydrates": 24.6,
+      "home_measure_amount": "2 1/2",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.548190+00:00",
+      "updated_at": "2022-06-28 20:32:29.548192+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b54ac267-121b-4dcd-8292-bdf0bd211f86",
+    "fields": {
+      "name": "Hummus",
+      "food_group": "42ca7fd7-9be8-4da1-acea-fc9b9eeeecc2",
+      "calories": 39.8,
+      "cooked_half_portion": 22.5,
+      "raw_half_portion": 22.5,
+      "proteins": 1.1,
+      "fats": 1.9,
+      "carbohydrates": 4.5,
+      "home_measure_amount": "3",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.548203+00:00",
+      "updated_at": "2022-06-28 20:32:29.548205+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "931bd0f9-a9a6-44f4-af0c-c5c350609406",
+    "fields": {
+      "name": "Tofu",
+      "food_group": "7759ad2e-f395-4a4b-8cfa-41e820e130f6",
+      "calories": 49.7,
+      "cooked_half_portion": 35.0,
+      "raw_half_portion": 35.0,
+      "proteins": 6.1,
+      "fats": 2.7,
+      "carbohydrates": 0.2,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.548221+00:00",
+      "updated_at": "2022-06-28 20:32:29.548223+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "c5e3d60e-ec4e-460a-96a2-c7474df8b1ff",
+    "fields": {
+      "name": "Soya texturizada / carve",
+      "food_group": "7759ad2e-f395-4a4b-8cfa-41e820e130f6",
+      "calories": 99.0,
+      "cooked_half_portion": 30.0,
+      "raw_half_portion": 30.0,
+      "proteins": 14.1,
+      "fats": 0.4,
+      "carbohydrates": 11.5,
+      "home_measure_amount": "1",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.548232+00:00",
+      "updated_at": "2022-06-28 20:32:29.548234+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "6fe9fecd-e155-4324-9fab-af9861a98489",
+    "fields": {
+      "name": "Bebida de soya",
+      "food_group": "7759ad2e-f395-4a4b-8cfa-41e820e130f6",
+      "calories": 40.8,
+      "cooked_half_portion": 120.0,
+      "raw_half_portion": 120.0,
+      "proteins": 3.1,
+      "fats": 2.0,
+      "carbohydrates": 2.8,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "BG_GL",
+      "created_at": "2022-06-28 20:32:29.548242+00:00",
+      "updated_at": "2022-06-28 20:32:29.548244+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "acbb749d-2136-4b55-850c-2443058ce2b7",
+    "fields": {
+      "name": "Tempeh",
+      "food_group": "7759ad2e-f395-4a4b-8cfa-41e820e130f6",
+      "calories": 62.7,
+      "cooked_half_portion": 32.5,
+      "raw_half_portion": 32.5,
+      "proteins": 6.0,
+      "fats": 3.5,
+      "carbohydrates": 3.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_CT",
+      "created_at": "2022-06-28 20:32:29.548253+00:00",
+      "updated_at": "2022-06-28 20:32:29.548255+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "02d78e9c-3639-4ed3-ad87-40706eab5348",
+    "fields": {
+      "name": "Arveja verde seca",
+      "food_group": "c2050a50-efcd-4949-8c36-362bf4e384eb",
+      "calories": 46.8,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 12.5,
+      "proteins": 6.0,
+      "fats": 0.3,
+      "carbohydrates": 15.1,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "LA",
+      "created_at": "2022-06-28 20:32:29.548271+00:00",
+      "updated_at": "2022-06-28 20:32:29.548273+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0377c05f-654c-4914-a98b-79aa27ddeb7b",
+    "fields": {
+      "name": "Frijol",
+      "food_group": "c2050a50-efcd-4949-8c36-362bf4e384eb",
+      "calories": 57.9,
+      "cooked_half_portion": 30.0,
+      "raw_half_portion": 15.0,
+      "proteins": 6.8,
+      "fats": 0.5,
+      "carbohydrates": 18.1,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "LA",
+      "created_at": "2022-06-28 20:32:29.548282+00:00",
+      "updated_at": "2022-06-28 20:32:29.548284+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0d212ec7-7e50-455f-b602-fcfbbc4159c1",
+    "fields": {
+      "name": "Garbanzo",
+      "food_group": "c2050a50-efcd-4949-8c36-362bf4e384eb",
+      "calories": 49.1,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 12.5,
+      "proteins": 5.0,
+      "fats": 1.4,
+      "carbohydrates": 14.7,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "LA",
+      "created_at": "2022-06-28 20:32:29.548293+00:00",
+      "updated_at": "2022-06-28 20:32:29.548295+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "35337549-8e44-494b-b0b5-927a03c27a61",
+    "fields": {
+      "name": "Lenteja",
+      "food_group": "c2050a50-efcd-4949-8c36-362bf4e384eb",
+      "calories": 67.7,
+      "cooked_half_portion": 35.0,
+      "raw_half_portion": 17.5,
+      "proteins": 8.1,
+      "fats": 0.3,
+      "carbohydrates": 21.4,
+      "home_measure_amount": "1/4",
+      "home_measure_type": "LA",
+      "created_at": "2022-06-28 20:32:29.548304+00:00",
+      "updated_at": "2022-06-28 20:32:29.548306+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "079bdaf0-369d-41b7-9e6f-aed9c11026cb",
+    "fields": {
+      "name": "Soja",
+      "food_group": "c2050a50-efcd-4949-8c36-362bf4e384eb",
+      "calories": 95.8,
+      "cooked_half_portion": 40.0,
+      "raw_half_portion": 20.0,
+      "proteins": 14.6,
+      "fats": 8.3,
+      "carbohydrates": 11.5,
+      "home_measure_amount": "3",
+      "home_measure_type": "HP_SP",
+      "created_at": "2022-06-28 20:32:29.548315+00:00",
+      "updated_at": "2022-06-28 20:32:29.548317+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "8a667606-d0ed-4d0b-bfd9-84a96ec5e684",
+    "fields": {
+      "name": "Leche de vaca entera",
+      "food_group": "d9de8576-c34a-461d-b9ae-c77b22069838",
+      "calories": 65.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 3.3,
+      "fats": 3.7,
+      "carbohydrates": 4.6,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_GL",
+      "created_at": "2022-06-28 20:32:29.548336+00:00",
+      "updated_at": "2022-06-28 20:32:29.548364+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "44097380-7261-4310-b502-7503bcfb45e7",
+    "fields": {
+      "name": "Leche de vaca deslactosada",
+      "food_group": "d9de8576-c34a-461d-b9ae-c77b22069838",
+      "calories": 62.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 3.3,
+      "fats": 3.4,
+      "carbohydrates": 4.7,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_GL",
+      "created_at": "2022-06-28 20:32:29.548386+00:00",
+      "updated_at": "2022-06-28 20:32:29.548389+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "0a0e9a54-c4bd-4277-aee4-d8e696d541c9",
+    "fields": {
+      "name": "Leche de vaca entera en polvo",
+      "food_group": "d9de8576-c34a-461d-b9ae-c77b22069838",
+      "calories": 67.4,
+      "cooked_half_portion": 13.5,
+      "raw_half_portion": 13.5,
+      "proteins": 3.6,
+      "fats": 3.6,
+      "carbohydrates": 5.2,
+      "home_measure_amount": "3",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.548398+00:00",
+      "updated_at": "2022-06-28 20:32:29.548400+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "7fa9a6e2-ef09-44d2-9cf0-197a051f97f8",
+    "fields": {
+      "name": "Kumis con azúcar",
+      "food_group": "d9de8576-c34a-461d-b9ae-c77b22069838",
+      "calories": 66.0,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 2.2,
+      "fats": 1.9,
+      "carbohydrates": 10.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.548501+00:00",
+      "updated_at": "2022-06-28 20:32:29.548508+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "733f925a-18ea-4bef-a70a-ad5b411ea9be",
+    "fields": {
+      "name": "Yogur entero con azúcar",
+      "food_group": "d9de8576-c34a-461d-b9ae-c77b22069838",
+      "calories": 60.8,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 2.2,
+      "fats": 2.1,
+      "carbohydrates": 8.4,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.548522+00:00",
+      "updated_at": "2022-06-28 20:32:29.548524+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "5adf23f2-e4de-4d48-9297-547a6301ec2c",
+    "fields": {
+      "name": "Yogurt griego",
+      "food_group": "d9de8576-c34a-461d-b9ae-c77b22069838",
+      "calories": 87.8,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 3.1,
+      "fats": 3.8,
+      "carbohydrates": 6.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.548534+00:00",
+      "updated_at": "2022-06-28 20:32:29.548537+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "9868e320-15e8-4134-b362-4a9720183b5d",
+    "fields": {
+      "name": "Queso Ricotta",
+      "food_group": "d9de8576-c34a-461d-b9ae-c77b22069838",
+      "calories": 35.9,
+      "cooked_half_portion": 23.0,
+      "raw_half_portion": 23.0,
+      "proteins": 2.6,
+      "fats": 2.4,
+      "carbohydrates": 0.9,
+      "home_measure_amount": "3",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.548549+00:00",
+      "updated_at": "2022-06-28 20:32:29.548551+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "34f46995-d880-426d-bb61-f66a718e3745",
+    "fields": {
+      "name": "Queso Doble crema, Feta, Mozzarella, Camemberte, Cuajada",
+      "food_group": "d9de8576-c34a-461d-b9ae-c77b22069838",
+      "calories": 40.7,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 2.9,
+      "fats": 3.0,
+      "carbohydrates": 0.5,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_SL",
+      "created_at": "2022-06-28 20:32:29.548561+00:00",
+      "updated_at": "2022-06-28 20:32:29.548563+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "2840f489-c55b-40fb-b5be-af4b08e74652",
+    "fields": {
+      "name": "Queso Campesino, Parmesano, Provolone, Brie, Roquefort, Azul, Mascarpone, Gruyere, Cheddar, Manchego",
+      "food_group": "d9de8576-c34a-461d-b9ae-c77b22069838",
+      "calories": 36.6,
+      "cooked_half_portion": 10.0,
+      "raw_half_portion": 10.0,
+      "proteins": 2.3,
+      "fats": 3.0,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "TH_SL",
+      "created_at": "2022-06-28 20:32:29.548573+00:00",
+      "updated_at": "2022-06-28 20:32:29.548575+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "bb4cf140-d4a9-4c31-a944-8126346aea3b",
+    "fields": {
+      "name": "Leche de vaca descremada",
+      "food_group": "e04e7afe-3003-48eb-85e2-6ac680cd3c92",
+      "calories": 34.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 3.3,
+      "fats": 0.1,
+      "carbohydrates": 4.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_GL",
+      "created_at": "2022-06-28 20:32:29.548593+00:00",
+      "updated_at": "2022-06-28 20:32:29.548595+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "895b8ab2-090e-4b9a-a458-d62e6d110138",
+    "fields": {
+      "name": "Kumis dietético",
+      "food_group": "e04e7afe-3003-48eb-85e2-6ac680cd3c92",
+      "calories": 30.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 6.0,
+      "fats": 3.0,
+      "carbohydrates": 2.0,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_GL",
+      "created_at": "2022-06-28 20:32:29.548604+00:00",
+      "updated_at": "2022-06-28 20:32:29.548606+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "cb599d79-cb5d-446e-83e8-591f592ec159",
+    "fields": {
+      "name": "Yogur dietético",
+      "food_group": "e04e7afe-3003-48eb-85e2-6ac680cd3c92",
+      "calories": 49.0,
+      "cooked_half_portion": 100.0,
+      "raw_half_portion": 100.0,
+      "proteins": 3.7,
+      "fats": 0.3,
+      "carbohydrates": 7.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_GL",
+      "created_at": "2022-06-28 20:32:29.548615+00:00",
+      "updated_at": "2022-06-28 20:32:29.548617+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "05296d7d-a96b-4542-a790-08369ad802a7",
+    "fields": {
+      "name": "Yogurt griego",
+      "food_group": "e04e7afe-3003-48eb-85e2-6ac680cd3c92",
+      "calories": 87.8,
+      "cooked_half_portion": 75.0,
+      "raw_half_portion": 75.0,
+      "proteins": 3.1,
+      "fats": 3.8,
+      "carbohydrates": 6.9,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_GL",
+      "created_at": "2022-06-28 20:32:29.548655+00:00",
+      "updated_at": "2022-06-28 20:32:29.548658+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "5a57f67b-ab4a-4b6a-83ac-b832cf0f60c0",
+    "fields": {
+      "name": "Queso Ricotta",
+      "food_group": "e04e7afe-3003-48eb-85e2-6ac680cd3c92",
+      "calories": 35.9,
+      "cooked_half_portion": 23.0,
+      "raw_half_portion": 23.0,
+      "proteins": 2.6,
+      "fats": 2.4,
+      "carbohydrates": 0.9,
+      "home_measure_amount": "3",
+      "home_measure_type": "LV_SP",
+      "created_at": "2022-06-28 20:32:29.548669+00:00",
+      "updated_at": "2022-06-28 20:32:29.548671+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "70d64368-9a62-44e3-a41e-2ded69f0a52c",
+    "fields": {
+      "name": "Queso Doble crema, Feta, Mozzarella, Camemberte, Cuajada",
+      "food_group": "e04e7afe-3003-48eb-85e2-6ac680cd3c92",
+      "calories": 40.7,
+      "cooked_half_portion": 15.0,
+      "raw_half_portion": 15.0,
+      "proteins": 2.9,
+      "fats": 3.0,
+      "carbohydrates": 0.5,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "MD_SL",
+      "created_at": "2022-06-28 20:32:29.548684+00:00",
+      "updated_at": "2022-06-28 20:32:29.548700+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "b32729ec-33bd-4cf2-ae59-9a839118cc88",
+    "fields": {
+      "name": "Huevo de gallina entero",
+      "food_group": "d126d09b-9119-49ec-8933-5d11f0a115e1",
+      "calories": 37.3,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 25.0,
+      "proteins": 3.2,
+      "fats": 2.7,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.548718+00:00",
+      "updated_at": "2022-06-28 20:32:29.548719+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "160e0c82-db35-4f25-ba5b-6dcdc59edc67",
+    "fields": {
+      "name": "Huevo de gallina clara",
+      "food_group": "d126d09b-9119-49ec-8933-5d11f0a115e1",
+      "calories": 21.2,
+      "cooked_half_portion": 45.0,
+      "raw_half_portion": 45.0,
+      "proteins": 4.9,
+      "fats": 0.1,
+      "carbohydrates": 0.3,
+      "home_measure_amount": "1 1/2",
+      "home_measure_type": "EG_YO",
+      "created_at": "2022-06-28 20:32:29.548728+00:00",
+      "updated_at": "2022-06-28 20:32:29.548730+00:00"
+    }
+  },
+  {
+    "model": "nutrition.Food",
+    "pk": "71c4ad87-be3e-4554-926b-a120382f9295",
+    "fields": {
+      "name": "Huevo de codorniz",
+      "food_group": "d126d09b-9119-49ec-8933-5d11f0a115e1",
+      "calories": 38.5,
+      "cooked_half_portion": 25.0,
+      "raw_half_portion": 25.0,
+      "proteins": 3.3,
+      "fats": 2.8,
+      "carbohydrates": 0.1,
+      "home_measure_amount": "2 1/2",
+      "home_measure_type": "SM_UN",
+      "created_at": "2022-06-28 20:32:29.548739+00:00",
+      "updated_at": "2022-06-28 20:32:29.548741+00:00"
+    }
+  }
+]

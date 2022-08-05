@@ -1,0 +1,2366 @@
+[
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "b7b16f70-8a4a-4c59-b63d-f13c26cfdbd9",
+    "fields": {
+      "value": "TI",
+      "lower_limit": 7,
+      "upper_limit": 13,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "d801b2ab-3a08-4f48-8ef6-ac97fe51453d",
+    "fields": {
+      "value": "VI",
+      "lower_limit": 14,
+      "upper_limit": 20,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "36134ae1-0e31-44ac-9805-05c7cba86c2a",
+    "fields": {
+      "value": "SI",
+      "lower_limit": 21,
+      "upper_limit": 27,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "31ba04cc-85c5-48f2-9a90-c80822dc8064",
+    "fields": {
+      "value": "SR",
+      "lower_limit": 28,
+      "upper_limit": 34,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "286797f0-7c91-4cbe-bdcd-371a77122402",
+    "fields": {
+      "value": "VR",
+      "lower_limit": 35,
+      "upper_limit": 41,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "6ca4b07d-7f4b-45e0-9b62-0549c437f9b8",
+    "fields": {
+      "value": "TR",
+      "lower_limit": 42,
+      "upper_limit": 42,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "dd992206-a0b4-4c11-af0a-ea309cc4597a",
+    "fields": {
+      "value": "TI",
+      "lower_limit": 5,
+      "upper_limit": 9,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "8aaa5aa2-c918-409d-b4c9-1637318d0aef",
+    "fields": {
+      "value": "VI",
+      "lower_limit": 10,
+      "upper_limit": 14,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "a84b7023-7ab3-4736-bf56-4264d51dcddd",
+    "fields": {
+      "value": "SI",
+      "lower_limit": 15,
+      "upper_limit": 19,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "143cdb1a-5f57-4175-b126-cb83dfb73f3d",
+    "fields": {
+      "value": "SR",
+      "lower_limit": 20,
+      "upper_limit": 24,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "ce1cff81-a0ae-4afb-9742-18bc66e8ae19",
+    "fields": {
+      "value": "VR",
+      "lower_limit": 25,
+      "upper_limit": 29,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "a820cfa4-90c6-4b55-9d94-c1a7da9692a0",
+    "fields": {
+      "value": "TR",
+      "lower_limit": 30,
+      "upper_limit": 30,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "0f29f589-8543-403c-8997-a02031b952b8",
+    "fields": {
+      "value": "TI",
+      "lower_limit": 6,
+      "upper_limit": 11,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "3213427a-caa5-42c7-b860-a31e513e1e76",
+    "fields": {
+      "value": "VI",
+      "lower_limit": 12,
+      "upper_limit": 17,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "83394e02-ba86-4c9f-8c51-9697cc6f7619",
+    "fields": {
+      "value": "SI",
+      "lower_limit": 18,
+      "upper_limit": 23,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "282b5c6b-cd76-432f-a626-30004dd3cc8e",
+    "fields": {
+      "value": "SR",
+      "lower_limit": 24,
+      "upper_limit": 29,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "47ecde0b-38ff-486c-8eb1-ccc7bfda7e09",
+    "fields": {
+      "value": "VR",
+      "lower_limit": 30,
+      "upper_limit": 35,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "80d9dc02-33a2-48b6-bf84-5a7400b9fdf8",
+    "fields": {
+      "value": "TR",
+      "lower_limit": 36,
+      "upper_limit": 36,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "60cd5f94-aa02-4955-bdbb-872c0929a38d",
+    "fields": {
+      "value": "TI",
+      "lower_limit": 6,
+      "upper_limit": 11,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "7aff6d4a-8ba2-4a5d-82f4-06203daef7f1",
+    "fields": {
+      "value": "VI",
+      "lower_limit": 12,
+      "upper_limit": 17,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "8fdf8e76-6bf3-421c-970c-183a658e4132",
+    "fields": {
+      "value": "SI",
+      "lower_limit": 18,
+      "upper_limit": 23,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "75282256-a669-4e38-abab-fc2409712598",
+    "fields": {
+      "value": "SR",
+      "lower_limit": 24,
+      "upper_limit": 29,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "9ac2a5e5-7ad9-4a9b-938e-a3c5ce922bd8",
+    "fields": {
+      "value": "VR",
+      "lower_limit": 30,
+      "upper_limit": 35,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "6ce73c9f-b97b-4689-86c4-9eac087c6505",
+    "fields": {
+      "value": "TR",
+      "lower_limit": 36,
+      "upper_limit": 36,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "e7fac40a-a7a5-4eee-9235-d2263f702536",
+    "fields": {
+      "value": "TI",
+      "lower_limit": 5,
+      "upper_limit": 9,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "8b28480e-87a0-4c61-97ab-bea72592563d",
+    "fields": {
+      "value": "VI",
+      "lower_limit": 10,
+      "upper_limit": 14,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "0a38d578-d26d-4b69-a8f3-e5657dbee69d",
+    "fields": {
+      "value": "SI",
+      "lower_limit": 15,
+      "upper_limit": 19,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "ab548332-4244-4e62-b2de-b466f74b91b9",
+    "fields": {
+      "value": "SR",
+      "lower_limit": 20,
+      "upper_limit": 24,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "b52e5aa5-7780-42a8-afe3-7be353056afe",
+    "fields": {
+      "value": "VR",
+      "lower_limit": 25,
+      "upper_limit": 29,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "9bcdb2fe-092c-49d1-b1f3-1a5fb06b9204",
+    "fields": {
+      "value": "TR",
+      "lower_limit": 30,
+      "upper_limit": 30,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "c4859bbf-7bc6-43dc-a188-73ef265e4164",
+    "fields": {
+      "value": "TI",
+      "lower_limit": 7,
+      "upper_limit": 13,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "f8c713fa-50e6-4fe5-b553-0a5f6ac93a94",
+    "fields": {
+      "value": "VI",
+      "lower_limit": 14,
+      "upper_limit": 20,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "79f302e7-f6fe-40bf-bc31-c2c96664f29a",
+    "fields": {
+      "value": "SI",
+      "lower_limit": 21,
+      "upper_limit": 27,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "c8bde5dc-2a0a-446a-8e47-afe4c3046016",
+    "fields": {
+      "value": "SR",
+      "lower_limit": 28,
+      "upper_limit": 34,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "49afde28-af7c-486b-b7a5-033d7ed599fb",
+    "fields": {
+      "value": "VR",
+      "lower_limit": 35,
+      "upper_limit": 41,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "590df9df-1792-4715-9cb6-cb6d5cca3b43",
+    "fields": {
+      "value": "TR",
+      "lower_limit": 42,
+      "upper_limit": 42,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "f013e661-43e7-4b36-8a51-fe25b4cee5bc",
+    "fields": {
+      "value": "TI",
+      "lower_limit": 3,
+      "upper_limit": 5,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "dcf5033e-5406-4cc3-824d-80448023bfe7",
+    "fields": {
+      "value": "VI",
+      "lower_limit": 6,
+      "upper_limit": 8,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "cf13691c-d2cd-46cd-a52c-4d34239ed289",
+    "fields": {
+      "value": "SI",
+      "lower_limit": 9,
+      "upper_limit": 11,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "7d439681-7c82-4e8a-b847-b5ba951fdebb",
+    "fields": {
+      "value": "SR",
+      "lower_limit": 12,
+      "upper_limit": 14,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "b6289376-f80d-449a-a272-d24073993306",
+    "fields": {
+      "value": "VR",
+      "lower_limit": 15,
+      "upper_limit": 17,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "5714c0ef-27f9-424b-b2e4-c2ddc5ad8d12",
+    "fields": {
+      "value": "TR",
+      "lower_limit": 18,
+      "upper_limit": 18,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "38563a2b-a667-4011-ae2a-9dc554268adb",
+    "fields": {
+      "value": "TI",
+      "lower_limit": 6,
+      "upper_limit": 11,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "e7cab4e2-9949-4402-9f69-4e528d600147",
+    "fields": {
+      "value": "VI",
+      "lower_limit": 12,
+      "upper_limit": 17,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "a545ed46-873c-4209-b8a9-62368f274686",
+    "fields": {
+      "value": "SI",
+      "lower_limit": 18,
+      "upper_limit": 23,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "5ebab70c-77a4-4dec-ad51-ea86673c4d81",
+    "fields": {
+      "value": "SR",
+      "lower_limit": 24,
+      "upper_limit": 29,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "12995b00-8ab2-4229-bc5c-64c9a4254300",
+    "fields": {
+      "value": "VR",
+      "lower_limit": 30,
+      "upper_limit": 35,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "e4346bdc-2760-4ad0-a287-f3064293e5f1",
+    "fields": {
+      "value": "TR",
+      "lower_limit": 36,
+      "upper_limit": 36,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "d5d56b7e-d5c1-47ed-b7b5-c5342b031a03",
+    "fields": {
+      "value": "TI",
+      "lower_limit": 7,
+      "upper_limit": 13,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "18456cad-1525-490e-a377-6cc18fee2bd5",
+    "fields": {
+      "value": "VI",
+      "lower_limit": 14,
+      "upper_limit": 20,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "8f4fd7c3-3567-44f5-ba56-0e7a207a81bf",
+    "fields": {
+      "value": "SI",
+      "lower_limit": 21,
+      "upper_limit": 27,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "a824a7d4-4c4b-49a6-ab42-71fb4a27fe3a",
+    "fields": {
+      "value": "SR",
+      "lower_limit": 28,
+      "upper_limit": 34,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "e9b1bb2f-db21-4829-98fa-a22defb709de",
+    "fields": {
+      "value": "VR",
+      "lower_limit": 35,
+      "upper_limit": 41,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "8f216585-9504-43d5-b1d7-524ee7ac96cc",
+    "fields": {
+      "value": "TR",
+      "lower_limit": 42,
+      "upper_limit": 42,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "ee3928a4-3ad0-4637-baf4-b62a4394547a",
+    "fields": {
+      "value": "TI",
+      "lower_limit": 5,
+      "upper_limit": 9,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "5dc2da0e-946e-45d3-8a54-78961266d007",
+    "fields": {
+      "value": "VI",
+      "lower_limit": 10,
+      "upper_limit": 14,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "66012a1b-d6de-4574-9a85-4cd50f2bdf2f",
+    "fields": {
+      "value": "SI",
+      "lower_limit": 15,
+      "upper_limit": 19,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "fc334113-fb69-4215-92b0-28999ce11513",
+    "fields": {
+      "value": "SR",
+      "lower_limit": 20,
+      "upper_limit": 24,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "ba3eb19e-9003-4f18-8d42-a2e3c1e32f69",
+    "fields": {
+      "value": "VR",
+      "lower_limit": 25,
+      "upper_limit": 29,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefScale",
+    "pk": "aebb0b69-3d21-4428-a749-6594561870d8",
+    "fields": {
+      "value": "TR",
+      "lower_limit": 30,
+      "upper_limit": 30,
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestionaire",
+    "pk": "331b68a8-8e85-4756-a6ce-1a30a6754a52",
+    "fields": {
+      "day": 5,
+      "week": 1,
+      "title": "TEST DE CREENCIAS IRRACIONALES",
+      "description": "A continuación se presentan una serie de ideas acerca de diversos aspectos de la vida. Deberá indicar en qué medida describen suforma de pensar habitual con la siguiente clave de acuerdo:\nTD= Totalmente en desacuerdo\nBD= Bastante en desacuerdo\n AD= Algo en desacuerdo AA= Algo de acuerdo\nBA= Bastante de acuerdo\n TA= Totalmente de acuerdo",
+      "summary_description": "Cuanto menor haya sido tu puntuación alcanzada, existe mayor conformidad con la idea auto-limitadora de que: \"Para un adulto es absolutamente necesario tener el cariño y la aprobación de sus semejantes, familia, amigos”. Es realmente imposible gustar a todas las personas del alrededor; incluso aquellas personas a las que se gusta básicamente y aprueba, discreparán en algunas de las conductas y cualidades. Esta creencia es probablemente la mayor causa de infelicidad, ya que se está continuamente forzándose a actuar de acuerdo a las expectativas de los demás para conseguir autoaprobación.",
+      "summary_scales": [
+        "b7b16f70-8a4a-4c59-b63d-f13c26cfdbd9",
+        "d801b2ab-3a08-4f48-8ef6-ac97fe51453d",
+        "36134ae1-0e31-44ac-9805-05c7cba86c2a",
+        "31ba04cc-85c5-48f2-9a90-c80822dc8064",
+        "286797f0-7c91-4cbe-bdcd-371a77122402",
+        "6ca4b07d-7f4b-45e0-9b62-0549c437f9b8"
+      ],
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "df00813b-58a0-4d9e-95d3-613f42ac8cd6",
+    "fields": {
+      "questionaire": "331b68a8-8e85-4756-a6ce-1a30a6754a52",
+      "number": 1,
+      "description": "Es importante para mi que los demás me aprueben",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "44f343bb-36db-4ceb-9499-dc6341f4e22a",
+    "fields": {
+      "questionaire": "331b68a8-8e85-4756-a6ce-1a30a6754a52",
+      "number": 2,
+      "description": "Me gusta el respeto de los otros pero no necesito tenerlo.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "69e35243-d92b-444a-81a5-fcd5289bf954",
+    "fields": {
+      "questionaire": "331b68a8-8e85-4756-a6ce-1a30a6754a52",
+      "number": 3,
+      "description": "Quiero gustar a todo el mundo.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "3fb471be-af7c-4c4c-a38b-85cb5c5d084b",
+    "fields": {
+      "questionaire": "331b68a8-8e85-4756-a6ce-1a30a6754a52",
+      "number": 4,
+      "description": "Puedo gustarme a mi mismo incluso cuando no les agrado a otras personas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "fb2d6f0b-5f39-4e94-aa45-2e9637fefee7",
+    "fields": {
+      "questionaire": "331b68a8-8e85-4756-a6ce-1a30a6754a52",
+      "number": 5,
+      "description": "Si no gusto a otras personas es su problema no el mio.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "9b67087a-61f9-44ec-b980-63f49529ba55",
+    "fields": {
+      "questionaire": "331b68a8-8e85-4756-a6ce-1a30a6754a52",
+      "number": 6,
+      "description": "Aunque me gusta la aprobación, no es una auténtica necesidad para mi.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "e677fc20-ea54-4694-8adf-b74f760519aa",
+    "fields": {
+      "questionaire": "331b68a8-8e85-4756-a6ce-1a30a6754a52",
+      "number": 7,
+      "description": "Es molesto pero no insoportable que me critiquen.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestionaire",
+    "pk": "928f7ef7-8697-4121-98c7-020fa5c198f9",
+    "fields": {
+      "day": 6,
+      "week": 1,
+      "title": "TEST DE CREENCIAS IRRACIONALES",
+      "description": "A continuación se presentan una serie de ideas acerca de diversos aspectos de la vida. Deberá indicar en qué medida describen suforma de pensar habitual con la siguiente clave de acuerdo:\nTD= Totalmente en desacuerdo\nBD= Bastante en desacuerdo\n AD= Algo en desacuerdo AA= Algo de acuerdo\nBA= Bastante de acuerdo\n TA= Totalmente de acuerdo",
+      "summary_description": "Cuanto menor haya sido tu puntuación alcanzada, existe mayor conformidad con la idea auto-limitadora de que: \"Debo ser \"super\" competente y casi perfecto en todo lo que emprendo”. Los resultados de la creencia de que uno ha de ser perfecto son: los auto reproches ante el fallo inevitable, disminución de la autoestima, aplicación de patrones perfeccionistas y paralización y miedo al intentar cualquier cosa.",
+      "summary_scales": [
+        "dd992206-a0b4-4c11-af0a-ea309cc4597a",
+        "8aaa5aa2-c918-409d-b4c9-1637318d0aef",
+        "a84b7023-7ab3-4736-bf56-4264d51dcddd",
+        "143cdb1a-5f57-4175-b126-cb83dfb73f3d",
+        "ce1cff81-a0ae-4afb-9742-18bc66e8ae19",
+        "a820cfa4-90c6-4b55-9d94-c1a7da9692a0"
+      ],
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "d978a89c-be2a-47dd-9ba3-a4d8f38de80b",
+    "fields": {
+      "questionaire": "928f7ef7-8697-4121-98c7-020fa5c198f9",
+      "number": 8,
+      "description": "Odio fallar en cualquier cosa.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "f24073b4-9236-41ba-ae42-c68618281112",
+    "fields": {
+      "questionaire": "928f7ef7-8697-4121-98c7-020fa5c198f9",
+      "number": 9,
+      "description": "Me gusta tener éxito en cualquier cosa pero no siento que lo tenga que lograr.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "6dd31941-e4b1-400c-972b-a3fd490642b2",
+    "fields": {
+      "questionaire": "928f7ef7-8697-4121-98c7-020fa5c198f9",
+      "number": 10,
+      "description": "Para mi es extremadamente importante tener éxito en todo lo que hago.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "4d4511a4-c329-471f-826d-30893874e84d",
+    "fields": {
+      "questionaire": "928f7ef7-8697-4121-98c7-020fa5c198f9",
+      "number": 11,
+      "description": "No me importa realizar cosas que no puedo hacer bien.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "7ae6a376-c263-4375-b3c5-5a862ec14b83",
+    "fields": {
+      "questionaire": "928f7ef7-8697-4121-98c7-020fa5c198f9",
+      "number": 12,
+      "description": "Se puede disfrutar de las actividades por si mismas sin importar lo bueno que sea en ellas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestionaire",
+    "pk": "da1f2f3f-834f-4e11-8c1c-46c3f02776e3",
+    "fields": {
+      "day": 7,
+      "week": 1,
+      "title": "TEST DE CREENCIAS IRRACIONALES",
+      "description": "A continuación se presentan una serie de ideas acerca de diversos aspectos de la vida. Deberá indicar en qué medida describen suforma de pensar habitual con la siguiente clave de acuerdo:\nTD= Totalmente en desacuerdo\nBD= Bastante en desacuerdo\n AD= Algo en desacuerdo AA= Algo de acuerdo\nBA= Bastante de acuerdo\n TA= Totalmente de acuerdo",
+      "summary_description": "Cuanto menor haya sido tu puntuación alcanzada, existe mayor conformidad con la idea auto-limitadora de que: \"Ciertas personas son malas, viles y perversas y deberían ser castigadas” Una posición más real es pensar que tales personas se comportan de modo antisocial e inapropiado, Quizá se deba a que tienen problemas, son ignorantes o neuróticas y lo que deberían hacer es intentar cambiar su conducta.",
+      "summary_scales": [
+        "0f29f589-8543-403c-8997-a02031b952b8",
+        "3213427a-caa5-42c7-b860-a31e513e1e76",
+        "83394e02-ba86-4c9f-8c51-9697cc6f7619",
+        "282b5c6b-cd76-432f-a626-30004dd3cc8e",
+        "47ecde0b-38ff-486c-8eb1-ccc7bfda7e09",
+        "80d9dc02-33a2-48b6-bf84-5a7400b9fdf8"
+      ],
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "f4f44766-19eb-43ae-a4ce-881b70991a94",
+    "fields": {
+      "questionaire": "da1f2f3f-834f-4e11-8c1c-46c3f02776e3",
+      "number": 13,
+      "description": "Las personas que actúan mal merecen lo que les ocurre.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "b1439f71-045d-4dbd-a5c7-985ba0b09d56",
+    "fields": {
+      "questionaire": "da1f2f3f-834f-4e11-8c1c-46c3f02776e3",
+      "number": 14,
+      "description": "Demasiadas malas personas escapan al castigo que merecen.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "70de6175-f930-481f-bc98-96885e47be14",
+    "fields": {
+      "questionaire": "da1f2f3f-834f-4e11-8c1c-46c3f02776e3",
+      "number": 15,
+      "description": "Aquellos que actúan mal deben ser castigados.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "9303246d-be55-422f-b812-326901479a00",
+    "fields": {
+      "questionaire": "da1f2f3f-834f-4e11-8c1c-46c3f02776e3",
+      "number": 16,
+      "description": "La inmoralidad debería castigarse intensamente.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "79f54509-e733-4c51-9146-b611ed187634",
+    "fields": {
+      "questionaire": "da1f2f3f-834f-4e11-8c1c-46c3f02776e3",
+      "number": 17,
+      "description": "Todo el mundo es básicamente bueno.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "d6fbbe7c-616a-4ae5-b6ca-2906adb117ba",
+    "fields": {
+      "questionaire": "da1f2f3f-834f-4e11-8c1c-46c3f02776e3",
+      "number": 18,
+      "description": "Nadie es malvado, incluso cuando sus actos lo sean.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestionaire",
+    "pk": "2a7f3918-b554-4325-a00f-c8d74bd9fc0f",
+    "fields": {
+      "day": 1,
+      "week": 2,
+      "title": "TEST DE CREENCIAS IRRACIONALES",
+      "description": "A continuación se presentan una serie de ideas acerca de diversos aspectos de la vida. Deberá indicar en qué medida describen suforma de pensar habitual con la siguiente clave de acuerdo:\nTD= Totalmente en desacuerdo\nBD= Bastante en desacuerdo\n AD= Algo en desacuerdo AA= Algo de acuerdo\nBA= Bastante de acuerdo\n TA= Totalmente de acuerdo",
+      "summary_description": "Cuanto menor haya sido tu puntuación alcanzada, existe mayor conformidad con la idea auto-limitadora de que: \"Es horrible cuando las cosas no van como a uno le gustaría que fueran” Tan pronto como el globo se deshincha, empieza el diálogo interno \"¿Por qué me pasa esto a mí? No puedo soportarlo. Es horrible, todo es un asco\", Cualquier inconveniente, problema o fallo que aparezca en el camino se interpreta de este modo. El resultado es una profunda irritación e intenso estrés.",
+      "summary_scales": [
+        "60cd5f94-aa02-4955-bdbb-872c0929a38d",
+        "7aff6d4a-8ba2-4a5d-82f4-06203daef7f1",
+        "8fdf8e76-6bf3-421c-970c-183a658e4132",
+        "75282256-a669-4e38-abab-fc2409712598",
+        "9ac2a5e5-7ad9-4a9b-938e-a3c5ce922bd8",
+        "6ce73c9f-b97b-4689-86c4-9eac087c6505"
+      ],
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "4581a7b7-6822-446d-9066-2621f10615fb",
+    "fields": {
+      "questionaire": "2a7f3918-b554-4325-a00f-c8d74bd9fc0f",
+      "number": 19,
+      "description": "Es mejor aceptar las cosas como son,incluso si no me gustan.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "d28ab060-1083-4bff-9389-df7615d31e50",
+    "fields": {
+      "questionaire": "2a7f3918-b554-4325-a00f-c8d74bd9fc0f",
+      "number": 20,
+      "description": "Las cosas deberían ser diferentes de cómo son.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "68b5dd4e-7475-494d-9eee-674ddbe21d79",
+    "fields": {
+      "questionaire": "2a7f3918-b554-4325-a00f-c8d74bd9fc0f",
+      "number": 21,
+      "description": "Esterrible pasar por situaciones que no me gustan.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "d56de5e9-44d9-46fe-81b3-b8574ce10290",
+    "fields": {
+      "questionaire": "2a7f3918-b554-4325-a00f-c8d74bd9fc0f",
+      "number": 22,
+      "description": "Es dificil para mi realizar tareas desagradables.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "b884b111-dcaa-4643-a603-5167734e2f73",
+    "fields": {
+      "questionaire": "2a7f3918-b554-4325-a00f-c8d74bd9fc0f",
+      "number": 23,
+      "description": "Creo que puedo soportar los errores de los demás.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "5c60f941-644d-4cf1-9471-85585dc088d9",
+    "fields": {
+      "questionaire": "2a7f3918-b554-4325-a00f-c8d74bd9fc0f",
+      "number": 24,
+      "description": "Una vida de facilidades rara vez es recompensante.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestionaire",
+    "pk": "300e5541-ee72-43d3-ad69-3f4b4c48931e",
+    "fields": {
+      "day": 2,
+      "week": 2,
+      "title": "TEST DE CREENCIAS IRRACIONALES",
+      "description": "A continuación se presentan una serie de ideas acerca de diversos aspectos de la vida. Deberá indicar en qué medida describen suforma de pensar habitual con la siguiente clave de acuerdo:\nTD= Totalmente en desacuerdo\nBD= Bastante en desacuerdo\n AD= Algo en desacuerdo AA= Algo de acuerdo\nBA= Bastante de acuerdo\n TA= Totalmente de acuerdo",
+      "summary_description": "Cuanto menor haya sido tu puntuación alcanzada, mayor es la conformidad con la idea auto-limitadora de que: \"Se debe sentir miedo o ansiedad ante cualquier cosa desconocida, incierta o potencialmente peligrosa”  Desarrollar miedo o ansiedad ante lo incierto aumenta el estrés; por el contrario, reservar las respuestas de miedo al peligro real permite disfrutar de lo incierto como una experiencia nueva y estimulante.",
+      "summary_scales": [
+        "e7fac40a-a7a5-4eee-9235-d2263f702536",
+        "8b28480e-87a0-4c61-97ab-bea72592563d",
+        "0a38d578-d26d-4b69-a8f3-e5657dbee69d",
+        "ab548332-4244-4e62-b2de-b466f74b91b9",
+        "b52e5aa5-7780-42a8-afe3-7be353056afe",
+        "9bcdb2fe-092c-49d1-b1f3-1a5fb06b9204"
+      ],
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "f12e6bbe-9e42-4fce-b178-ba5eecca2cbe",
+    "fields": {
+      "questionaire": "300e5541-ee72-43d3-ad69-3f4b4c48931e",
+      "number": 25,
+      "description": "No hay motivo para temer peligros inesperados o sucesos futuros.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "275421a3-a706-43bf-8338-0363657258c8",
+    "fields": {
+      "questionaire": "300e5541-ee72-43d3-ad69-3f4b4c48931e",
+      "number": 26,
+      "description": "Si no puedo evitar que ocurra algo, es mejor no preocuparse por ello.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "7300c5ee-a829-4929-8955-35a2e5642ec3",
+    "fields": {
+      "questionaire": "300e5541-ee72-43d3-ad69-3f4b4c48931e",
+      "number": 27,
+      "description": "No puedo soportar correr riesgos.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "3dfd1eb2-faea-44a0-8ad8-29da0e9e7631",
+    "fields": {
+      "questionaire": "300e5541-ee72-43d3-ad69-3f4b4c48931e",
+      "number": 28,
+      "description": "Es mejor no pensar en cosas tales como la muerte o grandes desastres.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "6ed1641c-9af3-4bf3-b202-1091133e635d",
+    "fields": {
+      "questionaire": "300e5541-ee72-43d3-ad69-3f4b4c48931e",
+      "number": 29,
+      "description": "Es conveniente planificar lo que haría en diferentes situaciones peligrosas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestionaire",
+    "pk": "9c15dfce-2be3-4d71-a37e-cff34980004c",
+    "fields": {
+      "day": 3,
+      "week": 2,
+      "title": "TEST DE CREENCIAS IRRACIONALES",
+      "description": "A continuación se presentan una serie de ideas acerca de diversos aspectos de la vida. Deberá indicar en qué medida describen suforma de pensar habitual con la siguiente clave de acuerdo:\nTD= Totalmente en desacuerdo\nBD= Bastante en desacuerdo\n AD= Algo en desacuerdo AA= Algo de acuerdo\nBA= Bastante de acuerdo\n TA= Totalmente de acuerdo",
+      "summary_description": "Cuanto menor haya sido tu puntuación alcanzada, existe mayor conformidad con la idea auto-limitadora de que: “Los acontecimientos externos son la causa de la mayoría de las desgracias de la humanidad' la gente simplemente reacciona según cómo los acontecimientos inciden en sus emociones”.  Piensas que para lograr la felicidad o evitar la tristeza hay que controlar los acontecimientos externos. Dado que ese control es limitado y que no podemos controlar los deseos y comportamientos de los demás, el resultado es la sensación de infelicidad y una ansiedad crónica, Atribuir la falta de felicidad a los acontecimientos es una forma de evitar enfrentarse con la realidad. Las propias interpretaciones de los hechos son las que causan la infelicidad. Mientras que poseemos un control limitado sobre las acciones de los demás, disponemos de un gran control de nuestras emociones y acciones.",
+      "summary_scales": [
+        "c4859bbf-7bc6-43dc-a188-73ef265e4164",
+        "f8c713fa-50e6-4fe5-b553-0a5f6ac93a94",
+        "79f302e7-f6fe-40bf-bc31-c2c96664f29a",
+        "c8bde5dc-2a0a-446a-8e47-afe4c3046016",
+        "49afde28-af7c-486b-b7a5-033d7ed599fb",
+        "590df9df-1792-4715-9cb6-cb6d5cca3b43"
+      ],
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "913a9979-481c-48a4-ab69-4da968ae680b",
+    "fields": {
+      "questionaire": "9c15dfce-2be3-4d71-a37e-cff34980004c",
+      "number": 30,
+      "description": "Si una persona quiere, puede ser feliz casi bajo cualquier circunstancia.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "cd294597-8230-437b-98e1-de554f305d8a",
+    "fields": {
+      "questionaire": "9c15dfce-2be3-4d71-a37e-cff34980004c",
+      "number": 31,
+      "description": "Las personas no se ven perturbadas por las situaciones sino por la formaen que las ven.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "a0f23fd4-c836-47e6-be1a-2de5bc60bcdb",
+    "fields": {
+      "questionaire": "9c15dfce-2be3-4d71-a37e-cff34980004c",
+      "number": 32,
+      "description": "Yo soy la causa de mis propios estados de ánimo.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "e752cb94-abe1-4562-9b84-80b4b3450ce7",
+    "fields": {
+      "questionaire": "9c15dfce-2be3-4d71-a37e-cff34980004c",
+      "number": 33,
+      "description": "Normalmente las personas que son desdichadas se han hecho a si mismasde esa manera.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "a54b5bd5-e738-4eb0-97e4-84efa922c85f",
+    "fields": {
+      "questionaire": "9c15dfce-2be3-4d71-a37e-cff34980004c",
+      "number": 34,
+      "description": "Una persona no permanecerá mucho tiempo enfadada o triste a menos que se mantenga a si misma de esa manera.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "5846ac52-3926-46f3-bba2-a193a5da1f4e",
+    "fields": {
+      "questionaire": "9c15dfce-2be3-4d71-a37e-cff34980004c",
+      "number": 35,
+      "description": "Nada es insoportable en simismo,solo en la forma en que tú lo interpretas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "e90894ed-9746-4369-91ef-89a5763a9eb9",
+    "fields": {
+      "questionaire": "9c15dfce-2be3-4d71-a37e-cff34980004c",
+      "number": 36,
+      "description": "La persona hace su propio infierno dentro de si mismo.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestionaire",
+    "pk": "23199ae3-1f2b-4487-84ed-137a25fd5d4f",
+    "fields": {
+      "day": 4,
+      "week": 2,
+      "title": "TEST DE CREENCIAS IRRACIONALES",
+      "description": "A continuación se presentan una serie de ideas acerca de diversos aspectos de la vida. Deberá indicar en qué medida describen suforma de pensar habitual con la siguiente clave de acuerdo:\nTD= Totalmente en desacuerdo\nBD= Bastante en desacuerdo\n AD= Algo en desacuerdo AA= Algo de acuerdo\nBA= Bastante de acuerdo\n TA= Totalmente de acuerdo",
+      "summary_description": "Cuanto menor haya sido tu puntuación alcanzada, mayor es tu conformidad con la idea auto-limitadora de que: \"Es más fácil evitar los problemas y responsabilidades de la vida que hacerles frente” Esta creencia es la base para eludir las responsabilidades y no controlar nuestra vida. Hay muchas formas de expresarla: \"Debería decirle que ya no me interesa, pero no esta noche... Tendría que encontrar otro trabajo, pero estoy demasiado cansado para ponerme a buscarlo en los ratos libres... Un grifo que gotea no hace daño a nadie... Podría ir de compras hoy, pero el coche hace una especie de ruido raro. Etc.\"",
+      "summary_scales": [
+        "f013e661-43e7-4b36-8a51-fe25b4cee5bc",
+        "dcf5033e-5406-4cc3-824d-80448023bfe7",
+        "cf13691c-d2cd-46cd-a52c-4d34239ed289",
+        "7d439681-7c82-4e8a-b847-b5ba951fdebb",
+        "b6289376-f80d-449a-a272-d24073993306",
+        "5714c0ef-27f9-424b-b2e4-c2ddc5ad8d12"
+      ],
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "0c442497-39e8-4879-b78c-c6a2b5dc8d7d",
+    "fields": {
+      "questionaire": "23199ae3-1f2b-4487-84ed-137a25fd5d4f",
+      "number": 37,
+      "description": "Es mejor posponer las decisiones importantes.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "fcd2c1b1-5d7e-414d-8407-43bf34dced9b",
+    "fields": {
+      "questionaire": "23199ae3-1f2b-4487-84ed-137a25fd5d4f",
+      "number": 38,
+      "description": "Es preferible tomar las decisionestan pronto como se pueda.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "e5b191c4-6c01-4362-85c7-d43901604f5d",
+    "fields": {
+      "questionaire": "23199ae3-1f2b-4487-84ed-137a25fd5d4f",
+      "number": 39,
+      "description": "Es mejor evitar las cosas que no puedo hacer bien.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestionaire",
+    "pk": "9635f4c8-4375-42a3-a3bd-cfa48a258b01",
+    "fields": {
+      "day": 5,
+      "week": 2,
+      "title": "TEST DE CREENCIAS IRRACIONALES",
+      "description": "A continuación se presentan una serie de ideas acerca de diversos aspectos de la vida. Deberá indicar en qué medida describen suforma de pensar habitual con la siguiente clave de acuerdo:\nTD= Totalmente en desacuerdo\nBD= Bastante en desacuerdo\n AD= Algo en desacuerdo AA= Algo de acuerdo\nBA= Bastante de acuerdo\n TA= Totalmente de acuerdo",
+      "summary_description": "Cuanto menor haya sido tu puntuación alcanzada, mayor es tu conformidad con la idea auto-limitadora de que: \"Se necesita contar con algo más grande y más fuerte que uno mismo” Esta creencia se convierte en una trampa psicológica en la que sus opiniones y conocimientos quedan atrapados por la dependencia desarrollada hacia una autoridad superior.",
+      "summary_scales": [
+        "38563a2b-a667-4011-ae2a-9dc554268adb",
+        "e7cab4e2-9949-4402-9f69-4e528d600147",
+        "a545ed46-873c-4209-b8a9-62368f274686",
+        "5ebab70c-77a4-4dec-ad51-ea86673c4d81",
+        "12995b00-8ab2-4229-bc5c-64c9a4254300",
+        "e4346bdc-2760-4ad0-a287-f3064293e5f1"
+      ],
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "92ec61e6-706e-4a76-b759-ddf4834e89d1",
+    "fields": {
+      "questionaire": "9635f4c8-4375-42a3-a3bd-cfa48a258b01",
+      "number": 40,
+      "description": "Todo el mundo necesita alguien de quien depender para ayuda y consejo.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "eded9130-0482-4b04-8e13-c308642f3143",
+    "fields": {
+      "questionaire": "9635f4c8-4375-42a3-a3bd-cfa48a258b01",
+      "number": 41,
+      "description": "Considero adecuado resolver mis propios asuntos sin ayuda de nadie.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "212fefa4-8514-48ce-9285-7370b53e2047",
+    "fields": {
+      "questionaire": "9635f4c8-4375-42a3-a3bd-cfa48a258b01",
+      "number": 42,
+      "description": "Encuentro fácil aceptar consejos.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "f5c34a31-a83b-442b-9a5d-5e6aa811c850",
+    "fields": {
+      "questionaire": "9635f4c8-4375-42a3-a3bd-cfa48a258b01",
+      "number": 43,
+      "description": "Soy el único que realmente puede entender y afrontar mis problemas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "92243740-aaef-400e-bb4e-a7d75293706e",
+    "fields": {
+      "questionaire": "9635f4c8-4375-42a3-a3bd-cfa48a258b01",
+      "number": 44,
+      "description": "Creo que no tengo que depender de otros.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "457fb145-9acc-4bf4-a090-171a59654d6a",
+    "fields": {
+      "questionaire": "9635f4c8-4375-42a3-a3bd-cfa48a258b01",
+      "number": 45,
+      "description": "He aprendido a no esperar que otros se preocupen acerca de mi bienestar.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestionaire",
+    "pk": "40cc4ea8-53bf-4b0a-8a9b-94f311082658",
+    "fields": {
+      "day": 6,
+      "week": 2,
+      "title": "TEST DE CREENCIAS IRRACIONALES",
+      "description": "A continuación se presentan una serie de ideas acerca de diversos aspectos de la vida. Deberá indicar en qué medida describen suforma de pensar habitual con la siguiente clave de acuerdo:\nTD= Totalmente en desacuerdo\nBD= Bastante en desacuerdo\n AD= Algo en desacuerdo AA= Algo de acuerdo\nBA= Bastante de acuerdo\n TA= Totalmente de acuerdo",
+      "summary_description": "Cuanto menor haya sido tu puntuación alcanzada, mayor es tu conformidad con la idea auto-limitadora de que: “El pasado tiene gran influencia en la determinación del presente” Sólo porque una vez algo te afectó de forma importante no significa que debas continuar con las conductas que desarrollaste en esta situación primera. Esas formas y modelo de conducta son sólo decisiones tomadas tantas veces que se han hecho casi automáticas. Debes averiguar cuáles son y empezar a cambiarlas ahora mismo. Hay que aprender de las experiencias pasadas, pero no se debe de permanecer atado a ellas indefinidamente.",
+      "summary_scales": [
+        "d5d56b7e-d5c1-47ed-b7b5-c5342b031a03",
+        "18456cad-1525-490e-a377-6cc18fee2bd5",
+        "8f4fd7c3-3567-44f5-ba56-0e7a207a81bf",
+        "a824a7d4-4c4b-49a6-ab42-71fb4a27fe3a",
+        "e9b1bb2f-db21-4829-98fa-a22defb709de",
+        "8f216585-9504-43d5-b1d7-524ee7ac96cc"
+      ],
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "747a750c-5c6a-4b4c-956c-f6556f1fe136",
+    "fields": {
+      "questionaire": "40cc4ea8-53bf-4b0a-8a9b-94f311082658",
+      "number": 46,
+      "description": "Siempre nos acompañaran los mismos problemas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "8b60bf28-7fc1-4fd7-9f27-4e1f259979f0",
+    "fields": {
+      "questionaire": "40cc4ea8-53bf-4b0a-8a9b-94f311082658",
+      "number": 47,
+      "description": "Es casi imposible superar las influencias del pasado.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "1a711bf6-6933-4bc7-936e-75982b742526",
+    "fields": {
+      "questionaire": "40cc4ea8-53bf-4b0a-8a9b-94f311082658",
+      "number": 48,
+      "description": "Por el hecho de que en una ocasión algo afecte de forma importante a tuvida, no significa que tenga que ser necesariamente así en elfuturo.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "8943cee3-3d69-4536-94d5-31b8abf83967",
+    "fields": {
+      "questionaire": "40cc4ea8-53bf-4b0a-8a9b-94f311082658",
+      "number": 49,
+      "description": "Rara vez pienso que experiencias del pasado meestén afectando ahora.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "56da5ee7-1764-4f2f-bf4c-b642f4228b26",
+    "fields": {
+      "questionaire": "40cc4ea8-53bf-4b0a-8a9b-94f311082658",
+      "number": 50,
+      "description": "Somos esclavos de nuestras propias historias personales.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "dee8580c-ba25-4092-8c18-57728a62422d",
+    "fields": {
+      "questionaire": "40cc4ea8-53bf-4b0a-8a9b-94f311082658",
+      "number": 51,
+      "description": "Una vez que algo afecta a tu vida siempre lo hará.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "accc2414-2f55-4d17-96ea-e0d05accda01",
+    "fields": {
+      "questionaire": "40cc4ea8-53bf-4b0a-8a9b-94f311082658",
+      "number": 52,
+      "description": "La gente nunca cambia básicamente.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestionaire",
+    "pk": "b080cb90-8cc1-4afe-976e-b9e97efee1eb",
+    "fields": {
+      "day": 7,
+      "week": 2,
+      "title": "TEST DE CREENCIAS IRRACIONALES",
+      "description": "A continuación se presentan una serie de ideas acerca de diversos aspectos de la vida. Deberá indicar en qué medida describen suforma de pensar habitual con la siguiente clave de acuerdo:\nTD= Totalmente en desacuerdo\nBD= Bastante en desacuerdo\n AD= Algo en desacuerdo AA= Algo de acuerdo\nBA= Bastante de acuerdo\n TA= Totalmente de acuerdo",
+      "summary_description": "Cuanto menor haya sido tu puntuación alcanzada, mayor es tu conformidad con la idea auto-limitadora de que: “La felicidad aumenta con la inactividad, la pasividad y el ocio indefinido” Esto es el llamado \"Síndrome de los Campos Elíseos\". La relajación absoluta puede formar parte momentánea de la felicidad, pero existen más formas de Felicidad: el trabajo bien realizado, el esfuerzo por conseguir los propios objetivos, etc.",
+      "summary_scales": [
+        "ee3928a4-3ad0-4637-baf4-b62a4394547a",
+        "5dc2da0e-946e-45d3-8a54-78961266d007",
+        "66012a1b-d6de-4574-9a85-4cd50f2bdf2f",
+        "fc334113-fb69-4215-92b0-28999ce11513",
+        "ba3eb19e-9003-4f18-8d42-a2e3c1e32f69",
+        "aebb0b69-3d21-4428-a749-6594561870d8"
+      ],
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "342bd011-7507-4454-97e1-6f7d762e2c6b",
+    "fields": {
+      "questionaire": "b080cb90-8cc1-4afe-976e-b9e97efee1eb",
+      "number": 53,
+      "description": "Existe una forma correcta de hacer cada cosa.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "025e7a75-578c-42a8-ae2b-18723a104da4",
+    "fields": {
+      "questionaire": "b080cb90-8cc1-4afe-976e-b9e97efee1eb",
+      "number": 54,
+      "description": "No hay una solución perfecta para las cosas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "526cb4b1-06e8-4cb8-bfaa-b815148283ff",
+    "fields": {
+      "questionaire": "b080cb90-8cc1-4afe-976e-b9e97efee1eb",
+      "number": 55,
+      "description": "Rara vez hay una forma fácil de resolver las dificultades de la vida.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "eaf720a2-ccfa-44ab-b8ca-4f40d29b89af",
+    "fields": {
+      "questionaire": "b080cb90-8cc1-4afe-976e-b9e97efee1eb",
+      "number": 56,
+      "description": "Todo problema tiene una solución correcta.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.IrrationalBeliefQuestion",
+    "pk": "6e89c1a3-00ff-4e05-ae94-8bcd7c23cadb",
+    "fields": {
+      "questionaire": "b080cb90-8cc1-4afe-976e-b9e97efee1eb",
+      "number": 57,
+      "description": "Rara vez hay una solución ideal para las cosas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestionaire",
+    "pk": "941a7f27-ec3a-46d6-a06e-fce22f5fc5e0",
+    "fields": {
+      "day": 3,
+      "week": 3,
+      "title": "Inventario Psicológico de Ejecución Deportiva (IPED)",
+      "description": "A continuación encontrarás una serie de afirmaciones referidas a tus pensamientos, sentimientos, actitudes o comportamientos durante los entrenamientos y/o competencias o partidos. Lee atentamente cada frase y decide la frecuencia con la que crees que se produce cada una de ellas.",
+      "summary_description": "Autoconfianza",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "054c6fc3-f0e9-4f4c-9e19-29af1dc15bd5",
+    "fields": {
+      "questionaire": "941a7f27-ec3a-46d6-a06e-fce22f5fc5e0",
+      "number": 1,
+      "description": "Me veo más como un perdedor que como un ganador durante las competencias o partidos.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "0ef8819c-62ef-477b-b3c9-b129439c425a",
+    "fields": {
+      "questionaire": "941a7f27-ec3a-46d6-a06e-fce22f5fc5e0",
+      "number": 8,
+      "description": "Creo en mí mismo/a como deportista.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "e9382a9f-175a-4a44-8780-ca68362278dc",
+    "fields": {
+      "questionaire": "941a7f27-ec3a-46d6-a06e-fce22f5fc5e0",
+      "number": 15,
+      "description": "Pierdo mi confianza fácilmente.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "473b0dd6-bbb2-457e-9b29-8e904fed18cf",
+    "fields": {
+      "questionaire": "941a7f27-ec3a-46d6-a06e-fce22f5fc5e0",
+      "number": 22,
+      "description": "Puedo rendir por encima de mi talento y mis habilidades.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "044ee252-067e-41ab-a728-f6bbf95b5dc5",
+    "fields": {
+      "questionaire": "941a7f27-ec3a-46d6-a06e-fce22f5fc5e0",
+      "number": 29,
+      "description": "Soy un/a deportista fuerte mentalmente.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "81c7632a-504b-4ac4-8b72-aca2f1a0aca3",
+    "fields": {
+      "questionaire": "941a7f27-ec3a-46d6-a06e-fce22f5fc5e0",
+      "number": 36,
+      "description": "La imagen que proyecto al exterior es la de ser un/a luchador/a.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestionaire",
+    "pk": "334e2b2f-d500-4d35-8cae-f263f2ba5368",
+    "fields": {
+      "day": 4,
+      "week": 3,
+      "title": "Inventario Psicológico de Ejecución Deportiva (IPED)",
+      "description": "A continuación encontrarás una serie de afirmaciones referidas a tus pensamientos, sentimientos, actitudes o comportamientos durante los entrenamientos y/o competencias o partidos. Lee atentamente cada frase y decide la frecuencia con la que crees que se produce cada una de ellas.",
+      "summary_description": "Control de afrontamiento negativo",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "d1619168-57a9-4ec7-b5d4-b95dd4d3e66f",
+    "fields": {
+      "questionaire": "334e2b2f-d500-4d35-8cae-f263f2ba5368",
+      "number": 2,
+      "description": "Me enojo y me frustro durante las competencias o partidos.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "0bca5b9f-8d6b-4838-ad25-48e2fbc653fa",
+    "fields": {
+      "questionaire": "334e2b2f-d500-4d35-8cae-f263f2ba5368",
+      "number": 9,
+      "description": "Me pongo demasiado nervioso/a durante las competencias o partidos.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "313aa3d9-f65e-4beb-a964-6ea76857b7c2",
+    "fields": {
+      "questionaire": "334e2b2f-d500-4d35-8cae-f263f2ba5368",
+      "number": 16,
+      "description": "Los errores durante las competencias me hacen sentir y pensar negativamente sobre mí mismo.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "d86e5667-6350-472e-8a5d-a3d10f6cc505",
+    "fields": {
+      "questionaire": "334e2b2f-d500-4d35-8cae-f263f2ba5368",
+      "number": 23,
+      "description": "Durante las competencias siento que mis músculos se tensan y creo que no me van a responder.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "030892e3-9db5-4d4f-9374-4e6d511b14fb",
+    "fields": {
+      "questionaire": "334e2b2f-d500-4d35-8cae-f263f2ba5368",
+      "number": 30,
+      "description": "Cuando compito, las situaciones incontrolables, como el viento, las trampas de los contrarios, los malos arbitrajes, me alteran y hacen que me derrumbe.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "b848fe66-e7a0-4363-97f5-dd016ee48135",
+    "fields": {
+      "questionaire": "334e2b2f-d500-4d35-8cae-f263f2ba5368",
+      "number": 37,
+      "description": "Puedo permanecer tranquilo/a durante las competencias aunque aparezcan problemas perturbadores.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestionaire",
+    "pk": "9b22c93d-d867-42ed-a201-03ef56643a8b",
+    "fields": {
+      "day": 5,
+      "week": 3,
+      "title": "Inventario Psicológico de Ejecución Deportiva (IPED)",
+      "description": "A continuación encontrarás una serie de afirmaciones referidas a tus pensamientos, sentimientos, actitudes o comportamientos durante los entrenamientos y/o competencias o partidos. Lee atentamente cada frase y decide la frecuencia con la que crees que se produce cada una de ellas.",
+      "summary_description": "Control atencional",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "5b864623-843c-41de-b16c-31ab98a4c9c5",
+    "fields": {
+      "questionaire": "9b22c93d-d867-42ed-a201-03ef56643a8b",
+      "number": 3,
+      "description": "Me distraigo y pierdo mi concentración durante las competencias o partidos.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "a040e138-2652-4095-a87d-b04849907784",
+    "fields": {
+      "questionaire": "9b22c93d-d867-42ed-a201-03ef56643a8b",
+      "number": 10,
+      "description": "En los momentos críticos de las competencias me da la impresión de que mi cabeza va demasiado rápido (a mil kilómetros por hora).",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "fe0d86eb-2915-47e9-9473-8f0d9ff228a0",
+    "fields": {
+      "questionaire": "9b22c93d-d867-42ed-a201-03ef56643a8b",
+      "number": 17,
+      "description": "Puedo controlar rápidamente mis emociones y recuperar la concentración.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "d87f3f9c-0ecf-4863-a38b-c75de71b7b2f",
+    "fields": {
+      "questionaire": "9b22c93d-d867-42ed-a201-03ef56643a8b",
+      "number": 24,
+      "description": "Tengo momentos de desconcentración durante las competencias o partidos.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "7e89966d-6768-4853-bbba-481c367531c6",
+    "fields": {
+      "questionaire": "9b22c93d-d867-42ed-a201-03ef56643a8b",
+      "number": 31,
+      "description": "Durante las competencias o partidos pienso en errores pasados o en oportunidades perdidas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "da2cecbd-aefa-424c-8929-2e525bf6f445",
+    "fields": {
+      "questionaire": "9b22c93d-d867-42ed-a201-03ef56643a8b",
+      "number": 38,
+      "description": "Mi concentración se rompe fácilmente.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestionaire",
+    "pk": "bd1f364f-9065-45fd-804d-b38b9358f05d",
+    "fields": {
+      "day": 6,
+      "week": 3,
+      "title": "Inventario Psicológico de Ejecución Deportiva (IPED)",
+      "description": "A continuación encontrarás una serie de afirmaciones referidas a tus pensamientos, sentimientos, actitudes o comportamientos durante los entrenamientos y/o competencias o partidos. Lee atentamente cada frase y decide la frecuencia con la que crees que se produce cada una de ellas.",
+      "summary_description": "Control visual-imaginativo",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "448743d9-10e7-48a7-886a-5c20d1e93cbe",
+    "fields": {
+      "questionaire": "bd1f364f-9065-45fd-804d-b38b9358f05d",
+      "number": 4,
+      "description": "Antes de las competencias me imagino a mí mismo ejecutando mis acciones y rindiendo perfectamente.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "ff7ac027-e740-45a6-8695-629249cad884",
+    "fields": {
+      "questionaire": "bd1f364f-9065-45fd-804d-b38b9358f05d",
+      "number": 11,
+      "description": "Practico mentalmente mis habilidades físicas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "aa269825-f4c1-4047-bcb0-be1cf177c379",
+    "fields": {
+      "questionaire": "bd1f364f-9065-45fd-804d-b38b9358f05d",
+      "number": 18,
+      "description": "Para mí es fácil pensar fotográficamente (en imágenes) acerca de mi deporte.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "fe609937-dfbd-4cf2-9ccd-29ffc7862e0c",
+    "fields": {
+      "questionaire": "bd1f364f-9065-45fd-804d-b38b9358f05d",
+      "number": 25,
+      "description": "Antes de las competencias me visualizo superando situaciones difíciles y ejecutando acciones complejas.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "f633de53-2397-4a6d-a38d-77ca46b4df87",
+    "fields": {
+      "questionaire": "bd1f364f-9065-45fd-804d-b38b9358f05d",
+      "number": 32,
+      "description": "Durante las competencias utilizo imágenes que me ayudan a rendir mejor.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "ecde89ae-e51a-4b13-a134-ad3776e61d50",
+    "fields": {
+      "questionaire": "bd1f364f-9065-45fd-804d-b38b9358f05d",
+      "number": 39,
+      "description": "Cuando me visualizo compitiendo o entrenando, puedo ver y sentir las cosas de forma muy real.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestionaire",
+    "pk": "ea95b8b1-eca3-4419-8c67-0cf05d07636a",
+    "fields": {
+      "day": 7,
+      "week": 3,
+      "title": "Inventario Psicológico de Ejecución Deportiva (IPED)",
+      "description": "A continuación encontrarás una serie de afirmaciones referidas a tus pensamientos, sentimientos, actitudes o comportamientos durante los entrenamientos y/o competencias o partidos. Lee atentamente cada frase y decide la frecuencia con la que crees que se produce cada una de ellas.",
+      "summary_description": "Nivel motivacional",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "4a46f511-dee6-4251-9823-3375e9de02f4",
+    "fields": {
+      "questionaire": "ea95b8b1-eca3-4419-8c67-0cf05d07636a",
+      "number": 5,
+      "description": "Estoy muy motivado/a para dar lo mejor de mí en cada competencia o partido.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "3819cbb8-b472-472e-b79e-6c72e565727c",
+    "fields": {
+      "questionaire": "ea95b8b1-eca3-4419-8c67-0cf05d07636a",
+      "number": 12,
+      "description": "Trabajo y entreno duro gracias a los objetivos que yo me he fijado como deportista.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "fcb8362c-62a6-48fd-9207-2fa8e28459bb",
+    "fields": {
+      "questionaire": "ea95b8b1-eca3-4419-8c67-0cf05d07636a",
+      "number": 19,
+      "description": "No necesito que me empujen a entrenar duro y competir con intensidad. Yo soy mi mejor motivador.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "5106afc6-e7c5-42fa-b1f7-efe82b9cf2d7",
+    "fields": {
+      "questionaire": "ea95b8b1-eca3-4419-8c67-0cf05d07636a",
+      "number": 26,
+      "description": "Daría lo que fuera por desarrollar todo mi potencial y alcanzar la cumbre como deportista.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "47f8c665-81d8-462d-b6a1-b7d54054e618",
+    "fields": {
+      "questionaire": "ea95b8b1-eca3-4419-8c67-0cf05d07636a",
+      "number": 33,
+      "description": "Estoy aburrido/a y quemado/a con respecto a mi deporte.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "f537620a-5a7b-4e9b-80d3-b7a841af4648",
+    "fields": {
+      "questionaire": "ea95b8b1-eca3-4419-8c67-0cf05d07636a",
+      "number": 40,
+      "description": "Al despertar por las mañanas me siento entusiasmado/a en relación con mis entrenamientos y competencias.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestionaire",
+    "pk": "ecb193a4-66da-44df-a3cd-0fea4bbb621c",
+    "fields": {
+      "day": 0,
+      "week": 4,
+      "title": "Inventario Psicológico de Ejecución Deportiva (IPED)",
+      "description": "A continuación encontrarás una serie de afirmaciones referidas a tus pensamientos, sentimientos, actitudes o comportamientos durante los entrenamientos y/o competencias o partidos. Lee atentamente cada frase y decide la frecuencia con la que crees que se produce cada una de ellas.",
+      "summary_description": "Control de afrontamiento positivo",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "f666838c-1493-4013-b470-6ba58dffbeb2",
+    "fields": {
+      "questionaire": "ecb193a4-66da-44df-a3cd-0fea4bbb621c",
+      "number": 6,
+      "description": "Puedo mantener emociones positivas durante las competencias.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "63a682ef-6205-421b-8f7d-9a2b024ad428",
+    "fields": {
+      "questionaire": "ecb193a4-66da-44df-a3cd-0fea4bbb621c",
+      "number": 13,
+      "description": "Disfruto durante las competencias o partidos, aunque me encuentre con dificultades.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "30bbd198-d00e-486e-8ece-85400f43756d",
+    "fields": {
+      "questionaire": "ecb193a4-66da-44df-a3cd-0fea4bbb621c",
+      "number": 20,
+      "description": "Cuando las cosas se vuelven contra mí durante las competencias, tiendo a “bajonearme” emocionalmente.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "bdacb01d-c851-44cf-8cc1-6d4c3df611d7",
+    "fields": {
+      "questionaire": "ecb193a4-66da-44df-a3cd-0fea4bbb621c",
+      "number": 27,
+      "description": "Entreno con una intensidad alta y positiva.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "c69c2b32-3772-4178-a7b2-310d05e4d557",
+    "fields": {
+      "questionaire": "ecb193a4-66da-44df-a3cd-0fea4bbb621c",
+      "number": 34,
+      "description": "Las situaciones difíciles para mí suponen un desafío y me inspiran.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "1a77ac85-1b53-4f95-9cd7-899a292a6d24",
+    "fields": {
+      "questionaire": "ecb193a4-66da-44df-a3cd-0fea4bbb621c",
+      "number": 41,
+      "description": "Practicar este deporte me aporta un sentido genuino de disfrute y realización.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestionaire",
+    "pk": "d044f81e-0453-499e-a3a1-73c1e18fcdaa",
+    "fields": {
+      "day": 1,
+      "week": 4,
+      "title": "Inventario Psicológico de Ejecución Deportiva (IPED)",
+      "description": "A continuación encontrarás una serie de afirmaciones referidas a tus pensamientos, sentimientos, actitudes o comportamientos durante los entrenamientos y/o competencias o partidos. Lee atentamente cada frase y decide la frecuencia con la que crees que se produce cada una de ellas.",
+      "summary_description": "Control actitudinal",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "534f16db-f831-4e55-9b03-fcd92ddd90eb",
+    "fields": {
+      "questionaire": "d044f81e-0453-499e-a3a1-73c1e18fcdaa",
+      "number": 7,
+      "description": "Durante las competencias o partidos pienso positivamente.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "e6ec2729-a4d7-4951-a12b-cd93beccb86e",
+    "fields": {
+      "questionaire": "d044f81e-0453-499e-a3a1-73c1e18fcdaa",
+      "number": 14,
+      "description": "Durante las competencias mantengo diálogos internos (conversaciones conmigo mismo) negativos.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "f995f6ca-9674-4f0f-a1a9-12a2ac53c521",
+    "fields": {
+      "questionaire": "d044f81e-0453-499e-a3a1-73c1e18fcdaa",
+      "number": 21,
+      "description": "Pongo todo mi esfuerzo durante las competencias o partidos, pase lo que pase.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "db83e51b-101d-4aaa-b469-15329bc36313",
+    "fields": {
+      "questionaire": "d044f81e-0453-499e-a3a1-73c1e18fcdaa",
+      "number": 28,
+      "description": "Controlando mi pensamiento puedo transformar estados de ánimo negativos en positivos.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "1dd1e3b6-8b4a-4529-986e-ed85ee5030d2",
+    "fields": {
+      "questionaire": "d044f81e-0453-499e-a3a1-73c1e18fcdaa",
+      "number": 35,
+      "description": "Mi entrenador diría de mí que tengo una buena actitud.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalInventoryQuestion",
+    "pk": "8bda55a4-8c5b-40ca-8c25-5126c0b9e90d",
+    "fields": {
+      "questionaire": "d044f81e-0453-499e-a3a1-73c1e18fcdaa",
+      "number": 42,
+      "description": "Yo puedo convertir una crisis en una oportunidad.",
+      "created_at": "2022-07-07 21:03:47.240422+00:00",
+      "updated_at": "2022-07-07 21:03:47.240432+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "f0920146-be7c-4b68-a02d-d2164dc35075",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 1,
+      "description": "¿En qué medida eres capaz de controlar el nerviosismo antes, durante y después de la competición o el entreno?\n(Responde sabiendo que 0 es que te consideras poco capaz y 10 muy capaz)",
+      "created_at": "2022-07-07 21:03:50.940834+00:00",
+      "updated_at": "2022-07-07 21:03:50.940845+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "3dca91f5-2882-4d2b-991d-ffee80ff3962",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 2,
+      "description": "¿Disfrutas compitiendo en tu deporte?\n(Responde sabiendo que 0 es que no disfrutas nada en tu deporte y 10 que disfrutas muchísimo).",
+      "created_at": "2022-07-07 21:03:50.940849+00:00",
+      "updated_at": "2022-07-07 21:03:50.940851+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "1c84104c-0e00-4fd8-828a-50c32ad07c75",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 3,
+      "description": "Puntúa de 0 a 10 en que medida prefieres competir contra...\n(Responde sabiendo que 0 sería que no te gusta nada competir contra ellos y 10 que te gusta muchísimo competir contra ellos)",
+      "created_at": "2022-07-07 21:03:50.940853+00:00",
+      "updated_at": "2022-07-07 21:03:50.940855+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "42a0b6bb-ff3c-44b9-8aea-bd7cf34248e4",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 1,
+      "description": "Rivales teóricamente superiores.",
+      "parent": "1c84104c-0e00-4fd8-828a-50c32ad07c75",
+      "created_at": "2022-07-07 21:03:50.940857+00:00",
+      "updated_at": "2022-07-07 21:03:50.940859+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "029168be-5244-4e7d-b6de-cb1d803eda5f",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 2,
+      "description": "Rivales teóricamente inferiores.",
+      "parent": "1c84104c-0e00-4fd8-828a-50c32ad07c75",
+      "created_at": "2022-07-07 21:03:50.940861+00:00",
+      "updated_at": "2022-07-07 21:03:50.940863+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "27d9311b-8894-4620-bca6-d163e422975b",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 3,
+      "description": " Rivales de parecido nivel al tuyo.",
+      "parent": "1c84104c-0e00-4fd8-828a-50c32ad07c75",
+      "created_at": "2022-07-07 21:03:50.940865+00:00",
+      "updated_at": "2022-07-07 21:03:50.940867+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "fa344a86-c196-47bf-aca4-f17d9f1cb297",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 4,
+      "description": "¿Te esfuerzas al máximo en los entrenamientos para poder destacar en las pruebas?",
+      "created_at": "2022-07-07 21:03:50.940869+00:00",
+      "updated_at": "2022-07-07 21:03:50.940870+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "688f69d1-4c58-48aa-bc4a-a33b3488865c",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 5,
+      "description": "¿En qué medida sales a entrenar/competir convencido de que vas a hacerlo bien?\n(Responde sabiendo que 0 es nada convencido y 10 es totalmente convencido)",
+      "created_at": "2022-07-07 21:03:50.940873+00:00",
+      "updated_at": "2022-07-07 21:03:50.940876+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "d5071caf-cf55-4053-b183-5ed5ec5e17bc",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 6,
+      "description": "Si tuvieras que ponerte una nota (de 0 a 10) en los aspectos técnicos, tácticos, físicos y psicológicos ¿Cuál sería ésta?",
+      "created_at": "2022-07-07 21:03:50.940888+00:00",
+      "updated_at": "2022-07-07 21:03:50.940895+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "91703f20-12a2-48c6-8205-9f4a99b75a00",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 1,
+      "description": "Aspecto técnico",
+      "parent": "d5071caf-cf55-4053-b183-5ed5ec5e17bc",
+      "created_at": "2022-07-07 21:03:50.940899+00:00",
+      "updated_at": "2022-07-07 21:03:50.940900+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "587f9f12-5053-4d1f-a0ac-44b20f3750f0",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 2,
+      "description": "Aspecto físico",
+      "parent": "d5071caf-cf55-4053-b183-5ed5ec5e17bc",
+      "created_at": "2022-07-07 21:03:50.940903+00:00",
+      "updated_at": "2022-07-07 21:03:50.940904+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "4e486d45-2e63-40cf-b061-e8ee87948343",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 3,
+      "description": "Aspecto psicológico",
+      "parent": "d5071caf-cf55-4053-b183-5ed5ec5e17bc",
+      "created_at": "2022-07-07 21:03:50.940906+00:00",
+      "updated_at": "2022-07-07 21:03:50.940908+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "20637533-a194-4ea4-986f-a5c345475ac5",
+    "fields": {
+      "day": 1,
+      "week": 1,
+      "number": 7,
+      "description": "¿En qué medida factores externos como público, familiares, amigos, etc. suelen afectar a tu rendimiento?\n(Responde sabiendo que 0 es que no te afecta y 10 que te afecta mucho)",
+      "created_at": "2022-07-07 21:03:50.940913+00:00",
+      "updated_at": "2022-07-07 21:03:50.940915+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "7e7a15d0-7f03-4ae5-817d-9dbf32b78759",
+    "fields": {
+      "day": 2,
+      "week": 1,
+      "number": 8,
+      "description": "¿Practicas mentalmente las habilidades técnicas o tácticas de tu deporte?",
+      "created_at": "2022-07-07 21:03:50.940917+00:00",
+      "updated_at": "2022-07-07 21:03:50.940918+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "acfa24ce-f093-44d2-8c64-ad4da55ed08d",
+    "fields": {
+      "day": 2,
+      "week": 1,
+      "number": 9,
+      "description": "¿Intentas concentrarte antes de salir a entrenar/competir?",
+      "created_at": "2022-07-07 21:03:50.940920+00:00",
+      "updated_at": "2022-07-07 21:03:50.940922+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "03f1beb8-14bc-4edb-870a-de71f4ce7ba9",
+    "fields": {
+      "day": 2,
+      "week": 1,
+      "number": 10,
+      "description": "¿En qué medida sueles estar concentrado durante una rodada o fondo?\n(Responde sabiendo que 0 es que no sueles estar concentrado y 10 que sueles estarlo)",
+      "created_at": "2022-07-07 21:03:50.940924+00:00",
+      "updated_at": "2022-07-07 21:03:50.940926+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "20a992cc-b9bc-4b6f-9340-e35a4acaf782",
+    "fields": {
+      "day": 2,
+      "week": 1,
+      "number": 11,
+      "description": "¿En qué medida eres capaz de controlar tus emociones antes, durante y después de la competencia/entreno?\n(Responde sabiendo que 0 es que te consideras poco capaz y 10 muy capaz)",
+      "created_at": "2022-07-07 21:03:50.940928+00:00",
+      "updated_at": "2022-07-07 21:03:50.940929+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "df0f6d22-aa4c-4f9c-8331-ecd17e239632",
+    "fields": {
+      "day": 2,
+      "week": 1,
+      "number": 12,
+      "description": "¿Cuáles son, desde el punto de vista técnico, tus puntos fuertes y débiles?",
+      "created_at": "2022-07-07 21:03:50.940931+00:00",
+      "updated_at": "2022-07-07 21:03:50.940933+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "0dbc7471-9bb3-4908-a4fd-6451171ee514",
+    "fields": {
+      "day": 2,
+      "week": 1,
+      "number": 13,
+      "description": "¿Dime dos razones por orden de prioridad por las que prácticas ciclismo?",
+      "created_at": "2022-07-07 21:03:50.940935+00:00",
+      "updated_at": "2022-07-07 21:03:50.940936+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "514150ab-dc08-4da8-99ea-e853037c4114",
+    "fields": {
+      "day": 2,
+      "week": 1,
+      "number": 14,
+      "description": "¿Qué tal relación tienes con tus compañeros de entrenamiento?",
+      "created_at": "2022-07-07 21:03:50.940938+00:00",
+      "updated_at": "2022-07-07 21:03:50.940940+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "9f572453-ff61-42af-9e9e-7fdfd31edfad",
+    "fields": {
+      "day": 3,
+      "week": 1,
+      "number": 15,
+      "description": "Enlista en orden las cinco principales cosas que más te causan estres o ansiedad a la hora de la practica del ciclismo.",
+      "created_at": "2022-07-07 21:03:50.940942+00:00",
+      "updated_at": "2022-07-07 21:03:50.940943+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "f7979091-fb44-4dd2-b5c3-8aecf05e4847",
+    "fields": {
+      "day": 4,
+      "week": 1,
+      "number": 16,
+      "description": "Que objetivos de realización o ejecución tienes? Enlizta tres",
+      "created_at": "2022-07-07 21:03:50.940945+00:00",
+      "updated_at": "2022-07-07 21:03:50.940947+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "7c8e9069-5d5c-4d96-b7b7-e6c493330f57",
+    "fields": {
+      "day": 1,
+      "week": 3,
+      "description": "TECNICAMENTE (Ej: DEFECTO = Manejo de las relaciones o cambios / VIRTUD = Escalador)",
+      "created_at": "2022-07-07 21:03:50.940949+00:00",
+      "updated_at": "2022-07-07 21:03:50.940950+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "252f62ea-f62f-4ee5-96aa-f33bb4ec1629",
+    "fields": {
+      "day": 1,
+      "week": 3,
+      "description": "FÍSICAMENTE (Ej: DEFECTO = Sobrepeso / VIRTUD = Rapido)",
+      "created_at": "2022-07-07 21:03:50.940952+00:00",
+      "updated_at": "2022-07-07 21:03:50.940954+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "047ade8a-a975-49f5-abc7-00f221a4bbaf",
+    "fields": {
+      "day": 2,
+      "week": 3,
+      "description": "PSICOLÓGICAMENTE (Ej: DEFECTO = Ansioso / VIRTUD = Pensamiento positivo)",
+      "created_at": "2022-07-07 21:03:50.940959+00:00",
+      "updated_at": "2022-07-07 21:03:50.940960+00:00"
+    }
+  },
+  {
+    "model": "psychology.PsychologicalQuestion",
+    "pk": "3a8023f4-08d9-428d-afb4-6f8c40059064",
+    "fields": {
+      "day": 2,
+      "week": 3,
+      "description": "PERSONALMENTE (Ej: DEFECTO = Pereza / virtud = Comprometido)",
+      "created_at": "2022-07-07 21:03:50.940962+00:00",
+      "updated_at": "2022-07-07 21:03:50.940964+00:00"
+    }
+  }
+]

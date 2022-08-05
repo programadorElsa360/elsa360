@@ -1,0 +1,19 @@
+<html>
+    <body onload="document.payu_purchase_form.submit()">
+        <form action="{{ pay_webcheckout_url }}", name="payu_purchase_form", method="POST">
+            <input name="merchantId"      type="hidden"  value="{{ merchant_id }}">
+            <input name="accountId"       type="hidden"  value="{{ account_id }}">
+            <input name="description"     type="hidden"  value="{{ description }}">s
+            <input name="referenceCode"   type="hidden"  value="{{ reference_code }}">
+            <input name="amount"          type="hidden"  value="{{ amount }}">
+            <input name="tax"             type="hidden"  value="{{ tax }}">
+            <input name="taxReturnBase"   type="hidden"  value="{{ tax_return_base}}">
+            <input name="currency"        type="hidden"  value="{{ currency }}">
+            <input name="signature"       type="hidden"  value="{{ signature }}">
+            <input name="test"            type="hidden"  value="{{ test }}">
+            <input name="buyerEmail"      type="hidden"  value="{{ buyer_email }}">
+            <input name="responseUrl"     type="hidden"  value="{{ response_url }}">
+            <input name="confirmationUrl" type="hidden"  value="{{ confirmation_url }}">
+        </form>
+    </body>
+</html>
